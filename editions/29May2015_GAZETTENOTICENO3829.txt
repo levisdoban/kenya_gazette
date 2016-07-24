@@ -1,0 +1,31 @@
+
+				Page: 1301GAZETTE NOTICE NO. 3829
+THE COMPETITION ACT
+(No. 12 of 2010)
+PROPOSED ACQUISITION INQUIRY ON UNSTRUCTURED SUPPLEMENTARY SERVICE DATA (USSD)
+1,  IT IS notified for for general information that pursuant to section 18 (1) (a) of the Competition Act, 2010 the Competition Authority intends to carry out a market inquiry on competition implications of USSD pricing in mobile support services with financing from Financial Sector Deepening Program (FSD) (Kenya).
+2.  A Consultant has been identified to carry out the inquiry.
+The Terms of Reference of the market inquiry shall be to—
+(a) review the legal and regulatory framework impacting on USSD services, mobile financial services and other specific areas of concern to the inquiry;
+(b) carry out a comprehensive audit of USSD pricing and terms across all Mobile Network Operators (MNOs) and the providers of financial services that are currently being offered over USSD channels;
+(c)  carry out a comprehensive audit of USSD pricing and terms across all MNOs and the providers of financial services they make USSD sessions available to. This will include an assessment of the settling of interconnection fees by MNOs when consumers use USSD off-network and the presence or otherwise of fairness of any refusals to supply;
+(d) determine how different sized players negotiate the cost of USSD sessions with MNOs and give comparisons when price negotiations are done by aggregators on behalf of smaller players, or larger players with more leverage and smaller players directly negotiating with MNOs and assess efficiency considerations in the setting of prices, including two-part tariffs, and volume discounts;
+(e)  carry out a comprehensive measurement of USSD pricing and terms that service providers such as banks and content service providers charge to consumers, both in absolute terms and in relation to the charges paid to the MNOs for USSD sessions;
+(f)   undertake an assessment of market structure and market players’ behaviour  and its effect on competition in the provision of USSD services by MNOs, using internationally recognised competition assessment methodologies;
+(g) obtain data on the quality of USSD sessions and specifically, the volume of dropped sessions indicating the MNO provider, transaction type, and the cost implications of dropped sessions, as well as any conflicts of interest that may arise on the part of the MNO with respect to USSD session quality;
+(h) identify potential consumer protection concerns in the use of USSD to deliver mobile financial services, including the display of USSD costs to customers in a clear manner either before or after the service has been accessed, if consumers are sensitive to USSD pricing, the enrolment and opt in/opt out processes for VAS that ride on USSD channels, and if consumers get to actively select or refuse these services when they use mobile financial services;
+(i)   identify regulatory barriers, if any, that may be occasioned by the current regulatory framework and assess them in the light of international experience and the economic literature, including an assessment of the manner of allocation and regulation of USSD service applications, licenses and codes;
+(j)   provide a competitive USSD pricing benchmark that gives some measure of unit economic cost by applying appropriate cost-based methodologies such as long run average incremental cost (LRIC) and marginal cost approaches;
+(k)  based on the cost analysis, make a recommendation on the optimal pricing of a USSD session after taking into consideration volume discount and other demand characteristics; 
+(l)   identify public policy actions which have the potential to improve the conditions of competition in the sector and enhance consumer welfare, indicating priority actions; and
+(m)    prepare a report developing evidence-based recommendations to the Authority.
+3.  In the performance of its functions, the Consultant−
+(a) shall hold such number of meetings in such places and at such times as it may, in consultation with the Authority, consider necessary for the proper discharge of its functions;
+(b) may use official reports of any previous investigations, policies and legislation relevant to its mandate; and
+(c)  may receive views from members of the public, oral and written submissions from any person with relevant information.
+4.  Members of the public are invited to make submissions to the Consultant within twenty-one (21) days of this notice through: P.O. Box 36265–00200 Nairobi, Email: info@cak.go.ke
+5.  Oral submissions may be made to the Secretariat of the Consultant, which shall be based at the Authority’s Offices located at the Kenya Railways Staff Retirement Benefit Scheme Building, Block “D”, 1st Floor, Haile Selassie Avenue.
+Dated the 12th May, 2015.
+WANG’OMBE KARIUKI,
+Director-General.
+

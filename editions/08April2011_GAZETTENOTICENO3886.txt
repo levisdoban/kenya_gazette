@@ -1,0 +1,118 @@
+
+				Page: 1040GAZETTE NOTICE NO. 3886
+THE STANDARDS ACT
+(CAP. 496)
+DECLARATION OF KENYA STANDARDS
+PURSUANT to section 9 (1) of the Standards Act, the National Standards Council declares the specifications or codes of practice appearing in the schedule hereto to be Kenya Standards with effect from the date of publication of this notice.
+Number                         Title of Specification or Code of Practice
+Chemical 
+KS 942:2010                 Kenya Standard — Process colours for traffic signs — Specification, Second Edition.
+KS ISO 7056:1981        Kenya Standard — Plastic laboratory ware — Beakers, First Edition.
+KS 421:2010                 Kenya Standard — Newsprint — Specification, Second Edition.
+Environment 
+KS 2237: 2010              Kenya Standard — Sodium percarbonate — Specification, First Edition.
+KS 2258: 2010              Kenya Standard — Water for lead-acid batteries — Specification, First Edition.
+KS 804: 2010                Kenya Standard — Antibacterial toilets soaps — Specification, Second Edition.
+Food and Agriculture 
+KS 2244:2010               Kenya Standard — Urea molasses block as ruminant feed supplement — Specification, First Edition.
+KS 2243-1:2010           Kenya Standard — Puppy food — Specification Part 1: Complete meal, First Edition.
+KS 157:2010                 Kenya Standard — Monoammonium and diammonium phosphate fertilizers — Specification, Fourth Edition.
+KS 287:2010                 Kenya Standard — Ammonium sulphate (sulphate of ammonia) fertilizer — Specification, Third Edition.
+KS 2260:2010               Kenya Standard — Natural calcium phosphate for manufacture of fertilizer — Specification, First Edition.
+KS 2261:2010               Kenya Standard — Single superphosphate (powder) fertilizer — Specification, First Edition.
+KS 690:2010                 Kenya Standard — Seed for legumes — Specification, Second Edition.
+KS 693:2010                 Kenya Standard — Seed for bulb vegetable crop — Specification, Second Edition.
+KS 1170:2010               Kenya Standard — Seed for brassica vegetable crops — Specification, Second Edition.
+KS 2225: 2010              Kenya Standard — Genetically modified organisms and derived products — Labeling of food and feed, First Edition.
+KS ISO 11163:1995      Kenya Standard — Dried sweet basil — Specification, First Edition.
+KS ISO 11164: 1995     Kenya Standard — Dried rosemary (Rosmarinus officinalis L) — Specification, First Edition.
+KS ISO 7925:1999        Kenya Standard — Dried oregano — Whole and ground — Specification, First Edition.
+KS ISO 5565-1:1999    Kenya Standard — Vanilla [vanilla fragrans (Salisbury) Ames] Part 1: Specification, First Edition.
+KS ISO 3493:1999        Kenya Standard — Vanilla — Vocabulary, First Edition.
+KS ISO 959-1:1998      Kenya Standard — Pepper (Piper nigrum L) (whole and ground — Specification, First Edition.
+KS ISO 11165:1995      Kenya Standard — Dried sage (Salvia officinalis L) — Specification, First Edition.
+KS ISO 676:1995          Kenya Standard — Spices and condiments — Botanical nomenclature, First Edition.
+KS 2263:2010               Kenya Standard — Bay leaf — Specification, First Edition.
+KS 2264:2010               Kenya Standard — Parsley — Specification, First edition.
+KS 2265:2010               Kenya Standard — Mixed herbs — Specification, First Edition.
+Textile and Leather 
+KS 2234:2010               Kenya Standard — Denim fabrics — Specification, First Edition.
+KS 2238:2010               Kenya Standard — Baby shawls — Specification, First Edition.
+KS 2245:2010               Kenya Standard — Cotton ear buds — Specification, First Edition.
+Electrotechnical 
+KS IEC 62216:2009      Kenya Standard — Digital Terrestrial Television receivers for the DVB-T system, First Edition.
+KS IEC 62216-1:2001  Kenya Standard — Digital Terrestrial Television receivers for the DVB-T system Part 1; Baseline receiver specification, First Edition.
+KS ISO IEC 7812-1:2006        Kenya Standard — Information technology - Identification cards — Identification of issuers Part 1: Numbering system, First Edition.
+KS ISO IEC 7812-2:2007        Kenya Standard — Information technology - Identification cards — Identification of issuers Part 2: Application and registration procedures, First Edition.
+KS ISO IEC 7811-1:2002        Kenya Standard — Information technology — Identification cards, recording techniques Part 1: Embossing First Edition.
+KS ISO IEC 7811-2:2001        Kenya Standard — Information technology — Identification cards, recording techniques Part 2: Magnetic stripe — Low coercivity, First Edition.
+KS ISO IEC 7811-6:2008        Kenya Standard — Information technology — Identification cards, recording techniques Part 6: Magnetic stripe — High coercivity, First Edition.
+KS ISO IEC 7811-7:2004        Kenya Standard — Information technology — Identification cards, recording techniques Part 7: Magnetic stripe — High coercivity, high density, First Edition.
+KS ISO IEC 7811-8:2008        Kenya Standard — Information technology — Identification cards, recording techniques Part 8: Magnetic stripe — Coercivity of 650 Oe and above, First Edition.
+KS ISO IEC 7811-9:2008        Kenya Standard — Information technology — Identification cards, recording techniques Part 9: Tactile identifier mark, First Edition.
+Mechanical Engineering 
+KS 372:2010                 Kenya Standard — Road vehicles — Passenger vehicle body construction — Specification, Third Edition.
+KS 2209:2010               Kenya Standard — Operation of agricultural tractors and trailers on public roads — Code of practice, First Edition
+KS 293:2010                 Kenya Standard — Oil filters — Specification, Second Edition
+KS 2270:2010               Kenya Standard — Bulk LPG tankers — Vehicle, equipment and accessories — Assembly, First Edition
+KS 2269:2010               Kenya Standard — The application of liquefied petroleum and compressed natural gases as engine fuels for internal combustion engines — Code of practice, First Edition
+KS 2169-1:2010           Kenya Standard — Safety rules for the construction and installation of lifts Part 1: Electric lifts, First Edition
+Civil Engineering 
+KS 1464-4:2010           Kenya Standard — Waste stabilization ponds — Code of practice Part 4: Operation, maintenance, safety and monitoring, First Edition.
+KS 2242-1:2010           Kenya Standard — Particleboards — Specification Part 1: General requirements for all board types, First Edition.
+KS 2242-2:2010           Kenya Standard — Particleboards — Specification Part 2: Requirements for general purpose boards for use in dry conditions, First Edition.
+KS 2242-3:2010           Kenya Standard — Particleboards — Specification Part 3: Requirements for boards for interior fitments (including furniture) for use in dry conditions, First Edition.
+Services Department
+KS ISO 7029:2000        Kenya Standard — Acoustics — Statistical distribution of hearing thresholds as a function of age, First Edition
+KS ISO 8253-1:1989    Kenya Standard — Acoustics — Audiometric test methods Part 1: Basic pure tone air and bone conduction threshold audiometry, First Edition
+KS ISO 8253-2:2009    Kenya Standard — Acoustics — Audiometric test methods Part 2: Sound field audiometry with pure-tone and narrow-band test signals, First Edition
+KS ISO 8253-3:2009    Kenya Standard — Acoustics — Audiometric test methods Part 3: Speech audiometry, First Edition
+KS ISO 9612: 1997       Kenya Standard — Acoustics — Guidelines for the measurement and assessment of exposure to noise in a working environment, First Edition
+KS 2181-10:2010         Kenya Standard — Tourism services — Hotels and related establishments — Grading requirements Part 10: Vacation hotels, First Edition
+KS 2181-14:2010         Kenya Standard — Tourism services — Hotels and related establishments — Grading requirements Part 14: Camping/caravan sites, First Confirmations.
+Edition
+KS 03:1976                   Kenya Standard — Specification for trimmed sizes of paper for writing and printing.
+KS 05:1976                   Kenya Standard — Glossary of terms used in paper industry and trade.
+KS 1708:2001               Kenya Standard — Paper and board intended to come into contact with food stuffs — Determination of the fastness of fluorescent whitened paper and board.
+KS 1748:2001               Kenya Standard — Specification for folded continuous stationery for impact printers.
+KS 416:2000                 Kenya Standard — Knitted polyester fabrics — Specificatio
+KS 1076:1998               Kenya Standard — Fishing nets — Specification
+KS 1630-1:2002           Kenya Standard — Methods of test for knitted fabrics Part 1: Method for determination of dimensions and dimensional stability of knitted fabrics.
+KS 767:1989                 Kenya Standard — Code of practice for laying flooring tiles.
+KS 680:1991                 Kenya Standard — Glossary of terms relating to floor coverings.
+KS 967:1994                 Kenya Standard — Recommendations for dimensions and workmanship of natural building stones for masonry work.
+KS 1238-1:2003           Kenya Standard — Methods of test for aggregates Part 1: General requirements for apparatus and calibration.
+KS 1238-10:2003         Kenya Standard — Methods of test for aggregates Part 10: Methods for determination of moisture content.
+KS 1238-11:2003         Kenya Standard — Methods of test for aggregates Part 11: Methods for aggregate crushing value (ACV).
+KS 1238-12:2003         Kenya Standard — Methods of test for aggregates Part 12: Methods for determination of ten per cent fines value.
+KS 1238-13:2003         Kenya Standard — Methods of test for aggregates Part 13: Methods for determination of aggregate impact value (AIV).
+KS 1238-14:2003         Kenya Standard — Methods of test for aggregates Part 14: Methods for determination of aggregate abrasion value (AAV).
+KS 1238-15:2003         Kenya Standard — Methods of test for aggregates Part 15: Methods for determination of polished stone value (PSV).
+KS 1238-16:2003         Kenya Standard — Methods of test for aggregates Part 16: Methods for determination of the water-soluble chloride salt content of aggregate.
+KS 1238-17:2003         Kenya Standard — Methods of test for aggregates Part 17: Methods for determination of sulphate content
+KS 1238-18:2003         Kenya Standard — Methods of test for aggregates Part 18: Methods for determination of acid-soluble material in fine aggregate.
+KS 1238-19:2003         Kenya Standard — Methods of test for aggregates Part 19: Methods for testing and classifying the drying shrinkage of aggregates in concrete.
+KS 1238-2:2003           Kenya Standard — Methods of test for aggregates Part 2: Guide to sampling and testing aggregates
+KS 1238-20:2003         Kenya Standard — Methods of test for aggregates Part 20: Methods for the determination of soundness.
+KS 1238-3:2003           Kenya Standard — Methods of test for aggregates Part 3: Methods for sampling.
+KS 1238-4-1:2003        Kenya Standard — Methods of test for aggregates Part 4-1: Method for determination of particle size distribution — Sieve test.
+KS 1238-4-2:2003        Kenya Standard — Methods of test for aggregates Part 4-2: Method for determination of particle size distribution - Sedimentation test.
+KS 1238-5:2003           Kenya Standard — Methods of test for aggregates Part 5: Procedure for qualitative and quantitative petrographic examination of aggregates.
+KS 1238-6-1:2003        Kenya Standard — Methods of test for aggregates Part 6-1: Methods for determination of particle shape - Flakiness index.
+KS 1238-6-2:2003        Kenya Standard — Methods of test for aggregates Part 6-2: Methods for determination of particle shape-elongation index of coarse aggregate.
+KS 1238-7:2003           Kenya Standard — Methods of test for aggregates Part 7: Methods for determination of shell content on coarse aggregate.
+KS 1238-8:2003           Kenya Standard — Methods of test for aggregates Part 8: Methods for determination of density.
+KS 965-1:1996             Kenya Standard — Methods of test for natural building stones Part 1: Determination of compressive strength.
+KS 965-12:1994           Kenya Standard — Methods of test for natural building stones Part 12: Determination of toughness.
+KS 965-13:1994           Kenya Standard — Methods of test for natural building stones Part 13: Determination of resistance to wear by abrasion.
+KS 965-5:1994             Kenya Standard — Methods of test for natural building stones Part 5: Determination of true specific gravity.
+KS 965-6:1994             Kenya Standard — Methods of test for natural building stones Part: 6 Determination of water absorption, apparent specific gravity and porosity.
+KS ISO 9652-4: 2000   Kenya Standard — Masonry Part 4: Test methods.
+KS ISO 9652-2: 2000   Kenya Standard — Masonry Part 2: Unreinforced masonry design by simple rules.
+KS ISO 9652-5: 2000   Kenya Standard — Masonry Part 5: Vocabulary.
+KS 1448:1999               Kenya Standard — Glossary of geological and construction terms for stones.
+Dated the 11th January, 2011.
+J. K.KOSKEY,
+Secretary, 
+MR1680261                                      National Standards Council.
+

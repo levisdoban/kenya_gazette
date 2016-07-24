@@ -1,0 +1,2326 @@
+
+				Page: 24GAZETTE NOTICE NO.  142
+THE NATIONAL LAND COMMISSION ACT
+(No. 5 of 2012)
+COUNTY SPATIAL PLANS
+FOREWORD
+The Commission takes note of the fundamental role of County Spatial Plans as premier plans that will set the development agenda for the Counties. The County Spatial Plans will be implemented through lower level plans which include; Sectoral Plans, County Integrated Development Plans and Integrated Urban Development Plans.
+The County Governments Act, 2012 at section 110 (1) (a) stipulates that the County Spatial Plans shall give effect to the principles and objects of county planning and development contained in section 102 and 103 of the same Act. Further, section 110 (2) (c) (iv) of the Act  requires that the County Spatial Plans should  set out basic guidelines for a land use management system in the County taking into account any guidelines, regulations or laws as provided for under Article 67(2) (h) of the Constitution.
+These guidelines have been prepared pursuant to the constitutional role of the Commission to monitor and oversee land use planning throughout the country and in response to section 110(2) (c) (iv) of the County Governments Act, 2012.
+The process of preparing the guidelines was participatory involving the County Governments, the Planning Schools, Professional Associations, Sectoral Agencies and Non-State Actors. This provided a rich mix of expertise and experiences resulting in a well-balanced, researched and sound output. The Commission therefore recommends the guidelines as a basis for monitoring and overseeing  preparation, approval, and  implementation  of County Spatial Plans in the country. 
+PROF. MUHAMMAD SWAZURI, O.G.W.
+Chairman National Land Commission,
+ACKNOWLEDGEMENT
+These guidelines serve as a tool for the engagement between the County Governments and the National Land Commission with regard to monitoring and overseeing Land Use Planning and specifically provide direction on:
+The process of preparing, approving and implementing County Spatial Plans (CSP);
+The expected outputs of the CSP planning process;
+How effective public participation in the planning process can be achieved;
+The process of procuring planning services for preparing County Spatial Plans;
+The required institutional framework for preparing and implementing County Spatial Plans;
+The indicative resources required for preparing the CSP; and
+The possible sources of funding to prepare a County Spatial Plan.
+ 
+The Commission wishes to commend the efforts by the Land Use Planning Directorate in initiating and successfully completing preparation of the guidelines. Special appreciation goes to:
+Dr. Herbert Musoga, PhD (Urban and Regional Planning, UoN), MA (Planning), BA (Economics and Sociology), MAAK (TP), MKIP –Director Land Use Planning Directorate (Team Leader)
+Mrs. Rose Kitur, MA(Planning), BA(Geography and Sociology), MKIP – Deputy Director  Land Use Planning; Mr. Charles Konyango, MA(Planning), MKIP –Deputy Director  Land Use Planning; Mr. Charles Kagema, MA (Planning), BA (Geography), MKIP – Secretary County Land Management Board, Nairobi County; Mr. Stephen Ngari, MA (Planning), MKIP  - Secretary County Land Management Board, Meru County; Mr. Patrick Waweru, MA (Planning),  BSc Engineering (Surveying and Photogrammetry), MKIP - Secretary County Land Management Board, Taita Taveta County; Mr. Josephat Wasua MA (Planning), , BA  (Sociology), MKIP,  - Secretary County Land Management Board, Laikipia County; Ms. Domitila Gati, MA (Project Planning), BA (Urban and Regional Planning, MKIP - Secretary County Land Management Board, Kisumu County; Mr. Nalyanya Wasike, MA (Planning), BA (Geography) MKIP – Lecturer, Masinde Muliro University of Science and Technology; Ms. Ebby Busaka, MA(Housing Devt), BA(Land Economics) – Land Economist and Housing Expert; Mr. Stephen Chune, MA (Planning), BA (Sociology and Geography, MKIP – Urban and Regional Planner, Ministry of Land, Housing and Urban Development; Mr. Daniel Mmbai, MA (Planning), MA (Geography), BA(Geography and Sociology), MKIP – County Director of Planning, Embu County; Ms. Naomi Kamau, MA (Urban and Regional Planning), BED;  Mr. Adelbert Muriango – Land Use Planning Assistant and GIS Expert; NLC; Mr. Joseph Malonza – Land Use Planning Assistant and Cartographer, NLC; Mrs. Caroline Otieno –Secretary, NLC.
+I also acknowledge with appreciation the support provided by ACT! and RECONCILE to enable the Commission to successfully complete the  process of preparing these manuals and the participation of Ms Linda Etale of ACT! And Ken Otieno and Irene Mukalo of Reconcile. The Council of Governors played a central role in mobilizing the County Governments to participate and add value to the draft guidelines. Dr. Samuel Obiero, (University of Nairobi, Department of Urban and Regional Planning), Planner Isaac Nyamweno (Jaramogi Oginga Odinga University), Prof. Aggrey Thuo (Maasai Mara University), Dr.  Benjamin Mwasi (University of Eldoret), the Kenya Institute of Planners (Planner Charles Osengo and Planner Joakim Nyarangi)  and the Town and County Planners Association of Kenya (Eng. Planner Omwenga Mairura) provided invaluable professional and academic contribution; NEMA (Dr. Kennedy Ondimu); Kenya Maritime Authority; State Departments of Agriculture, Devolution and Planning.
+The guidelines on County Spatial Planning are a first step in a series of guidelines to be rolled out by the Commission on County Planning. The Commission is committed to ensure that  land  use  planning  is  given  priority  to  provide  the  desired  framework  for  land management and national development. The guidelines offer a platform for subsequent collaboration between the County Governments and the National Land Commission with respect to land use planning and land management.
+AZIZ TOM CHAVANGI,
+Secretary/CEO, National Land Commission.
+PART I—INTRODUCTION
+Background
+Reference Frame
+BACKGROUND
+1.1 Purpose of the Guidelines
+These guidelines provide a basis for engagement between the County Governments as planning authorities responsible for preparing, approving and implementing County Spatial Plans and the National Land Commission as a monitoring and oversight agency over land use planning.
+The County Government Act, 2012 at section 110(1)(a) stipulates that the County Spatial Plans shall give effect to the principles and objects of county planning and development contained in section 102 and 103 of the same Act. Further, section 110 (2)(c)(iv) of the Act  requires that the County Spatial Plans should  set out basic guidelines for a land use management system in the County taking into account any guidelines, regulations or laws as provided for under Article 67(2) (h) of the Constitution.
+The guidelines seek to guide and standardize the practice of preparing, and implementing County Spatial Plans in the country.
+1.2 Specific Objectives of the Guidelines
+The guidelines aim at achieving the following objectives:
+To provide a basis for monitoring and oversight of County Spatial Planning;
+To give direction on the process of preparing, approving, and implementing County Spatial Plans;
+To clarify on how effective public participation in the planning process can be achieved;
+To provide guidance on the process of procuring planning services for preparing County Spatial Plans;
+To Provide guidance on costing County Spatial Planning;
+To expound on the required institutional framework for preparing and implementing County Spatial Plans.
+1.3 Process of Preparing the Guidelines
+The following steps were followed in developing these guidelines:
+Review of literature: the Kenya Constitution 2010, Kenya Vision 2030, relevant legislation, policies and desk review of best practices; brainstorming sessions to interrogate current and past planning experiences and practices;
+Formulation of drafts and circulation for comments and value addition;
+Focused expert engagement;
+Stakeholder consultative forums with Counties, strategic partners and National Government agencies;
+Incorporation of stakeholder comments and development of final guidelines;
+Gazattement and publication.
+1.4 Target Users
+These guidelines target the following users: County Governments, National State Departments, National Land Commission, Development Partners, Planning Schools, Planning Institutions, Practicing Planners, investors, regulatory and arbitration agencies.
+1.5 Outline of the Guidelines
+This document is divided into six parts: Part 1 - the background that states the purpose, objectives, method of preparing the guidelines and the targeted users as well as the reference frame; Part 2 – explains the process of preparing the CSP and stipulates the expected deliverables and the format of presenting the CSP; Part 3 – provides guidance on public participation and enlightens on the appropriate institutional framework for preparing and implementing the CSP; Part 4 –gives direction on funding and procuring planning services; Part 5 – contains the appendices of detailed aspects of the guidelines.
+2.0 REFERENCE FRAME
+County Spatial Plans should be prepared taking cognizance of the : the Kenya Constitution 2010, Policy and legal contexts as well as county planning principles and contemporary best planning practices and concepts.
+
+2.1 Constitutional Context
+The county spatial plan is an instrument for realizing constitutional promises and expectations. These include:
+Environment, economic and social rights envisaged under Article 42 and 43 of the Constitution.
+Article 60 (1) stating that land in Kenya shall be held, used and managed in manner that is equitable, efficient, productive and sustainable.
+Article 66 (1) on regulation of land use and property in the interest of defense, public safety, order, morality, public health or land use planning.
+Article 67 (2) (h) which provides for monitoring and  oversight over land use planning throughout the country.
+2.2 Policy Context
+The Sessional Paper Number 3 of 2009 on the National Land Policy provides direction on management and use of land and land based resources in the country.  The policy identifies salient issues that should be addressed in land use planning including:
+Preparation of land use plans at national, regional and local levels on the basis of predetermined goals and integrating rural and urban development;
+Actualization of spatial frameworks for orderly management of human activities to ensure that such activities are carried out taking into account considerations such as the economy, safety, aesthetics, harmony in land use and environmental sustainability;
+Review of strategies for human settlement in relation to service centers, growth centers, transport and communication network, environmental conservation and rural development;
+Efficient and sustainable utilization and management of land and land based resources;
+Establishment of an appropriate framework for public participation in the development of land use and spatial plans; and
+Establishment of an effective framework for co-ordination of land use plans to ensure implementation of the planning proposals and regulations.
+County Spatial Planning will also be informed by several other sectoral policies including; Kenya Vision 2030, Water Policy, Agriculture Policy, Multilateral Environmental Agreements.  In addition International Treaties and Conventions should be taken into account.
+2.3   Legal Context
+The County Government Act 2012 is the main legislation which guides governance, planning and development of the counties. Section 104 of this Act requires that every county government prepares planning frameworks that should form the basis for appropriation of public funds. The planning frameworks shall be developed by the county executive committee and approved by the county assembly. It further requires the county planning framework to integrate economic, physical, social, environmental and spatial planning. Section 103 provides the objectives of county planning.  Other legislations that will inform County Spatial Planning include: Urban Areas and Cities Act 2011, Environmental Management and Co-ordination Act, Wild Life And Conservation Policy, Intergovernmental Relations Act, 2012, Public Procurement Disposal Act, 2005, Public Finance Management Act, 2012.
+2.4 Governance Context
+Planning is a concurrent function. Article 186(1) and article 67(2) (h) of the constitution and the fourth schedule assign planning functions to both the national and county governments.  The National Government is responsible for monitoring and oversight of land use planning throughout the country, general principles of land planning and the co-ordination of planning by the counties. The County governments are responsible for county planning and development.
+The Constitution of Kenya 2010 guides the two levels of government to relate on the basis of consultation and cooperation. Article 189 of the constitution requires the two levels of government to perform their functions while respecting the functional and institutional integrity of government at the other level of government and in liaison for the purpose of exchanging information, coordinating policies and enhancing capacity. Further, the constitution requires the two levels of government to assist, support and consult and as appropriate implement legislations of the other level of government. The process of preparing county spatial plans should be guided by this framework.
+2.5 County Planning Principles
+Section 102 of County Governments Act stipulates the principles of county planning and development facilitation which include:
+Integration of national values in all processes and concepts;
+Protection of the right to self-fulfillment within the county communities and with responsibility to future generations;
+Protection and integration of rights and interest of minorities and marginalized groups and communities;
+Protection and development of natural resources in a manner that aligns national and county governments policies;
+Alignment of county financial and institutional resources to agreed policy objectives and programs;
+Engendering effective resource mobilization for sustainable development;
+Promotion of the pursuit of equity in resource allocation within the county;
+Provision of a platform for unifying planning, budgeting, financing, programme implementation and performance review; and
+Serve as a basis for engagement between county government and the citizenry, other stakeholders and interest groups.
+2.6 Contemporary Best Practices
+County spatial planning should take cognizance of contemporary best practices, concepts and aspirations including: natural capital assessment, sustainable development goals, sustainable human settlements and cities.
+2.6.1 Natural Capital Assessment
+This is an analysis of the direct and indirect benefits that the environment provides to the nation’s economy and people’s health and happiness - focusing on the links between ecosystems, the services they provide, and their contribution to economic progress and human wellbeing and prosperity.
+It is premised on the fact that land and land resources play a fundamental role in delivering the economic growth targets of many emerging economies and have close links to issues such as job creation, poverty alleviation, and food security. Although land is a valuable asset that produces social, environmental, and economic benefits, of the three, economic benefits are the most readily recognized. Social and environmental impacts are important - but are often unpriced and undervalued. The rapid expansion of agricultural and industrial production onto high value ecosystems in many developing countries testifies to this undervaluation.
+2.6.2 Sustainable Development Goals
+Sustainable development goals seek to build on millennium development goals and complete those that were not achieved. They are universal Goals which balance three dimensions of economic, social and environmental development. They are targeted at stimulating global action for the next 15 years. Some of the sustainable development goals (SDG) that have a direct bearing on the objects of the County Spatial plans include the following:
+(a)           Sustainable Development Goal 1: by 2030, if not earlier, all the world’s people will have access to safe and sustainable water and sanitation, adequate nutrition, primary health services, and basic infrastructure, including electricity, roads, and connectivity to the global information network.
+(b)           Sustainable Development Goal 2: from 2015 to 2030, all nations will adopt economic strategies that increasingly build on sustainable best-practice technologies, appropriate market incentives, and individual responsibility. The world will move together towards low-carbon energy systems, sustainable food systems, sustainable urban areas (including resilience in the face of growing hazards), and stabilization of the world’s population through the voluntary fertility choices of families supported by health services and education.
+The third broad SDG is social inclusion, the commitment to future economic and technological progress under conditions of fairness and equitable access to public services, and with the government counter acting social discrimination on the basis of gender, ethnic origin, religion, and race.
+(c)           Sustainable Development Goal 3: every country will promote the wellbeing and capabilities of all their citizens, enabling all citizens to reach their potential, irrespective of class, gender, ethnic origin, religion, or race. Every country will monitor the wellbeing of its citizenry with improved measurements and reporting of life satisfaction. Special attention will be given to early childhood, youth, and elderly people, addressing the vulnerabilities and needs of each age cohort.
+(d)           Sustainable Development Goal 4: governments at all levels will cooperate to promote sustainable development worldwide. This target includes a commitment to the rule of law, human rights, transparency, participation, inclusion, and sound economic institutions that support the private, public, and civil-society sectors in a productive and balanced manner. Power is held in trust to the people, not as a privilege of the state.
+2.6.3 Sustainable Human Settlements
+"Promoting sustainable human settlements development" is the subject of Chapter 7 of Agenda 21, which calls for 1) providing adequate shelter for all; 2) improving human settlements management; 3) promoting sustainable land-use planning and management; 4) promoting the integrated provision of environmental infrastructure: water, sanitation, drainage and solid waste management; 5) promoting sustainable energy and transport systems in human settlements; 6) promoting human settlements planning and management in disaster-prone areas; 7) promoting sustainable construction industry activities; and 8) promoting human resource development and capacity-building for human settlements development.
+2.6.4 Sustainable Urban Areas and Cities
+Cities are hubs for ideas, commerce, culture, science, productivity, social development and much more. Cities can promote economically, socially and environmentally sustainable societies if we adopt a holistic approach to urban development that ensure universal access to basic services, housing and mobility. Urban planning, transport systems, water, sanitation, waste management, disaster risk reduction, access to information, education and capacity-building are all relevant issues to be addressed.
+2.6.5 Human Settlement Objective
+The overall human settlement objective is to improve the social, economic and environmental quality of human settlements and the living and working environments of all people, in particular the urban and rural poor. Such improvement should be based on technical cooperation activities, partnerships among the public, private and community sectors and participation in the decision making process from community groups and special interest groups such as women, indigenous people, the elderly and the disabled. These approaches should form the core principles of national settlement strategies.
+PART II—THE PLANNING PROCESS
+Process
+Deliverables
+Format
+3.0 Planning Process
+3.1 Introduction
+This section provides guidance on the steps in preparing a County Spatial Plan (CSP). The steps are sequential but could overlap at some stages.  The steps are as follows:
+
+The steps in figure 3.1 are elaborated below in terms of activities, actors, and timelines.
+3.2 Step 1: Pre-planning
+This is the initial step that entails the definition of the scope of work, formulation of the Terms of Reference (TORs) and development of resource mobilization strategies. This is the stage at which planning for the planning process is done. The activities to be undertaken include:
+
+3.2.1 Scoping
+This is gathering and analyzing information that the planning team will use to plan for the planning process. It involves conceptualizing the whole planning process. It is done through a rapid appraisal or scan of the county development issues. It entails important aspects, including:
+Identification of fundamental issues, stakeholders, opportunities for participation, needs for conflict resolution and needs for data and analysis;
+Drafting of preliminary work plan for the process;
+Drafting of preliminary design for stakeholder participation.
+3.2.2 Needs Assessment
+This is a systematic process for determining and addressing planning needs, or gap between current situation and desired future/situation.  It can be an appropriate tool to clarify problems and identify interventions. It is done through initial investigations which include literature review, engaging stakeholders, transect survey and observations.
+3.2.3 Reconnaissance Survey
+Reconnaissance survey represents a type of field survey that is often used to gather initial information regarding the planning area. It aids in rapid appraisal of the area, identifying planning needs and is a precursor to preparation of inception report. This involves undertaking transect survey in order to appreciate planning issues.
+3.2.4 Determination of Data Needs
+Data needs are a checklist of data required in preparation of CSP. It is prepared based on the thematic issues/areas, stakeholders’ concerns and objectives. This leads to identification of data sources and methods/ techniques, and preparation of data collection tools.
+3.2.5 Issuing Notice of Intention to Plan
+Notice of intention to plan is a statutory requirement that aid public sensitization and involvement in the planning process. This is the first notice which is intended to inform the public about the commencement of preparation of the County Spatial Plan.  It is in a prescribed form and publicized in print media of wide coverage, in official and national languages (English and Kiswahili).
+It outlines the type, scope, the plan objectives, timeframe and the expected output.
+3.2.6 Identifying Stakeholders
+Identifying stakeholders is determining and documenting those who will participate as the affected or influence the process or the outcome. This is done through mapping and analysis of those who may be affected or may influence the process or outcome of the plan.  The outputs include a stakeholder register containing project stakeholder information, classification and spatial distribution; and a stakeholder management strategy which defines the approach to increase stakeholder support and reduce negative impact.
+3.3 Step 2: Visioning and Setting of Objectives-
+3.3.1 Visioning
+Visioning is the process of describing and illustrating the desired future to make it more vivid, real and compelling so as to serve as an impetus for the present actions. It is meant to help the stakeholders have a glimpse of the desired future state of the county (“an artist impression of the desired county to live, work, invest and play”).
+The stakeholders are guided by the consultant/planning team to come up with a shared vision. The facilitation is in the manner of providing the profile of the planning area, identifying issues, and undertaking SWOT analysis.
+3.3.2 Objectives
+Objectives are the means of realizing the shared vision. They are derived from the vision and based on thematic areas. They are short statements that describe the action that should be undertaken to realize the vision. They should be SMART as much as possible. They must be understood by all stakeholders and be easy to explain. They provide a standard for measuring the extent to which the intentions of preparing a plan have been attained.
+3.4 Step 3:  Research and Mapping
+3.4.1 Research
+This step is a deliberate, structured study to determine, describe and explain the current situation/conditions of the county. It starts with identifying the type of data (primary and secondary, spatial and non-spatial), preparing data checklist, identifying sources of data, and choosing the appropriate method/ techniques of collecting and storing the data. The data collection methods and tools include oral interviews, observation, focused group discussions, GPS, satellite imagery, photography, socio-economic surveys, consultative forum and stakeholders’ forum.
+3.4.2 Mapping
+Spatial data may be obtained from satellite imagery, aerial photography, ground surveys, and existing maps. It entails picking geographical data and features and updating of the same digitally. The outputs may include an array of GIS-based maps depicting layers such as; cadastral, land uses, topography, resources, and human settlement.
+ 
+3.5 Step 4: Situation Analysis
+This is the critical examination of the current situation/conditions of the county.  The situation analysis entails data processing, analysis and interpretation.
+
+ 
+3.5.1 Data Processing
+Data processing involves cleaning, categorizing and coding of data. It also involves data verification to assess the data adequacy, relevance, and format. Further, it involves data cross-checking against the data checklist and the objectives of the plan.
+3.5.2 Data Analysis
+This entails manipulation of data to extract useful information, depicting the current situation or conditions and projecting the future requirements.
+Analysis can be in two forms; statistical and spatial analysis. Spatial analysis is the process of examining the location attributes and relationships of features in spatial data. It is done through overlay and other analytical techniques.
+Data analysis applies both qualitative (descriptive, photography, etc.) and quantitative techniques (correlation regression, T-test, chi-square, etc.).
+3.5.3 Data Interpretation
+Data interpretation is the process of deriving meaning from the analyzed data against the set objectives. Interpretation entails determining relationships, identifying shortfalls, determining trends and patterns leading to development of a current spatial portrait of the county.
+3.6 Step 5: Developing Scenarios
+Developing scenarios is presentation of possible future development options based on identified challenges and potentials. It is an illustration of the plausible future states.
+3.7 Step 6: Formulating the Plan Proposals
+Formulating the plan proposals consists of the following:
+(a)     Developing strategies, policies and measures to: address the challenges, and harness opportunities in order to achieve the stated plan objectives and vision of the county.
+(b)     Representing proposals (strategies, policies and measures) on maps and text describing the desired spatial structure.
+(c)     Compiling and packaging Draft Spatial Plan.
+3.8 Step 7: Packaging, Presenting and Publishing Draft County Spatial Plan
+The final outputs of the CSP process are; a report containing a written statement and a set of thematic maps and portrait of the desired spatial structure.
+3.8.1 Packaging
+Packaging entails the design and presentation of the CSP in a format that enhances clarity, readability, appeal and understanding of the content of both the graphics and written statement while ensuring that plan presentation standards are adhered to.
+3.8.2 Presentation
+The draft CSP should be presented to the stakeholders for validation. The views and comments received may be considered in finalizing the CSP.
+3.8.3 Publishing
+The public should be notified of the completion of the plan through a public notice published in print media in a prescribed format in at least two local dailies (in official and national languages) with wide circulation and in Kenya Gazette.  The Notice should include:
+call for submission of comments and views on the Draft CSP;
+specification of the place where the plan can be viewed;
+where to submit the comments;
+Period allocated for submission of views and comments.
+3.9 Step 8: Approving the County Spatial Plan
+The Consultant shall submit the final plan to the County Executive Committee Member responsible for land use planning through the County Director responsible for Land Use Planning who recommends. The CECM will forward the plan to the County Assembly for approval through the County Executive Committee. The County Assembly will consider the plan for approval in line with assembly procedures.
+The Clerk to the County Assembly will present the approved plan together with the Hansard to the Governor who shall sign on behalf of the County Government and gazette the approved CSP in both Kenya gazette and County Gazette.
+3.10 Step 9: Launching the approved County Spatial Plan
+The Approved CSP shall be launched by the County Governor.
+3.10.1 Dissemination of the Approved County Spatial Plan
+The county government will ensure wide circulation of the approved plan to, among others: the sub counties, Urban Management Boards, County Land Management Board, national state departments and development agencies, state agencies, development partners, civil society, research institutions, service providers, investors, financial institutions among others.
+3.11 Step 10: Monitoring and Oversight
+A copy of the approved plan shall be submitted to the National Land Commission to facilitate monitoring and oversight pursuant article 67 (2) (a) & (h) of the Constitution. The plan will form the basis for engagement between the NLC and the County Government and shall be applied with respect to management of public land, regulation of land use and development, and monitoring and oversight of land use planning (Annex 3.3).
+4.0: deliverables and format of presentation
+4.1: Deliverables
+The CSP has several outputs/deliverables which are presented in a specific format. The deliverables are:
+
+4.2 Format of Deliverables
+Each of the deliverables will be presented in a specific format as described below:
+4.2.1 Inception Report
+The initial report prepared by the planning team/ consultant to demonstrate the understanding and interpretation of the TORs/assignment. It has the following components:
+Background
+Purpose
+Terms of Reference(TORs)
+Objectives
+Methodology
+Scope
+Work plan
+Budget
+4.3: Vision Report
+Vision report is a description of the shared vision prepared by the planning team/consultant after consultations with stakeholders. It includes a written statement and illustrations and diagrams. It should be concise and captivating.  The report should also outline objectives that are precise statements of intent addressing planning issues.
+4.4 Situation Analysis Report
+This is a report of the appraisal of the planning area and contains a summary of the planning issues that include opportunities, potentials and challenges. The issues are derived from stakeholder engagements, field surveys and investigations, review of existing policies, development programmes and other emerging developments. The issues are clustered according to thematic areas and should give a snap shot of the planning area.
+4.5 GIS Data Base
+This is storage of geo-spatial data that is collected, processed and kept in a manner that can easily be retrieved,   manipulated, updated and displayed in form of digital maps, illustrations and graphics.
+4.6 Base Maps
+These are maps depicting background reference information on which other thematic information is placed.  Base maps have essential elements like topographic features, cadaster information, roads, rivers, contours, administrative boundaries and existing developments. 
+Sources of data for base map preparation may include: 
+Topographical maps
+Satellite imagery
+Aerial photos
+Existing topographical maps
+Cadastral maps
+Ortho-photo maps
+Other existing thematic area maps
+4.7 Thematic Maps
+Thematic maps depict the spatial pattern of a particular theme in terms of geographical attributes.  These themes relate to physical, social, political, cultural, economic, sociological, or any other aspects of the county, and can be illustrated in a number of maps in layers as described below:
+Physiographic  Map – Layer 1 (Topography, soils, geology and rivers)
+Natural Resource – Layer 2 (habitat, parks, reserves, forests, wildlife & archaeological resources, water resources)
+Human Settlements – Layer 3 (urbanization, rural development patterns, population & demographic patterns)
+Transport and Communication – Layer 4 (transport - roads – with classifications, airports & airstrips, water ways, pipelines, power lines, ports & harbors, railways) (Communication – fiber optic, mobile communication networks
+Local & Regional Economy – Layer 5 (land use patterns, commerce, industrialization, mining, service industry & institution, tourism)
+
+4.8 Preferred Scenario plan
+This is the selected model of development arrived at after synthesis and integration of various possible scenarios.
+4.9 Draft CSP
+The draft CSP will comprise a written statement together with accompanying illustrations, diagrams and graphics. It also contains: a vision statement, objectives, situational analysis and synthesis, proposals and implementation strategy. The proposals are in the form of policies, strategies, actions, measures including a spatial structure depicting the vision of the county and prescribing land use zonation and land development standards.
+The draft plan is presented in five parts which may include:
+Introduction and Planning Context– these consist of: background of the plan, problem statement and justification of the plan, vision statement, objectives, scope, principles, methodology and an outline, the location( local, national, regional), constitutional, policy and legal context.
+ 
+Situation Analysis and Synthesis– analysis is done along the following thematic areas:
+Social Development- population and demographic characteristics, health, education, other social amenities and social cultural issues.
+Land, Natural Resources  and Environment- land availability, land tenure, physiographic features, land, water, wildlife, forests, minerals, fauna, flora, biodiversity, soil and geology
+Economic Development- industry, commerce, mining, fishing, trade, financial services, transport, tourism, forest products, Agriculture and informal sector
+Human Settlements and Urbanization- urban centers, urbanization trends, infrastructure and housing services, urban hierarchy and rural settlements,
+Rural Development- Natural endowment, agriculture, pastoralism,
+Transportation and Infrastructure- water supply and sanitation, coverage and distribution,  road network and  connectivity,  energy, communication, air and water transport . 
+Governance- institutions, finance, public participation, security, public order, justice and fairness,
+Plan Proposals -  Plan proposals comprise strategies, policies, actions and a spatial structure which leads to the actualization of the desired future state.
+The plan proposals should provide for:
+A spatial structure depicting the vision of the county and prescribing land use zonation and land development standards;
+Land realignment, amalgamation, redevelopment, regeneration and infrastructure and service provision layout;
+Linkages to national development proposals and those of the inter and intra county development;
+A balanced system of human settlements and delineate the urban limits of the municipalities within the county and mechanisms of dealing with the rural urban interfaces;
+Harmonized system of county communication, infrastructure and related services;
+A framework for integrated urban and rural areas development for efficient economic and social activity;
+A viable system of green and open spaces for a functioning eco-system;
+Space for tree cover of at least ten per cent of the land area of county as required in Article 69 of the Constitution;
+Reservations for public security and critical national infrastructure, utilities and services;
+Protection of  the historical and cultural heritage, artefacts and sites within the county;
+Preconditions for integrating under-developed and marginalized areas to bring them to the level generally enjoyed by the rest of the county;
+Guidelines for land use management system; control, regulate land use and land use changes through zoning schemes and performance standards;
+A framework for public and private land development and infrastructure investment;
+Areas where strategic intervention is required;
+An implementation framework which indicates;
+Programs and projects for the development of land
+Areas for priority spending
+Capital investment framework
+A strategic assessment of the environmental impact of the spatial development framework including clarifications on the anticipated sustainable development outcomes of the spatial plan;
+Plan Implementation Framework - this is an outline of programmes and projects to be undertaken. The outline will indicate the Sectors, Action areas, Actors, Budget and Timelines. This may be presented in a matrix.
+Monitoring and Evaluation framework- Monitoring and Evaluation is an internal mechanism to ensure implementation and realization of CSP proposals and projects. It may be presented as an outline of processes and procedures of tracking the implementation of the CSP. The purpose of which is to ensure  timely corrections and plan review.
+Annexes- These are appendages of detailed information and include population statistics, key references, research tools, list of participants, schedules, maps, comments/suggestions and notices.
+4.10 GIS Lab
+An operational GIS Lab has the following components that combine to makes it possible to capture, digitize, retrieve, store, manipulate, disseminate and share.
+A working GIS integrates six key components:
+
+ 
+ 
+Figure 4. 3 - GIS Compo
+The basic features of a GIS mapping software should include ability to:
+Input and store the attributes of Geo-spatial information;
+Process and manipulate the database information;
+Retrieve the information from a geo-database;
+Display geographical information in form of maps and other graphics;
+Share the map products through the web.
+4.11 Digital Maps
+Digital maps are a collection of geographical data that is combined and formatted into virtual images and layers/shape files. Digital maps give accurate representation of particular area detailing different features within a given area.  These will be developed by the planning team to enable an appropriate GIS database for the county spatial planning process.
+PART III: PUBLIC PARTICIPATION
+Public Participation
+Institutional Framework
+5.0 Public Participation
+5.1 Meaning of Public Participation
+Public participation is the involvement of stakeholders in influencing outcomes of county spatial planning process. It is the deliberative process by which citizens, non-state, and government actors are involved in policy making and implementation before decisions are made. This shall be done during preparation, implementation, monitoring and review stages.
+5.2 Purpose of Public Participation
+It is a requirement under article 69 (1) (d) of the Constitution of Kenya and Part viii sec.  87-92 and 115 of the County Government Act 2012. It aims to:
+Create awareness and interest  in CSP preparation and enhances justice and rule of law.
+Provide  an opportunity for the public to influence decisions on planning matters affecting them.
+Ensure sustainability through enhanced ownership of the plan 
+Build capacity and enhance responsibility for further involvement
+Minimize conflict during preparation and implementation
+Enhance accountability of resource  utilization
+Increase transparency, inclusivity and  in the county spatial planning process
+Fundamentals in Designing a Particpation Process
+In order to define the participation process the following fundamentals shall be considered in the designing process.
+
+Figure 5. 1 - Fundamentals in Designing Participation Process
+5.3 Categories of Stakeholders/who should participate?
+All citizens need to be given an opportunity to participate. For effective participation, representation should be drawn from various categories of stakeholder including: local communities, state agencies, private sector, civil society, special interest groups(minority and people with disability), youth, political leadership, professionals, education and research institutions, service providers and consumers, business community, opinion leaders, sectoral entities, media, conservationist and children among others. At all levels care should be taken to observe the gender rules as far as practicable
+5.4 Role of Stakeholders in Plan Preparation
+Develop a shared vision or direction that they can agree to and buy into;
+Formulate creative solutions through dialogue and group processes;
+Resolve conflict through negotiation and mediation;
+To communicate the wishes, interests and aspirations of the people they represent.
+To facilitate the process of proper planning and achievement of sustainable development of the County.
+5.5 Stakeholder Identification
+For effective public participation, stakeholder identification should consider:
+The immediate targeted users of the CSP ;
+The people who have a key stake in CSP’s;
+People and institutions that need to be brought on board to support the CSP process;
+Inclusivity and prior  information sharing
+Collaborations, cooperation and networking
+Those who Influential opinion;
+Those Who influence decision making in the community;
+People with  indigenous knowledge on the local situation;
+Who has executive authority in the geographical/subject area
+Spatial distribution (stakeholders mapping) of the stakeholders
+Women, youth and the persons with disability.
+5.6 Mode of Engagement
+Engagement of stakeholders will take the form of: Focused group discussions, Stakeholder forums (workshops), Public hearings, Consultative forums, Letters, Social media, Advertisements, Press conferences, Talk shows, Newsletters, Displays and exhibitions, Brochures, Public fora.
+5.7 Levels of Engagement
+For the preparation of CSP stakeholder engagement will be undertaken at three critical stages namely: inception stage, situational analysis and plan proposal. For the purpose of county spatial planning process, sub-county is the basic unit of stakeholder engagement.
+5.7.1 The inception stage
+Consultative meetings will take place between the planning authority, the consultant, government agencies and community leaders to create awareness of the intended preparation of CSP
+Notices informing the public of intention to prepare the CSP and invite comments
+First stakeholders meeting
+5.7.2        Purpose of first Stakeholders Meeting
+Create awareness
+Build consensus among stakeholders on the need for the CSP
+Capture Stakeholder aspirations for the CSP
+Scoping to identify planning issues and opportunities
+Understand the planning area and appraisal of the problem
+Set out a vision and objectives of the plan
+Form working groups
+5.7.2.1 Output of First Stakeholders Meeting
+Agreeable vision and objectives
+Opportunities, challenges and inherent and trends in area
+Way forward on further engagements
+Consensus on planning.
+5.7.3 Situational Analysis Stage
+5.7.3.1 Purpose of Second Stakeholders Meeting
+Presentation of situation analysis report
+Stakeholder interrogating the report
+Identifying gaps, clarifying, verifying and prioritizing issues to be addressed
+Consensus building on the plan vision and objectives
+Deliberating and agreeing on  possible scenarios
+Validating of situation analysis
+5.7.3 2 Output of Second Stakeholders Meeting
+The expected output at this stage includes a report comprising:
+The existing spatial portrait of the county
+Emerging trends from the spatial portrait to be addressed by the CSP
+A clarified spatial vision for the County (10 years)
+A set of spatial objectives to address the identified issues and fit the vision
+5.7.4 Plan Proposal Stage
+5.7.4.1 Purpose of Third Stakeholders Meeting
+Present the first draft county spatial plan to the stakeholder for review, value addition, validation and adoption
+Receive and record comments from stakeholders
+Assess the comments for incorporation into the draft CSP
+Deliberating and agreeing on the preferred development model
+5.7.4.2 Output of third stakeholders meeting
+Consensus for proposals
+Agreed and shared vision
+Validated draft CSP
+5.8   Choosing a Venue
+The location of the venue for stakeholders meeting is crucial for maximizing attendance. The following tips can be used to guide choice of a suitable venue for conference stakeholders meeting:
+Accessibility- transport to the venue including parking
+Availability alternative hotel facilities- lodging and restaurant facilities convenient to attendants if not accommodated in a central place
+Suitability- the venue needs to be most appropriate for the target audience
+Size and layout of space- for conferencing, microclimate, disability access and convenience
+Affordability  of the facility
+Infrastructure and amenities and concierge support, safety and security requirements
+Technical facilities- components to support the event - audiovisual equipment, break-out rooms, public address, WiFi
+Brand image – history of successful events at the venue
+5.9 Procedure of Meetings
+For Stakeholder meetings to effective they need to be properly conducted by:
+Agreeing on Program for the meeting;
+Climate setting and ice breaking;
+Agreeing on the procedures of conducting meetings including language;
+Validating a objectives of the meeting;
+Making presentations to highlight issues in a simple non-technical ways;
+Promoting free, fair and open participation;
+Allocating time for feedback through targeted group work;
+Appropriately recording of the proceedings in form of minutes, resolutions and expectations.
+5.9.1 Timing of Meetings
+The timing of meetings should be guided by:
+Understanding of the broader context of the public sector and community operations for greater impact in management of stakeholders
+Setting of specific times and durations for meetings
+Avoiding days that are least effective for maximum attendance, productivity and participation.
+Paying attention to seasons and calendar of local events
+5.9.2 Recording
+Recording of proceedings at stakeholder forums is mandatory and fundamental.
+5.9.2.1 Purpose of Recording
+Recording ensures that:
+People’s contributions are documented
+A historical record is available for future reference, verification and reminder of past events and actions
+Information is available to those not present at the meetings and would like to maintain track of events and progress of planning
+This is evidence of record of events.
+5.9.2.2 Format/options of Recording
+Tape recorded, written notes and minutes
+Record key points visibly, such as on newsprint or a chalkboard
+Tape--usually by audiotape, but occasionally by videotape as well
+5.10 Plan Implementation Stage
+Popularize the CSP (awareness creation)
+To build capacity  of key stakeholders for effective implementation
+To ensure accountability and transparency in  resource mobilization
+Develop partnerships for plan implementation.
+Build synergy on  monitoring and evaluation plan
+Play watchdog role
+6.0 INSTITUTIONAL FRAMEWORK FOR PLAN PREPARATION AND IMPLEMENTATION
+6.1 Introduction
+To successfully prepare and implement County Spatial plans, Counties need to deliberately develop effective and efficient institutions as required under the County Governments Act 2012. These institutions should also have both vertical and horizontal relationships and synergy at various levels.
+6.2 County Level Institutions
+6.2.1 County Executive Committee
+Under the County Governments Act 2012 sections 110(3) the responsibility of developing a County Spatial Plan is bestowed upon the County Executive Committee. This should be done in line with section 110 (2) (c) (iv). The county governments are also required to designate county departments as planning authorities as per section 104 (3). For purposes of  the County Spatial Planning, counties need to set up offices of the County Director of Land Use Planning with qualified staff supported by requisite equipment and technology (see schedule for details). The County Director of Land Use Planning should be responsible to the County Executive in preparing and implementing the County Spatial Plan. The County Director of land use planning shall coordinate the preparation and implementation of the County Spatial Plan through a multi- sectoral Planning Unit of which he is the head.
+6.2.2 County Planning Unit 
+County Planning Unit is established under section 105 of the County Governments Act 2012 perform the following functions—
+coordinating integrated development planning within the county;
+ensuring integrated planning within the county;
+ensuring linkages between county plans and the national planning framework; and
+ensuring meaningful engagement of citizens in the planning  process;
+ensuring the collection, collation, storage and updating of data and  information suitable for the planning process; and
+ensuring the establishment of a GIS based database system.
+The County Planning Unit will be coordinated  by the County Director of Land Use Planning with representation from the following sectors:-
+Land
+Economic Planning
+Environment and Water
+Infrastructure and ICT
+Agriculture and Livestock
+Trade, Industry and Commerce
+Finance and Administration
+6.2.3 County Executive Committee
+Will be responsible for policy direction regarding county spatial planning process.
+6.2.4 County Assembly
+The County Assembly is responsible for approval of the budgets and the County Spatial Plan in accordance with approved procedures. The County Assembly is also responsible for ensuring allocation of adequate funds for preparing and implementing the County Spatial Plan.
+
+Figure 6. 1 - Framework for CSP Preparation
+6.3 General Institutional Framework
+ 
+At the national level the institutional and functional relationship shall be as depicted in the diagram below with the county government as the main focus of activities.
+
+ 
+Figure 6. 2 - General Level Institutional Framework
+ 
+PART IV: FUNDING AND PROCUREMENT
+Funding
+Procurement
+7.0 PROCUREMENT OF PLANNING SERVICES
+The County Government may engage the services of a planning firm or consortium to undertake the preparation of CSP guided by the Public Procurement and Disposal Act, 2005 (PP&DA). This section is, therefore, informed by Public Procurement and Disposal Act, 2005.
+7.1 Main Steps in Procurement Process
+The County Director responsible for Land Use Planning should prepare an annual departmental work plan and procurement plan indicating the need to procure planning services for the CSP.  The Director should ensure that the proposal to procure planning services is captured in the county annual work plan and procurement plan.  The following main steps illustrate the procedure of procuring CSP preparation services:
+Prepare annual work plan for the county in which consultancy services should be captured;
+Formulate the annual procurement plans for the county- indicating the budget, source of funds, timelines and monitoring mechanism;
+Prepare a planning need assessment  and concept note which will be incorporated into EOI;
+Prepare expression of interest (EOI) in line with Section 78 (1) of the Public Procurement and Disposal Act, 2005;
+Advertise the notice in at least two daily newspapers of nationwide circulation;
+Prepare  detailed terms of reference (TORs) as per section 79 of Public procurement PD Act;
+Issue a request for proposals (RFP) document;
+Set  up  technical team to evaluate proposals/bids as per Procurement and Disposal Act;
+Set up tender committee to deliberate on the evaluation report and award the tender;
+Prepare tender contract documents and signing of the contract;
+Appoint contract manager and outline responsibilities.
+7.2                 Detailed Steps in Procuring Planning Services
+7.2.1. Prepare Terms of Reference
+The Terms of Reference include the following elements:
+The background including the reasons necessitating the plan preparation (problem statement)
+Planning and development challenges.
+Purpose and goal of CSP.
+The objectives to be achieved by the plan
+The deliverables expected from the contract
+Qualification  needed (At least one of the directors and the team leader must be a practicing registered planner) 
+Detailed Tasks
+Planning methodology
+Surveying methodology
+Project implementation framework
+The county director responsible for land use planning will be responsible for preparing the Terms of Reference.
+7.2.2 Notice Inviting Expression of Interest (EOI)
+The notice inviting expression of interest (EOI) shall set out the following:
+Name and address of the County Government
+A brief description of the services being procured
+Qualification requirements
+Place where and time when the expression of interest should be submitted
+Where there is a list of approved prequalified firms, the procuring entity may invite request for proposals directly.
+7.2.3 Request for proposal (RFP)
+Request for proposal should contain the following:
+Standard request for proposals (RFP) (Selection of consultants) firms
+Standard Request for proposals (RFP) (selection of consultants) Individuals
+Letter of invitation
+Information to consultants
+Technical proposal
+Financial proposal
+Terms of reference
+Standard forms of contract.
+Lump- sum payments
+Time based payments
+The proposals (RFP) may be invited through an advertisement or from a list of prequalified consultants who had earlier expressed interest (EOI) for that particular procurement.
+7.2.4 Tender Opening and Evaluation
+The tender documents shall include financial and technical proposal and should be presented in two separate sealed envelopes.
+The opening of the proposals shall be done by an opening committee appointed by the County Secretary
+At the time of opening only the technical  proposal shall be opened in the presence of the bidders who may choose to be present
+The county secretary shall constitute a technical committee that shall evaluate the proposals.
+In order to qualify for the financial opening, the technical proposal shall score at least 70 per cent as minimum pass mark.
+The financial proposals shall remain sealed in the envelope and shall be secured safely up to the time of opening. The opening shall only be done for the bids whose technical proposal attained the 70% and above.
+7.2.5 Criteria for Tender Evaluation
+The procurement services will be cost and quality based. The criteria for evaluation will be based on scores designed by the tender evaluation committee and shall be guided by the following:
+Area of Competence
+
+
+Scores
+
+
+Remarks
+
+
+CV of the individual consultant or firm and number of similar assignments done
+
+
+25
+
+
+ 
+
+
+Specific experience of the lead consultant related to the assignment
+
+
+20
+
+
+ 
+
+
+Qualification, competence skills and experience of other professional staff to be involved
+
+
+15
+
+
+ 
+
+
+Adequacy of methodology and work plan in response to the TOR
+
+
+40
+
+
+ 
+
+
+Total
+
+
+100
+
+
+ 
+
+Table 7. 1 - Criteria for Tender Evaluation
+7.2.6 Tender Award
+Notification shall be communicated to the successful firm in writing giving details and instructions within the specified timeframe as provided for in the PP&DA  Section 67 (1,2,3).After the award and notification, the county secretary shall appoint the county director of land use planning as the project manager. The contract shall commence after the contract has been signed by county government and the consultant.
+7.2.7 Contract signing
+The contract which is concluded must be in writing and signed by both parties(consultant and proponent)
+The contract must state the contract  sum  payable under that contract and the timeframe
+PP&DA Section 68
+7.2.8 Opening Contract Files
+The contract file shall be opened by the contract manager after the procurement contract has been signed. .
+The file shall be used for recording the actual performance of the requirements indicated in the contract  file should contain the following:
+Signed original procurement contract.
+Any signed modifications to the contract.
+Information on the performance.
+Correspondence on the contract.
+Progress Management  reports
+Minutes of meetings of project team
+Payment records and close up documents.
+Copy of performance security (where required)
+Any other relevant information.
+7.3 Contract Administration
+The County Director of Land Use Planning shall be the Contract Manager.
+The Contract Manager will constitute a technical team to perform the obligations and duties of the County Government specified in the contract.
+and the technical team will  ensure that the contractor performs the contract in accordance with  the terms  of reference ..
+The Contract Manager and the technical team shall be appropriately and adequately facilitated in terms transport, office accommodation, allowances and equipment.
+7.3.1 Responsibilities of Contract Manager
+Monitoring the performance of the contractor, to ensure that all delivery or performance obligations are met or appropriate action taken by the County Government in the event of obligations not being met;
+Ensuring that the contractor submits all required documentation as specified in the bidding documents, the contract and as required by law;
+Ensuring that the County Government meets all its payment and other obligations on time and in accordance with the contract.
+Ensuring that there is adequate cost, quality and time control, where required;
+Preparing any required contract variations or change orders and obtaining all required approvals before their issue. Such variations or change orders must be clearly justified in writing backed by supporting evidence;
+Managing any handover or acceptance procedures;
+Making recommendations for contract termination, where appropriate, obtaining all required approvals and managing the termination process;
+7.4 Procurement by Design Competition
+The County Government can also procure services for the preparation  of CSP through design competition in accordance with section 92(2) of the Public Procurement and Disposal Act, 2005
+8.0 FINANCING COUNTY SPATIAL PLANNING
+8.1 Sources of Funding
+The county spatial planning process requires adequate and timely funding. The main sources of funding for preparation and implementation of CSP are:
+County government budgetary (revenue collection & voted funds)
+Development Partners
+Public/private partnerships
+National Government
+8.2            Cost Components in Preparing the County Spatial Plan
+The cost components in the CSP process include: human resource, equipment, data acquisition, logistics and administration.  However, the costs may vary from county to county and therefore the guideline provides indicative costs.
+The following are the primary cost components:
+Preplanning process
+Developing inception report
+Undertaking needs assessment
+Establishment of a GIS lab
+Stakeholder engagement
+Public Notices
+Data collection and acquisition
+Digital mapping
+Socio-economic surveys
+Formulating plan proposals
+Finalization of the CSP
+Project administration
+Launching of the CSP
+Professional fees
+Contingencies
+APPENDICES
+ANNEX 3.1:  MATRIX ON COUNTY SPATIAL PLANNING PROCESS 
+The timeframe assigned in this matrix are generic and dependent on available and timely flow of funds.
+
+Step
+
+
+Activity
+
+
+Time Frame
+
+
+Milestones
+
+
+Deliverables
+
+Pre-Planning
+
+
+-    Scoping
+-    Carrying out Needs assessment
+-    Reconnaissance survey
+-    Consultative meetings with client
+-    Determining data needs
+-    Issuing Notices
+-    Identifying key stakeholders
+
+
+1st- 2nd week.
+
+
+-reconnaissance report
+-consultative meetings
+-Needs assessment report
+-work plan & budgets
+-Planning intention notice
+
+
+Inception Report
+
+Visioning and Setting of Objectives
+
+
+-    Engaging Stakeholders
+-    Defining the overall framework for the plan
+-    Defining Key values to drive the spatial planning process?
+-    Defining Key principles which to be applied when making land use decisions? 
+-    Defining Key spatial issues which need to be dealt with?
+-    Setting Priorities
+
+
+3rd Week
+
+
+-Vision
+-Objectives
+
+
+Agreed Vision
+
+Establishing of GIS Lab, Data Collection and Mapping
+
+
+-    Establishing a GIS Lab
+-    GIS Capacity Building
+-    GIS Needs Assessment
+-    Identification of Data Sources
+-    Mobilizing Primary & Secondary Data
+-    Acquiring Satellite Imagery
+-    Obtaining Topo-Cadastral Data
+-    Mapping Resources
+
+
+-Start 4th Week
+-End 20th Week
+
+
+-       Resource Inventory
+-       GIS Lab
+-       Trained County Staff
+-       Training Guidelines
+-       Data Inventory
+ 
+
+
+-       Digital Maps
+-       GIS Lab
+
+Situational Analysis
+
+
+-    Processing Data
+-    Analyzing Data
+-    Interpreting Data
+-    Spatial Analysis
+
+
+21st Week – 25th Week
+
+
+-       Baseline/Situation Report
+-       Analytical Maps
+ 
+
+
+-       GIS Database
+-       Base-map
+-       Thematic Maps
+ 
+
+Developing Scenarios (Modeling)
+
+
+-    Carrying out Natural Capital Assessment
+-    Analyzing Trends
+-    Formulating Alternatives
+-    Engaging Stakeholders
+-    Building different scenarios
+
+
+26th Week - 28th Week
+
+
+-       Stakeholder Meeting
+-       Scenarios Report
+
+
+-       Preferred Scenario Plan
+
+Formulating Plan Proposals
+
+
+-    Developing Strategies, Policies and Measures
+-    Developing a desired Spatial Structure
+-    Preparing Draft Spatial Plan
+
+
+29th  Week – 37th Week
+
+
+-       Strategies
+-       Policies
+-       Measures
+-       County Spatial Structure
+-       Proposed Land uses
+
+
+-       Draft County Spatial Plan
+
+Presenting ans Publishing CSP
+
+
+-    Engaging Stakeholder
+-    Issuing Notice of Completion
+-    Incorporating Comments
+
+
+38th Week - 50th Week
+
+
+-       Stakeholder meetings
+-       Notice of Completion
+
+
+-       Publicized Draft County Spatial Plan
+
+Approving the County Spatial Plan
+
+
+-    Finalizing Draft CSP
+-    Presenting CSP to CA by CEC two weeks after completion
+
+
+51st Week – 52nd Week
+
+
+ 
+
+
+-       Final County Spatial Plan
+
+Launching the approved County Spatial Plan
+
+
+-    Launching CSP by Governor
+
+
+52nd Week
+
+
+ 
+
+
+-       Final County Spatial Plan
+
+ANNEX 3.2:  GIS LAB REQUIREMENTS
+Office Space 
+An office space with minimum size of 25ft by 50ft is required to accommodate the minimum set of equipment needed for a GIS lab. The space should able to accommodate at least: two GIS personnel, computers, power backup, plotter, scanner, and should also be networked.
+Hardware
+Hardware is the computer system on which a GIS operates. GIS software runs on a wide range of hardware types, from centralized computer servers to desktop computers used in stand-alone or networked configurations. A GIS lab should have at least two computers (big capacity to hold large amount of data), power backup, Plotter (Min size 42’), Scanner (Min size 42’) and A4 coloured Printer.
+Software
+GIS software provides the functions and tools needed to store, analyze, and display geographic information. There are several software in the market that can perform GIS functionality, but the one known to support GIS database is Esri ArcGIS software.
+Data
+Geographic data and related tabular data can be collected in-house, compiled to custom specifications and requirements, or purchased from a commercial data provider. A GIS can integrate spatial data with other existing data resources, often stored in a corporate DBMS. The integration of spatial data (often proprietary to the GIS software), and tabular data stored in a DBMS is a key functionality afforded by GIS.
+Personnel
+The GIS lab will require skilled technical specialists who design, maintain, update and safeguard the system.
+ 
+ANNEX 3.3: MONITORING CHECKLIST
+
+STAGE
+
+
+SUB-STAGE
+
+
+ISSUE
+
+
+Reference
+
+
+Preliminary/
+Preparatory
+ 
+ 
+ 
+
+
+a)     Authorization
+ 
+
+
+Legality
+ 
+
+
+Legislation
+policies
+
+
+Justification
+
+
+Plan proposal, needs assessment, TORs
+
+
+b)    Public participation
+
+
+Representation, Effectiveness
+
+
+Minutes, Attendance List
+
+
+c)     Resource Mobilization
+
+
+Financing, Equipment, Human Resource
+
+
+Approved Allocation, Equipment Inventory, Staff Establishment, Skills Assessment Record
+
+
+d)    Procurement of Planning Services
+
+
+Compliance with the laws, procedures
+Human Resource
+
+
+Public Procurement and Disposal Act, Public Finance Management Regulations, Procurement Plan, TORs
+
+
+Planning
+
+
+a)    Reconnaissance
+
+
+Interpretation of the TORs
+
+
+TOR
+
+
+b)   Base Map Preparation
+
+
+Comprehensiveness of the base map
+
+
+CSP guidelines, Check List, GIS standards
+
+
+c)    1st Stakeholders Consultation (Visioning and Objective Setting)
+
+
+Stakeholder Analysis,
+Inclusiveness, Mode of Engagement
+
+
+Stakeholder Analysis Framework, Check List, CSP Guidelines
+
+
+d)   Data collection
+
+
+Relevance, Accuracy,
+Adequacy, Up-to-date
+
+
+Data Checklist and Inception Report, CSP guidelines
+
+
+e)    Data Analysis
+
+
+Methods
+
+
+CSP guidelines
+
+
+f)    2nd Stakeholders Consultation
+g)    (Feasibility and Situation Analysis Report)
+
+
+Stakeholder Analysis,
+Inclusivity, Mode of Engagement
+
+
+Stakeholder Analysis Framework, Check List, CSP guidelines
+
+
+h)   Formulation of Proposals
+
+
+Method, Relevance, Adequacy, Efficacy, Conformity to National Values and Principles
+
+
+CSP guidelines, Objectives, Vision Statement, Constitution Kenya 2010, Land Policy
+
+
+i)     Draft Plan Design
+
+
+Completeness, Design Standards, Interpretation CIDP, Sectoral Plans to CSP
+
+
+CSP guidelines, CIDP, Sectoral Plans
+
+
+j)     3rd Stakeholders Consultation (Validation)
+
+
+Stakeholder Analysis,
+Inclusivity, Mode of Engagement
+
+
+Stakeholder Analysis Framework, Check List, CSP Guidelines
+
+
+k)   Publication
+
+
+Public Notice, Publication According to the law, Circulation,  County Gazette, Proof  of Incorporation of comments,
+
+
+Legislations, Summary of Correspondences for the plan from Stakeholders,
+
+
+ 
+
+
+l)     Approval
+
+
+Adherence to law, Timeliness
+
+
+Plan Approval Brief, and CEC, Land Use Planning Legislation.
+
+
+Implementation
+
+
+ 
+
+
+Conforms to an Approved Plan,
+Timeliness, Conformity to an Implementation Plan,
+Influence to lower level plans,
+Clarity on Roles Assigned,
+Financing of Programs and Projects
+
+
+Approved Plan, Implementation plan, Lower Level Plans, related budgets
+
+
+Review
+
+
+ 
+
+
+Relevance of Vision and Objectives,
+Adequacy of finances, Emerging Issues not Anticipated, Practicability of Implementation,
+Authorization
+
+
+Approved plan, budgetary allocation, Monthly progress reports from Implementers, budgetary allocation and appropriation, Land Use Planning Legislation
+ 
+
+ANNEX 4.1:  MATRIX ON DELIVERABLES OF COUNTY SPATIAL PLANNING PROCESS
+
+Deliverable
+
+
+Aspect
+
+
+Strategy/Guidelines
+
+
+Inception Report
+
+
+Definition
+
+
+-           Understanding of Plan of Action, Time Frame & Budgets for carrying out task at hand.
+
+
+Format/Components
+
+
+-           Understanding of ToRs
+-           Methodology
+-           Work- Plan
+-           Qualification
+-           Budget
+-           Scope of work
+-           Purpose
+-           Objectives
+
+
+Who prepares/ Source of Information
+
+
+-           Planning Team/Consultant
+
+
+Due Date
+
+
+-           2 weeks
+
+
+GIS Lab
+
+
+Components
+
+
+-           Office Space/Lab
+-           GIS Server
+-           Power backup
+-           Backup System
+-           Air conditioning
+-           At least 3 PCs with minimum 20’ screen
+-           GIS Software (ESRI for desktops, Open Source for Server)
+-           At least 5 Handheld  GPS  receivers
+-           Plotter (Minimum 42’)
+-           Scanner (Minimum 42’)
+-           Printer
+-           Structured Cabling
+
+
+Digital Maps
+
+
+Definition
+
+
+-           Representation of the Cartographic Maps in Electronic Form
+
+
+Sourcing
+
+
+-           Digitizing from Existing Topographical Maps (From accredited Government Agencies, Specialist Groups, etc.)
+-           Ground Surveys (GPS, Total Stations, etc.)
+-           Aerial Photography (Orthophotos)/Remote Sensing
+-           Statistical Data from (Population, Economic from agencies such as KNBS, IEBC)
+
+
+Datum & Projections
+
+
+-           WGS84, UTM
+
+
+Resolution (Spatial and Temporal)
+
+
+-           Minimum spatial resolution = 10m for rural areas and 2.5m for urban areas
+-           Temporal resolution = 1 year
+
+
+Presentation Scale
+
+
+-           Choice of scale must allow for maximum legibility/Conventional Planning Scales
+
+
+Thematic Maps
+
+
+Definition
+
+
+-           Maps of specific themes/aspects
+
+
+Presentation Format
+
+
+-           Choice of color and symbology  must be conventional relating to each theme (e.g. rivers must be blue and varying in line widths depending on size of river)
+
+
+GIS Database (Geo-database)
+
+
+Data Dictionary
+
+
+ 
+
+
+Metadata
+
+
+-           Data about data
+
+
+Security
+
+
+-           Physical
+-           User rights and roles
+-           Views
+-           Queries
+
+
+Schema
+
+
+-           Entity Relationships Diagrams (ERDs)
+-           Primary/Foreign Keys
+
+
+Topology
+
+
+-           Geometrical and logical consistencies in a Data Base
+-           Involve sets of rules governing data integrity
+
+
+Scenario Plans and Natural Capital Assessment Report
+
+
+Definitions
+
+
+-           Scenarios are Plausible, often simplified, descriptions of future.
+-           Natural capital is defined as the stock of natural assets - such as ecosystems, species, fresh water, land, minerals, the air and oceans - that provide benefits to people.
+
+
+ 
+
+
+Formats/Components
+
+
+ 
+
+
+Draft County Spatial Plan
+
+
+Definition
+
+
+-           An unapproved County Spatial Plan
+
+
+Format/Components
+
+
+-           Introduction
+-           Objectives
+-           Proposed Thematic Areas
+Social Development
+Economic, Trade and Industrial Development
+Land, Environment, Natural Resources  & Conservation
+Human Settlements and Urbanization
+Rural Development (Agriculture/Pastoralism)
+Transport and Infrastructure and services
+Governance
+Strategic Environmental Assessment
+-           Proposed Thematic Strategies
+-           Proposed Policies
+-           Proposed Spatial Structure
+Broad Land Use Layout
+Relationships among land uses (Connectivity)
+National County and Inter county linkages
+-           Proposed Implementation Strategies
+-           Annexes
+Implementation Matrix (Sector, Issue, Objective, Strategy , Action, Actor, Cost Timeframe)
+
+
+Final County Spatial Plan
+
+
+ 
+
+
+ 
+
+ANNEX 7.1:  EXPERTISE, QUALIFICATIONS AND EXPERIENCE OF THE CONSULTING FIRM
+The Lead Consultant
+The lead consultant must have at least a Master’s degree in Urban and Regional planning and shall be responsible for the contract performance;
+Have at least fifteen (15) years continuous working experience in urban and regional planning;
+Be registered by the relevant professional body in Kenya and hold a valid practicing license;
+Evidence of similar assignments undertaken.
+Other Key Personnel
+The firm or consortium must have the following experts with at least a first degree and ten years’ experience:
+Land surveyor with competence in GIS;
+Urban and Regional planner
+Civil engineer (Water and  Sanitation Engineering; Roads Engineering);
+Housing expert;
+Geologist,
+Agriculture Expert
+Environment expert
+Sociologist;
+Economist;
+GIS expert
+ANNEX 8.1: EXEMPLAR COUNTY SPATIAL PLAN BUDGET
+
+Output
+
+
+Activity
+
+
+Cost Items
+
+
+Estimated Cost
+
+
+Inception report
+
+
+Desk review
+
+
+15 Days @ 50,000 x 3 Pax
+
+
+                              
+
+
+Preparation of inception report
+
+
+ 
+
+
+ 
+
+
+Consultative meetings with client and issuing notices
+
+
+30 pax @ 15,000 one day hotel and conference (Consultant and venue hiring)
+
+
+                                 
+
+
+Needs assessment report
+
+
+FGD meetings and needs assessment
+
+
+3 Sub counties 1Focus Group Discussions, 15 pax @10,000 X 3
+
+
+                                 
+
+
+3Consultant @50,000 x 6Days
+
+
+ 
+
+
+2 Assistant@ 15,000 X 6 Days
+
+
+                                 
+
+
+Logistics and Travel (Fuel, drivers, accommodation, 
+
+
+                                 
+
+
+Reconnaissance survey
+
+
+ 10 Experts @ 50,000 x5 Days
+
+
+                               
+
+
+3 Assistant@ 15,000 X 5 Days
+
+
+                                 
+
+
+Logistics and Travel (Fuel, drivers, accommodation,  Office visits &Data cost)
+
+
+                              
+
+
+Determining data needs, tools  & identifying key stakeholders
+
+
+Work session retreat, 5 Day for  consultant and experts 
+
+
+                              
+
+
+GIS LAB
+
+
+TOTAL
+
+
+Hardware; Software; Expert; Training; Plotter
+
+
+                  
+
+
+Visioning
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1st Stakeholder Workshop
+
+
+Conference facilities 125 x 3 @ 3000/=
+
+
+ 
+
+
+ 
+
+
+1 Lead Consultant- 1 x 50000 x 5 days
+
+
+                       
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 5 days
+
+
+                    
+
+
+ 
+
+
+Travelling refund 100 x 2000/= x 3
+
+
+                      
+
+
+ 
+
+
+Logistics and Travel (Fuel, drivers, accommodation, 
+
+
+                    
+
+
+ 
+
+
+Workshop preparation and mobilization
+
+
+                       
+
+
+ 
+
+
+5 Logistic team - 5 x 10000 x 5 days
+
+
+                                 
+
+
+ 
+
+
+Accommodation 14 pax x 15000 x 5 days
+
+
+                              
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Data Collection and Digital mapping
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+Acquiring Satellite image
+
+
+                           
+
+
+ 
+
+
+Acquiring Topo cadastral data
+
+
+                              
+
+
+Establishing ground controls
+
+
+3 Surveyor - 3 x 30000 x 20 days
+
+
+                               
+
+
+ 
+
+
+6 Assistants - 6 x 15000 x 20 days
+
+
+                              
+
+
+ 
+
+
+3 Drivers - 10000 x 20 days x 3
+
+
+                                 
+
+
+ 
+
+
+9 Casuals -9 x 1000 per day x20 days
+
+
+                                 
+
+
+ 
+
+
+Materials
+
+
+                               
+
+
+ 
+
+
+Logistics and travel - 15000 per vehicle per day x 20 days
+
+
+                                 
+
+
+Preparation of base map
+
+
+Processing of the spatial data - 30000 x 30 days
+
+
+                                 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Socio-economic survey
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Desktop review
+
+
+7 Researchers - 7 x 20000 x 20 days
+
+
+                              
+
+
+ 
+
+
+35 Assistants - 35 x 10000 x 20 days
+
+
+                              
+
+
+ 
+
+
+Logistics and travel - 50000 per day x 20 days
+
+
+                               
+
+
+Social & Physical infrastructure mapping
+
+
+14 Planning Assistants  -14 x 10000 x 10 days
+
+
+                              
+
+
+ 
+
+
+Logistics and travel - 14 x 2000 per day x 10 days
+
+
+                                 
+
+
+Analysis and Interpretation
+
+
+1 Lead Consultant- 1 x 50000 x 10 days
+
+
+                                 
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 10 days
+
+
+                              
+
+
+ 
+
+
+16 Experts  - 16 x 25000 x 10 days
+
+
+                              
+
+
+ 
+
+
+7 Researchers - 7 x 20000 x 10 days
+
+
+                              
+
+
+ 
+
+
+1 Statistician - 1 x 30000 x 10 days
+
+
+                                 
+
+
+ 
+
+
+3 Logistic team - 3 x 10000 x 10 days
+
+
+                                 
+
+
+ 
+
+
+Accommodation 36 pax x 15000 x 10 days
+
+
+                               
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2nd  Stakeholder Workshop
+
+
+Conference facilities 125 x 3 @ 3000/=
+
+
+ 
+
+
+ 
+
+
+Travelling refund 100 x 2000/= x 3
+
+
+                       
+
+
+ 
+
+
+Logistics and Travel (Fuel, drivers, accommodation, 
+
+
+                    
+
+
+ 
+
+
+Workshop preparation and mobilization
+
+
+                       
+
+
+ 
+
+
+1 Lead Consultant- 1 x 50000 x 5 days
+
+
+                       
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 5 days
+
+
+                     
+
+
+ 
+
+
+10 Logistic team - 10 x 10000 x 5 days
+
+
+                       
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Formulating Draft CS Plan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+1 Lead Consultant- 1 x 50000 x 10 days
+
+
+                                 
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 10 days
+
+
+                              
+
+
+ 
+
+
+16 Experts  - 16 x 25000 x 10 days
+
+
+                               
+
+
+ 
+
+
+5 Technical Support team - 5 x 20000 x 10 days
+
+
+                              
+
+
+ 
+
+
+3 Logistic team - 3 x 10000 x 10 days
+
+
+                                 
+
+
+ 
+
+
+Accommodation 33 pax x 15000 x 10 days
+
+
+                              
+
+
+ 
+
+
+Logistics and travel - 33 x 2000 per day x 10 days
+
+
+                                 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+3rd   Stakeholder Workshop
+
+
+Conference facilities 125 x 3 @ 3000/=
+
+
+                   
+
+
+ 
+
+
+Travelling refund 100 x 2000/= x 3
+
+
+                       
+
+
+ 
+
+
+Logistics and Travel (Fuel, drivers, accommodation, 
+
+
+                   
+
+
+ 
+
+
+Workshop preparation and mobilization
+
+
+                       
+
+
+ 
+
+
+1 Lead Consultant- 1 x 50000 x 5 days
+
+
+                       
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 5 days
+
+
+                    
+
+
+ 
+
+
+10 Logistic team - 10 x 10000 x 5 days
+
+
+                       
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Notices
+
+
+Issue notice of completion of spatial plan
+
+
+ 
+
+
+ 
+
+
+Final plan
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Incorporating the comments into the draft plan
+
+
+1 Lead Consultant- 1 x 50000 x 5 days
+
+
+                       
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 5 days
+
+
+                   
+
+
+Presentation of the Final Draft to the County Sector Heads
+
+
+1 Lead Consultant- 1 x 50000 x 2 days
+
+
+                                 
+
+
+ 
+
+
+8 Thematic experts - 8 x 30000 x 2 days
+
+
+                                 
+
+
+ 
+
+
+16 Experts  - 16 x 25000 x 2 days
+
+
+                                 
+
+
+ 
+
+
+5 Technical Support team - 5 x 20000 x 2 days
+
+
+                                 
+
+
+ 
+
+
+Logistics and travel - 50 x 10000 per day x 1 day
+
+
+                                  
+
+
+Editing and designing
+
+
+ 
+
+
+                              
+
+
+Printing
+
+
+ 
+
+
+                             
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Project Administration Management
+
+
+Project Management
+
+
+Periodic field visit, follow up, field meetings, consultation with consultants, over sighting and allowances
+
+
+                           
+
+
+Preplanning
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Issuance of Notices for intent to plan
+
+
+ 
+
+
+ 
+
+
+Facilitation
+
+
+Utilities (stationery, communication, electricity, water, vehicle maintenance)
+
+
+                               
+
+
+equipment
+
+
+4 Desktop Computers
+
+
+                                 
+
+
+ 
+
+
+4 Laptops
+
+
+                              
+
+
+ 
+
+
+1 Printers
+
+
+                                    
+
+
+ 
+
+
+3 Vehicles (Insurance and maintenance)
+
+
+                            
+
+
+ 
+
+
+2 Cameras
+
+
+                                 
+
+
+ 
+
+
+3 GPS
+
+
+                                 
+
+
+Office space
+
+
+Rent (15000 x 18 months)
+
+
+                                 
+
+
+Fuel
+
+
+ 
+
+
+                              
+
+
+Launching County Spatial Plan
+ 
+ 
+ 
+
+
+One day public Launch Event
+
+
+ 
+
+
+                              
+
+
+ 
+
+
+Consultants Professional Fee plus 16% VAT
+
+
+                  
+
+
+ 
+
+
+Contingencies  10% of Grand total
+
+
+                  
+
+
+ 
+
+
+GRAND TOTAL
+
+
+        
+
+
+PRE-PLANNING
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+TORs
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Desktop review
+
+
+ 
+
+
+                                 
+
+
+Reconnaissance survey
+
+
+10 days (fuel, allowances, stationaries)
+
+
+                              
+
+
+scoping
+
+
+ 3 days Retreat
+
+
+                              
+
+
+Needs Assessment
+
+
+Consultations
+
+
+ 
+
+
+                                  
+
+
+Drafting of the TORs
+
+
+ 
+
+
+                                 
+
+
+ 
+
+
+Total
+
+
+                               
+
+The exemplar budget is based on a county with three sub counties.
+The consultant daily allowance is based on UN rates for consultant of comparable level
+The sub county is taken as the ideal unit of stakeholder engagement
+References
+Republic of Kenya (2010); The Kenya Constitution, 2010
+Republic of Kenya (2012); County Governments Act, 2012
+Republic of Kenya (2011); Urban Areas and Cities Act, 2011
+Republic of Kenya (2012); Land Act 2012
+Republic of Kenya (2012); Inter-governmental Relations Act, 2012
+Republic of Kenya (2011); Commission on Revenue Allocation Act, 2011
+Republic of Kenya (2012); National Land Commission Act, 2012
+Republic of Kenya (2012); Land Registration Act, 2012
+Republic of Kenya (2012); Public Finance Management Act
+Republic of Kenya (2005); Public Procurement and Disposal Act,  2005
+Republic of Kenya (2009); Sessional Paper Number 3 of 2009 on National Land Policy;
+William Earle Cole (2006): Recent Trends in Rural Planning, Hard Press, Miami
+Dino Boni, Abdul Khakee and CosimoLacirignole(1997): Evaluating Theory-Practice and Urban-Rural Interplay in Planning; Springer Science and Business Media
+Randolph, John (2004): Environmental Land Use Planning and Management; Island Press; Washington, Covelo, London.
+Joan Davidson and Gerald Wibberly: Planning and the Rural Environment: Pergamon Press, New York, Toronto
+Technical Guidelines for Coastal Land use Planning (2002) -North Carolina Division of Coastal Management
+Evan Richart and Sylvia Most: Comprehensive Planning: A Guidelines for Mane Communities
+Edward J. Kaiser, David R. Godschalk and E. Stuart Chapin (1995); Urban Land Use Planning; University of Illinois Press; Urbana and Chicago
+Ref. Appendix to information on consultant PPOA 2005 Supplement No.77.
+ 
+(MR/8448729)
+

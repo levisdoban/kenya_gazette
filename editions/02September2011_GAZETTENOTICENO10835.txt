@@ -1,0 +1,649 @@
+
+				Page: 3374GAZETTE NOTICE NO. 10835
+THE ENERGY ACT
+(No. 12 Of 2006)
+INVITATION OF PUBLIC COMMENTS ON THE PROPOSED REGULATIONS IN RESPECT OF ELECTRICAL INSTALLATION WORK
+PURSUANT to section 110 (3) of the Energy Act, 2006, the Energy Regulatory Commission hereby invites members of the public to submit written comments within forty (40) days from the date of publication of this notice to the Director-General, the Energy Regulatory Commission, on the proposed Regulations in respect of Electrical Installation Work which are set out in Part II hereunder.
+Comments may be hand-delivered, posted, and facsimiled or e-mailed to the Energy Regulatory Commission.
+Physical address:
+The Energy Regulatory Commission
+First Floor, Eagle Africa Centre
+Longonot Road, Upperhill
+Nairobi
+Postal address:
+P.O. Box 42681 -00100 GPO
+Nairobi
+Facsimile Number: +254 20 2717603
+E-mail address: info@erc.go.ke
+THE ENERGY ACT
+(No. 12 of 2006)
+THE ENERGY (ELECTRICAL INSTALLATION WORK) REGULATIONS, 2011
+Citation:
+1.  These Regulations may be cited as the Energy (Electrical Installation Work) Regulations, 2011.
+Application:
+2.  These Regulations shall apply to all premises and areas in Kenya.
+Interpretation:
+3.  In these Regulations, unless the context otherwise requires—
+“Act“ means the Energy Act, 2006;
+“Commission” means the Energy Regulatory Commission established under section 4 of the Act;
+"electrical installation" includes all material, wiring or apparatus situated upon any premises for use or intended for use in connection with the supply of electrical energy to such premises;
+"electrical installation licence" means a licence authorizing a person to carry out electrical installation work either individually or as a body corporate or incorporate for voluntary, business, training, or teaching purposes in the electrical installation works either for gain or reward or for no charge at all;
+"electrical installation work" means the installation, alteration, or repair, wholly or partially, of any conductor or apparatus or system of wiring in or upon premises of an electricity consumer connected or intended to be connected to a supply of electricity where the voltage in any part exceeds 110 volts;
+Powers of the Commission:
+4. (1) The Commission shall have power—
+(a) To issue, amend, suspend or revoke an electrical installation licence  in accordance with these Regulations; and
+(b) To inquire into and resolve complaints against licensees and/or between licensees.
+Establishment and Constitution of the Licensing Committee”
+5. (1) For the purpose of licensing electricians and registration of electrical contractors in accordance with Regulation 4 and of exercising the other powers conferred on it under these Regulations, there shall be established a committee to be known as the Electricians and Electrical Contractors Licensing Committee, hereinafter referred to as the “Licensing Committee”.
+(2) The members of the Licensing Committee shall be appointed from among persons with a university degree in electrical engineering or its equivalent and not less than ten years relevant experience in matters related to electricity distribution and supply and shall consist of–
+(a) a Chairperson, Vice Chairperson and Secretary appointed by the Director General and who are employees of the Commission.
+(b) Four other members licensed as Class A Electricians and who are persons possessing, in the opinion of the Commission, expert knowledge of matters likely to come before the Licensing Committee and who shall be proposed for appointment by:
+(i)  Engineers Registration Board
+(ii) Public Electricity Suppliers
+(iii)                       Ministry of Energy
+(iv)                       Electrical Contactors
+(c) the members under paragraph (b) shall be appointed by the Director General for a term of four years, renewable once.
+Termination of appointment of the Licensing Committee members:
+6. (1) A member of the Licensing Committee may resign office by notice in writing delivered to the Director General of the Commission.
+(2) The Director General may on the recommendation of the Licensing Committee, remove from office a member who—
+(a)      is unable to perform the functions of his office by virtue of mental or physical infirmity of body or mind;
+(b)      is absent from three consecutive meetings of the Licensing Committee without reasonable cause to the satisfaction of the Licensing Committee;
+(c)      is declared or becomes bankrupt;
+(d)      fails to disclose to the Licensing Committee any conflict of interest in any conduct of business or matter before the Committee; or
+(e)      is convicted of criminal offence involving dishonesty, fraud or moral turpitude and sentenced for a term exceeding six months.
+Meetings of the Licensing Committee:
+7 (1) The Licensing Committee shall meet as often as necessary for the transaction of business at such places and at such times as may be decided upon by the Committee but it shall meet at least five times every year.
+(2) Subject to the provisions of the Act the Licensing Committee may regulate its own procedure.
+Electrical installation licences:
+8. (1) The Commission, may, on application being made to it, grant to the applicant any of the prescribed classes of licences as set out in the First Schedule.
+(2) An application for a licence shall be made to the Commission on the prescribed form ERC 001 as set out in the Fourth Schedule, and such application shall specify the class of licence in respect of which the application is made and shall be accompanied by the prescribed application fees as set out in the Second Schedule
+(3) The applicant shall furnish to the Commission such evidence or particulars as may be required relating to the applicant’s previous experience of electrical installation work.
+(4) The Commission may require and cause such applicant, for the purpose of ascertaining his ability to undertake, engage in or perform electrical installation work, to be examined, in such manner as it may determine, upon any matter or thing in connection with his application.
+Grant and conditions of electrical installation licences:
+9. (1) The Commission may grant the applicant such type of licence as in its opinion he is qualified to hold, and the Commission may refuse to grant any licence to any applicant, setting out in writing reasons thereof.
+(2) To be licensed as an electrician, an applicant shall possess the prescribed minimum qualifications and be subjected to licence entry points and upper licence limits as set out in Table 1 in the Third Schedule.
+(3) In addition to professional qualifications, the applicant shall furnish the Commission with evidence of on the job attachment with a licensed electrical contractor or having worked under a licensed electrician for at least one year.
+(4) The applicant shall be required to pay the prescribed fees as set out in the Second Schedule on the granting of the corresponding class of licence.
+(5) The applicant shall be required to pay the prescribed fees as set out in the Second Schedule for a renewal of any class of licence on or before the 31st March in each year:
+Provided that the prescribed fee for a licence renewed after the 31st March of the year in which it was due shall be one and a half times the prescribed fees for licence renewal.
+(6) The Commission shall maintain a register of all licensed electricians for the time being licensed under these Regulations.
+(7) Any licence issued under this Regulation which is not renewed for two consecutive years shall, unless the licensee has before expiry of the licence informed the Commission in writing of his intention and reasons not to renew the licence, be deemed to have been revoked and shall not be considered for renewal.
+(8) An electrician shall practice for at least two years before applying for upgrading of his licence.
+Electrical Contractor Licence:
+10. (1) To be licensed by the Commission as an electrical contractor a person shall—
+(a) be a licensed electrician and has held the licence for at least one year, or
+(b) have in his full time employment, a licensed electrician and
+(c)   not be in the employment of any other person.
+(2) An application for an electrical contractor licence shall be made to the Commission on the prescribed form ERC 002 as set out in the Fourth Schedule, and such application shall specify the class of licence in respect of which the application is made and shall, depending on the class of licence applied for, be accompanied by the prescribed application fees as set out in the Second Schedule.
+(3) The applicant shall be required to pay the prescribed fees as set out in the Second Schedule on the granting of the corresponding class of licence.
+(4) Subject to paragraph (8), every licence shall remain in force until 31st December in the year in which it is granted and may, subject to such conditions as may be specified by the Commission, be renewed.
+(5) An electrical contractor shall be required to pay the prescribed fees as set out in the Second Schedule for a renewal of any class of licence on or before the 31st March in each year.
+Provided that for any licence renewed after the 31st March the prescribed fees for renewal shall be one and half times the prescribed fees for renewal of licence.
+(6) The Commission shall maintain a register of all electrical contractors and their business names and, in the case of a business having more than one branch, a separate licence shall be effected in respect of each branch.
+(7) The Commission shall not licence any electrical contractor who is unable to satisfy it that he carries on a business at premises constituting a permanent address.
+(8) The licence of any business or branch thereof shall become void upon the expiration of thirty days from the date of any change in the ownership of such business or branch, or upon the business or branch being transferred from the premises in respect of which it is licensed:
+Provided that where the licence holder requests the Commission in writing to sanction such change of ownership or transfer from premises the licence shall not become void until the next meeting of the Licensing Committee.
+Electrical installation work:
+11. (1) An electrical contractor undertaking any electrical installation work shall submit a commencement notice on the prescribed form ERC 003 as set out in the Fourth Schedule to an electricity supplier delivering the supply.
+(2) An authorized electrician of the electrical contractor or the electrical contractor, as the case may be, completing or directing the completion of the electrical installation work shall submit a completion certificate on the prescribed form ERC 004 as set out in the Fourth Schedule to an electricity supplier delivering the supply.
+(3) Notwithstanding the provisions under this Regulation, the commencement notice and the completion certificate for electrical installation work shall be submitted by the same electrical contractor unless a special permission is granted by the Commission.
+(4) Any person who fails to comply with this Regulation shall be guilty of an offence and liable to such punishment as provided in Regulation 14.
+(5) Any person who submits or causes to be submitted to an electricity supplier a completion certificate which he knows or has reason to believe is false in any particular material shall be guilty of an offence and liable to such punishment as provided in Regulation 14.
+Periodic Testing and Inspection of Electrical Installations:
+12. (1) The owner or manager of a building shall ensure regular inspection and testing of electrical installations of the building is conducted to ascertain the installations are in good and safe condition.
+(2) The owner or manager of a building shall affix a notice at or near the electrical installation showing the prescribed intervals between periodic inspections and tests as set out in Table 2 in the Third Schedule.
+(3) The owner or manager of a building shall engage the services of a licensed electrician or electrical contractor to carry out periodic tests and inspections and shall be issued with a valid test and inspection certificate which shall be displayed at the main entrance of the building.
+(4) The electricity supplier shall issue a fourteen days defective installation notice to the owner or manager of any building which is overdue for periodic testing and inspection for compliance, failing to which the supply shall be disconnected until proof of a valid test and inspection certificate.
+Failure to comply with licensing conditions:
+13. (1) The Commission may in its absolute discretion refuse to licence or may suspend or revoke the licence of any business or branch of a business unless it is satisfied that there is and shall continue to be employed in the business or branch on a full time basis, an electrician who holds a licence appropriate to the electrical installation work proposed to be undertaken by such business or branch and who is and shall continue to be available to direct all such work.
+(2) The Commission may at any time by giving a seven days notice in writing to an electrical contractor, suspend the licence of the business of such electrical contractor or of a branch thereof until the next meeting of the Licensing Committee.
+(3) Any electrical contractor who—
+(a) undertakes or carries out by himself, his servant, or agent any electrical installation work at any time whilst his business or any branch thereof is not licensed or while the licence of such business or branch is suspended; or
+(b) undertakes or carries out, by himself, his servant or agent any electrical installation work except under the direction of a licensed electrician holding a licence of a type appropriate to such work,
+shall be guilty of an offence and liable to such punishment as provided in Regulation 14.
+(4) Any owner or occupier of any premises or any developer or main contractor of any premises under construction who causes or permits to be carried out upon the premises any electrical installation work in contravention of these Regulations shall be guilty of an offence and liable to such punishment as provided for in Regulation 14.
+(5) Any person who contravenes or fails to comply with any of the terms and conditions of any licence issued under these Regulations or willfully give false or misleading information under or for the purposes of these Regulations shall be guilty of an offence and liable to such punishment as provided in Regulation 14.
+(6) Any person who undertakes or carries out any electrical installation work without being the holder of a licence then in force appropriate to the work undertaken or carried out or without being under the direction of such a licence holder shall be guilty of an offence and liable to such punishment as provided in Regulation 14.
+(7) (a) The Commission may suspend or revoke the licence of any licensed electrician upon being satisfied that the licensed electrician has contravened any of the provisions of these Regulations.
+(b) Where the Commission suspends or revokes the licence of any licensed electrician it shall remove his name from the register of licensed electricians for the time being licensed under these Regulations.
+(c) Upon the suspension or revocation of the licence of any licensed electrician under paragraph (a), the Commission may, by written notice to such licensed electrician, disqualify him from holding a licence or a particular type of licence for such period as the Commission deems fit.
+(d) Before exercising its powers under paragraph (a), the Commission shall by notice in writing afford the licensed electrician whose licence it is proposed to suspend or revoke an opportunity of appearing or being represented before it to show cause why the Commission should not exercise its power under this Regulation.
+(8) Every licence shall, unless previously suspended or revoked under paragraph (7) remain in force until the 31st December, in the year in which it is granted and shall not be transferable, but may be subject to such conditions as may be specified by the Commission, before it is renewed.
+Offences and penalties:
+14. (1) Any person—
+(a) who undertakes or carries out any electrical installation work without being the holder of a licence then in force appropriate to the work undertaken or carried out or without being under the direction of a suitably licensed electrician;
+(b) who contravenes or fails to comply with any of the terms and conditions of any electrical installation licence granted under these Regulations or willfully gives false or misleading information in relation to electrical installation work;
+(c) who fails to comply with Regulation 11;
+(d) who submits or causes to be submitted to an electricity supplier a completion certificate which he knows or has reason to believe is false in any particular material;
+(e) who, being an electrical contractor, undertakes or carries out by himself, his servant, or agent any electrical installation work at any time whilst his business or any branch thereof is not licensed or while the licence of such business or branch is suspended or revoked;
+(f)  who, being an electrical contractor, undertakes or carries out, by himself, his servant or agent any electrical installation work except under the direction of a licensed electrician holding a licence of a type appropriate to such work; or
+(g) who, being an owner or occupier of any premises or any developer or main contractor of any premises under construction, who causes or permits to be carried out upon the premises any electrical installation work in contravention of these Regulations ;
+shall be guilty of an offence and shall be liable to a fine not exceeding one hundred thousand shillings or a term of imprisonment not exceeding three months or to both such fine and imprisonment.
+(2) Any person who contravenes or fails to comply with any of these Regulations or who fails to comply with any prohibition or order of the Commission under any of these Regulations shall, where no specific punishment is prescribed under paragraph (1) hereof, be guilty of an offence and shall be punishable with a fine not exceeding one hundred thousand shillings or a term of imprisonment not exceeding three months or to both such fine and imprisonment.
+Offences by corporate bodies:
+15. Where any offence under these Regulations is committed by a company, co-operative society or other corporate body is proved to have been committed with the consent or connivance of, or to have been facilitated by any director, chairman, manager, secretary or other officer thereof, he, as well as the company, co-operative society or other corporate body shall be guilty of an offence and liable to be prosecuted against and punished according to Regulation 14.
+Appeals:
+16. Any person aggrieved by a decision or order of the Commission may, within thirty days of communication to him of the order or decision appeal to the Energy Tribunal established under Section 107 of the Act.
+Subsidiary Legislation
+17. The Electric Power (Electrical Installation Work) Rules, 2006, are revoked
+                                First Schedule                                   (r. 8)
+Classes of licences:
+(a) Class C-2, which shall entitle the holder to carry out electrical installation work for connection to a single phase supply at low voltage, restricted to up to two storey residential and commercial buildings not used as factories or places of public entertainment;
+(b) Class C-1, which shall entitle the holder to carry out electrical installation work as in Class C-2, and for connection to a three phase supply at low voltage, restricted to up to four storey buildings not used as factories or places of public entertainment;
+(c)  Class B, which shall entitle the holder to carry out electrical installation work as in Class C-1, but without limitation as to number of storeys in the buildings and whether used as factories or places of public entertainment or otherwise, and for connection to supply metered at voltages not exceeding medium;
+(d) Class A, which shall entitle the holder to carry out all kinds of electrical installation work;
+(e)  Class S, which shall entitle the holder to carry out specialized electrical installation work.
+                              Section Schedule                      (r. 8, 9, 10)
+ FEES
+1. Application Fees for Electrical Installation Licences
+Class of Licence                             Application Fees (KSh.) 
+(a) Class C-2………………………….………..        250
+(b) Class C-1………………………….………..        500
+(c) Class B……………………………………..         750
+(d) Class A………………………...…………..      1,000
+(e) Class S…………………………....………..         750
+2. Grant Fees for Electrical Installation Licences
+Class of Licence                                   Licence Fees (KSh.)
+(a) Class C-2……………………………………..    1,000
+(b) Class C-1……………………………………..    2,000
+(c) Class B……………………………...………..     3,000
+(d) Class A…………....................……...………..   5,000
+(d) Class S………………….....………...………..    3,000
+3. Renewal Fees for Electrical Installation Licences
+Class of Licence                     Licence Renewal Fees (KSh.) 
+(a) Class C-2 ……………................……………….      500
+(b) Class C-1……………...........…………………..       750
+(c) Class B …………………........................………   1,000
+(d) Class A……………………......………………..     2,000
+(d) Class S ……………………........………………    1,000
+4. Application Fees for Registration as Electrical Contractor
+Class of Licence                                Application Fees (KSh.)
+(a) Class C-2………………………………..            250
+(b) Class C-1………………………………..            500
+(c) Class B……………………………………..        750
+(d) Class A…………………………………..           1,000
+(e) Class S…………………………………..            750
+5. Grant Fees for Registration as Electrical Contractor
+Class of Licence                                   Licence Fees (KSh.)
+(a) Class C-2…………………………………..        1,000
+(b) Class C-1………………………………..            2,000
+(c) Class B………………………………..               3,000
+(d) Class A…………………………………..           5,000
+(d) Class S………………………………………..    3,000
+6. Renewal Fees for Registration as Electrical Contractor
+Class of Licence                                       Renewal Fees (KSh.) 
+(a) Class C-2………………………………..            1,000
+(b) Class C-1………………………………..            2,000
+(c) Class B……………………………………..        3,000
+(d) Class A……………………………………..       5,000
+(e) Class S……………………………………..        3,000
+                                Third Schedule                            (r. 9, 12)
+Table 1 Electrician Licence academic/technical qualification
+
+Minimum Academic qualification
+
+
+Minimum Technical Qualifications
+
+
+Starting Licence
+
+
+Highest Licence Achievable
+
+
+KCPE
+
+
+Electrician Wireman Grade II and other equivalent certificates
+
+
+C2
+
+
+C2
+
+
+KCSE
+
+
+Electrician Wireman Grade II and other equivalent certificates
+
+
+C2
+
+
+C1
+
+
+KCSE
+
+
+Electrician Wireman Grade I and other equivalent certificates
+
+
+C2
+
+
+B
+
+
+KCSE
+
+
+Electrical Technician part II, III, Final Craft Certificate, Diploma in Electrical Engineering and other equivalent certificates
+
+
+C2
+
+
+A
+
+
+KCSE
+
+
+Higher National Diploma, BSC in Electrical Engineering and other equivalent certificates
+
+
+C1
+
+
+A
+
+
+KCSE
+
+
+Higher National Diploma in Electrical Engineering and Registered as Technician Engineer By ERB
+
+
+B
+
+
+A
+
+
+KCSE
+
+
+BSC in Electrical Engineering and Registered as Electrical Engineer by ERB
+
+
+A
+
+
+A
+
+
+KCSE
+
+
+Minimum qualification, Electrician Wireman Grade II and other equivalent certificate.
+
+
+S
+
+
+S
+
+Table 2—Prescribed Intervals between Periodic Tests and Inspections of Electrical Installations
+
+Type of installation
+
+
+Maximum period between inspections
+
+
+Domestic premises
+
+
+10 years
+
+
+Commercial premises
+
+
+5 years
+
+
+Educational establishments
+
+
+5 years
+
+
+Hospitals
+
+
+5 years
+
+
+Industrial premises
+
+
+3 years
+
+
+Cinemas
+
+
+1 year
+
+
+Churches
+
+
+5 years
+
+
+Leisure complexes
+
+
+1 year
+
+
+Places of public entertainment
+
+
+1 year
+
+
+Theatres, etc.
+
+
+1 year
+
+
+Agricultural and horticultural
+
+
+3 years
+
+
+Caravans
+
+
+3 years
+
+
+Caravan sites
+
+
+1 year
+
+
+Emergency lighting
+
+
+3 years
+
+
+Fire alarm systems
+
+
+1 year
+
+
+Launderettes
+
+
+1 year
+
+
+Petrol filling stations
+
+
+1 year
+
+
+Public Houses
+
+
+5 years
+
+
+Marinas
+
+
+1 Year
+
+
+Highway power supplies
+
+
+6 years
+
+
+Temporary installation
+
+
+3 months
+
+                              Fourth Schedule                     (r. 8, 10, 11)
+FORMS
+Form ERC 001
+Application for Electrical Installation Licence
+The Director General
+Electricity Regulatory Commission
+P.O. Box 42681-00100, GPO
+NAIROBI
+I, ………………………………………………………………………. hereby apply to be licensed as an electrician in accordance with the Energy (Electrical Installation Work) Regulations, 2011 for the following class* of licence—
+Class C-2, to carry out electrical installation work for connection to a single phase supply at low voltage to up to two storey residential and commercial buildings not used as factories or places of public entertainment;
+Class C-1, to carry out electrical installation work as in Class C-2, and for connection to a three phase supply at low voltage to up to four storey buildings not used as factories or places of public entertainment;
+Class B, to carry out electrical installation work as in Class C-1, but without limitation as to number of storeys in the buildings and whether used as factories or places of public entertainment or otherwise, and for connection to supply metered at voltages not exceeding medium;
+Class A, to carry out all kinds of electrical installation work;
+Class S, to carry out work specialized electrical installation work.
+*(Delete classes that do not apply)
+I promise to carry out all electrical installation works undertaken by me strictly in accordance with the Energy Act, No 12 of 2006 and any Regulations and by-laws for the time being in force therein.
+Name in full…………………………………………………………….
+(Block capitals, surname first)
+Postal Address……………………… Postal Code ………............……
+Town……...........…… Mobile No. …….……… ………...……………
+Date of Birth…………..........………. Nationality……………………..
+Name and address of present employer, (if any……………………...…
+Title of present job……………………………….....…………………..
+…………………………………….....………………………………….
+Experience and Qualifications
+Details of educational qualifications and examinations passed………...
+…………………………………………………………………….……
+ (b) Details of apprenticeship (if any) ……………………………...…..
+…………………………………………..................................…………
+(c) Subsequent experience in the work of an electrician or a wireman
+(Trade Test Certificate, if any)………………………………………...
+..................................................................................................................
+Knowledge of Regulations: 
+The regulations for the electrical equipment of buildings by the Institution of Electrical Engineers, Great Britain. Yes/No
+ Occupational Health and Safety Act                                  Yes/No
+Regulations made under section 63 & 110 of the Energy Act, No 12 of 2006. Yes/No
+Local Supply System Tariffs. Yes/No
+Details of electrical installation licence held (if any)
+Licence No……………………………….................…………………..
+Issued on………………………….................………………………….
+Issued by……………………….................…………………………….
+For the licence applied for I was at first interviewed on……...………...
+I declare that the particulars given by me are true and correct
+Cheque or postal order No………………………. dated……………..
+For KSh. ……………………. being the application fee is enclosed.
+Date………………………
+Signature of Applicant
+REFEREES 
+(The following details to be completed by two independent referees who must have known the applicant’s ability very well, preferably in the trade)
+1st Referee
+I declare that the particulars given by the applicant in this form are true and correct to the best of my knowledge.
+Full Name: ……………………………………………………………..
+(Block letters, surname first)
+Occupation: …………………………………………………………...
+Postal address: ………… Postal Code ………………Town………….
+Telephone ………................……......... Mobile………………………..
+Electrical installation licence No. (if any) ………………….………….
+I have known the above person for …………………….. years.
+Position held at present……………………………………....…………
+Date……………………
+Signature of 1st referee……………………………………………
+2nd Referee 
+I declare that the particulars given by the applicant in this form are true and correct to the best of my knowledge.
+Full Name: …………………………………………………………….
+(Block letters, surname first)
+Occupation: ……………………………......…………………………...
+Postal address: ……...…… Postal Code …........…..Town…………….
+Telephone ………..........……...........
+.Mobile…………...........…..Email…….....................................……….
+Electrical installation licence No. (if any) …………………………..…
+I have known the above person for …………………………….. years.
+Position held at present…………………………………………………
+Date……………………………………..
+Signature of 2nd referee……………………………………………
+Note.—If the applicant fails to attend examinations/interviews for two consecutive times, the application will be revoked.
+Form ERC 002
+APPLICATION FOR LICENCING OF ELECTRICAL CONTRACTOR, BUSINESS OR BRANCH
+The Director General
+Electricity Regulatory Commission
+P.O. Box 42681, 00100 GPO
+NAIROBI
+I/We……………………………………………………………………
+…………………………………………………………………………
+hereby certify that I/we intend to conduct the business of Electrical Contractor at premises/branch occupied by me/us situated at………………………………………………………………….....….
+…………………………………………………………..………………
+…….……………………………………………………………………
+Description of the premises:
+Town……………………………………….
+Location/name of the Road…………………………………….....…….
+Name of the Building………………………………..…………...….….
+Whether it is a Branch…………………………………………………..
+Available office and storage area……………………………..……..….
+Details of Business
+Business registration No. and date…………………….......……………
+Postal address ………… Postal Code ……………..Town……………. 
+Telephone ………............ Mobile……..........…..Email………………..
+Names of partners, their addresses and nationalities……………..…….
+………………………………………………………………..…………
+………………………………………………………………..…………
+Licensed electricians who will direct the electrical installation work: (at least one licensed electrician)
+Full name of Electrician                                                      Licence No 
+(1)……………………………             ……………….….........…… ….
+(2)……………………………             ……………….….........…… ….
+(3)……………………………             ……………….….........…… ….
+Areas where the business will operate ……………………………....…
+……………………………………………………………………..……
+……………………………………………………………………..……
+……………………………………………………………………..……
+Previous experience in estimating and costing of electrical projects…..
+…………………………………………………………..………………
+…………………………………………………………..………………
+…………………………………………………………..………………
+Previous experience in electrical installation work…………………….
+…………………………………………………………..………………
+…………………………………………………………..………………
+…………………………………………………………..………………
+Capital available for operating the business KSh……………………....
+…………………………………………………………..………………
+…………………………………………………………..………………
+Name and address of bank(s) or financial institution(s) where the business account(s) is/are maintained …………………….....…………
+…………………………………………………………..………………
+…………………………………………………………..………………
+…………………………………………………………..………………
+…………………………………………………………..………………
+Details of the tools and measuring and testing instruments available:
+(a) List of tools………………………………….....……………………
+…………………………………………………………..………………
+(b) List of measuring and testing instruments…………………………
+…………………………………………………………..………………
+Description Make Serial No.
+(i) ………………………….. ………………….. ………………….......
+(ii) ………………………….. ………………….. ……………………
+(iii) ………………………….. ………………….. …………………....
+(iv) ………………………….. ………………….. ……………………
+(v) ………………………….. ………………….. ……………………
+(vi) ………………………….. ………………….. ……………………
+(vii) ………………………….. ………………….. ……………………
+I/We hereby apply for licensing of the above mentioned Electrical Contractor Branch/Business in accordance with the Energy (Electrical Installation Work) Regulations, 2011 and undertake to carry out all work undertaken by me/us strictly in accordance with the Energy Act No 12 of 2006 and any Regulations and by-laws for the time being in force thereunder.
+I/We hereby, declare that the information I/we have provided in the application is true and correct.
+Cheque or postal order No………………………. dated…………..…..
+for KSh…………………………………………………………….…. being the application fee is enclosed and agree to pay the inspection fee and the initial licensing fee, as and when required.
+Signature of Applicant ………………… Date ……………......……….
+Signature of Applicant ……………..…… Date ………....…………….
+Signature of Applicant ……………......… Date ……............………….
+REFEREES
+(The following details to be completed by two different and independent referees, who would vouch your competence to operate a business of contractor if licensed, your technical ability having already been established. Persons who may not understand what is involved in running a business cannot be accepted as referees).
+1st Referee 
+I certify that the information given in this form is true and correct to the best of my knowledge
+Full name………………………...……………………………………..
+(Block letters, surname first)
+Occupation…………………………………………………………….
+Postal address: ……………… Postal Code ….............Town…………. 
+Telephone ………...... Mobile…………………..Email………………..
+Date……………….. … Signature of 1st Referee…………….......……
+2nd Referee 
+I certify that the information given in this form is true and correct to the best of my knowledge.
+Full name………………………………....…………………………….
+(Block letters, surname first)
+Occupation…………………………….....................…………………..
+Postal address:....……… Postal Code ……………..Town…………….
+Telephone ………....... Mobile………………..Email………………….
+ Date………… Signature of 2nd Referee ……………….......…………
+Note:(1) Attach copies of (i) Business Registration Certificate (ii) Electrician Licence (iii) Office lease agreement or prove of ownership (iv) PIN /VAT Certificate (v) Local Authority Licence (vi) Bank Introduction letter (vii) Route Sketch to your premises
+(2) If the applicant fails to attend exams/interviews for two consecutive times, the application will be revoked.
+Form ERC 003
+COMMENCEMENT OF WORK NOTICE
+No……………………..
+To:
+………………………………………………………………………….
+………………………………………………………………………….
+(Name and address of electricity supplier or the Commission)
+In accordance with Regulation 8 (I) of the Energy (Electrical Installation Work) Regulations, 2011,
+I/we……………………………………………………………………..
+………………………………………………………………………….
+(Name and address of Electrical Contractor)
+hereby give notice that I/we propose to carry out the following work as under:
+for……………………………………………………………………...
+(Name of consumer)
+of………………………………………………………………………
+(Address of consumer)
+at………………………………………………………………………
+(Situation of Property)
+of land office reference No…………………………………………..
+Nature of work: new installation/addition/modification of an existing installation
+(Delete where not applicable)
+Proposed situation of meter-Commission(s) in the case of a new installation or if the site of an existing Commission is to be changed will be ……………………………………………………….........…….
+………………………………………………………………………….
+A service line is/is not required……………………………………….
+I/we have Electrical Contractors Licence No…………………………..
+Class……………………… validated for the current year
+Date……………………...
+Signature of Electrical Contractor
+Note.—Any person who submits a commencement of work notice which is false in any material particular is liable to prosecution under Regulations 10 and 11 of the Energy (Electrical Installation Work) Regulations, 2011.
+Form ERC 004
+COMPLETION CERTIFICATE
+No……………………..
+To:
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+…………………………………………………………………………
+(Name and address of electricity supplier or the Commission)
+In accordance with Regulation 8 of the Energy (Electrical Installation Work) Regulations, 2011;
+I/We……………………………………………………………………
+…………………………………………………………………………
+(Name and address of Electrical Contractor)
+Holding Licence No……………………class……………………and a valid Electrical Contractor licence No………………………class……………………, hereby give notice that the under-mentioned work in connection with the installation of the premises of:
+Name………………………………………………………………….
+Address……………………………………………...is now completed and ready for testing and connection.
+A service line is/is not required:
+Details of installation (stating if new, addition or modification)
+…………………………………………………………………………
+…………………………………………………………………………..
+The work has been carried out and tested and is strictly in accordance with the Energy Act No 12 of 2006 and all Regulations and by-laws for the time being in force thereunder.
+Name of licensed electrician in charge………………………………..
+Class of licence held………………………. Licence No………………
+……………………………………..........................................................
+Signature of Licensed electrician in charge Signature of Electrical Contractor
+Date……………………………… Date…………………………….
+Note.—Any person who submits a completion certificate which is false in any material particular is liable to prosecution under Regulations 12 and 13 of the Energy (Electrical Installation Work) Regulations, 2011.
+(For office use by the electricity supplier)
+Connection order No…………………………….
+Dated the 27th July, 2011.
+MUENI MUTUNG’A,
+MR8042970
+Commission Secretary.
+

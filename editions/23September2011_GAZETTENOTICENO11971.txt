@@ -1,0 +1,1713 @@
+
+				Page: 3700
+GAZETTE NOTICE NO. 11971
+DEPOSIT PROTECTION FUND BOARD
+REPORT AND FINANCIAL STATEMENTS AT 30 JUNE 2011
+DIRECTORS AND STATUTORY INFORMATION
+DIRECTORS
+Prof. Njuguna Ndung'u                                                        Chairman
+Joseph Kinyua                                                                    Permanent Secretary, Treasury
+Martin Gumo                                                                      Alternate to PS Treasury
+Terence Davidson                                                               Member
+Anne Weda Ammissabuor                                                  Member
+James Macharia                                                                   Member
+Nasim Devji*                                                                      Member
+Richard Etemesi                                                                  Member
+Rose Detho                                                                         Director
+Jane K. Ikunyua                                                                  Board Secretary
+* Tanzanian
+BOARD AUDIT COMMITTEE
+Terence Davidson                                                               Chairman
+Richard Etemesi                                                                  Member
+Martin Gumo                                                                      Alternate to PS Treasury
+William Nyagaka                                                                 Member
+SENIOR MANAGEMENT
+Rose Detho                                                                         Director
+Linah C. Soi                                                                        Assistant Director – Finance & Administration
+Jane K. Ikunyua                                                                  Assistant Director - Legal
+Mohamud A. Mohamud                                                      Assistant Director – Liquidations
+W. O. Onyino                                                                      Assistant Director – ICT
+PRINCIPAL PLACE OF BUSINESS
+Marshall House
+Harambee Avenue
+PO Box 45983 - 00100
+Nairobi
+AUDITORS 
+KPMG Kenya
+16th Floor, Lonrho House
+Standard Street
+PO Box 40612 - 00100
+Nairobi
+BANKERS                                                                         
+Central Bank of Kenya Building                                         
+Haile Selassie Avenue                                                        
+PO Box 60000 - 00200                                                      
+Nairobi                                                                               
+REPORT OF THE DIRECTORS FOR THE YEAR ENDED 30 JUNE 2011
+The directors have pleasure in submitting their report together with the audited financial statements for the year ended 30 June 2011 which disclose the state of affairs of the Board.
+1.        Incorporation 
+The Board is incorporated under the Banking Act Cap 488 of the Laws of Kenya.
+2.        Principal activities
+The Board is established and administered under the Banking Act with the principal object to provide a deposit insurance scheme for customers of member institutions and liquidate and wind up the operations of any institution in respect of which the Board is appointed as a liquidator in accordance with the Banking Act or any other written law.
+3.        Results
+The results for the year are set out below.
+4.        Directors
+The directors who served during the year are set out above. 
+5.        Auditors
+The auditors, KPMG Kenya, were appointed during the year ended 30 June 2011 in line with the Public Procurement and Disposal Act (2005), for a period of four years.
+6.        Approval of financial statements
+The financial statements were approved by the directors on 16th September, 2011.
+BY ORDER OF THE BOARD
+JANE K. IKUNYUA
+BOARD SECRETARY
+16TH SEPTEMBER, 2011 
+STATEMENT OF DIRECTORS’ RESPONSIBILITIES FOR THE YEAR ENDED 30 JUNE 2011
+The Directors are responsible for the preparation and presentation of the financial statements of Deposit Protection Fund Board set out below which comprise the statement of financial position at 30 June 2011, the statement of comprehensive income, statement of changes in Board balance and statement of cash flows for the year then ended, and a summary of significant accounting policies and other explanatory notes.
+The Directors’ responsibilities include: determining that the basis of accounting described in Note 2 is an acceptable basis for preparing and presenting the financial statements in the circumstances,  preparation and presentation of financial statements in accordance with International Financial Reporting Standards and in the manner required by the Banking Act and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatements, whether due to fraud or error.
+Under the Banking Act, the Directors are required to prepare financial statements for each financial year which give a true and fair view of the state of affairs of the Board as at the end of the financial year and of the operating results of the Board for that year. It also requires the Director to ensure the Board keeps proper accounting records which disclose with reasonable accuracy the financial position of the Board.
+The Directors accept responsibility for the annual financial statements, which have been prepared using appropriate accounting policies supported by reasonable and prudent judgements and estimates, in conformity with International Financial Reporting Standards and in the manner required by the Banking Act. The Directors are of the opinion that the financial statements give a true and fair view of the state of the financial affairs of the Board and of its operating results.
+The Directors further accept responsibility for the maintenance of accounting records which may be relied upon in the preparation of financial statements, as well as adequate systems of internal financial control.
+The Directors have made an assessment of the Board’s ability to continue as a going concern and have no reason to believe the Board will not be a going concern for at least the next twelve months from the date of this statement.
+Approval of the financial statements
+The financial statements, as indicated above, were approved by the board of directors on 16th September, 2011 and were signed on its behalf by:
+PROF. NJUGUNA NDUNG’U                                                                               TERENCE DAVIDSON
+Chairman                                                                                                Member
+REPORT OF THE INDEPENDENT AUDITORS TO THE MINISTER FOR FINANCE ON THE FINANCIAL STATEMENTS OF THE DEPOSIT PROTECTION FUND BOARD 
+We have audited the financial statements of Deposit Protection Fund Board set out below which comprise the statement of financial position at 30 June 2011, the statement of comprehensive income, statement of changes in fund balance and statement of cash flows for the year then ended, and a summary of significant accounting policies and other explanatory notes.
+Director’s responsibility for the financial statements
+As stated above, the directors are responsible for the preparation and fair presentation of these financial statements in accordance with International Financial Reporting Standards and in the manner required by the Banking Act and for such internal control as the directors determine is necessary to enable the preparation of financial statements that are free from material misstatements, whether due to fraud or error.
+Auditor’s responsibility
+Our responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance with International Standards on Auditing. Those standards require that we comply with relevant ethical requirements and plan and perform the audit to obtain reasonable assurance whether the financial statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on our judgement, including the assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, we consider internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates made by management, as well as evaluating the overall presentation of the financial statements.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Opinion
+In our opinion, the financial statements give a true and fair view of the financial position of the Board at 30 June 2011, and its financial performance and cash flows for the year then ended in accordance with International Financial Reporting Standards and the Banking Act (Cap 488).
+KPMG Kenya
+16TH SEPTEMBER 2011
+STATEMENT OF COMPREHENSIVE INCOME FOR THE YEAR ENDED 30 JUNE 2011
+                                                                                                                                                        2011                                2010
+                                                                                                        Note                                 KShs‘000                         KShs‘000
+REVENUE
+Assessment income                                                                               5(a)                            1,621,317                        1,359,313
+Investment income                                                                                5(b)                           2,501,884                        2,215,972
+Other income                                                                                         6                                       7,688                             11,221
+Write back of protected deposits                                                            7                                          177                                  313
+                                                                                                                                                4,131,066                        3,586,819
+EXPENSES
+Administration and establishment                                                          8                                   189,421                           175,328
+Provision for doubtful debts                                                                  9(b)                                     302                               4,030
+                                                                                                                                                   189,723                           179,358
+SURPLUS FOR THE YEAR                                                                                                  3,941,343                        3,407,461
+The notes set out below form an integral part of these financial statements.
+STATEMENT OF FINANCIAL POSITION AS AT 30 JUNE 2011
+                                                                                                                                                        2011                                2010
+ASSETS                                                                                           Note                                 KShs‘000                         KShs‘000
+Non-current assets
+Property and equipment                                                                       10                                     27,290                             28,550
+Prepaid operating lease rentals                                                             11                                       3,614                               3,713
+Investment held for sale                                                                      12                                          100                                  100
+Government securities                                                                         13                              25,624,852                      17,825,166
+                                                                                                                                              25,655,856                      17,857,529
+Current assets
+Receivables and prepayments                                                                9(a)                                 16,554                               9,356
+Government securities                                                                         13                                2,459,924                        6,311,333
+Cash and bank balance                                                                                                                 12,880                                  946
+                                                                                                                                                2,489,358                        6,321,635
+TOTAL ASSETS                                                                                                                   28,145,214                      24,179,164
+FUND BALANCE AND LIABILITIES
+Fund balance (Page 8)                                                                                                            28,088,169                      24,146,826
+Current liabilities
+Payables and accruals                                                                          14                                       4,937                               5,913
+Due to related party                                                                             15                                     41,592                             26,425
+Deferred income                                                                                  16                                     10,516                                       -
+                                                                                                                                                     57,045                             32,338
+TOTAL FUND BALANCE AND LIABILITIES                                                                    28,145,214                      24,179,164
+The financial statements below were approved by the Board of Directors on 16th September, 2011 and were signed on its behalf by:
+PROF. NJUGUNA NDUNG’U                                                                                         TERENCE DAVIDSON
+Chairman                                                                                                              Member
+The notes set out below form an integral part of these financial statements
+STATEMENT OF CHANGES IN FUND BALANCE FOR THE YEAR ENDED 30 JUNE 2011
+                                                                                                                                                                                  Fund balance
+2010:                                                                                                                                                                               KShs‘000
+Balance at 1 July 2009                                                                                                                                                   20,739,365
+Surplus for the year                                                                                                                                                         3,407,461
+Balance at 30 June 2010                                                                                                                                              24,146,826
+2011:
+Balance at 1 July 2010                                                                                                                                                   24,146,826
+Surplus for the year                                                                                                                                                         3,941,343
+Balance at 30 June 2011                                                                                                                                              28,088,169
+The notes set out below form an integral part of these financial statements.
+STATEMENT OF CASH FLOWS FOR THE YEAR ENDED 30 JUNE 2011
+                                                                                                                                                        2011                                2010
+                                                                                                        Note                                 KShs‘000                         KShs‘000
+Cash flows from operating activities
+Surplus for the year                                                                                                                 3,941,343                        3,407,461
+Adjustment for:
+Depreciation of property and equipment                                                                                         3,439                               3,452
+Amortisation of prepaid operating lease rentals                                                                                   99                                    99
+Interest income                                                                                                                       (2,501,884)                   (  2,215,972)
+Operating surplus before working capital changes                                                                1,442,997                        1,195,040
+Change in working capital
+Receivables and prepayments                                                                                                 (       7,198)                              3,540
+Payables and accruals                                                                                                             (          976)                              1,359
+Deferred income                                                                                                                           10,516                                       -
+Due to related party                                                                                                                      15,167                             13,395
+Net cash flows generated from operating activities                                                               1,460,506                        1,213,334
+Cash flows from investing activities
+Net movement in government securities                                                                                 (4,146,596)                   (11,088,682)
+Purchase of property and equipment                                                                                      (       2,179)                  (          3,674)
+Interest received                                                                                                                      2,501,884                        2,215,972
+Net cash flows from investment activities                                                                             (1,646,891)                  (   8,876,384)
+Net decrease in cash and cash equivalents                                                                              (   186,385)                  (   7,663,050)
+Cash and cash equivalents at the beginning of the year                                                            1,045,607                        8,708,657
+Cash and cash equivalents at the end of the year                              17                                   859,222                        1,045,607
+The notes set out below form an integral part of these financial statements.
+NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2011
+1.            REPORTING ENTITY
+The Board is incorporated under the Banking Act Cap 488 of the Laws of Kenya and is domiciled in Kenya. The address of its registered office is as follows:
+Marshall House
+Harambee Avenue
+PO Box 45983 - 00100
+Nairobi
+2.            BASIS OF PREPARATION
+(a)         Basis of preparation
+The financial statements have been prepared on the historical cost convention except for measurement at fair valuation of certain investments.
+(b)         Statement of compliance
+The financial statements have been prepared in compliance with International Financial Reporting Standards (IFRSs) and interpretation of those standards.
+(c)          Functional and presentation currency
+These financial statements are presented in Kenya Shillings (KShs), which is the Board’s functional currency.
+(d)         Use of estimates and judgements
+The preparation of financial statements in conformity with International Financial Reporting Standards requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent liabilities at the date of financial statements and the reported amounts of revenues and expenses during the reporting period. Although these estimates are based on the directors’ best knowledge of current events, actual results may ultimately differ from those estimates.
+The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to the accounting estimates are recognised in the period in which the estimate is revised if the revision affects only that period or in the period of revision and future periods if the revision affects both current and future periods.
+In particular, information about significant areas of estimation and critical judgement in applying accounting policies that have the most significant effect on the amount recognised in the financial statement is described in Note 4.
+3.            SIGNIFICANT ACCOUNTING POLICIES
+The principal accounting policies applied in the preparation of these financial statements are set out below. These policies have been consistently applied to all the years presented, unless otherwise stated.
+(a)         Revenue recognition
+Assessed income comprises contributions levied to the contributory institutions and is recognized in the period when they are receivable. Such contributions are assessed at a rate of 0.15 per cent of the average of the institutions’ total deposit liabilities during the period of 12 months prior to the date of levy notice.
+Interest income is recognized in the profit or loss for all interest bearing instruments on an accrual basis using the effective interest method based on the actual purchase price. Interest income includes coupon earned and unamortised discount and premium.
+(b)         Translation of foreign currencies
+Transactions in foreign currencies during the year are converted into Kenya Shillings at the exchange rate ruling at the date of the transaction.  Foreign currency monetary assets and liabilities are translated at the exchange rate ruling at the reporting date.  Resulting exchange differences are recognised in profit or loss for the year.
+Non-monetary assets and liabilities denominated in foreign currency are recorded at the exchange rate ruling at the date of transaction.
+(c)          Provisions for payments to depositors
+Provisions for payments to protected depositors are recognized in the financial statements in the period the contributory institutions are placed under liquidation. Any payments that exceed the provisions made are taken into account in determining operating profit. Provisions that relate to unclaimed protected deposits are written back to income on expiry of the statutory notice period.
+(d)         Leases
+Leases where the lessor retains substantially all the risks and benefits of ownership of the asset are classified as operating leases. Payments made under operating leases are recognized as an expense in the statement of comprehensive income on a straight line basis over the lease term.
+(e)          Employee entitlements
+Employee entitlements are recognized when they accrue to employees. A provision is made for the estimated liability for such entitlements as a result of services rendered by employees up to the reporting date. The estimated monetary liability for employees’ accrued annual leave entitlement at the reporting date is recognized as an expense accrual.
+The Board’s employees are eligible for retirement benefits under a defined benefit plan provided through a separate fund. The defined benefit plan is funded by the Board and the Central Bank, the main sponsor. The retirement benefit asset is wholly recognized in the financial statements of the Central Bank while the Board recognizes contributions to the fund as if it were a defined contribution scheme by charging them to the profit and loss account in the year to which they relate.
+The Board also contributes to a statutory defined contribution Pension Scheme, the National Social Security Fund (NSSF). Contributions are determined by local statute and are currently limited to KShs. 200 per employee per month. The contributions are charged to income and expenditure account in the year to which they relate.
+(f)          Taxation
+The Board’s income is not subject to tax as it has been granted exemption by the statute. Therefore no provision for current tax or deferred tax is made in the financial statements.
+(g)         Recognition and measurement of financial instruments
+The Board classifies its financial assets into four categories described below.  Management determines the appropriate classification of its financial instruments at the time of purchase and re-evaluates its portfolio on a regular basis to ensure that all financial assets are appropriately classified.
+(i)           Financial assets at fair value through profit or loss
+Financial assets in this category held for trading are those that the Board principally holds for the purpose of short-term profit taking and/or those designated at fair value through profit or loss at inception.  These are recognised on the date the Board commits to acquire the instruments.
+Trading instruments are initially recognised at cost, including transaction costs.  Subsequent to initial recognition, trading instruments are stated at fair value based on quoted bid prices. Where the fair value cannot be reliably measured, the assets are stated at cost less impairment losses.  Changes in fair value are recognised in profit or loss.
+(ii)         Loans and receivables
+Loans and receivables are financial assets with fixed or determinable payments and fixed maturities that are not quoted in an active market.
+They arise when the Board provides money directly to borrowers, other than those created with the intention of short-term profit taking.  They are recognised at the date money is disbursed to the borrower or when they are transferred to the Board from a third party.
+Subsequent to initial recognition, these are carried at amortised cost, which is the present value of the expected future cash flows, discounted at the instrument’s original effective interest rate. Loan origination fees together with related direct costs are treated as part of the cost of the transaction.
+Amortised cost is calculated using the effective interest rate method.  The amortisation and accretion of premiums and discounts is included in interest income.
+(iii)        Held-to-maturity
+These are financial assets with fixed or determinable payments and fixed maturities that the Board’s management has the positive intention and ability to hold to maturity.  The sale of a significant amount of held-to-maturity assets would taint the entire category leading to reclassification as available-for-sale.
+Subsequent to initial recognition, these are carried at amortised cost, which is the present value of the expected future cash flows, discounted at the instrument’s original effective interest rate.
+Amortised cost is calculated using the effective interest rate method.  The amortisation and accretion of premiums and discounts is included in interest income.
+(iv)        Available-for-sale
+Other financial assets held by the Board are classified as available-for-sale and are initially recognised at cost, including transaction costs. Subsequent to initial recognition, available-for-sale financial assets are stated at fair value based on quoted bid prices. Gains and losses arising from changes in the fair value of available-for-sale financial assets are recognised directly in equity in the fair value reserve, net of deferred tax. When these investments are derecognised, the cumulative gain or loss previously directly recognised in equity is recognised in profit or loss.
+Derecognition
+A financial asset is derecognised when the Board loses control over the contractual rights that comprise that asset. This occurs when the rights are realised, expire or are surrendered. A financial liability is derecognised when it is extinguished.
+Available-for-sale assets and assets held for trading that are sold are derecognised and corresponding receivables from the buyer for the payment are recognised as of the date the Board commits to sell the assets. The Board uses the specific identification method to determine the gain or loss on derecognition.
+Held-to-maturity instruments and loans and receivables are derecognised on the day they are repaid in full or when they are transferred by the Board to a third party.
+(h)         Investment held for sale
+Investment held for sale relates to investment in a subsidiary which is accounted for under IFRS 5 ‘Non-current assets held for sale and discontinued operations’. The investment is stated at the lower of its carrying amount and the fair value less costs to sell.
+(i)           Cash and cash equivalents
+For the purposes of the cash flow statement cash and cash equivalents comprise cash on hand, bank balances, and government securities maturing within 91 days of the from the date of issue.
+(j)          Property and equipment
+(i)           Recognition and measurement
+Items of property and equipment are measured at cost less accumulated depreciation and impairment losses
+Cost includes expenditures that are directly attributable to the acquisition of the asset.
+(ii)         Subsequent costs
+The cost of replacing part of an item of property or equipment is recognised in the carrying amount of the item if it is probable that the future economic benefits embodied within the part will flow to the Board and its cost can be measured reliably. The costs of the day-to-day servicing of property and equipment are recognised in profit or loss as incurred.
+(iii)        Depreciation
+Depreciation is recognised in profit or loss on a straight line basis over the estimated useful lives of each part of an item of property and equipment as follows:
+Long term leasehold land                                                             Over the lease period
+Buildings                                                                                     2%
+Computer equipment                                                                   33%
+Office equipment, furniture and fittings                                       20%
+Motor vehicles                                                                             25%
+Depreciation methods, useful lives and residual values are reassessed and adjusted, if appropriate, at each reporting date.
+Gains and losses on disposal of property and equipment are determined by reference to their carrying amount and are recognized in profit or loss in the year in which they arise.
+(k)         Impairment of assets
+(i)           Financial assets
+A financial asset is assessed at each reporting date to determine whether there is any objective evidence that it is impaired.  A financial asset is considered to be impaired if objective evidence indicates that one or more events have had a negative effect on the estimated future cash flows of that asset.
+An impairment loss in respect of a financial asset measured at amortised cost is calculated as the difference between its carrying amount, and the present value of the estimated future cash flows discounted at the original effective interest rate. An impairment loss in respect of an available-for-sale financial asset is calculated by reference to its fair value.
+Individually significant financial assets are tested for impairment on an individual basis. The remaining financial assets are assessed collectively in groups that share similar credit risk characteristics.
+All impairment losses are recognised in profit or loss. Any cumulative loss in respect of an available-for-sale financial asset recognised previously in equity is transferred to profit or loss.
+An impairment loss is reversed if the reversal can be related objectively to an event occurring after the impairment loss was recognised. For financial assets measured at amortised cost and available-for-sale financial assets that are debt securities, the reversal is recognised in profit or loss. For available-for-sale financial assets that are equity securities, the reversal is recognised directly in equity.
+(ii)          Non-financial assets
+The carrying amounts of the Board’s non-financial assets, inventories and deferred tax assets are reviewed at each reporting date to determine whether there is any indication of impairment. If any such indication exists then the asset’s recoverable amount is estimated.
+An impairment loss is recognised if the carrying amount of an asset or its cash-generating unit exceeds its recoverable amount. A cash-generating unit is the smallest identifiable asset group that generates cash flows that largely are independent from other assets and groups. Impairment losses are recognised in profit or loss. Impairment losses recognised in respect of cash-generating units reduce the carrying amount of the other assets in the unit (group of units) on a pro rata basis.
+The recoverable amount of an asset or cash-generating unit is the greater of its value in use and its fair value less costs to sell. In assessing value in use, the estimated future cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the asset.
+Impairment losses recognised in prior periods are assessed at each reporting date for any indications that the loss has decreased or no longer exists. An impairment loss is reversed if there has been a change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the asset’s carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or amortisation, if no impairment loss had been recognised.
+(l)           Provision
+Provisions are recognised when the Board has a present legal or constructive obligation as a result of past events and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate of the amount of the obligation can be made.
+(m)        Related parties
+In the normal course of business, the Board has entered into transactions with related parties. The related party transactions are at arms length
+(n)         Grants
+Other grants are recognised initially as deferred income at fair value when there is reasonable assurance that they will be received and the Group will comply with the conditions.
+(o)         Comparatives
+Where necessary, comparative figures have been adjusted or excluded to conform to changes in presentation in the current year.
+(p)         New standards and interpretations not yet adopted
+A number of new standards, amendments to standards and interpretations are not yet effective for the year ended 30 June 2011, and have not been applied in preparing these financial statements. These are summarised below and are not expected to have a significant impact on the financial statements of the Board
+IFRS 9 Financial Instruments IFRS 9 will become mandatory for the Board’s 2014 financial statements.
+IAS 24 Related Party Disclosures. The amendments to IAS 24 will become mandatory for the Board’s 2011 financial statements.
+IFRS 10 Consolidated Financial Statements (effective for annual periods beginning on or after 1 January 2013).
+IFRS 11 Joint Arrangements (effective for annual periods beginning on or after 1 January 2013).
+IFRS 12 Disclosure of Interests in Other Entities (effective for annual periods beginning on or after 1 January 2013).
+IFRS 13 Fair Value Measurement (effective for annual periods beginning on or after 1 January 2013).
+IAS 27 (2011) Separate Financial Statements.
+IAS 28 (2011) Investments in Associates and Joint Ventures.
+
+4.            CRITICAL ACCOUNTING ESTIMATES AND JUDGEMENTS
+Estimates and judgements are continually evaluated and are based on historical experience and other factors, including experience of future events that are believed to be reasonable under the circumstances.
+(a)         Critical accounting estimates and assumptions
+(i)           Property and equipment 
+Critical estimates are made by the management in determining depreciation rates for property and equipment. The rates used are set out in the accounting policy for property, equipment.
+(ii)         Impairment of receivables 
+The Board reviews its receivables’ portfolio regularly to assess the likelihood of impairment. This requires an estimation of the amounts that are irrecoverable especially debts incurred by institutions under liquidation.
+(iii)        Fair value estimation
+The fair value of financial instruments that are not traded in an active market is determined by using valuation techniques. These include the use of recent arm’s length transactions, reference to other instruments that are substantially the same, discounted cash flow analysis, and option pricing models refined to reflect the issuer’s specific circumstances.
+(b)         Critical judgements in applying the entity’s accounting policies
+In the process of applying the Board’s accounting policies, management has made judgements in determining whether assets are impaired.
+5.            INCOME
+                                                                                                                           2011                                2010
+(a)         Assessed income                                                                            KShs’000                         KShs’000
+Total average deposits of institutions
+assessed as contributors                                                                              1,079,678,000                    906,008,854
+0.15% of total average deposits                                                                          1,619,517                        1,359,313
+Minimum contribution from 1 bank and
+5 Deposit Taking Microfinance (DTM)
+(2010: 1 bank)                                                                                                          1,800                                  300
+Total assessed income                                                                                        1,621,317                        1,359,313
+ 
+                                                                                                                            2011                                2010
+(b)     Investment income                                                                      KShs’000                         KShs’000
+(i)           Interest earned on treasury bills received
+Discount on 91 day treasury bills                                                                 14,081                             29,126
+Discount on 182 day treasury bills                                                               40,121                           498,508
+Discount on 364 day treasury bills                                                               34,745                           149,891
+                                                                                                                 88,947                           677,525
+(ii)         Interest earned on treasury bonds received
+Matured bonds                                                                                        2,359,713                        1,448,553
+Discount on purchase                                                                                   67,918                           101,178
+Amortisation of premium                                                                    (        14,694)                (         11,284)
+ 
+                                                                                                        2,412,937                        1,538,447
+ 
+Total investment income                                                                                   2,501,884                        2,215,972
+ 
+6.            OTHER INCOME
+Recoveries from subrogated claims                                                                                             -                               6,523
+Penalty charges on late contributions                                                                                           -                               3,102
+Bad debts recovered                                                                                                                    -                                      4
+Miscellaneous income                                                                                                          1,586                                       -
+Grant income                                                                                                                       6,102                               1,592
+ 
+                                                                                                                                       7,688                             11,221
+ 
+7.            WRITEBACK OF PROTECTED DEPOSITS
+ 
+Write-back of provision for protected deposits                                                                       177                                       -
+Stale cheques written back                                                                                                           -                                  313                                                                                                                                                                                    
+                                                                                                                              177                                  313
+The Board has been making provisions equivalent to the amount of its exposure to protected depositors whenever a bank or financial institution is put under liquidation. The period for claims to be made by protected depositors under the statute is two years after the date of notice. The Board wrote back cheques that were issued to protected depositors that have not been presented at 30 June 2011 and were stale by virtue of being over 7 years old. The directors are of the opinion that no claim will be payable in respect of these cheques.
+8.            ADMINISTRATION AND ESTABLISHMENT EXPENSES                                                2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+Staff costs                                                                                                                        139,550                           133,710
+Depreciation                                                                                                                         3,439                               3,451
+Lease amortization                                                                                                                    99                                    99
+Auditors remuneration                                                                                                            841                                  601
+Directors’ emoluments - fees                                                                                               2,976                               3,027
+Legal and professional fees                                                                                                     645                                  174
+Occupancy costs                                                                                                                11,158                             10,196
+Other                                                                                                                                  30,713                             24,070
+                                                                                                                                   189,421                           175,328
+9.            RECEIVABLES AND PREPAYMENTS
+(a)         Receivables and prepayments
+Receivables and prepayments                                                                                118,716                           112,631
+Provision for bad debts (Note 9(b))                                                                     (102,162)                        (103,275)
+ 
+                                                                                                                         16,554                               9,356
+(b)         Provisions for impaired receivables
+As at 30 June 2011, receivables amounting to KShs 102 million (2010 - KShs 103) were fully impaired and provided for. Movements in the provisions for impairment of receivables were as follows:
+                                                                                                                            2011                                2010
+                                                                                                                     KShs’000                         KShs’000
+ 
+At 1 July                                                                                                                103,275                           149,262
+Additional provision                                                                                                    302                               4,030
+Write back-provision for bad debts                                                                      (    1,415)                                     -
+Write off of bad debts                                                                                                       -                          (  50,017)
+At 30 June (Note 19(a))                                                                                       102,162                           103,275
+ 
+10.         PROPERTY AND EQUIPMENT
+                                                                                                  Office
+2011:                                                            Furniture         and kitchen              Motor
+                                         Buildings         & fittings           equipment             vehicle          Computers               Total
+                                         KShs’000         KShs’000             KShs’000         KShs’000            KShs’000         KShs’000
+Cost
+At 1 July 2010                           16,740             15,514                   8,435               8,713                   5,498             54,900
+Reclassification                                    -                       -                      156                       -                 (    156)                     -
+Additions                                             -                  616                   1,068                       -                      495               2,179
+At 30 June 2011                        16,740,             16,130                   9,659               8,713                   5,837             57,079
+                                                                                                  Office
+2011:                                                            Furniture         and kitchen              Motor
+                                         Buildings         & fittings           equipment             vehicle          Computers               Total
+                                         KShs’000         KShs’000             KShs’000         KShs’000            KShs’000         KShs’000
+ 
+Depreciation
+At 1 July 2010                             2,950               6,559                   5,349               6,809                   4,683             26,350
+Reclassification                                    -                       -                        53                       -                 (      53)                     -
+Charge for the year                          367               1,196                      841                  475                      560               3,439
+At 30 June 2011                           3,317               7,755                   6,243               7,284                   5,190             29,789
+Net book value
+At 30 June 2011                        13,423               8,375                   3,416               1,429                      647             27,290
+ 
+2010:
+Cost
+At 1 July 2009                           16,559             15,341                   6,219               8,713                   4,394             51,226
+Additions                                        181                  173                   2,216                       -                   1,104               3,674
+At 30 June 2010                         16,740             15,514                   8,435               8,713                   5,498             54,900
+Depreciation
+At 1 July 2009                             2,583               5,280                   4,821               6,175                   4,039             22,898
+Charge for the year                          367               1,279                      528                  634                      644               3,452
+At 30 June 2010                           2,950               6,559                   5,349               6,809                   4,683             26,350
+Net book value
+At 30 June 2010                        13,790               8,955                   3,086               1,904                      815             28,550
+ 
+No depreciation has been charged in arriving at the results for the year in respect of certain fully depreciated assets with a cost of KShs 4,153,818 (2010: KShs 3,038,135) and are still in use. If depreciation had been charged during the year on the cost of these assets at normal rates it would have amounted to KShs 1,384,605 (2010: KShs 1,012,712).
+ 
+11.         PREPAID OPERATING LEASE RENTALS                                                                       2011                                2010
+                                                                                                                                 KShs‘000                         KShs‘000
+Cost
+At 30 June                                                                                                                            4,522                               4,522
+Amortisation
+At 1 July                                                                                                                                 809                                  710
+Amortisation for the year                                                                                                          99                                    99
+At 30 June                                                                                                                               908                                  809
+Net carrying value at 30 June                                                                                            3,614                               3,713
+ 
+12.         INVESTMENT HELD FOR SALE                                                 2011                                2010
+                                                                                                                                 KShs‘000                         KShs‘000
+Investment in Consolidated Bank of Kenya Limited
+10,000,000 ordinary shares of KShs 20 each                                                               200,000                           200,000
+Provision for diminution in value                                                                                   (199,900)                        (199,900)
+ 
+                                                                                                                                          100                                  100
+The Board owns 50.2% of the ordinary share capital of the Consolidated Bank of Kenya Limited. At the time of acquisition of the investment, the Banking Act allowed the Board to acquire, hold or dispose shares of an institution that would result in a loss to the Board. The Banking Act was later amended and now prevents the Board from holding investments other than in government securities. The Government, through Treasury plans to privatize Consolidated Bank and has therefore directed the Privatization Commission to explore and advice on how the shares are to be sold. A Consortium has been appointed to advice on the intended Privatization. Due to the above, the requirement for consolidation on IAS 27 does not apply.
+The investment was last valued in December 2004 by external consultants and the value of the shares was considered to be effectively nil. In the opinion of the directors, the additional diminution in value of KShs 100,000 based on this valuation is not material for recognition in the financial statements.
+ 
+13.         GOVERNMENT SECURITIES                                                                                            2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+Treasury bills maturing within 91 days of
+Placement (Note 17)                                                                                                    846,342                        1,044,660
+Treasury bills maturing after 91 days from
+date of placement                                                                                                             49,964                        4,073,289
+Treasury bonds maturing within 1 year                                                                          1,563,618                        1,193,384
+Treasury bonds maturing after 1 year                                                                           25,624,852                      17,825,166
+ 
+                                                                                                                                 28,084,776                      24,136,499
+Comprising:                                                                                                                                                                         
+Maturing within 1 year of the
+                                                                                                                                     2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+ 
+Statement of Financial Position date                                                                           2,459,924                        6,311,333
+Maturing after 1 year of the Statement of
+Financial Position date                                                                                               25,624,852                      17,825,166
+ 
+                                                                                                                              28,084,776                      24,136,499
+The weighted average effective interest rate on held to maturity investments as at 30 June 2011 was 9.52% (2010 - 8.57%).
+14.         PAYABLES AND ACCRUALS
+                                                                                                                                        2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+ 
+Sundry payables and accruals                                                                                              4,937                               5,913
+ 
+15.         RELATED PARTY TRANSACTIONS
+The Central Bank of Kenya and the Board are related parties, performing connected duties of bank supervision and deposit protection respectively. No trading is carried with the Central Bank. The following transactions however take place between the two organisations:
+ 
+                                                                                                                                        2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+ 
+(a)         Due to Central Bank of Kenya                                                                               41,592                             26,425
+(b)         Directors’ emoluments and senior management remuneration
+ 
+Fees to directors                                                                                                        2,976                               3,027
+Remuneration to senior management                                                                       56,252                             55,514
+ 
+(c)          Cash and balances held with Central Bank of Kenya                                            12,880                                  946
+(d)         The Central Bank pays some operating expenses on behalf of the Board. These are fully reimbursed.
+(e)           The staff of the Board are contractually employees of the Central Bank but seconded to the Board. Salaries of these staff are met by the Central Bank and fully reimbursed by the Board. In the year, salaries paid to staff by the Central Bank amounted to KShs 108 million (2010: KShs 104 million).
+(f)           The Central Bank is also the sponsor of the CBK Staff Pension Fund to which the Board contributes on behalf of employees seconded to it from the Central Bank. In the year, the Board’s contribution to the fund amounted to KShs 5.1 million (2010: KShs 4.6 million).
+(g)          The Central Bank provides the Board with office space and charges it rent. The Board also reimburses maintenance costs incurred by the Central Bank on its behalf. In the year, rent and maintenance costs charged amounted to KShs 10 million (2010: KShs 10 million).
+16.         DEFERRED INCOME                                                                                                         2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+ 
+Unamortised grant income                                                                                                 10,516                                       -
+ 
+17.         CASH AND CASH EQUIVALENT
+Cash and cash equivalents included in the statement of cash flows
+comprises the following statement of financial position amounts:
+Treasury bills maturing within 91 days
+from the date of placement                                                                                               846,342                        1,044,660
+Cash and bank balance                                                                                                       12,880                                  947
+ 
+                                                                                                                                   859,222                        1,045,607
+ 
+18.         COMMITMENTS                                                                                                                 2011                                2010
+                                                                                                                                 KShs’000                         KShs’000
+ 
+Authorised but not contracted for                                                                                      42,670                             16,450                                                                                                                                                                                      
+Capital commitments authorised relates mainly to library
+books, safe, two motor vehicles and fittings and furnishing.
+Operating lease commitments:
+Falling due within one year                                                                                                11,172                                    25
+Falling due between one and five years                                                                                8,379                                  102
+Falling due over five years                                                                                                           -                                  856
+ 
+                                                                                                                                     19,551                                  983
+19.         RISK MANAGEMENT
+Structure and reporting
+The Board of Directors is responsible for the overall risk management approach and for approving the risk management policy and strategies. There are other organs that monitor the assessment and management of risks within the Board including;
+Audit Committee of the Board
+The Audit Committee assists the Board in the fulfillment of its oversight responsibilities. The Committee guides and monitors the implementation of controls by the Board.
+Deposit Insurance and Risk Management Section
+The Board has an established Deposit Insurance & Risk Management Section that receives off-site information on deposits from member institutions for analysis and works closely with Central Bank of Kenya to monitor the performance of the Banking industry.
+Internal Audit and Risk Management Unit
+The operations of the Board are subject to internal audit by the Internal Audit Unit of the Deposit Protection Fund Board. The Internal Audit Unit employs full scope audit approach in planning and carrying out its audit engagements. The business processes are assessed with regard to business continuity procedures, physical safety, system safety, conformity to legal requirements and regulations, sufficiency of human resources and information safety. In addition, the financial risks and reputation risks are also determined. Controls that are designed to reduce these risks to acceptable levels are assessed in terms of sufficiency and effectiveness; additional controls are recommended in order to increase effectiveness
+The main risks faced by the Board in respect of its principal non-derivative financial instruments are interest rate risk and liquidity risk. The directors review and agree on policies for managing these risks. The Board maintains a conservative policy regarding interest rate and liquidity risks. The Board does not engage in speculation in the markets. In addition, the Board does not speculate or trade in derivative financial instruments.
+The Board’s principal financial instruments comprise investments held to maturity; cash and cash equivalents; receivables and prepayments; payables and accruals; provisions for protected deposit claims; and amounts due to related parties.
+(a)         Credit risk
+Credit risk is the risk of financial loss to the Board if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and arises principally from the Board’s receivables from customers.
+Trade and other receivables
+The Board’s exposure to credit risk is influenced mainly by the individual characteristics of each customer.
+The Board establishes an allowance for impairment that represents its estimate of incurred losses in respect of trade and other receivables. The main components of this allowance are a specific loss component that relates to individually significant exposures, and a collective loss component established for groups of similar assets in respect of losses that have been incurred but not yet identified. The collective loss allowance is determined based on historical data of payment statistics for similar financial assets
+The carrying amount of financial assets represents the maximum credit exposure. The maximum exposure to credit risk at the reporting date was:
+ 
+                                                                                                                                   2011                                2010
+                                                                                                                           KShs’000                         KShs’000
+ 
+Trade receivable                                                                                                    118,716                           112,631
+Impairment losses recognised in the year                                                           (  102,162)                      (  103,275)
+ 
+                                                                                                                                16,554                               9,356
+The aging of trade receivables at the reporting date was:
+ 
+Not past due                                                                                                            14,553                               4,423
+Past due 0 – 30 days                                                                                                    766                               2,033
+Past due 31 – 90 days                                                                                                  179                               1,122
+Past due above 90 days                                                                                         103,218                           105,053
+ 
+                                                                                                                              118,716                           112,631
+ 
+The movement in the allowance for impairment in respect of trade receivables during the year was as follows:
+                                                                                                                                   2011                                2010
+                                                                                                                                   KShs                                KShs
+ 
+Balance at 1 July                                                                                                    103,275                           149,262
+Made in the year                                                                                                           302                               4,030
+Write backs                                                                                                         (     1,415)                                     -
+Write off of bad debts                                                                                                       -                       (     50,017)
+ 
+Balance at 30 June                                                                                               102,162                           103,275
+(b)         Interest rate risk management
+Interest rate risk is the risk that the value and cash flows of a financial instrument will fluctuate due to changes in market interest rates. Excess funds held by the Board are invested in Treasury bills and Treasury bonds.
+The following table sets out the carrying amount by maturity, of the Board’s financial instruments that are exposed to interest rate risk
+
+2011:
+
+
+ 
+Upto 1 year
+
+
+1 – 5 years
+
+
+6 – 10 years
+
+
+Over 10 years
+
+
+Non 
+interest
+bearing
+
+
+Total
+
+
+ 
+
+
+KShs’000
+
+
+KShs’000
+
+
+KShs’000
+
+
+KShs’000
+
+
+KShs’000
+
+
+KShs’000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Receivables and prepayments
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+16,554
+
+
+16,554
+
+
+Cash and bank balance
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+12,880
+
+
+12,880
+
+
+Investments held to maturity
+
+
+2,459,924
+
+
+8,758,629
+
+
+11,882,648
+
+
+4,983,575
+
+
+-
+
+
+28,084,776
+
+
+Payables and accruals
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+(4,937)
+
+
+(4,937)
+
+
+Due to related party
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+(41,592)
+
+
+(41,592)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Interest sensitivity gap 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+At 30 June 2011
+
+
+2,459,924
+
+
+8,758,629
+
+
+11,882,648
+
+
+4,983,575
+
+
+(17,095)
+
+
+28,067,681
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2010:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Receivables and prepayments
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+9,356
+
+
+9,356
+
+
+Cash and bank balance
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+946
+
+
+946
+
+
+Investments held to Maturity
+
+
+6,311,333
+
+
+9,349,718
+
+
+3,913,214
+
+
+4,562,234
+
+
+-
+
+
+24,136,499
+
+
+Payables and accruals
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+(5,913)
+
+
+(5,913)
+
+
+Due to related party
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+(26,425)
+
+
+(26,425)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Interest sensitivity gap 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+At 30 June 2010
+
+
+6,311,333
+
+
+9,349,718
+
+
+3,913,214
+
+
+4,562,234
+
+
+(22,036)
+
+
+24,114,463
+
+The following table demonstrates the sensitivity to a reasonably possible change in the interest rates, with all other variables held constant, on the Board's surplus. The sensitivity computations assume that financial assets maintain a constant rate of return from one year to the next.
+
+ 
+
+
+2011
+
+
+2010
+
+
+ 
+
+
+KShs’000
+
+
+KShs’000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Effect on surplus for the year of a +5% change
+in interest rates
+
+
+ 
+1,402,894
+
+
+ 
+1,205,723
+
+
+Effect on surplus for the year of a -5% change
+in interest rates
+
+
+ 
+(1,402,894)
+
+
+ 
+(1,205,723)
+
+(c)          Liquidity risk management
+Liquidity risk is the risk that the Board will encounter difficulty in meeting obligations from its financial liabilities. The Board’s approach to managing liquidity is to ensure, as far as possible, that it will always have sufficient liquidity to meet its liabilities when due, without incurring unacceptable losses or risking damage to the Board’s reputation. In the course of its operations the Board invests its capital in forms that vary in liquidity ranging from government securities that are readily convertible and sundry receivables. Simultaneously it carries current liabilities in form of provisions for protected deposits, sundry payables and related party liabilities. The entity matches its current assets to the current liabilities falling due to mitigate the risk of low liquidity.
+The Board’s financial liabilities amount to KShs 46,529,000 (2010 - KShs 32,338,000) and are all short term.
+(d)         Currency risk
+The Board operates wholly within Kenya and its assets and liabilities are reported in the local currency. It does not transact in foreign currencies.
+(e)          Fair value
+The fair value of financial assets and liabilities is the same as the carrying amounts as shown in the statement of financial position:
+
+2011:
+
+
+Other financial liability
+
+
+Loans and receivables
+
+
+Available for sale 
+
+
+Held to maturity
+
+
+Total carrying value
+
+
+Fair Value
+
+
+ 
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+Financial assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Government securities
+
+
+-
+
+
+-
+
+
+-
+
+
+28,084,776
+
+
+28,084,776
+
+
+28,084,776
+
+
+Investment held for sale
+
+
+-
+
+
+-
+
+
+100
+
+
+-
+
+
+100
+
+
+100
+
+
+Cash and bank balances
+
+
+-
+
+
+-
+
+
+12,880
+
+
+-
+
+
+12,880
+
+
+12,880
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+-
+
+
+ -
+
+
+ 12,980
+
+
+28,084,776   
+
+
+  28,097,756 
+
+
+  28,097,7 56
+
+
+2011:
+
+
+Other financial liability
+
+
+Loans and receivables
+
+
+Available for sale 
+
+
+Held to maturity
+
+
+Total carrying value
+
+
+Fair Value
+
+
+ 
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+KShs ’000
+
+
+Financial liabilities
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Amounts due to group companies
+
+
+41,592
+
+
+-
+
+
+-
+
+
+-
+
+
+41,592
+
+
+41,592
+
+
+Trade and other payables
+
+
+4,937
+
+
+-
+
+
+-
+
+
+-
+
+
+4,937
+
+
+4,937
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+46,529
+
+
+                  -   
+
+
+                  -   
+
+
+               -   
+
+
+46,529
+
+
+46,529
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2010:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Financial assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Government securities
+
+
+-
+
+
+-
+
+
+-
+
+
+24,136,499
+
+
+24,136,499
+
+
+24,136,499
+
+
+Investment held for sale
+
+
+-
+
+
+-
+
+
+100
+
+
+-
+
+
+100
+
+
+100
+
+
+Cash and bank balances
+
+
+-
+
+
+-
+
+
+946
+
+
+-
+
+
+946
+
+
+946
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+-
+
+
+-
+
+
+1,046
+
+
+24,136,499
+
+
+24,137,545
+
+
+24,137,545
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Financial liabilities
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Amounts due to group companies
+
+
+26,425
+
+
+-
+
+
+-
+
+
+-
+
+
+26,425
+
+
+26,425
+
+
+Trade and other payables
+
+
+5,913
+
+
+-
+
+
+-
+
+
+-
+
+
+5,913
+
+
+5,913
+
+
+ 
+
+
+32,338 
+
+
+-
+
+
+-
+
+
+-
+
+
+32,338
+
+
+32,338
+
+ 
+(f)          Capital management
+ 
+The primary objectives of the Board’s capital management are to ensure that the Board maintains healthy capital ratios in order to support its business and to maximize the value for the insured depositors in member institutions. The Board manages its Fund and makes adjustments to it, as per the requirements of the Banking Act. The total accumulated Fund as at 30 June 2011 was KShs 28,088 million (2010: KShs 24,146 million).
+ 
+
+5.            CONTINGENT LIABILITIES
+ 
+Litigation
+ 
+Mr. Ajay Shah (former Managing Director of Trust Bank Limited) filed a case in 2002 claiming general damages and special damages amounting to KShs 144 million against Trust Bank Limited (In Liquidation) and the Board on allegations of defamation and publication of malicious false statements. The suit is pending for hearing. No provision has been made in the financial statements because, in the opinion of the directors, the claim is unlikely to succeed.
+                                                                                                                                                                                                  APPENDIX
+ 
+COMMERCIAL BANKS AND OTHER FINANCIAL INSTITUTIONS  ASSESSED CONTRIBUTORS FOR THE YEAR ENDED 30 JUNE 2011
+ 
+COMMERCIAL BANKS
+
+
+ 
+1.        African Banking Corporation Limited
+2.        Bank of Africa Kenya Limited 
+3.        Bank of Baroda Kenya Limited
+4.        Bank of India
+5.        Barclays Bank of Kenya Limited
+6.        CFC Stanbic Bank Limited
+7.        Charterhouse Bank Limited
+8.        Chase Bank Limited
+9.        Citibank N.A.
+10.      City Finance Bank Limited
+11.      Commercial Bank of Africa Limited
+12.      Consolidated Bank of Kenya Limited
+13.      Co-operative Bank of Kenya Limited
+14.      Credit Bank Limited
+15.      Development Bank of Kenya Limited
+16.      Diamond Trust Bank of Kenya Limited
+17.      Dubai Bank Kenya Limited
+18.      Ecobank Kenya Limited
+19.      Equatorial Commercial Bank Limited
+20.      Equity Bank Limited
+21.      Family Bank Limited
+22.      Fidelity Commercial Bank Limited
+23.      FINA Bank Limited
+24.      First Community Bank Limited
+25.      Giro Commercial Bank Limited
+26.      Guardian Bank Limited
+27.      Gulf African Bank Limited
+28.      Habib Bank A.G. Zurich
+29.      Habib Bank Limited
+30.      Imperial Bank Limited
+31.      Investment & Mortgages Bank Limited
+32.      Kenya Commercial Bank Limited
+33.      K-Rep Bank Limited
+34.      Middle East Bank Kenya Limited
+35.      National Bank of Kenya Limited
+36.      NIC Bank Limited
+37.      Oriental Commercial Bank Limited
+38.      Paramount Universal Bank Limited
+39.      Prime Bank Limited
+40.      Standard Chartered Bank of Kenya Limited
+41.      Transnational Bank Limited
+42.      Victoria Commercial Bank Limited
+43.      United Bank Limited
+ 
+OTHER FINANCIAL INSTITUTIONS
+Housing Finance Board of Kenya Limited
+MICRO FINANCE INSTITUTIONS
+Faulu Kenya
+Kenya Women Finance Trust
+SMEP DTM
+REMU DTM
+Uwezo DTM
+Rafiki DTM
+
+
+
+

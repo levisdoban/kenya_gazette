@@ -1,0 +1,831 @@
+
+				Page: 1934GAZETTE NOTICE NO. 5382
+THE COMMISSION FOR THE IMPLEMENTATION OF THE CONSTITUTION
+QUARTERLY REPORT JANUARY, MARCH, 2013
+LIST OF ABBREVIATIONS
+ 
+AG                           Attorney-General
+CIC                          Commission for the Implementation of the Constitution
+CIOC                       Committee on the Implementation of the Constitution
+CRA                         Commission for Revenue Allocation
+CSW                        Commission on the Status of Women
+EACC                      Ethics and Anti-Corruption Commission
+ICPAK                     Institute of Certified Public Accountants of Kenya
+IBP                          International Budget Partnership
+IEBC                        Independent Electoral and Boundaries Commission
+JWCEP                     Judiciary Working Committee on Elections Preparations
+KLRC                      Kenya Law Reform Commission
+KNCHR                   Kenya National Commission for Human Rights
+KSG                         Kenya School of Government
+KSMS                      Kenya School of Monetary Studies
+MoJNCCA               Ministry of Justice, National Cohesion & Constitutional Affairs
+MP                           Member of Parliament
+NCAJ                       National Council on the Administration of Justice
+NLC                         National Land Commission
+NSAs                       Non-State Actors
+PARLSCOM            Parliamentary Service Commission
+PSC                          Public Service Commission
+PFM                         Public Finance Management
+PWDs                      People with Disabilities
+RPP                          Registrar of Political Parties
+SRC                         Salaries and Remuneration Commission
+TA                           Transition Authority
+WWF                       World Wildlife Fund
+ 
+FOREWORD
+This report covers a historic period in the implementation of the Constitution, for it is in this quarter that the first general elections under the New Constitution were held. This is also the quarter that saw the commencement of the devolved system of government with the election of governors and county assembly representatives.
+As part of the preparations for the coming into place of county governments, the Commission facilitated the development of legislation to provide for county financing and staffing in the interim period, pending the establishment of county service boards and county treasuries.
+The Commission carried out a field visit to all the forty-seven counties immediately after the general elections to assess the status of preparedness for devolved governments. The Commission was able to monitor election simulations and observe the general elections. The simulation exercise report was forwarded to the IEBC immediately after the exercise. The Commission is consolidating its observation report on the 2013 general elections and will forward a comprehensive report to the IEBC.
+As we submit this report covering the period that saw the prorogation of the tenth Parliament, I take this opportunity to appreciate the third President of the Republic of Kenya, H.E Hon. Mwai Kibaki, the Prime Minister, the Right Honourable Raila Odinga and members of the tenth Parliament for their role in delivering the promise of a new Constitution to the people of Kenya.   Notwithstanding the challenges faced in implementing the Constitution, and especially lack of consensus on and apparent disregard of the due process for development of legislation, the Commission is steadfast in its quest to oversee, facilitate and monitor the implementation of the Constitution for purposes of entrenching a culture of constitutionalism in Kenya.
+Let me also take this opportunity to congratulate all successful aspirants in the just-concluded general elections. In particular, I congratulate His Excellency, President Uhuru Kenyatta, Deputy President Hon. William Ruto, Governors, Senators, Members of Parliament and Members of County Assemblies. As elected state officers, the Commission looks forward to working with all of them to uphold, respect, observe and promote the Constitution.
+I congratulate the people of Kenya for the milestones we have achieved in the implementation of the Constitution. I also urge the people to remain vigilant as the ultimate stakeholders in the exercise of state sovereignty.
+Once again, I appreciate Commissioners and the technical team at the Commission for their continued commitment to serve the people of Kenya. ‘Utekelezaji wa Katiba, Jukumu la Wote’.
+CHARLES NYACHAE
+Chairperson
+EXECUTIVE SUMMARY
+The Commission for the Implementation of the Constitution (‘the Commission’) is established under Section 5(1) of the Sixth Schedule to the Constitution. The mandate of the Commission is stipulated in Section 4(a), 5(6), and 15(d) of the Sixth Schedule to the Constitution, the Commission for the Implementation of the Constitution Act 2010 and the Transition to Devolved Government Act.
+The objective of the Commission is to ensure that policies, laws, structures, systems and administrative procedures developed and applied at all levels are consistent and in accord with the letter and spirit of the Constitution.
+This quarterly report, covering the period January-March, 2013, highlights achievements made in the reporting period, and the challenges encountered in the implementation of the Constitution and projections for the next quarter, April – June 2013.
+In keeping with the Commission’s mandate, the Commission facilitated the development of legislation, polices and administrative procedures required to implement the Constitution. The identification of legislation and policies was guided by the Fifth Schedule to the Constitution and different articles of the Constitution. Some of the identified laws are still under development and will be finalized and reported in the next quarter.
+The period under review covers the electoral period and the coming into place of devolved units of government. This report therefore discusses the various activities undertaken in that regard, development of draft standing orders for Parliament and county assemblies and field visits to assess preparedness for county governments. The report also covers monitoring activities undertaken in the election period, including the actual observation of the general elections.
+The challenges identified in the implementation process are also flagged for action by concerned parties. In particular, the Commission points out lack of adherence to the procedure for development of legislation.
+The report also briefly outlines activities earmarked for finalisation in the next quarter. These include a baseline survey on status of implementation, audit of all legislation passed by the National Assembly, and consolidation of progress made by various state agencies in the implementation of the Constitution. The Commission will continue to work with the National Executive, County Governments, Constitutional Commissions, the private sector and non-state actors towards full implementation of the Constitution.
+PART ONE: INTRODUCTION
+1.1   Mandate of the Commission
+The Commission for the Implementation of the Constitution (‘the Commission’) is established under Section 5(1) of the Sixth Schedule to the Constitution. The mandate of the Commission is stipulated in Section 4(a), 5(6), and 15(d) of the Sixth Schedule to the Constitution, the Commission for the Implementation of the Constitution Act 2010 and the Transition to Devolved Government Act.
+The functions of the Commission are to:
+(a)      monitor, facilitate and oversee the development of legislation and administrative procedures required to implement the Constitution;
+(b)     co-ordinate with the Attorney-General and the Kenya Law Reform Commission in preparing for tabling in Parliament, the legislation required to implement the Constitution;
+(c)      report every three (3) months to the Constitutional Implementation Oversight Committee on:
+(i)       progress in the implementation of the Constitution;
+(ii)     the preparation of the legislation required by the Constitution and any challenges in that regard;
+(iii)    the process of establishing new commissions;
+(iv)    any impediments to the process of implementing the Constitution;
+(d)     work  with each Constitutional Commission to ensure that the letter and spirit of the Constitution is respected;
+(e)      exercise such other functions as are provided for by the Constitution or any other written law, and;
+(f)      monitor and oversee the transition process to devolved government and ensure that the system of devolved government is implemented effectively.
+The requirement to report periodically is amplified by the CIC Act and Section four of the Sixth Schedule to the Constitution. The relevant provisions are reproduced below.
+Section 25 of the CIC Act
+Section 4 (d) report at least once every three months to the Parliamentary Select Committee on— 
+(i) the progress in the implementation of the Constitution; and 
+(ii) any impediments to the implementation of the Constitution. 
+Section 4(a) of the Sixth Schedule
+Parliamentary Select Committee.
+4.  There shall be a select committee of Parliament to be known as the Constitutional Implementation Oversight Committee which shall be responsible for overseeing the implementation of this Constitution and which, among other things—
+(a) shall receive regular reports from the Commission on the Implementation of the Constitution on the implementation of this Constitution including reports concerning—
+(i) the preparation of the legislation required by this Constitution and any challenges in that regard;
+(ii) the process of establishing the new commissions;
+(iii) the process of establishing the infrastructure necessary for the proper operation of each county including progress on locating offices and assemblies and establishment and transfers of staff;
+(iv) the devolution of powers and functions to the counties under the legislation contemplated in section 15 of this Schedule; and
+(v)                any impediments to the process of implementing this Constitution;
+(b) coordinate with the Attorney-General, the Commission on the Implementation of the Constitution and relevant parliamentary committees to ensure the timely introduction and passage of the legislation required by this Constitution; and
+(c) take appropriate action on the reports including addressing any problems in the implementation of this Constitution.
+The Commission is further obligated to meet the objects of Constitutional Commissions and Independent Offices as set out in Article 249 (1) of the Constitution, which are:
+(a)      protecting the sovereignty of the people;
+(b)     securing the observance by all State organs of democratic values and principles; and
+(c)      promoting constitutionalism.
+In discharging its mandate, the Commission is obliged to observe, promote, respect and protect national values and principles of governance as stipulated in Article 10 of the Constitution. In light of the Commission’s mandate, objects and guiding values and principles, the Commission defined and adopted the following mission and vision:
+Vision
+A united, peaceful and prosperous Kenya in which all citizens including leaders respect the rule of law, uphold national values and live by the Constitution.
+Mission
+To ensure that policies, laws, structures, systems and administrative procedures developed and applied at all levels are consistent and in accord with the letter and spirit of the Constitution.
+This report is divided into five parts as follows:
+ 
+(a)      Part One: Introduction
+(b)     Part Two: Achievements
+(c)      Part Three: Activities For the Next Quarter
+(d)     Part Four: Challenges and Recommendations
+(e)      Part Five: Annexes
+PART TWO: ACHIEVEMENTS
+The Commission carried out the following activities in the reporting period:
+ 
+(a)      Monitored, facilitated and oversaw the review and development of policies, legislation and administrative procedures as required by the Constitution. The details of these are described under the legislation, policies and administrative procedures section of this report.
+(b)     Engaged with implementers on their status of implementation of the Constitution.
+(c)      Monitored the electoral process from political parties’ nominations to the general elections.
+(d)     Monitored the implementation of the devolved system of government.
+(e)      Monitored and facilitated the process of transition to devolved government to ensure involvement of minority groups, including women and persons with disabilities in the transition teams and in the structure of the devolved governments.
+(f)      Strengthened institutions by working with other State organs and government institutions charged with the responsibility of implementing the Constitution.
+(g)      Engaged with various stakeholders on the implementation of the Constitution.
+ 
+2.1      Review and Development of Polices
+The first one and a half years of implementation of the Constitution were characterized by the development of legislation without review and development of over-arching policies. This was attributed to the strict timelines for enactment of legislation in the Fifth Schedule to the Constitution. The Commission advised that national policies should be prepared to guide the development of legislation and administrative procedures. The Commission therefore engaged with ministries, departments and state agencies for purposes of identifying and prioritizing policies for development. The following policies were identified for development:
+ 
+(a)         Policy on National Registration and Identification of Refugees
+ 
+The Commission held a meeting with the Kenya Foreign Citizens and Foreign Nationals Management Service Board and agreed on the development of a policy on national registration and refugees. Once finalized, the policy will be forwarded to the Commission to be reviewed in tandem with the review of the National Registration and Identification Bill 2012 and Refugees Bill, 2012.
+ 
+(b)     National Anti-Corruption Policy
+The Commission and the Ethics and Anti-Corruption Commission (EACC) held a consultative meeting and agreed on the need for a policy framework on anti-corruption. The Commission will hold further consultations with the relevant institutions to ensure that a policy framework on anti-corruption is put in place.
+(c)      National Security Policy, Policing Policy and Intelligence Policy
+The Commission advised the Ministry of State for Provincial Administration and Internal Security to prepare policies on policing, security and intelligence. These three policies are critical in the implementation of the National Security Council Act, 2012, National Police Service Act, 2011 and the National Intelligence Service Act, 2012. The Ministry indicated that it was in the process of initiating the process of the policy development and shall forward them to the Commission for review immediately they are finalized. The Ministry also indicated that extensive consultations and public participation was critical prior to the finalization of the policies.
+ 
+(d)     Defence Policy
+ 
+The Commission requested the Ministry of State for Defence to develop rules and regulations required under the Kenya Defence Forces Act, 2012. However, that was not done and, once a new Cabinet is in place, the Commission will follow up with the relevant Ministry on the preparation of a policy on defence.
+ 
+(e)      Policies on the Administration of Justice
+ 
+The Commission in conjunction with the National Council on the Administration of Justice (NCAJ) developed a work plan that prioritizes a number of policies for development to facilitate coordination in the justice sector. These include Correctional Policy, Access to Justice Policy and National Policing Policy. The Commission will engage the concerned institutions for the development and finalization of the policies.
+ 
+(f)       Policies on Devolved Functions
+With the fundamental reforms required by the Constitution of Kenya, 2010, and especially devolution, which is one of the foundations of the Constitution’s normative, institutional and general architecture, it is critical that all existing policies are reviewed to conform to the letter and spirit of the Constitution that explicitly aims to entrench devolution as a philosophy and practice of governance. 
+It is therefore imperative that the review of the policies respects Article 6 of the Constitution and the objectives of devolution as envisaged in the Constitution and the allocation of functions to national and county governments as provided for under the 4th Schedule of the Constitution. Analysis of functions provided under the Fourth Schedule to the Constitution is a critical transition activity under Phase One of the transition process. The effective delivery of this activity should ideally inform the effective review of sectoral policies. 
+Unfortunately, the functional analysis process was not finalized. By implication therefore, even the policies that have been reviewed are inadequate to the extent that they were not informed by a comprehensive process of function analysis. In this regard, the few policies that were reviewed were limited to addressing the principle of devolution as envisaged in the Constitution.  The Commission notes that an effective and comprehensive function analysis is a critical transition issue that impacts on review of policies. In the coming quarter, the Commission shall endeavor to ensure finalization of this function analysis.
+(g)     Policy Dialogue on Shaping and Reshaping National and County Executives
+The Commission, in concert with the Transition Authority, coordinated a policy dialogue on shaping and reshaping the national and county executives. The dialogue culminated in policy guidelines that are expected to guide the establishment, organization and reorganization of national and county executives.
+ 
+2.2      Development of Legislation
+The Commission worked with Government Ministries and other stakeholders to facilitate the development and review of legislation. The procedure for development of legislation agreed to between the Kenya Law Reform Commission, Office of the Attorney General, Ministry of Justice, National Cohesion and Constitutional Affairs and the Committee on the Implementation of the Constitution (CIOC) require Ministries to originate Bills which are then drafted with the assistance of the Attorney General and the Kenya Law Reform Commission. Thereafter, the Bills are submitted to the Commission for review in accordance with Article 2619(1) and (4) of the Constitution, which stipulate that:
+Article 261 (1) Parliament shall enact any legislation required by this Constitution to be enacted to govern a particular matter within the period specified in the Fifth Schedule, commencing on the effective date.
+Article 261 (4) For the purposes of Clause (1), the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified.
+However, Section 14 of the Sixth Schedule requires that laws dealing with devolution be submitted to the Commission and Commission for Revenue Allocation for consideration.
+During the reporting period, the Commission processed the following legislations.
+ 
+(a)     National Registration and Identification Bill, 2012 and Refugee Bill, 2012
+ 
+The National Registration and Identification Bill and the Refugee Bill are among the Bills that were forwarded to the Commission together with the Citizenship and Immigration Act, 2011 and the Kenya Foreign Citizens and Foreign Nationals Management Service Act, 2011.
+The Commission convened a meeting with the Ministry of State for Immigration and Registration of Persons, the Office of the Attorney General and the Kenya Law Reform Commission to finalize review of the Bills. The meeting noted and agreed on the need to involve the Kenya Citizenship and Foreign Nationals Management Service Board. As a result, the Commission held a meeting with the Board to discuss the Bills. The key issues that arose from the meeting were: the function of the PSC in the appointment and allocation of duties to directors and other personnel of the Service, and the need to amend the Kenya Citizens and Foreign Nationals Management Service Act, 2011, in order to incorporate all the relevant departments dealing with immigration and refugee matters. It was agreed that the Board would audit the Bills and highlight any existing gaps for review. The audit of Bills will be followed by a retreat between members of the Board and the Commission to finalize review of the Bills.
+ 
+(b)     Work Injury Compensation Bill, 2013
+ 
+The Ministry of Labour informed the Commission that it has commenced the review of the Work Injury Compensation Act to align it to the Constitution. The Ministry added that it was gathering stakeholder views on the Bill. On its part, the Commission noted progress made in the development of the Bill and advised the Ministry to submit the final version of the Bill to the Commission through the Attorney General.
+(c)      Community Land Bill and the Evictions and Resettlement Bill, 2013
+The Commission engaged with the Ministry of Lands in the development of the Community Land Bill and the Evictions and Resettlement Bill. The Ministry reported that it had commenced preparations and had made progress in the formulation of the Bills.  The Ministry set up a task force that has so far undertaken the following:
+(i)       Researched and reviewed documents relevant to the Bills.
+(ii)     Prepared and presented topical papers on issues concerning the Bills.
+(iii)    Published notices on the Ministry’s website and newspapers requesting members of the public to forward recommendations and comments on the Bills.
+(iv)    Held fifteen (15) county consultative fora to solicit views from stakeholders.
+The Commission will review the Bills for compliance with the Constitution once they are received.
+(d)     Review of the Geology, Minerals and Mining Bill, 2012
+The Commission received the Geology, Minerals and Mining Bill, 2012 and subjected the same to internal and stakeholder review. The Commission has however learnt that the Bill is yet to be published and the Commission’s input has not yet been addressed. The Commission will engage with the Attorney General with a view to ensuring that this important piece of legislation is finalized and stakeholder issues addressed and reflected in the Bill.
+(e)      Amendment of the National Police Service Commission Act, 2011 and the National Police Service Act, 2011
+ 
+The Commission convened a meeting with the Ministry of State for Provincial Administration and Internal Security, National Police Service and National Police Service Commission to discuss Chapter Fourteen of the Constitution and particularly the provisions relating to matters of policing. Amongst other matters, the meeting discussed various constitutional and statutory mandates of the Cabinet Secretary, the National Police Service Commission and the Inspector-General of the National Police Service. It was resolved that there was an urgent need to amend the National Police Service Commission Act, 2011 and the National Police Service Act, 2011 to align the two Acts to the letter and spirit of the Constitution and to remove any ambiguities or lack of clarity in the Acts. The Ministry of State for Provincial Administration and Internal Security is obligated to generate amendments to the two Acts.
+Thereafter, the Commission, working with the Kenya Law Reform Commission and the Attorney-General, shall review the amendment Bill in accordance with Article 261(1) and (4) and section 5(6) of the Sixth Schedule to the Constitution.
+ 
+(f)       The Contempt of Court and Magistrates’ Courts Bills, 2013
+During this quarter, the Commission finalized its internal review of the Contempt of Court Bill and Magistrates’ Courts Bills, 2013.  The Bills will be submitted to the Attorney General for publication following a roundtable meeting which was scheduled for 2nd April, 2013. 
+The Magistrates’ Courts Bill proposes to repeal the Magistrates’ Courts Act (Cap. 10 of the Laws of Kenya) while the Contempt of Court Bill proposes to repeal Section 5(1) of the Judicature Act (Cap. 8 of the Laws of Kenya) and provide for the substantive law on contempt of court in Kenya.
+(g)     Transition County Appropriation Act, 2013; County Government Public Finance Management Transition Act, 2013; and Transition to County Government Allocation Act, 2013
+ 
+The Commission reviewed the above Bills to address Public Finance Management in county government in the interim period, particularly the period immediately preceding the election and assumption of office of governors, deputy governors and county assembly representatives. The laws specifically address: the need for capacity building and preparation of county treasuries prior to the coming into operation of the 47 counties; revenue collection, management and financial reporting by the former local authorities prior to the onset of the county governments; the establishment of a framework for the release and access of funds by county governments, and; the provision on the secondment of staff to the county governments to ensure that county governments have a core team of technical officers immediately after the elections, especially in the period between 4th March  and 30th June, 2013.
+(h)     Legislation Developed Without Due Regard to Procedure
+The reporting period marked the coming to an end of the term of the tenth Parliament of the Republic of Kenya. In the lead up to prorogation of Parliament, a number of Bills were hurriedly passed. Unfortunately, most of these Bills had not been submitted to the Commission pursuant to the provisions of Article 261. The Bills that were hurriedly passed without being first being submitted to the Commission, and where necessary to the Commission for Revenue Allocation are unconstitutional. They include:
+Kenya Institute of Curriculum Development Bill, 2012
+Public Private Partnership Bill, 2012
+Basic Education Bill, 2012
+Social Assistance Bill, 2012
+Kenya Commission for UNESCO Bill, 2013
+National Coroners Bill, 2013
+Science Technology and Innovation Bill, 2012
+Supplementary Appropriation Bill, 2013
+Technical and Vocational Education and Training Bill, 2012
+Office of the Director of Public Prosecution Bill, 2013
+Transition County Allocation of Revenue Bill, 2012
+Civil Aviation Bill, 2013
+Transition County Appropriation Bill, 2013
+International Interests in Aircraft Equipment Bill, 2013
+County Governments Public Finance Management Transition Bill, 2013
+Kenya Medical Supplies Authority Bill, 2013
+Constituencies Development Bill, 2012
+Kenya Law Reform Commission Bill, 2012
+National Government Coordination Bill, 2012
+National Centre for International Arbitration Bill, 2012
+Agriculture, Livestock, Fisheries and Food Authority Bill, 2012
+Public Benefits Organization Bill, 2012
+Kenya Agricultural and Livestock Research Bill, 2012
+Sports Bill, 2012
+Pyrethrum Bill, 2012
+Public Health Officers (Training, Registration and Licensing) Bill, 2012
+Crop Bill, 2012
+Customs and Excise (Amendment) Bill, 2012
+Presidential Retirement Benefits Amendment Bill, 2013
+Statutory (Amendment) Bill, 2012
+ 
+The Commission had prioritized some of the laws which had been submitted to it for review, including the Office of the Director of Public Prosecutions Act, 2013, and the Office of the Attorney-General Act, 2013. As such, the Commission forwarded an advisory to the Attorney-General and the National Assembly pointing out some of the obviously unconstitutional provisions. Regrettably, the laws were enacted with the glaring constitutional defects. The Commission now seeks to have the laws reviewed through the National Assembly once the latter is constituted via amendment to the unconstitutional provisions, or in the alternative, through judicial intervention.
+The Commission proposes to engage further with the Attorney General, the Kenya Law Reform Commission, Commission for Revenue Allocation, the National Assembly and the Senate to ensure that all laws are developed in accordance with the procedure set out in the Constitution.
+(i)       Audit of Legislation
+To ensure compliance of all legislation to the Constitution, the Commission periodically audits all legislation enacted. In this regard, the Commission carried out an audit of legislation one year after the promulgation of the Constitution, and the Audit Report was used to amend unconstitutional provisions in the identified laws.
+The Commission has now commenced a second audit of legislation. The audit will cover legislation enacted between September 2011 and January, 2013. Any inconsistencies identified in the audit will be brought to the attention of Parliament, the Attorney General and the Cabinet.
+ 
+2.3   Development of Administrative Procedures and Regulations
+The development of policies and legislation sets out a broad framework whose effective implementation is expressed through regulations and administrative procedures. It is through development and review of regulations and administrative procedures that real change will be felt by the people of Kenya. All legislation requires the development of rules and regulations to give effect to its provisions.  Thus, in April 2011, the Head of Public Service and Secretary to the Cabinet, in consultation with the Commission, issued a circular to all state organs to:
+ 
+“…undertake a comprehensive audit of all existing sessional papers; laws, by-laws and regulations; policies; administrative procedures; government guidelines and circulars relating to its functions and to the sector in which the Institution operates.”
+ 
+The Commission had also identified areas in the Constitution and legislation that need further elaboration to foster understanding and ease of comprehension by the people of Kenya and implementers. This section reports on progress made in the development and review of regulations and administrative procedures required to implement the Constitution.
+ 
+(a)      Development of an implementation guide for integration of constitutional values and human rights for implementers in the Public Service
+ 
+The Commission continued work on the development of a guide for integration of constitutional values and human rights principles for actors in the public service.  The Commission convened a validation forum in February 2013 to review the draft of the implementation guide before its finalization. The meeting brought together representatives from Government Ministries and Departments; Non-State actors; Constitutional Commissions and members of the academia. To ensure incorporation of international best practice, the meeting also had representatives from the United States of America and South Africa.
+ 
+Some of the broad issues identified at the forum include:
+ 
+(i)                   The need to adequately respond to the question of “how to implement the right”.
+(ii)                 The need to address the two levels of government and their roles and responsibilities in line with the 4th Schedule of the Constitution.
+(iii)                Inclusion of a list of the relevant statutory laws governing the issues that concern the right being discussed.
+(iv)                How to reflect the role of oversight institutions, both constitutional/national and international.
+(v)                 The need to affirm progress made by public officials, while reflecting an understanding of the constraints and the context within which public officials are trying to implement the rights.
+ 
+Once finalised, the guide will be distributed widely to facilitate a rights based approach to service delivery and implementation of the Constitution.
+ 
+(b)     Simplified Version of Chapter Five of the Constitution
+ 
+The Commission, with the assistance of World Wildlife Fund (WWF), commissioned a consultant to develop a simplified version of Chapter Five of the Constitution (Land and Environment) for ease of understanding amongst Kenyans. The Commission will review the guide and subject it to stakeholder validation before publication and distribution.
+(c)      Public Service Commission Regulations 
+The Commission engaged with the Public Service Commission to finalize the review of regulations developed under Section 31 of the Public Service Commission Act 2012. However, following further consultations, it was agreed that since the draft regulations had not addressed matters of principle, there was need to develop comprehensive legislation that would deal with the matters of principle and matters relating to Public Service such as Article 232 on Values and Principles of the public service and uniform norms and standards as contemplated in Article 235.  The legislation is anticipated to be in place within the next six months.
+(d)     Guidelines on the Assumption of Office of Governors 
+The Commission also developed, in consultation with the Transition Authority, guidelines on the Assumption of Office of Governors. The guidelines provide for the establishment of Assumption of Office of Governor Committees which are charged with the role of ensuring smooth and orderly swearing in of governors to ensure a smooth transition to devolved government. The guidelines were published by the Transition Authority and facilitated the assumption of office by governors in all the 47 counties on the 27th of March, 2013.
+(e)      Standing Orders
+Article 124 of the Constitution demands that Parliament prepares standing orders for the orderly conduct of its proceedings. In addition, Section 14 of the County Governments Act, 2012, requires each County Assembly to make standing orders to regulate its procedures.
+To assist the county governments in the preparation of standing orders, the Transition Authority coordinated the modification of the National Assembly standing orders to be used by each County Assembly in the interim period until they adopt their own standing orders. The Commission reviewed the Model County Assembly standing orders and forwarded comments to the Transition Authority by 26th February, 2013.
+Similarly, the draft Standing Orders for the Senate and the National Assembly were tabled before, and adopted by the tenth Parliament on 19th January 2012. These standing orders are to be used by the next Senate and National Assembly until each House gets an opportunity to amend its standing orders. The Commission reviewed the standing orders and forwarded comments to the Clerks of the Senate and the National Assembly on 12th March 2013.
+The Commission looks forward to having county assemblies, Senate and National Assembly standing orders which respect the letter and spirit of the Constitution.
+(f)       Supreme Court (Presidential Election Petition) Rules, 2013
+ 
+Article 163(8) of the Constitution and Section 31 of the Supreme Court Act, 2011 confer powers on the Supreme Court to make rules regulating the procedure for petitions to the Supreme Court challenging the election of the President. The Judiciary drafted Presidential Election Rules and convened a stakeholder’s validation workshop to review the draft Supreme Court (Presidential Election Petition) Rules, 2013. The workshop, at which the Commission was represented, provided an opportunity for stakeholders to discuss and comment on the draft rules before publication.
+(g)     Handbook on Public Finance Management in Kenya - Frequently Asked Questions
+The Commission, in consultation with state and non-state actors and support from the International Budget Partnership (IBP), developed a frequently asked questions handbook on Public Finance Management in Kenya. The handbook outlines the framework of Public Finance Management as encapsulated by the Constitution of Kenya and the Public Finance Management Act, 2012. The handbook gives users a simplified outline of the budget process both at the national and county level, defining the meaning and scope of financial reporting as provided by law, and the roles and responsibilities of institutions in the Public Finance arena.
+Given the importance of public finance especially in the context of devolution and delivery of services, the Commission aims for wide distribution of the handbook as a guide to public officers and the public to enhance accountability, responsibility, prudence and public participation in fiscal management and reporting.
+(h)     Medium Term Plan, 2013 – 2018 (MTP2) Development
+The Executive arm of Government is finalizing the preparation of a policy document that outlines the road map towards realizing the Kenya Vision 2030 and the Constitution of Kenya i.e. the 2nd Medium Term Plan (MTP) 2013 -2017.  The MTP II being developed maps the development agenda for the country including implementation of the Constitution of Kenya.  The Commission’s involvement in this exercise has focused on engendering a constitutional focus and in this regard, during this reporting period, the Commission has worked with the Ministry of State for Planning, National Development and Vision 2030 as well as the National Stakeholder’s Forum to: (i) Enhance the Constitutional implementation focus in the results, program and project definition  and (ii) To ensure a constitutionally compliant process i.e. one that respects the two levels of Government in accordance with article 6 and 189 of the Constitution and ensures robust public participation in accordance with the national values and principles espoused in the Constitution.
+It is envisioned that during the next quarter as the Ministry works to finalize the MTP II, the Commission will continue to engage with the respective actors to ensure that a Constitutional focus is mainstreamed.
+(h)     Institutional Framework for Working with Constitutional Commissions
+Section 5(6) of the Sixth Schedule to the Constitution requires CIC to work with each constitutional commission to ensure that the letter and spirit of the Constitution is respected. CIC adopted an institutional framework for working with constitutional commissions which will be used to strengthen the existing engagement mechanisms with the Commissions. The framework will be circulated to all constitutional commissions for validation in the next quarter.  
+2.4     Monitoring and Observation of the Electoral System and Process
+ 
+a.                            Monitoring of Political Parties’ Nominations
+The Commission monitored the political parties’ nominations that preceded the general elections. Working with Kenya National Commission for Human Rights (KNCHR), the Commission was involved in the design of the questionnaire and nomination observation checklist, which guided the monitoring of nominations countrywide. The Commission directly monitored nominations in Homa Bay and Embu on 18th January, 2013. The purpose of monitoring was to assess the level of knowledge and participation by members of the public, the level of transparency and accountability in the nomination process, and to ensure that the exercise was carried out within the law and the political parties’ regulations to promote free and fair elections.
+The Commission had, before the date of nominations, issued an advisory to political parties, IEBC and the Registrar of Political Parties (RPP) on constitutional and statutory issues that needed to be adhered to during the exercise pursuant to the Constitution, the Elections Act, 2011 and the Political Parties Act, 2011.
+The Commission made the following observations in political party primaries preceding the first general elections under the Constitution:
+(i)                   There was little knowledge of the electoral laws of the party nomination rules among voters attributable to the minimal voter education programmes in the run-up to the nominations exercise.
+(ii)                 There was widespread disregard of the principles set out in the Constitution and the Political Parties Act, for instance, defections from parties even after the nomination exercise had been completed.
+(iii)                A general lack of internal party democracy with allegations of nepotism, favouritism and voter bribery.
+(iv)                Poor organization by the political parties.
+(v)                 Lack of clarity as to how the requirement for competition, fairness, inclusively and other national values and principles were applied in filling in the allocated party lists.
+The Commission recommended strengthening of democracy within political parties, as well improvements in the political parties’ nominations process. The Commission consulted with the IEBC on the IEBC’s role and involvement in the regulation of the process by which political parties nominate candidates, as well as its role in monitoring the compliance by political parties of the Elections Act, 2011.
+b.                            Observation of the Elections Simulation Exercise
+On 24th February 2013, IEBC invited the public to witness the simulation of the voting process, including the counting and transmission of results. The objective of the simulation exercise was to promote public awareness on the voting procedure as part of the IEBC’s work to facilitate the realization of the voters’ right to vote. The simulation exercise was carried out in one polling station per county assembly ward, seven days to the actual date of the General Elections.
+The Commission noted some inadequacies in the electoral process and communicated the same to the IEBC. It was the Commission’s understanding that the lessons learnt during the simulation exercise would be used to improve the preparedness of both IEBC officials and voters.
+c.                            Observation of the General Elections
+The Commission was one of institutions accredited by the IEBC to be election observers for the General Elections held on 4th March, 2013. The Commission deployed eight commissioners and sixteen technical staff members to observe elections across the country. In addition, the Chairperson and one Commissioner were accredited to observe the tallying process at the IEBC national tallying centre at Bomas of Kenya.
+ The Commission’s objective in observing the exercise was to ensure that the elections were carried out in a transparent manner and generate/learn lessons expected to improve the electoral processes and systems of future elections.
+2.5   Status of Implementation of the Devolved System of Government
+ 
+The period marked the end of the first phase of transition activities geared towards ushering in the devolved system of government under the first general election under the Constitution of Kenya, 2010.  Specifically, in line with the set targets, the activities undertaken include:
+ 
+(i)                   Engagement with the Transition Authority on Phase One transition activities
+(ii)                 Engagement with the Commission on Revenue Allocation on transition activities under their mandate that have an impact on the implementation of the devolved government and specifically the funding of county governments once they come into place. 
+(iii)                Engagement with the Public Service Commission (PSC) on human resource issues that have a bearing on the effective delivery of public service.
+(iv)                Engagement with Ministry of Finance on matters of financing of county governments.
+(v)                 Engagement with the Office of Controller of Budget on matters of County Government funding.
+(vi)                Engagement with the Auditor General’s office on matters of Auditing County governments Assets and Liabilities.
+ 
+Generally, the aim of the Commission’s engagement with stakeholders was to assess the status of the implementation of the devolved system of government and ensure that the transition process is on course.
+The 47 counties elected their governors and county assembly representatives on 4th March 2013. Meetings between TA, CRA and the Commission revealed many issues on transition that needed to be addressed to ensure successful transition to devolved system of government. The Commission developed an assessment checklist and visited all the 47 counties to find out whether the transition activities intended for the initial phase have been or were being implemented. Key findings of the visit are discussed in c) below.
+In view of the far-reaching impact of the transition process on the seamless implementation of the devolved system of government, and the importance of the transition process on county government’s functionality, the Commission held meetings with the Commission on Revenue Allocation (CRA), Public Service Commission (PSC), and Transition Authority (TA) to take stock of the process of transition to devolved government, clearly set out transition targets and moderate expectations as well as enable monitoring of the implementation of the devolved system of government.
+(a)         Capacity Building for Transition to Devolved Government
+ 
+In the run up to the general elections that would usher in the devolved system of government, the Commission engaged with various stakeholders to develop comprehensive programmes for capacity building of the national and county governments. The Commission undertook the following activities together with Transition Authority (TA), Kenya School of Government (KSG), CPST and Kenya School of Monetary Studies (KSMS):
+(i)                   Finalization of a curriculum and manuals for capacity building of National and County Legislatures;
+(ii)                 Development of an induction programme for newly-elected Governors, Deputy Governors and Speakers.
+(iii)                Finalization of a comprehensive capacity development programme for county governments.
+(iv)                Development of guidelines and manual for Human Resource Management at the County level.
+(b)                 Reporting Template for the Transition Authority
+ 
+Section 7(1) (n) of The Transition to Devolved Government Act, 2012, requires the Transition Authority to “submit monthly reports to the Commission for the Implementation of the Constitution and the Commission on Revenue Allocation on the progress in the implementation of the transition to the devolved system of government”. Similarly, Section 25 (1) of The Transition to Devolved Government Act, 2012 requires that “the Authority shall, in every three months, submit a progress report to the President, Parliament, the Commission for the Implementation of the Constitution and the Commission on Revenue Allocation”. Therefore, the Commission developed a reporting template and shared it with the Transition Authority to facilitate reporting to the Commission. The Commission received monthly and quarterly reports from the Transition Authority and is reviewing the content of the reports. 
+(c)                  County Visits
+The Constitution and specifically, Section 15 2 (d) of the 6th Schedule to the Constitution, mandates the Commission to effectively monitor the implementation of the devolved system of government.  As part of this monitoring mandate, the Commission organized visits to all the 47 Counties from Wednesday, 13th March to Friday, 15th March 2013 to ascertain the status of transitional activities for effective implementation of the devolved system of government.
+ 
+A critical requirement both during the transition as well as the actual implementation of the devolved system of government is seamless transition without disruption of public service delivery. The visits by the Commission sought to, among others, establish the extent to which this requirement was being met. During this exercise, the Commission team met with the elected and appointed county officials at the respective County Headquarters. The information obtained from the visits was used to inform initiatives to ensure that the transition process is effectively implemented to realize the full benefits for the people of Kenya. 
+Specifically the county visits availed the opportunity to discuss and establish the status of the following transition activities among others:
+(i)       Ensuring 2013-14 county budgets allocation to avoid the risk of the county governments being under-funded in the financial year 2013-14;
+(ii)     Function analysis to avoid undue delay of transfer of functions;
+(iii)    Preparation of Transition Implementation Plans to ensure that the plans are comprehensive enough to avoid confusion that would undermine service delivery.
+(iv)    Human Resource planning and management to avoid ad hoc redeployments likely to instigate staff discontent and strife as well as improper matching of skills which would undermine the quality of service delivery.
+With the information from the counties, the Commission engaged with different stakeholders responsible for the transition activities to ensure that emerging challenges were addressed. The Commission also focused on various issues, among them the involvement of women, youth, persons with disabilities and marginalized groups in the transition teams. The issues noted include:
+(i)       Transition teams did not meet the gender representation as well as that of persons with disabilities. Notably, although the transition teams included both men and women, the two-third gender balance was not met. Further, the Commission did not encounter any persons with disabilities in the interim transition teams.
+(ii)     The Commission also noted with concern that only a few women, People with Disabilities (PWDs) and other marginalized persons were elected into various elective positions. Specifically, no woman was elected as either Governor or Senator; only 16 women made it to the 290- strong National Assembly and less than 6 per cent of the 1,450 members of county assemblies were women.
+ 
+The Commission spearheaded a targeted campaign to improve the inclusion of women, people with disabilities and marginalized groups in elective and appointive positions. These positions include Speaker of the National Assembly, Deputy Speaker of the National Assembly, Speaker of the Senate, Deputy Speaker of the Senate, Speakers of County Assemblies, Members of County Executive Committees, County Chief Officers, and County Public Service Boards.
+ 
+To achieve a higher degree of inclusiveness, the Commission:
+ 
+(i)       Encouraged able women, PWDs and marginalized persons to apply and lobby for the upcoming positions in National and County Governments.
+(ii)     Urged political parties to appoint and front women, PWDs and marginalized persons for these positions.
+(iii)    Called upon elected officials to specifically elect women, PWDs and marginalized persons to such positions.
+ 
+(d)                 Gubernatorial Conference for Aspiring Governors
+The Commission participated in the first national conference for gubernatorial candidates. The conference brought together more than four hundred aspiring governors drawn from different political parties. The aspirants were informed of the duties and responsibilities for governors and county assemblies.
+2.6   Public Advisories
+ 
+Article 1 of the Constitution vests sovereign power in the people of Kenya. It provides for exercise of sovereign power directly, through elected representatives or delegation to Parliament, Judiciary, or national and county executives.
+In recognition of the sovereign power of the people of Kenya and in recognition of the fundamental right to information under Article 35 of the Constitution of Kenya and the National Values and Principles of Governance set out in Article 10 of the Constitution, the Commission, where necessary, issues public advisories and press statements to bring to the attention of Kenyans issues arising in the course of ensuring the letter and spirit of the Constitution is respected by all state organs.
+ 
+To this end, the Commission issued five advisories to the public through the print media on:
+ 
+(a)     Unconstitutionality of the Presidential Retirement Benefits (Amendment) Bill 2012, and the Retirement Benefits (Deputy President and designated state officers) Bill, 2012;
+(b)     Delay in appointment of Members of the National Land Commission; 
+(c)      The status of preparedness for transition to devolved government;
+(d)     Election Checklist for Leadership and Integrity, and;
+(e)      A call for inclusion of special interest groups in elective posts.
+ 
+The advisories are briefly discussed below.
+ 
+(a)     Unconstitutionality of the Presidential Retirement Benefits (Amendment) Bill 2012, and the Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012
+ 
+On Wednesday 9th January, 2013, the National Assembly passed the Presidential Retirement Benefits (Amendment) Bill 2012, and the Retirement Benefits (Deputy President and Designated State Officers) Bill 2012.
+The Commission advised the President on the unconstitutional character of the Bills, noting that, in the clear language of the Constitution, it is the exclusive function of the Salaries and Remuneration Commission (SRC) established under Article 230(1) of the Constitution to set and regularly review the remuneration and benefits of all state officers and to advise the National and County Governments on the remuneration and benefits of all other public officers. The Commission called upon the President not to assent to the two Bills.
+ 
+Whereas the Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012 was not assented to, the Presidential Retirement (Amendment) Bill, 2012 was assented to. The Commission has written to the Attorney General and the Salaries Remuneration Commission to ensure that the Act is not implemented in contravention of the Constitution, and that the SRC carries out the mandate with regard to the two issues.
+ 
+(b)     Delay in Appointment of Members of the National Land Commission 
+ 
+The Commission issued a statement on the delay in the appointment of members of the National Land Commission. The National Land Commission has an important mandate in reform and management of land, including management of public land on behalf of the National and County Governments, recommending a national land policy to the national government, and to initiate investigations into present or historical land injustices and recommend appropriate redress for them.
+The Commission noted with concern that the President had not appointed members of the Commission long after the legal restraint of a conservatory order had been removed. The Commission therefore, in a public communication to the people of Kenya, called for expedition in appointment of members of the National Land Commission.
+The National Land Commission members were finally appointed on the 20th February, 2013.
+(c)      The Status of Preparedness for Transition to Devolved Government
+ 
+On 28th February, 2013, a press statement was issued jointly by the Commission, CRA, PSC and TA on the country’s preparedness for the transition to devolved government ahead of the General Elections. The statement outlined specific activities that had been carried out to facilitate the transition to devolved government, including setting up of a legislative framework, administrative procedures, infrastructure, human resource capacity, and modalities of the transfer of previously shared assets and liabilities of government and local authorities.
+ 
+(d)     Election Checklist for Leadership and Integrity 
+Chapter Six of the Constitution of Kenya, 2010, sets out the expectations of State Officers, whether appointed or elected.  In 2012, legislation on Leadership and Integrity was enacted with provisions on mechanisms to implement Chapter Six of the Constitution having been expunged before enactment.  Nonetheless, the Commission found it necessary to unbundle the contents of Chapter Six of the Constitution and share with the public on the highlights of the Chapter.  Thus, the Commission developed a checklist with which voters could assess the candidates who were vying for the various elective posts in the 4th March General Elections. The Checklist was published on 9th February, 2013.
+(e)      A Call for the Inclusion of Women, Minority and Marginalized Groups in National and County Government Appointments
+ 
+On 19th March, 2013, the Commission issued a public statement calling on individuals from minority and marginalized groups, and in particular women, youth and Persons with Disabilities to apply for positions at the national and county levels that require filling following the general elections. The Commission called on the Senate, National Assembly, county assemblies, political parties, civil society organizations and professional women caucuses to take deliberate steps towards ensuring that women, youth, people with disabilities, minorities and other marginalized groups are adequately represented in leadership positions in order to realize the national values and principles of equity, inclusiveness, equality, non-discrimination, and protection of the marginalized (See Annex).
+2.7      Stakeholder Engagements
+ 
+The Commission believes in a consultative approach to implementation of the Constitution. Consequently, the Commission continuously engages with stakeholders, which include Commissions and Independent Offices, Ministries, Departments and State Agencies, the Judiciary, the National Assembly and Non-State Actors (NSAs). These engagements are in addition to consultations ordinarily undertaken in the course of developing and reviewing a particular policy, legislation or regulations and administrative procedures. The following is a brief overview of stakeholder engagements undertaken by the Commission during the quarter.
+ 
+(a)      Meetings with Ministries, Departments and Agencies
+ 
+In continuing its engagement with the key implementing agencies in the public sector, the aim of the Commission’s engagement with the Government Ministries was to obtain an update on the status of the activities being undertaken by the Ministries in the implementation of the Constitution, deliberate upon any challenges encountered in the implementation process and review their change management strategies.
+The Commission convened consultative meetings with the different Ministries and commissions that included: the Public Service Commission, the Ethics and Anti-corruption Commission; Ministry of East African Community, Ministry of Provincial Administration and Internal Security, Ministry of Foreign Affairs and the Ministry of State for National Heritage and Culture.
+It was generally agreed in the consultative meetings that there was need for: inter-ministerial engagements particularly where respective activities duly impact on the realization of their mandate; frequent meetings between the Ministries and the Commission; and for state agencies to ensure that quarterly reports are exhaustive and provide progressive and comprehensive updates on the status of implementation of the different activities.
+ 
+(b)     Meeting with the Parliamentary Service Commission
+ 
+The Commission held a meeting with the Clerks to the National Assembly and the Senate on the working relations with the Parliamentary Service Commission (PARLSCOM). In particular, the Commission will work closely together with PARLSCOM with regards to transitional arrangements for the new Senate and National Assembly. PARLSCOM informed the Commission that:
+(i)       Standing orders for the new National Assembly and Senate had already been adopted by the 10th Parliament. These standing orders will be used to swear in the next Parliament, and shall apply in the interim period before both the National Assembly and Senate adopt their own standing orders.
+(ii)     PARLSCOM had developed a Parliamentary Service Bill, which was not passed by the 10th Parliament, and that will therefore be submitted to Parliament once the new members take office. In the meantime, The Parliamentary Service Act Continues to apply.
+(iii)    PARLSCOM was still exploring avenues of facilitating public participation in the affairs of Parliament, including participation in departmental committees.
+ 
+The meeting also noted the need to agree on the legislative process and resolved that key implementing partners, i.e. CIC, the Kenya Law Reform Commission, the Attorney General and the Clerks to the National Assembly and Senate would meet to deliberate on the process of developing legislation. The Commission will follow up to ensure an agreed procedure for development of legislation is adopted.
+(c)      Participation at the CSW Preparation Meeting
+ 
+The Commission attended a meeting on 7th February, 2013 organized by the Ministry of Gender, Children and Social Development on the preparations for the 57th Session of the Commission on the Status of Women (CSW) held in New York from 4th March, 2013. The meeting brought together various organizations working on gender issues and particularly women issues. The meeting agreed upon the need to: map the different women organizations and group them thematically in accordance to their area of specialization; schedule regular meetings among the different organizations to assist in monitoring and accountability, and; put in place a framework of engagement for the different women organizations, the Ministry of Gender and the National Commission on Gender and Equality.
+ 
+(d)     Stakeholder Forum for School Principals
+ 
+The Commission was invited to participate at one-day stakeholder forum organized for principals of high schools, which was sponsored by the Anglican Church of Kenya. The Commission made a presentation to participants on the electoral process and on leadership and integrity. Some of the issues  raised by the participants included the need to ensure that need for ‘progressive realization’ will not be a basis for the government’s failure to implement socio-economic rights and the need to find a balance between the rights and responsibilities of parents, teachers and students in applying the public participation principle in learning institutions.
+(e)      Conference on Elections 
+The Independent Electoral and Boundaries Commission (IEBC), along with the Judiciary Working Committee on Elections Preparations (JWCEP), Kenyatta University School of Law and the Electoral Institute for Sustainable Democracy in Africa organized an international conference to discuss the country’s preparedness for elections preparedness for a presidential run-off, should the need arise, and the judiciary's preparedness to handle post-poll petitions within the set timeframes. Presenters at the forum were drawn from various countries that have gone through presidential run-offs such as Sierra Leone, Ghana and Liberia.   
+The Judiciary highlighted measures put in place to ensure timely conclusions of all election petitions, and presented the Supreme Court (Presidential Election Petition) Rules, 2013.
+(f)       Constitutional Commission’s Meeting with IEBC
+The Commission was part of a team that attended a meeting convened under the umbrella of the Chairpersons of Constitutional Commission and Independent Offices Forum at IEBC offices.  The purpose of the meeting was to discuss IEBC’s preparedness for the general elections and address any issues or challenges identified. IEBC was challenged to provide regular communication to the Commissions and to Kenyans in general on the preparedness for the elections to avoid any uncertainty. It was agreed that Constitutional Commissions would support IEBC in its endeavor to ensure a successful and credible poll.
+(g)     Media Sensitization
+The media has played and continues to play a critical role in Kenya’s reform process by ensuring the people of Kenya are informed and are given their rightful opportunity to participate in matters of governance. Apart from shaping public opinion, the media is also a means by which the public plays a direct and indirect part in the democratic process. It is therefore important that journalists have facts on and detailed analyses of the provisions in the Constitution.
+Taking cognisance of the role of the media, the Commission held two workshops with editors and bureau chiefs from local and international media houses. The event, organised with the support of the Media Council of Kenya, brought together over 80 news editors and bureau chiefs.  The aim of the workshop was to enhance the media’s involvement in the implementation of the Constitution and promotion of a culture of constitutionalism. The workshop activities, which focused on the electoral system and process and the transition to the devolved government system, were compressed into three elaborate questions, each of which sought to explain the role of journalists in the context of the new dispensation, what they need to do to ensure the realization of the principles of the Constitution and how they intend to do that. Going forward, the participants undertook to promote constitutionalism in the course of discharging their duties.
+(h)     Meeting with EU Election Observer Mission
+ 
+The European Union election observer team paid a courtesy call to the Commission in February, 2013. The meeting discussed election preparedness and the legal and administrative framework for the March 2013 general elections.
+(i)       Frient Roundtable
+ 
+The Chairperson was invited to the Frient Roundtable, an annual roundtable meeting convened to take stock of constitutional, legislative and institutional developments in Kenya. Due to the proximity of the general elections, the meeting adopted a theme on elections and addressed various issues on Kenyan elections including preparedness, dispute settlements and expectations for free and fair elections.
+(j)       Other Fora by Non-State Actors
+ 
+The Commission was also invited and gave presentations to the following conferences convened by non-state actors:
+ 
+KIM Monthly Forum  to give speech “towards institutional excellence: new governance order”
+The Gynecological Conference on reproductive health rights
+ICPAK Symposium “Towards a Devolved System : Sustaining the Thrust”
+Rotary Club of Nairobi North Meeting at the Parklands Sports Club to give a speech on the role of CIC and the myths and facts of the Constitution.
+2.8      Litigation
+ 
+In the period under review the Commission was also involved in litigation in various capacities. This section gives a brief overview of cases in which judgments were issued as well as the pending cases.
+(a)     Decided Cases
+(i)       The Commission for the Implementation of the Constitution –vs- Parliament of Kenya & Another [2013] eKLR
+The High Court dismissed the petition challenging the constitutionality of the Leadership and Integrity Act, No. 19 of 2012. The Commission argued that Parliament had diluted and watered down the Bill prepared by the Commission in consultation with stakeholders during the enactment process as a result of which the final product failed to meet the constitutional threshold as contemplated by Article 80. Further, the Act as passed undermines the mandate of the EACC in as far as it failed to provide procedures and mechanisms for it to use in the enforcement of the Act.
+The Court held that Part IV of the Act provides procedures and mechanisms for enforcement of the General Leadership and Integrity Code and by extension the principles set out in Chapter Six of the Constitution. These enforcement mechanisms are to be supplemented by rules and regulations passed by the EACC and further, that reference to the Public Officer Ethics Act, includes disciplinary action against an officer who contravenes not only the General Code on Leadership and Integrity but also the Code of Conduct and Ethics of the relevant public entity.  The court stated that it is a matter of legislative policy whether to have a “one stop-shop” or have various public entities involved in the implementation of Chapter Six under the umbrella of EACC.
+(ii)     The Commission for the Implementation of the Constitution -vs- The Hon. Attorney General and Another [2013] eKLR
+The issue raised was whether following the decision to segregate the Public Financial Management Bill and present part of it as two separate Bills namely, the Contingencies Fund and County Emergency Funds Bill, 2011, and the National Government Loans Guarantee Bill, 2011, the Attorney General had disregarded the procedure expressly stipulated under Article 261(4) and the provisions of Section 14(1) to the Sixth Schedule of the Constitution, that at least a 30 day period be allowed for the CIC to consider the Bills before their enactment.
+The Court held that the Commission had been accorded an opportunity to consider the content of subject Bills prior to their publication. The Public Financial Management Bill had been forwarded to the Commission by the letter dated 15th June, 2011 from the office of the Deputy Prime Minister. At the time the decision to sever the Bills was made in August, 2011, CIC had been in possession of the merged Bill for two months.
+ The Court took judicial notice of the fact that the subject statutes had been repealed by Section 208 of the Public Finance Management Act, No. 18 of 2012 which was assented to on 24th July, 2012 and its provisions, save for those touching on county government, came into operation on 27th August, 2012. The petition therefore, and prayers sought therein, were superfluous or had been overtaken by events.
+(b)      Petitions Pending Before the Courts
+ 
+The Commission had been enjoined in the following suits which were pending before the High Court:
+ 
+(i)       Political Parties Forum Coalition –vs- The Hon. Attorney General and 4 others (Nrb. H.C. Petition No. 589 of 2012), CIC -5th Respondent
+ 
+This was a petition challenging the constitutionality of a decision to fix the deadline for submission of coalition agreements with the Registrar of Political Parties on 4th December 2012.
+ 
+(ii)     Mohamed Osman Warfa and 2 Others –vs- The Office of the President of the Republic of Kenya and 5 Others (Nrb. H.C. Petition No. 77 of 2013), CIC – 5th Respondent
+ 
+This was a petition challenging the constitutionality of the decision of the Office of the President to appoint persons to the Public Service Commission in so far as none of the appointees whose names were published in Kenya Gazette Vol. No. CXV No. 4 Notice No. 462 dated 9th January 2013 were from the  Muslim faith and/or from any County situated in the North Eastern area or a Muslim from any other Muslim-dominated area of the Republic of Kenya.
+ 
+(iii)    Commission for the Implementation of the Constitution and the Hon. Attorney General (Nrb. Civil Appeal No. 351 of 2012), CIC - Appellant
+ 
+In addition, the Commission, being dissatisfied with the Judgment and Order of the High Court of Kenya at Nairobi (Mr. Justice David Majanja) delivered on 15th November 2012 in Petition No. 389 of 2012 filed a notice of appeal against the Court’s Judgment and Order on 20th December 2012 (Nrb. Civil Appeal No. 351 of 2012 Commission for the Implementation of the Constitution and the Hon. Attorney General).  The matter came up for hearing before Court of Appeal on 19th March 2013.
+PART THREE: ACTIVITIES FOR THE NEXT QUARTER
+ 
+The Commission will, inter alia, focus on the following activities for the period April – June, 2013.
+3.1   Baseline Assessment of Progress of Implementation
+The Commission projects a baseline survey to:
+(a)      Identify policies, legislation, administrative procedures and institutional frameworks existing under each public institution for the implementation of the constitution.
+(b)     Evaluate the consistency of (1) above with the letter and spirit of the Constitution.
+(c)      Identify all new legislation necessary to be developed to implement the Constitution.
+(d)     Establish the level of development of policies and administrative procedures and institutional frameworks required to actualize the Constitution and attendant legislation with a view to unlocking any hurdles curtailing their finalization.
+(e)      Identify key institutional frameworks including implementation plans and change management plans required for the implementation of the Constitution.
+(f)      Identify and define other key performance indicators to measure the progress of Constitution implementation and establish their analytical base values.
+3.2      Analysis of Reports from Ministries and State Organs on the Progress of Implementation of the Constitution
+ 
+The Commission has been receiving progress reports from Ministries and other state organs on the implementation of the Constitution since 2011. While the reports guided comprehensive engagements between ministries and the Commission, they have never been analysed and comprehensive a feedback given. The Commission will complete the analysis of ministerial and stakeholders reports and prepare a comprehensive report to guide the national executive in discharging its mandate effectively.
+3.3      Development of Constitutional Case Law Digest (Compendium)
+ 
+To document jurisprudence on the Constitution, the Commission is developing a digest on constitutional case law. The digest will contain concise summaries of selected judgments from the superior courts together with case commentaries and thus provide a readily accessible and user-friendly tool for implementing the Constitution.
+3.4      Identification and Prioritization of Legislation for Enactment
+ 
+Some of the laws identified include:
+ 
+(a)      National Registration and Identification Bill, 2012 and Refugee Bill, 2013.
+ 
+(b)     Work Injuries Compensation Bill, 2013.
+ 
+(c)      the Prisons Act .
+ 
+(d)     National Youth Service Act .
+ 
+(e)      Public Safety and Order Act.
+ 
+(f)      Official Secrecy Act.
+ 
+(g)      The National Coroners Service Bill.
+(h)     The Private Securities Regulations Bills.
+ 
+3.5     Audit of Laws Enacted by the 10th Parliament to Ensure Compliance with the Letter and Spirit of the Constitution
+ 
+This will involve a systematic audit of all the legislation in close partnership with key stakeholders. Where some legislation is found to contain unconstitutional provisions, these shall be taken up with the relevant bodies for redress.
+3.6     Development of Guidelines and Administrative Procedures
+ 
+(a)      Development and issue of circulars to Parliament, National Executive and County Executive and Assemblies.
+ 
+(b)     Finalization of the review of the final draft of the implementation guide for integration of constitutional values and human rights for implementers in the service before its publication.
+ 
+(c)      Development of a training manual for women and people with disabilities in elective positions and capacity building for people with disabilities in elective positions across the 47 counties.
+ 
+(d)     Review and publication of the papers presented during the Public Participation workshop held in 2012.
+ 
+(e)      Engagement with the newly elected and appointed officials in the National Assembly, Senate, National Executive and County Governments.
+ 
+(f)      Monitoring of the appointment of county executive and public officials for compliance with constitutional principles.
+ 
+(g)      Coordination with the Ministries to ensure all relevant legislation, policies and administrative procedures are reviewed for compliance with the Constitution.
+ 
+(h)     Working with the national executive in the finalization and implementation of the Medium Term Plan (2013-2017).
+(i)       Involvement of the young people of Kenya in the Constitution implementation process.
+(j)       Engagement with Constitutional Commissions on the implementation of the Constitution.
+ 
+(k)     Finalization and review of transition implementation plans.
+ 
+(l)        Support to counties to develop their first County Development Plans.
+ 
+(m)    Mainstreaming a Rights-Based Approach in the First Budget under the Devolved System of Government.
+ 
+(n)     Development of Change Management Plans by newly constituted government agencies and departments.
+ 
+(o)     Finalization of the CIC Strategic Plan for 2013 – 15.
+(p)     Finalisation of an M&E system, including a costed, multi-year, multi-sectoral and multi-level M&E work-plan.
+ 
+(q)      Development a Public Finance Management (PFM) Guide for public officers at the county level and, after that, a PFM guide for public officers at the national level.
+ 
+(r)      Hosting public discussion forums on PFM with the intention of igniting public debates and views on how best to drive forward the PFM agenda both at the national and county levels.
+ 
+(s)      Training public officers and members of the public on PFM-related issues as provided under the law. This will be structured as a civic education program, and shall be piloted in select counties before a rollover to all counties.
+ 
+(t)       Engaging with stakeholders, both state and non-state actors, on the implementation of the Constitution.
+PART FOUR: CHALLENGES AND RECOMMENDATIONS
+4.1   Challenges
+ 
+The Commission experienced the following challenges in the realization of its mandate:
+ 
+(a)     Failure to observe equity, equality and affirmative action provisions in the Constitution
+ 
+The Commission noted that, notwithstanding the constitutional requirement for accommodation of the diversity of Kenyan people including representation on gender, regional, persons with disabilities status as well as minority and marginalized groups, this was not observed. For example, the transition teams appointed by the Transitional Authority and the Public Service Commission did not comply with these constitutional principles.
+ 
+(b)     Delay in the development of a comprehensive legislation on public service
+ 
+The implementation of a devolved system of government after the general elections calls for uniform standards and norms to be applied at the county level. That would ensure that the resulting diversity does not become a recipe for chaos. The Commission noted with concern the delay in the preparation of the relevant policy documents for that purpose.
+ 
+(c)      Lack of a clear transition roadmap
+ 
+The absence of a clear, fair, transparent transition roadmap has led to some resistance against the transition process. This resistance often stemmed from public servants’ fear of redundancy, ignorance or other selfish reasons.
+ 
+(d)     Fragmentation of key transition to devolved government activities likely to undermine the overall transition process
+ 
+The Commission noted that implementation activities in certain cases tended to be fragmented, leading to possible loss of focus or duplication of effort.
+ 
+(e)      Creation of new institutions
+ 
+There was a drive by Ministries to create new institutions in an attempt to bypass the constitutional requirement for lean government and distribution of functions to county government that were previously managed by the line ministries. The Commission notes that such moves are unconstitutional and are meant to claw back some roles and functions that the Constitution expressly reserves for the incoming county governments under the devolved system of government.
+ 
+4.2   Suggested Solutions and Recommendations
+ 
+To address the challenges encountered in the implementation of the Constitution, the Commission proposes the following responses:
+ 
+(a)                 Development of affirmative action and equality policy, legislation and administrative procedures.
+(b)                 Development of a policy and legislative framework to standardize public service in counties and to set guidelines for creation of new public institutions.
+(c)                  Enhanced collaboration between key implementing stakeholders to forge a collaborative and coordinated effort in the implementation of the Constitution of Kenya, especially the transition to devolved government.
+(d)                 Development of an effective communication strategy to create awareness and sufficient knowledge that would drive the transition process, and to drive civic engagement as soon as counties come into place.
+(e)                   
+ANNEXES
+ 
+Annex 1: Legislation enacted by the 10th Parliament after the Promulgation of the Constitution
+ 
+2010
+Commission for the Implementation of the Constitution Act (No 9 of 2010)
+Animal Technician Act (No. 11 of 2010)
+Competition Act (No.12 of 2010)
+2011
+Commission of Administrative Justice Act (No. 23 of 2011)
+Commission on Revenue Allocation Act (No. 16 of 2011)
+Elections Acts Act (No. 24 of 2011)
+Engineers Act (No. 43 of 2011)
+Environment and Land Court Act (No. 19 of 2011)
+Ethnics and Anti-Corruption Commission Act (No. 22 of 2011)
+Independent Electoral and Boundaries Commission (No. 9 of 2011)
+Independent Offices Appointment Act (No. 8 of 2011)
+Independent Policing Oversight Authority Act (No. 35 of 2011)
+Industrial Court Act (No. 20 of 2011)
+Judicial Service Act (No. 1 of 2011)
+Kenya Citizenship and Immigration Act (No. 12 of 2011)
+Kenya Citizens and Foreign Nationals Management Service Act (No. 31 of 2011)
+Kenya National Commission on Human Rights Act (No. 14 of 2011)
+Limited Liability Partnership Act (No. 42 of 2011)
+Mutual Legal Assistance Act (No. 36 of 2011)
+National Construction Authority Act (No. 41 of 2011)
+National Gender and Equality Commission Act (No. 15 of 2011)
+National Government Loans Guarantee Act (No. 18 of  2011)
+National Payment System Act (No. 39 of 2011)
+National Police Service Commission Act (No. 30 of 2011)
+National Police Service Act (No. 11A of 2011)
+Political Parties Act (No. 11 of 2011)
+Power of Mercy Act (No. 21 of 2011)
+Price Control (Essential Goods) Act (No. 26 of 2011)
+Prohibition of Female Genital Mutilation Act (No. 32 of 2011)
+Public Appointments (Parliamentary Approval) Act, 2011 (No. 33 of 2011)
+Salaries and Remuneration Commission Act (No. 10 of 2011)
+Tourism Act (No. 28 of 2011)
+Unclaimed Financial Assets Act (No. 40 of 2011)
+Urban Areas and Cities Act (No. 13 of 2011)
+Vetting of Judges and Magistrates Act (No. 2 of 2011)
+Veterinary Surgeons and Veterinary Para-Professionals Act (No. 29 of 2011)
+2012
+Appropriation Act, 2012 (No. 11 of 2012)
+Assumption of the Office of the President Act (No. 21 of 2012)
+Breast Milk Substitutes (Regulation and Control) Act (No. 34 of 2012)
+Cancer Prevention and Control Act (No. 15 of 2012)
+Consumer Protection Act (No. 46 of 2012)
+County Governments Act (No. 17 of 2012)
+Finance Act (No. 4 of 2012)
+Finance Act (No. 57 of 2012)
+Intergovernmental Relations Act (No. 2 of 2012)
+Kenya Defense Forces Act (No. 25 of 2012)
+Kenya Deposit Insurance Act (No. 10 of 2012)
+Kenya Examinations Council Act (No. 29 of 2012)
+Kenya Plant Health Inspectorate Service Act (No. 54 of 2012)
+Kenya School of Government Act (No. 9 of 2012)
+Kenya School of Law Act (No. 26 of 2012)
+Land Act (No. 6 of 2012)
+Land Registration Act (No. 3 of 2012)
+Leadership and Integrity Act (No. 19 of 2012)
+Legal Education Act (No. 27 of 2012)
+National Authority for the Campaign against Alcohol and Drug Abuse Act (No. 14 of 2012)
+National Intelligence Service Act (No. 28 of 2012)
+National Land Commission Act (No. 5 of 2012)
+National Security Council Act (No. 23 of 2012)
+National Transport and Safety Authority Act (No. 33 of 2012)
+Office of the Attorney-General Act (No. 49 of 2012)
+Partnerships Act, 2012 (No. 16 of 2012)
+Petitions to the Parliament (Procedure) Act (No. 22 of 2012)
+Prevention, Protection and Assistance to Internally Displaced Persons and Affected Communities Act, 2012 (No. 56 of 2012)
+Prevention of Terrorism Act (No 30 of 2012)
+Public Finance Management Act, 2012 (18 of 2012)
+Public Service Commission Act (No. 13 of 2012)
+Public Service Superannuation Scheme Act (No. 8 of 2012)
+Publication of Electoral Opinion Polls Act (No. 39 of 2012)
+Statute Law Miscellaneous Act (No. 12 of 2012)
+Supplementary Appropriation Act (No. 7 of 2012)
+Teachers Service Commission Act (No. 20 of 2012)
+Transition to Devolved Government Act (No. 1 of 2012)
+Treaty Making and Ratification Act (No. 45 of 2012)
+Universities Act (No. 42 of 2012)
+2013
+County Governments Public Finance Management Transition Act (No. 8 of 2013)
+Kenya Institute of Curriculum Development Act (No. 4 of 2013)
+The National Commission of for UNESCO Act (No. 5 of 2013)
+National Honours Act (No 11 of 2013)
+National Government Co-ordination Act (No. 1 of 2013)
+Office of the Director of Public Prosecution Act (No. 2 of 2013)
+Public Health Officers Act (No. 12 of 2013)
+Supplementary Appropriation Act (No. 3 of 2013)
+Transition County Allocation of Revenue Act (No. 5 of 2013)
+Transition County Appropriation Act (No. 6 of 2013)
+Amendment Acts
+2010
+Commissions of Inquiry (Amendment) Act, (No. 5 of 2010)
+Witness Protection (Amendment) Act, (No. 2 of 2010)
+Finance Act, (No. 10 of 2010)
+2011
+Capital Markets (Amendment) Act, (No. 37 of 2011)
+Central Depositories (Amendment) Act, (No. 38 of 2011)
+Industrial Training (Amendment) Act, (No. 34 of 2011)
+Nurses (Amendment) Act, (No. 27 of 2011)
+Tea (Amendment) Act, (No. 4 of 2011)
+Traffic (Amendment) Act, (No. 3 of 2011)
+Vetting of Judges and Magistrates (Amendment) Act, (No. 6 of 2011)
+2012
+Capital Markets (Amendment) Act, (No. 35 of 2012)
+Central Bank of Kenya (Amendment) Act, (No. 36 of 2012)
+Elections (Amendment) Act, (No. 31 of 2012)
+Elections (Amendment) No. 2 Act, (No. 32 of 2012)
+Elections (Amendment) No. 3 Act, (No. 48 of 2012)
+Judicature (Amendment) Act, (No. 10A of 2012)
+Political Parties (Amendment) Act, (No. 50 of 2012)
+Proceeds of Crime and Anti-Money Laundering (Amendment) Act, (No. 51 of 2012)
+Seed and Plant Varieties (Amendment) Act, 2012 (No. 53 of 2012)
+Statute Law Miscellaneous (Amendment) Act, (No. 2 of 2012)
+Traffic (Amendment) Act, (No. 37 of 2012)
+Traffic (Amendment) No. 2 Act, (No. 38 of 2012)
+Truth, Justice and Reconciliation (Amendment) Act, (No. 44 of 2012)
+Vetting of Judges and Magistrates (Amendment) Act, (No 43 of 2012)
+2013
+Customs and Excise (Amendment) Act, (No. 10 of 2013)
+Presidential Retirement Benefits (Amendment) Act, (No. 9 of 2013)
+ 
+*The Acts in italics were developed in consultation with the Commission.
+ 
+Annex 2: Public Advisories 
+ 
+A.       Unconstitutionality of the Presidential Retirement Benefits (Amendment) Bill 2012, and The Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012
+ 
+Thursday, 10 January 2013 
+The Commission for the Implementation of the Constitution is established under Section 5(6) of the 6th Schedule to the Constitution and is mandated to monitor, facilitate and oversee the development of legislation and administrative procedures required to implement the Constitution of Kenya, 2010. The ultimate goal is to protect the sovereignty of the people, secure the observance by all state organs of democratic values and principles; and to promote constitutionalism.
+In carrying out its mandate, CIC seeks to ensure State Officers and State Organs adhere to the requirements of the Constitution of Kenya 2010 and to the Legislation passed by Parliament. It is in this context that CIC has written to the President of the Republic of Kenya on the fundamentally unconstitutional character of the Presidential Retirement Benefits (Amendment) Bill 2012, and the Retirement Benefits (Deputy President and Designated State Officers) Bill 2012, which were passed by the National Assembly on Wednesday, 9th January, 2013.
+The Commission notes that the Presidential Retirement Benefits (Amendment) Bill 2012 seeks “to make amendments to the Presidential Retirement Benefits Act, 2003 to take into account inflation trends and for connected purposes”. In turn, the Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012, seeks to “provide for the granting of pension and other retirement benefits to persons who hold the offices of Deputy President and holders of designated state offices upon their ceasing to hold such office as such, to provide for transitional purposes for the benefits to accrue to persons who have served as Prime Minister, Vice President and Deputy Prime Minister and for connected purposes.”
+In light of this, the Commission has advised the President that in the clear language of the Constitution, it is the exclusive function of the Salaries and Remuneration Commission established under Article 230(1) of the Constitution, to set and regularly review the remuneration and benefits of all state officers and to advise the National and County Governments on the remuneration and benefits of all other public officers. Therefore, in purporting to pass the said Bills, Parliament has acted in contravention of the express provisions of the Constitution.
+In the circumstances, the Commission for the Implementation of the Constitution has requested the President to decline to assent to the two bills, on the ground of unconstitutionality.
+The Commission notes that in October 2012, the President declined to assent to the Finance Bill 2012 which, in similar vein, sought to amend the National Assembly Remuneration Act to award a severance allowance to Members of Parliament, on the basis that the Salaries and Remuneration Commission was the only body competent to set such benefits. The same constitutional provisions obtain in the case of the Presidential Retirement Benefits (Amendment) Bill 2012, and the Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012.
+The Commission would like to assure Kenyans of our commitment to the performance of our mandate in overseeing the implementation of the letter and spirit of the Constitution.
+B.       CIC Requests Ministry of Finance Not to Authorize Payments Under Unconstitutional Laws
+The Commission for the Implementation of the Constitution is established under Section 5(6) of the 6th Schedule to the Constitution and is mandated to monitor, facilitate and oversee the development of legislation and administrative procedures required to implement the Constitution of Kenya, 2010. The ultimate goal is to protect the sovereignty of the people, secure the observance by all state organs of democratic values and principles; and to promote constitutionalism.
+Following Parliament’s passing of The Presidential Retirement Benefits (Amendment) Bill, 2012, and the Retirement Benefits (Deputy President and Designated State Officers) Bill, 2012, the Commission has written to the Minister for Finance advising on the unconstitutionality of the two laws which violate article 230(4) of the Constitution of Kenya, 2010. CIC has informed the Finance Minister that should the President assent to the Bills, the Commission shall proceed to court to have the laws declared unconstitutional.
+The Commission has therefore requested that treasury not authorize payments of any benefits under these unconstitutional laws. The authorization of payment of any monies by a state officer or public officer by virtue of complying with an unconstitutional law would be a violation of Article 2(2) that requires state authority be exercised as authorized by the Constitution. CIC has further advised that should payment of benefits be made pursuant to the unconstitutional laws, the Commission shall move to court to enforce Article 226 (5) against any State or Public Officer involved in making such payment, and seek a declaration that such officer is unfit to hold public office.
+The Commission would like to assure Kenyans of our commitment to the performance of our mandate in overseeing the implementation of the letter and spirit of the Constitution.
+C.       Protest Over Assent to The Presidential Retirement Benefits (Amendment) Bill, 2012
+On 10th January 2013, the Commission for the Implementation of the Constitution wrote to H.E. the President on the fundamentally unconstitutional character of the Presidential Retirement Benefits (Amendment) Bill 2012, urging the President not to assent to the Bill. The request was based on the fact that a passage of the Bill into law is a fundamental violation of the Constitution of Kenya 2010. In the clear language of the Constitution, it is the exclusive function of the Salaries and Remuneration Commission established under Article 230(1) of the Constitution to set and regularly review the remuneration and benefits of all state officers, and to advise the National and County Governments on the remuneration and benefits of all other public officers.
+CIC has confirmed that our letter notwithstanding, the President did indeed assent to the Presidential Retirement Benefits (Amendment) Bill 2012 that seeks “to make amendments to the Presidential Retirement Benefits Act, 2003 to take into account inflation trends and for connected purposes.” By assenting to the Bill, the President is thus complicit to the violation of the Constitution as outlined in our earlier letter to him.
+In light of this, the Commission for the Implementation of the Constitution will be seeking judicial intervention to have the Presidential Retirement Benefit Act 2012 declared unconstitutional. The Commission has written to the Attorney General informing him of our intention to seek judicial intervention on this matter.
+The Commission would like to assure Kenyans of our commitment to the performance of our mandate in overseeing the implementation of the letter and spirit of the Constitution.
+Our Mandate
+The Commission for the Implementation of the Constitution is established under Section 5(6) of the 6th Schedule to the Constitution and is mandated to monitor, facilitate and oversee the development of legislation and administrative procedures required to implement the Constitution of Kenya, 2010. The ultimate goal is to protect the sovereignty of the people, secure the observance by all state organs of democratic values and principles; and to promote constitutionalism. In carrying out its mandate, CIC seeks to ensure State Officers and State Organs adhere to the requirements of the Constitution of Kenya, 2010, and to the Legislation passed by Parliament.
+D.       The Status of Transition to Devolved Government in Accordance With the Constitution and the Transition To Devolved Government Act 2012
+This press statement is issued jointly by: (a). The Commission for the Implementation of the Constitution (CIC): (b) Commission on Revenue Allocation (CRA); (c) Public Service Commission (PSC); and (d) he Transition Authority (TA).
+Section 15 (2) (d) of the Constitution of Kenya 2010 mandates CIC to efficiently monitor the implementation of the devolved system of government. The effective implementation of an effective system of government requires collaboration and consultation between CIC, CRA, PSC and the Transition Authority.
+Article 216 (1) of the Constitution requires CRA to make recommendations to Parliament concerning the basis for the equitable sharing of revenue raised by the national government between the national and county governments and among the county governments. In addition, CRA will also make recommendations on other matters concerning the financing of, and financial management by county governments, as required by the Constitution and national legislation.
+The management of human resources is a critical requisite for effective implementation of a devolved system of government. The Public Service Commission plays a critical role in the identification and secondment of interim staff on recommendation by the TA to facilitate effective and un-interrupted service delivery by county governments in the transition period.
+In addition to the foregoing, the Transition Authority has the following mandate in accordance with Section 7 of the Transition to Devolved Government Act 2012: Facilitate, co-ordinate and make recommendations on various activities relating to transition to devolved system of government. These activities include:
+(a)      Analysis and phased transfer of functions in accordance with section 7 (a) of the Transition to Devolved Government Act 2012;
+(b)     Co-ordinate and facilitate the development of county budgets during the first phase of transition to devolved government;
+(c)      Rationalization, deployment and audit of the necessary human resource to county governments;
+(d)     Preparation and validation of inventory of all existing assets and liabilities of central government and local governments and make recommendations for their effective management during the transition period;
+(e)      Assess the capacity needs of national and county governments;
+(f)      Recommend measures to ensure that county governments have adequate capacity during the transition period.
+The functions are not exhaustive of the activities contemplated to facilitate effective devolution.
+Objective of the Statement
+This statement is jointly made in recognition of: (a) the fundamental right to information in accordance with Article 35 of the Constitution Kenya; and (b) the national values and principles set out in Article 10 of the Constitution including good governance, openness, transparency, democracy and participation of the people of Kenya.
+CIC, CRA, PSC and TA wish to inform the people of Kenya on the status of preparedness of the transition to devolved government in relation to specific transition activities. To date, the following activities have been undertaken in accordance with the Transition to Devolved Government Act, 2012 to facilitate the transition to devolved government.
+1. Legislative Framework
+(a)      All necessary legislation required to implement the devolved system of government have been enacted. These include the County Government Act, 2012, Transition to Devolved Government Act, 2012, Urban Areas and Cities Act, 2011, Intergovernmental Relations Act, 2012, Public Finance Management Act, 2012, Transition County Allocation of Revenue Act, 2012, Transition County Appropriation Act, 2013 and County Government Public Finance Management Transition Act, 2013.
+(b)     The Transition to County Allocation Revenue Act, 2012 which provides for the horizontal sharing of revenue between the respective governments is already in place. The Transition County Appropriations Act, 2013 to authorize the issuance of a sum of money out of the relevant County Revenue Fund and its application towards the service of the year ending on the 30th June, 2013 is also in place.
+2. Administrative Procedures
+(a)      The guidelines for the recruitment of the members of the County Service Boards and the election of the Speaker of the National Assembly and the Senate have been developed;
+(b)     Interim standing orders for use by the County assemblies are in the process of publication;
+(c)      Publication of guidelines and principles of the exercise of the Executive Authority has been finalized.
+3. Financial Capacity of County Governments
+(a)      A sum of KShs. 9.8 Billion will be disbursed to County governments with immediate effect to cover expenses relating to personnel emoluments and administrative costs of both executive and county assemblies.
+(b)     The Local Authority Transfer Fund (LATF) appropriated for the financial year 2012/13 shall be directed to county revenue accounts through an advisory and shall be applied to meet the cost of service delivery by County governments, pending budgetary estimates and allocations for the financial year next following;
+(c)      County Governments will be expected to raise revenue from among other sources, property rates, entertainment taxes and any other tax in accordance with Article 209 (3) of the Constitution to fund county activities. Revenue currently raised by local authorities will be directed to county revenue accounts and be managed by the County governments.
+(d)     The interim county treasurers that are scheduled to take office in the course of this week, will among other roles, facilitate the opening of county revenue accounts and county operational account by 4th March 2013;
+(e)      The County treasurers in consultation with treasurers of the local authorities in respective counties will also (a) close existing local authority accounts and (b) transfer any monies in those accounts to the newly opened county treasuries.
+4. Infrastructure
+We wish to confirm that offices and assembly halls for both the County Executive and the County Assemblies have been identified and are ready for occupation in each of the 47 counties.
+5. Assets
+(a)      Recommendations have been made on the criteria to determine the transfer of previously shared assets and liabilities of government and local authorities; an asset register is in the process of being developed by the Auditor General in consultation with the TA. An interim register will be ready by 20th March for sharing with governors and other interested parties.
+(b)     As part of the process, an in-depth and comprehensive audit of central and local government assets will also be carried out. The register will be used to track and verify all assets owned and liabilities incurred by each state organ and public entity before the general elections, for purposes of accountability.
+6. Assumption of Office by Governors
+(a)      Guidelines on the assumption of office by governors have been finalized and published.
+(b)     Arrangements for the assumption of office by each Governor have been finalized.
+(c)      Arrangements for the administration of oaths of office for state officers at county level have been completed.
+7. Human Resource Capacity
+The requisite human resources have been identified and seconded to the Counties albeit on an interim basis in accordance with section 138 of the County Governments Act, 2012, section 57 of the Urban Areas and Cities Act, 2011 and section of 138 (1) of the Co-ordination of the National Government Act, 2013. In addition, the TA also confirms that Interim Transition Teams have been identified and seconded to the counties. These teams will assist the county governments carry out their functions as the counties prepare in the interim period. The interim officials have been inducted and will be issued with letters of release by PSC.
+8. Transfer of Functions
+The functions that may be immediately transferred to the County governments after the elections have already been gazetted.
+Other functions to be devolved will be gazetted for effective rollout from 1st July 2013.
+WORK IN PROGRESS
+9. Policy Framework
+The national policies on the basis of which the performance of devolved functions shall be guided are yet to be finalized and adopted. Similarly, the formulation of regulations and administrative procedures to supplement the respective statutes is underway and is expected to be finalized for approval by the next Parliament.
+Conclusion
+We recognize that the activities mentioned above are by no means exhaustive. They are singled out because they are fundamental to the realization of effective devolution. A lot has been done, in the run up to the establishment of county governments soon after the general election scheduled for 4th March 2013. CIC, CRA and TA undertake to regularly inform the people of Kenya on the progress and additional activities hereafter undertaken towards full devolution of power, functions/ services and their pertinent resources.
+The transition process involves all state and non-state actors and indeed the people of Kenya, whose public participation is imperative as contemplated in article 10 of the Constitution. Your unwavering support and meaningful engagement will go a long way in ensuring successful implementation of the devolved system of government in particular and the Constitution in general. Finally, we wish to remind the people of Kenya that the successful and effective realization of devolution will depend largely on the quality of leaders we elect as governors, senators, county representatives, women representatives, members of the national assembly and the president.
+CHARLES NYACHAE
+Chairperson, CIC   
+MICAH CHESEREM
+Chairperson, CRA
+KINUTHIA WAMWANGI
+Chairperson, TA
+Failure By The President To Appoint The National Land Commission 
+PRESS STATEMENT
+For Immediate release;
+18th February 2013
+The Commission for the Implementation of the Constitution (CIC) is established with the constitutional mandate of monitoring, coordinating, facilitating and overseeing the implementation of the Constitution of Kenya 2010.  As a Commission to which Chapter Fifteen of the Constitution applies, CIC has the objects of:
+Protecting the sovereignty of the people
+Securing the observance by all state organs of democratic values and principles; and
+Promoting constitutionalism.
+It is in this context, and applying the constitutionally-stipulated national values of transparency, accountability, the rule of law, good governance and public participation that CIC makes this statement to the people of Kenya.
+The National Land Commission (NLC) is an independent Constitutional Commission established by Article 67 of the Constitution.  It is given an important mandate in the reform and management of land including inter alia:
+To manage public land on behalf of the National and County Governments;
+To recommend a national land policy to the national government
+To initiate investigations into present or historical land injustices, and recommend appropriate redress, and
+To monitor and have oversight responsibilities over land use planning throughout the country.
+In addition, Article 67(3) provides that the NLC may perform any other functions prescribed by national legislation.  The National Land Commission Act, 2012 which came into effect on 2nd May 2012, provides for additional functions for NLC at Section 5 of the Act.
+The National Land Commission Act, provides in the First Schedule thereto, the procedure for appointment of the Chairperson and Members of the Commission.  This procedure having been followed to the point of Parliament approving the names of members of the Commission, the completion of the process by gazzettement of these members was delayed by reason of conservatory  orders given by the High Court of Kenya in High Court petition No. 266 of 2012.  That petition was subsequently withdrawn, and two other petitions by different parties, No.373 of 2012 and No.426 of 2012 were heard and dismissed by the High Court.  This was on 12th October 2012.  It is a matter of public record that on 15th October 2012, the Attorney General in writing informed the office of the President of the judicial developments and advised the gazzettement of the Commission Members.
+The conservatory orders having been discharged and despite the initiation of an appeal to the Court of Appeal, the said court declined to issue any injunctive orders.  To date, no court orders exist, to stop H.E the President from finalizing his constitutional responsibility to make the appointments by gazette notice.
+In view of the continued refusal, neglect and/or failure by the President to make the appointment, two citizens filed petition No. 6 of 2013 the High Court. In giving its judgment on the petition the High Court made the following observations:
+“The process of appointment of the chairperson and commissioners of the Commission set out in the First Schedule is imperative and no cause has been shown why it cannot be implemented to give effect to the provisions of Article 67 and 250(2). I also find and hold that failure to complete the appointment of the chairperson and members of the Commission undermines the value of good governance in that the institution intended to govern land law and prepare land policy remains in limbo for an indeterminate period.
+ Apart from the role the National Land Commission is meant to play, failure to establish it has deep repercussions and suspends the carrying out of key functions in the land management. It is notable for instance, that operationalisation of key certain provisions is pegged on the establishment of the Commission such as Article 62 (2) and (3) which deals with administration of public land by dint of Section 2(4) of the Sixth Schedule.
+The delay in the setting in motion the operation of such a key institution in land reforms in our country contrary to the intention of Kenyans expressed through their duly elected representatives cannot be allowed to go on, especially bearing in mind our common history where the emotive issue of land has caused untold suffering and lives have been lost.”
+To these observations by the Judge, we would add that indeed the failure to appoint the Members of the Commission is likely to raise speculation of ulterior or sinister political intentions over this sensitive matter that is a root cause of the major divisions among communities in Kenya.
+The Court concluded by giving these orders that:
+“ The President be and is hereby directed to comply with the provisions of paragraph 8 of the First Schedule to the National Land Commission Act and officially appoint the Chairperson and Members of the National Land Commission within seven (7) days from the date hereof”.
+This order was given on 4th February 2013, and the 7 days thus expired on 11th February, 2013.
+CIC is alarmed firstly that the President failed to discharge his constitutional responsibility of completing the appointments even long after the legal restraint of a conservatory order had been removed.  In this regard, CIC has communicated to the Office of the President in writing, urging that the constitution be respected and the appointment be made, but to no avail.
+Secondly and of much graver concern to CIC and by extension the people of Kenya, is the failure by the President to obey a clear and lawful  order issued by the High Court, in the exercise of its mandate to interpret and enforce the constitution.  This overt contempt of the court and its constitutional mandate takes impunity to a new level, and fundamentally threatens the constitutional order.  If the President, who has taken an oath to uphold, to defend and to protect the constitution, will not comply with a clear directive of the court then the very essence of our constitution, is in jeopardy.  The rule of law then stands in danger of being jettisoned.  This has far reaching consequences particularly in the current context of an imminent election, where complete faith in and respect for, the judiciary as the constitutional institution mandated to resolve disputes, is an absolute imperative.
+In recent days, there have already been allegations of possible attempts at rigging the elections on March 4, 2013. There is no doubt that there will be election petitions. The failure by disputants to obey court orders arising from election petitions shall lead the country to a state of uncertainty and resort to self-help strategies including the perpetration of violence by those in whom the court does not grant a favourable award. Indeed, the post-election violence in 2008 was partly caused by parties failing to use the courts to address their grievances because they had no faith in the courts. Disobedience of court orders by the highest office in the land can only erode the confidence Kenyans have began to develop in the new Judiciary. It is not lost on CIC that this is not the first time that the Office of the President has refused, neglected and/or failed to obey a clear court order.  A case in point is the ruling of the High Court in Petition No. 208 of 2012 regarding the appointment of County Commissioners.
+This demonstration of contempt for the rule of law and specifically the constitutional role of courts by the President and his officers, in the view of CIC, constitutes a major impediment to the implementation of the Constitution of Kenya 2010.
+It is a matter of public record, that both the Attorney-General and the Minister of Lands, in Parliament and elsewhere, have correctly taken the position that compliance with the constitution and the law requires the appointment of the members of the National Land Commission.  It must be correct to assume therefore that such advice as the President is receiving on these matters must be emanating from elsewhere other than the Minister for Lands and the Attorney General.  Public accountability requires that any person or persons who advises the President to, either by omission or commission, negate the rule of law and put the Constitution in jeopardy, be identified and held to account.
+That said, the President must carry the constitutional responsibilities of his office.  It is he whom the Constitution requires in Article 131, to inter alia, respect, uphold and safe guard the constitution, and protect the rule of law.  The President must remain accountable to the people of Kenya in this regard.
+It is important to state for the record, that prior to the issuing of this statement, CIC has - in addition to the written communication - severally contacted senior officers in the Office of the President to urge them to ensure that the Constitution and the Rule of Law are respected in the context of the appointment of the National Land Commission. In each instance they have ignored or failed to do the right thing.
+Through this public communication to the people of Kenya, CIC once again calls upon the President to act in accordance with his constitutional responsibility and with fidelity to his oath of office.
+Lastly, CIC wishes to remind all Kenyans that article 2(1) of the Constitution pronounces the Supremacy of the Constitution and makes it binding on all persons. Indeed the principle of rule of law that is enunciated in article 10 of the Constitution means that no person, including the President, is above the law. The immunity afforded to the President under article 143 from legal proceedings applies only during the term of office. Once the term of office comes to an end, as it will once the new President is sworn in, legal proceedings can be instituted against a former head of state for violating the Constitution and the law.  CIC is also bound to observe that the failure and /or refusal by the President to obey the court constitutes a violation such as would, when the constitution is fully in effect after the General Elections, be a basis for impeachment under Article 145.
+The new dispensation under the Constitution is one of good governance, leadership with integrity and respect for the rule of law. Kenyans must not allow the very foundation of their democracy and nationhood to be undermined and destroyed by the impunity of a few who elect to put self-interest above the public interest. It is impunity on matters relating to land that generated the historical injustices that have cost our beloved country so much anguish and bloodshed. It completely befuddles the mind, that any person with the power to take measures to ensure that Kenya is on track to effect land reform, implement the Constitution and prevent further injustice, should elect to delay and procrastinate to take the measures as required by law.
+The Commission urges His Excellency the President to safeguard his legacy to this nation by obeying the court order and making immediate appointments to the National Land Commission. By respecting the rule of law, The President shall set an example to all others to obey court orders and have faith in our judicial system.
+To the people of Kenya, we urge you to remain vigilant in safeguarding the implementation of the Constitution by holding accountable all persons including those in high office, so we can bring an end to impunity.
+CHARLES NYACHAE
+Chairperson
+E.       Election Checklist For Leadership And Integrity:  Constitution Of Kenya And Leadership
+The Constitution of Kenya 2010 seeks to transform the management of public affairs guided by the principles of good governance, respect for the rule of law and effective and equitable service delivery for the welfare of all citizens.
+For Kenyans to get the full benefits of the Constitution, they will need to elect leaders of impeccable character, who have a good track record in the private or public sector and who promote the full implementation of the Constitution.
+The below are 10 critical questions that we as Kenyans should answer before electing the President, the Governor, the Senator, the Member of  the National Assembly, the Woman County Representative,  and the County Assembly member.
+ 
+1.         
+Does the Candidate support the full implementation of the Constitution? 
+2.         
+Has the Candidate demonstrated servant leadership in the conduct of public or private affairs? 
+3.         
+Has the Candidate demonstrated objectivity and impartiality in their decision-making?
+4.         
+Have the Candidates’ past decisions been influenced by nepotism, favouritism, improper motives or corrupt practices?
+5.         
+Has the Candidate disclosed honesty in the execution of public duties, or in their private engagements?
+6.         
+Has the Candidate been involved in an act of abuse of office? 
+7.         
+Has the Candidate demonstrated discipline and commitment in service to the people?
+8.         
+Has the Candidate behaved in public and private life in a manner that discloses conflict between personal interests and public or official duties?
+9.         
+Has the Candidate been involved in the misuse of public resources? 
+10.      
+Has the Candidate ever been dismissed or otherwise removed from office for unethical behaviour or misconduct?
+We urge Kenyans to consider the above issues and take them into account when making choices during elections. All Kenyans must remember that the consequences of bad leadership will be borne by Kenyans in this and future generations.
+G. A Call For The Inclusion Of Women, Minority And Marginalized Groups In National And County Government Appointments
+The Commission for the Implementation of the Constitution (CIC) lauds the people of Kenya for exercising their democratic right to vote, and participating in the first general elections under the Constitution of Kenya 2010. The mandate of CIC includes monitoring, facilitating and overseeing the implementation of the Constitution, as well as working with each constitutional commission to ensure that the letter and spirit of the Constitution is respected.
+The national values and principles of governance of the Constitution of Kenya, 2010, include equity, inclusiveness, equality, non-discrimination, and protection of the marginalized. These principles require the representation of persons with disabilities, youth, ethnic and other minorities; marginalized communities, and women in elective and appointive positions at national and county government level.
+In the just=concluded general elections, only 16 women and two persons with disabilities were elected as members of the National Assembly out of the 290 electoral seats available.  No woman was elected as governor or senator. The Commission is working to obtain data on the number of youth, minorities and those from marginalized communities elected to the various positions. This situation calls for a reflection by Kenyans on how we can work towards a more inclusive government.
+Following the general elections, there are a number of positions at the national and county levels that need to be filled. This creates an opportunity for ensuring that women, youth, Persons with Disabilities and other marginalized groups are adequately included in positions of leadership. The following are some of the appointive and elective positions at the National and County government levels:
+Speaker of National Assembly
+Deputy Speaker of National Assembly
+Speaker of the Senate
+Deputy Speaker of the Senate
+47 speakers of county assemblies.
+47 County Secretaries
+Up to 10 County Executive Committee members per County (a maximum of 470 county executive committee members)
+County Chief Officers
+Up to 7 Members of the County Public Service Boards per county (a maximum of 329 Members of County Public Service Boards).
+CIC therefore calls upon the Senate, National Assembly, county assemblies, political parties, civil society organizations and professional women caucuses to take deliberate steps towards ensuring that women, youth, people with disabilities, minorities and other marginalized groups who meet the criteria set apply for the positions and be adequately represented in the upcoming positions. CIC also wishes to call upon political parties to support more women, youth, persons with disabilities and other persons from marginalized and minority communities, for the upcoming Speaker positions in the three assemblies.
+CIC believes that in addition to the Constitutional requirements on the composition of parliament and county assemblies, the country needs all the people of Kenya to have a chance to make their contribution to nation building. This can only become a reality if special interest groups apply for the upcoming appointive and elective positions at the national and county government levels.
+The Commission therefore wishes to encourage the individuals from minority and marginalized groups, and in particular women, youth and Persons with Disabilities to apply for the up-coming positions.
+CIC will continue to support all sectors of the Kenyan Society to be involved in governance as part of the exercise of sovereign power guaranteed by the Constitution of Kenya 2010.
+CHARLES NYACHAE,
+Chairperson.
+

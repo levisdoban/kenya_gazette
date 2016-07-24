@@ -1,0 +1,422 @@
+
+				Page: 1401GAZETTE NOTICE NO. 2691
+THE PUBLIC FINANCE MANAGEMENT ACT
+(No. 18 of 2012)
+THE PUBLIC FINANCE MANAGEMENT REGULATIONS, 2015
+ 
+Audit Committee Guidelines for National Government
+FOREWORD
+The Public Finance Management Act, 2012 and Public Finance Management Regulation, 2015 requires that each public entity shall establish an Audit Committee.  The Audit Committee form a key element in the governance process by providing an independent expert assessment of the activities of top management, the quality of the risk management, financial reporting, financial management and internal audit, to the board of directors or a supervisory board or executive management.
+Another important role is to ensure that external audit recommendations are fully addressed, that the quality of internal audit is of an appropriate standard and that line management has full regard to internal audit recommendations. Properly exercised their role is vital in being the watchdog for the independence of internal audit and in ensuring that the information made available to the owners (the stakeholders) is reliable thereby enabling them to make judgements about the quality of the management and the future prospects for the public entity.
+The purpose of these guidelines are to provide those responsible for establishing, appointing and overseeing Audit Committees with information on discharging their respective roles within the Public Service Sector
+The guidance in this document is to help:
+Executive Management, Accounting Officers, Boards and Board Chairs of Public entities to work out the best arrangements for their entities.
+Audit Committees and individual members of Audit Committees understand their role and the ways in which they should function.
+The National Treasury officials to oversee an entity’s board and Audit Committee practices.
+These guidelines are intended to offer “best practices” on Audit Committee operations, capable of implementation into the public sector governance entities responsible for a wide range of differing missions and purposes. The National Treasury should be consulted on governance issues whenever questions arise as to what is the preferred practice or when practical problems arise on the application of the guidelines provided in this document. It should be noted that not all entities are board-governed agencies and the National Treasury should be consulted whenever more clarity is required on whether a specific entity is board-governed.
+The function of an Audit Committee is to support the Board by monitoring and reviewing the risk, control and governance processes that have been established in the entity pursuant to Board policies. This is achieved by introducing an independent perspective and a process of constructive challenge, not to undermine the actions of the Board or management, but to help the Board be fully assured that the most cost-effective control and governance processes are in place. The governance processes enhance the performance of the entity and the Audit Committee takes an independent view of these processes. It is therefore important to draw the membership of the Audit Committee from those who are not management or board members who perform executive functions.
+The role of the Audit Committee has been carefully defined in these guidelines where the Audit Committee also includes a finance role, a risk function or other functions, as these may encompass management roles.
+Care should be taken to distinguish between any roles that have a management function and the role of the Audit Committee. Audit Committee members should have no management or executive functions.
+HENRY K. ROTICH,
+Cabinet Secretary, National Treasury.
+ACKNOWLEDGEMENT
+The four pillars of good corporate governance are the board of directors (management), the internal auditors, the audit committee and the external auditors. The audit committee’s principle role is that of providing oversight of financial reporting, risk management, internal control, and governance processes.
+Establishment and operationalisation of audit committees in the public sector marks a major milestone in the Government’s endeavour to improve and strengthen public financial management and governance process. The “guidelines” will enable audit committees and other stakeholders reflect on their mandate, roles and responsibilities in risk management, internal controls and governance.
+I recognize the efforts of the Internal Auditor General Department for packaging these Guidelines. I also acknowledge the other stakeholders, especially Accounting Officers whose comments were invaluable.
+Reference for benchmarking purposes was made to other countries that have well established audit committees including Canada, Australia, Thailand and South Africa. Their audit committee guidelines are rated by The Institute of Internal Auditors (The IIA) as being among the best.
+These Guidelines should set the minimum standards in the operationalisation of public sector audit committees.
+DR. KAMAU THUGGE,
+Principal Secretary National Treasury.
+GLOSSARY OF TERMS, CONCEPTS AND ACRONYMS
+Internal auditing       is an independent, objective assurance and consulting activity designed to add value and improve an organization’s operations. It helps an organization accomplish its objectives by bringing a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control and governance process.-(the Institute of Internal Auditors IIA-Inc)
+Accountability         Structure of responsibility
+AO                           Accounting Officer
+Audit                       An examination or review that compares “what is” with “what should be” and provide feedback for corrective actions.
+Board                       includes management boards, commissions and councils
+CEO                         Chief Executive Officer
+Charter                     A document that clearly defines purpose, scope and responsibilities of any engagement.
+Control                    The functional part of a system that provides feedback on how the system is accomplishing its purpose or objectives
+COSO                      A system of internal controls or control framework defined by Committee of Sponsoring Organizations of the Treadway Commission (U.S.)
+Evaluation               The assessment of the impact of a program at a particular point in time
+GOCs                       Government Owned Corporations
+Governance             The combination of processes and structures implemented by the board in order to inform, direct, manage and monitor the activities of the organization toward the achievement of its objectives.
+Monitoring               Continuous assessment of a program
+Oversight                 Supervision by management or delegated      authority
+PAC                         Public Accounts Committee
+PIC                          Public Investment Committee
+Policy                      A statement setting out an organization’s position on a particular issue
+Program                   A plan of action which includes planning, resource allocation, implementation, monitoring and evaluation
+Risk management     A process to identify, assess, manage, and control potential events or situations, to provide reasonable assurance regarding the achievement of the organization’s objectives.
+Transparency           Clarity and openness in the processing of transactions and the structure of flow of transactions
+1.    INTRODUCTION
+1.1.   Background
+(a)     Treasury Circular No AG3/086/6/ (61) of 8th August 2000 represented the first initiative towards establishment of Ministerial audit committees. However, the performance of audit committees in some ministries was not effective due to lack of clear guidelines on their independence and objectivity.
+(b)     The enactment of Public Finance Management Act, 2012 and the need for credible oversight framework necessitated a need to review the First Edition of the Guidelines issued in July 2006.
+1.2.   Purpose of These Guidelines 2008
+(a)     The purpose of these guidelines is to combine the best practice principles from the available materials with practical advice from the Public Sector Accounting Standards Board to provide more detailed and practical guidance for audit committee members, accounting officers and other personnel who are involved with audit committees.
+(b)     These guidelines are designed to assist public entity Executive management, Accounting Officers and governing Bodies of Public entities, boards and senior managements in making suitable arrangements for their audit committees, and to assist those serving on audit committees in carrying out their role. It is intended to assist Executive Management, Accounting Officers, and Governing Bodies of Public Entities and senior management in the implementation of the relevant provisions of corporate governance codes.
+(c)      The guidelines contain recommendations about the conduct of the audit committees’ relationship with the board, with the executive management and with internal and external auditors. There is need for a frank, open working relationship and a high level of mutual respect and trust, particularly between the audit committee chairman board chairman, and the chief executive. The audit committee must be prepared to take a robust stand, and all parties must be prepared to make information freely available to the audit committee, to listen to their views and to talk through the issues openly.
+1.3.   Scope and application
+(a)     The guidelines apply to Parliament, Judiciary, departments and governing bodies within the public sector. Throughout the guidelines the word ‘entity’ refers to Parliament, Judiciary, departments and governing bodies.
+2.        ESTABLISHMENT AND EFFECTIVENESS OF AUDIT COMMITTEES
+2.1   Requirement to have an audit committee
+1.1.1   Public Finance Management Act 2012
+(a)     The Public Finance Management Act, 2012 imposes significant responsibilities on accounting officers and governing bodies, including the duty to manage the entity efficiently, effectively and economically and to establish and maintain appropriate systems of internal control and risk management (section 66).
+(b)     Section 73(5) of the Public Finance Management Act 2012 provides that each accounting officer of a department must, and each governing body shall establish an audit committee for the entity.
+1.1.2   Public Finance Management (National Government) Regulations 2015 (Part XIII)
+(a)     All Public entities are of sufficient complexity to warrant establishing and maintaining an audit committee. The main expectation is that such a function will make a positive contribution to the efficient, effective and economical management of the entity.
+(b)     For smaller Public entities, factors such as their complexity and size, the existence of an internal audit function and whether the governing body has sufficient time to consider audit issues accurately should be part of the evaluation process in deciding whether to establish its own or share an audit committee with another entity as appropriate.
+(c)      The decision and evaluation process undertaken to determine whether to establish a shared audit committee be recorded and periodically reviewed to ensure it remains appropriate.
+2.2   Objectives of Audit Committee
+The purpose of the audit committee is to provide assistance to the accounting officer or governing body. An audit committee’s roles and responsibilities will be set out in its charter and will be determined after consideration of entity specific factors. An audit committee can involve all or a combination of the following duties and responsibilities:
+(i)       Obtain assurance from management that all financial and non-financial internal control and risk management functions are operating effectively and reliably.
+(ii)     Provide an independent review of an entity’s reporting functions to ensure the integrity of financial reports.
+(iii)    Monitor the effectiveness of the entity’s performance management and performance information.
+(iv)    Provide strong and effective oversight of an entity’s internal audit function.
+(v)     Provide effective liaison and facilitate communication between management and external audit.
+(vi)    Provide oversight of the implementation of accepted audit recommendations.
+(vii)  Ensure the entity effectively monitors compliance with legislative and regulatory requirements and promotes a culture committed to lawful and ethical behaviour.
+2.3   Rationale of having an Audit Committee
+(a)     The existence of an independent audit committee is recognised internationally as an important feature of good corporate governance. An audit committee can benefit an entity by:
+(i)       Acting as a forum for dialogue between the accounting officer or governing body, executive management and the internal and external auditors. The communication helps facilitate a better awareness of each party’s responsibilities and provides a more efficient and coordinated audit process.
+(ii)     Promoting the integrity and quality of internal and external reports by providing a high level of assurance and check.
+(iii)    Fostering and promoting a more effective and efficient audit process by providing an independent review of the internal audit annual work plan and reports.
+(iv)    Providing a ‘no surprises’ environment in an entity, particularly with regard to the prompt identification of risks and threats to the entity.
+(v)     Providing a depth of knowledge that assists management discharge its responsibilities in the most effective and efficient manner.
+2.4   Accountability
+(a)     Audit committees do not substitute for the executive function in an organization. In this regard the Accounting Officer/CEO remains accountable for making decisions for which they are personally accountable to the legislature through relevant committees.
+(a)     The Accounting Officers/CEO should update Audit Committees on the changes of the organization operations continuously, to increase the efficiency and effectiveness of the audit committee.
+2.5   Audit Committee Resources
+(a)     The audit committee should be provided with sufficient resources to undertake its duties.
+(b)     The audit committee should have access to the services of the entity’s secretariat on all audit committee matters including: assisting the chairman in planning the audit committee’s work, drawing up meeting agendas, maintenance of minutes, drafting of material about its activities for the annual report, collection and distribution of information and provision of any necessary practical support.
+(c)      The accounting officer and/or the entity secretary should ensure that the audit committee receives information and papers in a timely manner to enable full and proper consideration to be given to the issues.
+(d)     The accounting officer should make funds available to the audit committee to enable it to take independent legal, accounting or other advice when the audit committee reasonably believes it necessary to do so. The facilitation should include funding of budgets prepared by the Audit Committee to cover the following:
+(i)       Meetings expenses and members’ allowances;
+(ii)     Secretariat expenses;
+(iii)    Independent review/study;
+(iv)    Training of Members/Secretariat;
+(v)     Any other activity/task as approved by the audit committee.
+3.   MANDATE, ROLES, DUTIES AND RESPONSIBILITIES
+3.1.   Mandate
+(a)     The audit committee should drive the assessment of the performance of the head of internal audit.
+(b)     Examine internal and external audit reports and recommendations after management response to ensure action is taken.
+(c)      There should be in place adequate mechanisms of   enabling the audit committee facilitate adequate disposal of all PAC/PIC recommendations. This is done by following up to ensure positive action is taken
+(d)     The audit committee is responsible for communicating with the internal and external auditors. In its overseeing role, the committee should focus on:-
+(i)       The changing business environment;
+(ii)     Changing financial reporting requirement;
+(iii)    Audit findings, including comments on controls;
+(iv)    Proposed audit scope and audit coverage and approaches with  respect to complex, high risks, and judgment areas;
+(v)     Management response to specific audit recommendations.
+3.2.   Roles
+(a)     The audit committee plays a key role with respect to the integrity of the entity’s financial information, its system of internal controls, and the legal and ethical conduct of management and employees.
+(b)     Depending upon circumstances affecting an entity, the functions undertaken by an audit committee will generally encompass the following areas:
+(i)       Evaluating whether processes are in place to address key roles and responsibilities in relation to risk management.
+(ii)     Evaluating the adequacy of the control environment to provide reasonable assurance that the systems of internal control are of a high standard and functioning as intended.
+(iii)    Performing an independent review of the financial statements to ensure the integrity and transparency of the financial reporting process.
+(iv)    Monitoring the effectiveness of an entity’s performance information and compliance with the performance management framework and performance reporting requirements.
+(v)     Evaluating the quality of the internal audit function, particularly in the areas of planning, monitoring and reporting.
+(vi)    Engaging with external audit and assessing the adequacy of management response to issues identified by audit.
+(vii)  Reviewing the effectiveness of how the entity monitors compliance with relevant legislative and regulatory requirements and promotes a culture committed to lawful and ethical behaviour.
+3.3.   Responsibilities
+3.3.1   Financial reporting
+(a)     The audit committee should review, and report to the board and executive management on, the significant financial reporting issues and judgements made in connection with the preparation of the entity’s financial statements (having regard to matters communicated to it by the auditor), interim reports, preliminary announcements and related formal statements.
+(b)     It is management’s, not the audit committee’s responsibility to prepare complete and accurate financial statements and disclosures in accordance with financial reporting standards and applicable rules and regulations. However the audit committee should consider significant accounting policies, any changes to them and any significant estimates and judgements. The management should inform the audit committee of the methods used to account for significant or unusual transactions where the accounting treatment is open to different approaches. Taking into account the external auditor’s view, the audit committee should consider whether the entity has adopted appropriate accounting policies and, where necessary, made appropriate estimates and judgements. The audit committee should review the clarity and completeness of disclosures in the financial statements and consider whether the disclosures made are set properly in context.
+(c)      Where, following its review, the audit committee is not satisfied with any aspect of the proposed financial reporting by the entity, it shall report its views to the board and executive management.
+(d)     The audit committee should review related information presented with the financial statements, including the business review, and corporate governance statements relating to the audit and to risk management. Similarly, where board approval is required for other statements containing financial information (for example, summary financial statements, significant financial returns to regulators and release of price sensitive information), whenever practicable the audit committee should review such statements first (without being inconsistent with any requirement for prompt reporting under the Listing Rules).
+3.3.2   Narrative Reporting
+(a)     Where requested by the board or executive management, the audit committee should review the content of the annual report and accounts and advise the board or executive management on whether, taken as a whole, it is fair, balanced and understandable and provides the information necessary for stakeholders to assess the entity’s performance, business model and strategy.
+(b)     This report will inform the board’s statement on these matters required under Code of Governance for Public and State Officers and the Code of Governance for State Corporations (Mwongozo). In order for the board to make that statement, any review undertaken by the committee would need to assess whether the narrative in the front of the report was consistent with the accounting information in the back, so as to ensure that there were no surprises hidden in the accounts.
+3.3.3   Whistleblowing
+(a)     The audit committee should review arrangements by which staff of the entity or any other person may, in confidence, raise concerns about possible improprieties in matters of financial reporting or other matters. The audit committee’s objective should be to ensure that arrangements are in place for the proportionate and independent investigation of such matters and for appropriate follow-up action.
+3.3.4   Internal controls and risk management systems
+(a)     The audit committee should review the entity’s internal financial controls (that is, the systems established to identify, assess, manage and monitor financial risks).
+(b)     The entity’s management is responsible for the identification, assessment, and management and monitoring of risk, for developing, operating and monitoring the system of internal control and for providing assurance to the board and executive management that it has done so. Except where the board or a risk committee is expressly responsible for reviewing the effectiveness of the internal control and risk management systems, the audit committee should receive reports from management on the effectiveness of the systems they have established and the conclusions of any testing carried out by internal and external auditors.
+(c)      Except to the extent that this is expressly dealt with by the board or risk committee, the audit committee should review and approve the statements included in the annual report in relation to internal control and the management of risk.
+The internal audit process
+(a)     The audit committee should monitor and review the effectiveness of the entity’s internal audit function. Where there is no internal audit function, the audit committee should consider annually whether there is a need for an internal audit function and make a recommendation to the board and executive management, and the reasons for the absence of such a function should be explained in the relevant section of the annual report.
+(b)     Senior management and the board require objective assurance and advice on risk and control. An adequately resourced internal audit function shall provide such assurance and advice. There may be other functions within the entity that also provide assurance and advice covering specialist areas such as health and safety, regulatory and legal compliance and environmental issues.
+(c)      When undertaking its assessment of an internal audit function, the audit committee should also consider whether there are any trends or current factors relevant to the entity’s activities, markets or other aspects of its external environment that have increased, or are expected to increase, the risks faced by the entity. Such an increase in risk may also arise from internal factors such as organisational restructuring or from changes in reporting processes or underlying information systems. Other matters to be taken into account may include adverse trends evident from the monitoring of internal control systems or an increased incidence of unexpected occurrences.
+(d)     In the absence of an internal audit function, management needs to apply other monitoring processes in order to assure itself, the audit committee and the board that the system of internal control is functioning as intended. In these circumstances, the audit committee will need to assess whether such processes provide sufficient and objective assurance.
+(e)      If the external auditor is being considered to undertake aspects of the internal audit function, the audit committee should consider the effect this may have on the effectiveness of the entity’s overall arrangements for internal control and stakeholder perceptions in this regard. Stakeholder perceptions are likely to be influenced by: 
+                  (i)     the rationale set out in the annual report for the work being performed by the external auditor;
+                 (ii)     the nature and extent of the work performed by the external auditor;
+                (iii)    how the independence and objectivity of the external auditor and internal audit function have been safeguarded; and 
+                (iv)    Whether, in the absence of internal audit work, the audit committee is wholly reliant on the views of the external auditor about the effectiveness of its system of controls relating to core activities and significant locations.
+(f)       The audit committee should review and approve the internal audit function’s remit, having regard to the complementary roles of the internal and external audit functions. The audit committee should ensure that the function has the necessary resources and access to information to enable it to fulfil its mandate, and is equipped to perform in accordance with appropriate professional standards for internal auditors.
+(g)     The audit committee should approve the appointment and/or termination of appointment of the head of internal audit.
+(h)     The performance assessment of the head of Internal Audit should be driven by the Audit Committee and should not be left at the discretion of the management.
+(i)       In its review of the work of the internal audit function, the audit committee should:-
+                  (i)     ensure that the internal auditor has direct access to the board chairman and to the audit committee, and is accountable to the audit committee;
+                 (ii)     review and assess the annual internal audit work plan;
+                (iii)     receive a report on the results of the internal auditors’ work on a periodic basis;
+                (iv)     review and monitor management’s responsiveness to the internal auditor’s findings and recommendations; 
+                 (v)     meet with the head of internal audit at least once a year without the presence of management; and
+                (vi)    Monitor and assess the role and effectiveness of the internal audit function in the overall context of the entity’s risk management system.
+3.3.6   Annual audit cycle
+(a)     At the start of each annual audit cycle, the audit committee should ensure that appropriate plans are in place for the audit.
+(b)     The audit committee should consider whether the auditor’s overall work plan, including planned levels of materiality, and proposed resources to execute the audit plan appears consistent with the scope of the audit engagement, having regard also to the seniority, expertise and experience of the audit team.
+(c)      The audit committee should review, with the external auditors, the findings of their work. In the course of its review, the audit committee should: 
+                          (i)     discuss with the external auditor major issues that arose during the course of the audit and have subsequently been resolved and those issues that have been left unresolved; 
+                         (ii)     review key accounting and audit judgements; and
+                        (iii)    Review levels of errors identified during the audit, obtaining explanations from management and, where necessary, the external auditors as to why certain errors might remain unadjusted.
+(d)     The audit committee should also review the audit representation letters before signature and give particular consideration to matters where representation has been requested that relate to nonstandard issues. The audit committee should consider whether the information provided is complete and appropriate based on its own knowledge.
+(e)      As part of the on-going monitoring process, the audit committee should review the management letter (or equivalent). The audit committee should review and monitor management’s responsiveness to the external auditor’s findings and recommendations.
+(f)       At the end of the annual audit cycle, the audit committee should assess the effectiveness of the audit process. In the course of doing so, the audit committee should:-
+(i)           review whether the auditor has met the agreed audit plan and understand the reasons for any changes, including changes in perceived audit risks and the work undertaken by the external auditors to address those risks;
+(ii)         consider the robustness and perceptiveness of the auditors in their handling of the key accounting and audit judgements identified and in responding to questions from the audit committee, and in their commentary where appropriate on the systems of internal control;
+(iii)        obtain feedback about the conduct of the audit from key people involved, for example the head of finance, head of accounts and the head of internal audit;  review and monitor the content of the external auditor’s management letter, in order to assess whether it is based on a good understanding of the entity’s business and establish whether recommendations have been acted upon and, if not, the reasons why they have not been acted upon; and 
+(iv)        Report to the board and/or executive management on the effectiveness of the external audit process.
+3.3.7   Independence, including the provision of non-audit services
+Where the external auditor is not the Auditor-General:-
+(a)     The audit committee should assess the independence and objectivity of the external auditor annually, taking into consideration relevant law, regulation and professional requirements. This assessment should involve a consideration of all relationships between the entity and the audit firm (including the provision of non-audit services) and any safeguards established by the external auditor. The audit committee should consider whether, taken as a whole and having regard to the views, as appropriate, of the external auditor, management and internal audit, those relationships appear to impair the auditor’s independence and objectivity.
+(b)     The audit committee should seek reassurance that the auditors and their staff have no financial, business, employment or family and other personal relationship with the entity which could adversely affect the auditor’s independence and objectivity, taking account of relevant Ethical Standards for Auditors. The audit committee should seek from the audit firm, on an annual basis, information about policies and processes for maintaining independence and monitoring compliance with relevant requirements, including current requirements regarding the rotation of audit partners and staff.
+(c)      The audit committee should develop and recommend to the board the entity’s policy in relation to the provision of non-audit services by the auditor, and keep the policy under review. The audit committee’s objective should be to ensure that the provision of such services does not impair the external auditor’s independence or objectivity. In this context, the audit committee should consider:-
+(i) whether the skills and experience of the audit firm make it the most suitable supplier of the non-audit service; 
+(ii) whether there are safeguards in place to eliminate or reduce to an acceptable level any threat to objectivity and independence in the conduct of the audit resulting from the provision of such services by the external auditor;
+(iii) the nature of the non-audit services;
+(iv) the fees incurred, or to be incurred, for non-audit services both for individual services and in aggregate, relative to the audit fee; and 
+(v) The criteria which govern the compensation of the individuals performing the audit.
+(d)     The audit committee should set and apply a formal policy specifying the types of non-audit service (if any): -
+(i)       for which the use of the external auditor is pre-approved (i.e. approval has been given in advance as a matter of policy, rather than the specific approval of an engagement being sought before it is contracted); 
+(ii)     for which specific approval from the audit committee is required before they are contracted; and 
+(iii)    from which the external auditor is excluded.
+(e)      Pre-approval of the use of the external auditor may be appropriate where the threats to auditor independence are considered low, for example if the engagement is: -
+(i)   routine in nature and the fee is not significant in the context of the audit fee; or
+(ii) for an audit related service.
+(f)       The non-audit services that fall within the second category in paragraph 3.3.7(d) above are likely to be those which, because of their size or nature or because of special terms and conditions (for example, contingent fee arrangements), are thought to give rise to threats to the auditor’s independence. As a consequence, careful consideration will be needed when determining whether it is in the interests of the entity that they should be purchased from the audit firm (rather than another supplier) and, if so, whether any safeguards to be put in place by the audit firm are likely to be effective.
+(g)     In determining the policy, the audit committee should take into account the possible threats to auditor objectivity and independence and the Ethical Standards for Auditors regarding the provision of non-audit services by the external audit firm.
+(h)     The audit committee should agree with the board and/or executive management the entity’s policy for the employment of former employees of the external auditor, taking into account the Ethical Standards for Auditors and paying particular attention to the policy regarding former employees of the audit firm who were part of the audit team and moved directly to the entity. The audit committee should monitor application of the policy, including the number of former employees of the external auditor currently employed in senior positions in the entity, and consider whether in the light of this there has been any impairment, or appearance of impairment, of the auditor’s independence and objectivity in respect of the audit.
+(i)       The audit committee should monitor the external audit firm’s compliance with the Ethical Standards for Auditors relating to the rotation of audit partners, the level of fees that the entity pays in proportion to the overall fee income of the firm, or relevant part of it, and other related regulatory requirements.
+(ii)     A degree of flexibility over the timing of rotation of the audit engagement partner is possible where the audit committee decides that it is necessary to safeguard the quality of the audit. In such circumstances, the audit engagement partner may continue in this position for an additional period of up to two years, so that no longer than seven years in total is spent in this position. The audit committee should disclose this fact and the reasons for it to the shareholders as early as practicable.
+(i)       The annual report should explain to shareholders how, if the auditor provides non-audit services, auditor objectivity and independence is safeguarded. The explanation should: 
+(i)       describe the work of the committee in discharging its responsibilities;
+(ii)     set out the audit committee’s policy on the engagement of the external auditor to supply non-audit services in sufficient detail to describe each of the elements in paragraph 3.3.10(d), or cross-refer to where this information can be found on the entity’s website; and
+(iii)    set out, or cross refer to, the fees paid to the auditor for audit services, audit related services and other non-audit services; and if the auditor provides non-audit services, other than audit related services, explain for each significant engagement, or category of engagements, what the services are, why the audit committee concluded that it was in the interests of the entity to purchase them from the external auditor (rather than another supplier) and how auditor objectivity and independence has been safeguarded.
+1.    MEMBERSHIP, APPOINTMENT AND REPLACEMENT
+1.1.   Composition
+(a)     The board and/or the accounting officer should establish an audit committee of at least three and not more than five.
+(b)     The board should satisfy itself that at least one member of the audit committee has relevant qualifications and expertise in audit, financial management, or accounting with experience and knowledge in risk management and is a member of a professional body in good standing.
+(c)      The membership to audit committee should be diverse through an appropriate mix of skills and expertise to be informed by the nature and the mandate of the respective entity. An appropriate skills mix would ensure effectiveness of the internal oversight having availed the required expertise within the committees.
+(d)     The Committee members must be able to dedicate sufficient time to the performance of Audit Committee work.
+(e)      The committee can co-opt persons will specialized skills on a need basis where such specialized skills are not available within the committee
+4.2.   Appointment
+Terms and mode of appointment of audit committee members for various categories of public sector entities is as indicated in the matrix below.
+4.2.1. Appointment and Composition Matrix
+Appointment and Composition of Members of Audit Committees in Various Public Sector Entities
+ 
+Entity
+Appointment
+1.    Ministries and Departments
+1.    Cabinet Secretary of each respective Ministry will constitute audit committee by nominating members as follows- one (1) member external to the ministry but from the larger Public service, two (2) members external from the respective ministry and public service; one of whom shall be the Chair.
+ 
+2.    The CS of each ministry shall request the National Treasury to nominate a Treasury representative as per Regulation 174 (4) to serve in the ministry’s Audit Committee.
+2.    Parliament 
+1.    Three (3) members of audit committee shall be nominated from among the PRLSCOL members.
+ 
+2.    The National Treasury shall nominate a treasury representative to the audit committee
+
+3         The Judiciary
+1.    The Judiciary’s Audit Committee shall comprise of at least three (3) members of the JSC none of whom shall have executive role.
+ 
+2.    The JSC shall appoint the chair of the committee.
+ 
+3.    The National Treasury representative in the J.S.C shall be part of the 3 member.
+4.    Independent Commissions whose commissioners are on a full time basis in the commissions, (TSC, CRA, PSC, IEBC, Kenya National Commission on Human Rights and Equity Commission etc)
+The Commissions will constitute their audit committees as follows;
+ 
+1.    Two (2) independent audit committee members sourced competitively; each respective commission shall appoint the chair person amongst the 2 members
+ 
+2.    One (1) commissioner with as little as possible executive responsibilities;
+ 
+3.     One National Treasury representative.
+
+
+1.    a) Other commissions as indicated in schedule ii
+1.    The Audit Committee shall comprise of at least three (3) members of their respective commission who have no, (as far as possible) executive roles.
+ 
+2.    The National Treasury shall nominate a treasury representative to the audit committee
+     (b) (i) Controller of Budget
+1.    The guidelines under Ministries and Departments shall apply.
+         (ii) Director of Public            Prosecutions
+ 
+       ( iii) OAG
+ 
+C) The National Intelligence Service, Defence Forces. witness protection e.t.c. (NB. all security organs)
+1.    The National Security council shall nominate 4 members of audit committee.
+ 
+2.    The National Treasury shall nominate a treasury representative to the audit committee.
+2.    All Government Owned Enterprises Operating on the basis of Commercial Principles.(Schedule ii)
+1.    The respective Boards will nominate at least three (3) of their Board members who, as far as possible do not have executive roles in the Board, to serve in the Audit Committees.
+ 
+2.    The Board shall appoint the chair of the Audit Committee.
+ 
+3.    The Treasury representative in the various Boards shall be a member of the Audit Committee.
+3.    National Government Entities (Regulatory Agencies) -Schedule iii
+1.    The respective Boards will nominate at least 3 of their board members who, as far as possible do not have executive roles in the Board, to serve in the Audit Committees; the board shall appoint a chairperson among the 3 members.
+ 
+2.    The National Treasury nominee shall be a member of the audit committee.
+4.    National Government Entities (Executive Agencies, Research Institutions, Public Universities, Public Tertiary Education and training Institutions, National Referral Health Facilities Boards and Commissions (Financed through the exchequer), Fund Management Corporations, any other  Entity Established to perform any other Public Function), etc.)-Schedule  IV
+1.    The respective Boards will nominate at least 3 of their Board members who, as far as possible do not have executive roles in the Board, to serve in the Audit Committees; the board shall appoint a chairperson among the 3 members.
+ 
+2.    The Treasury representative shall be a member of the Audit Committee.
+ 
+3.    In case of any entity in this category that does not have a sitting Board accordingly its enabling legislation, the entity shall competitively source for at least 3 members of the entity’s Audit Committee, depending on the size of the entity. In addition, the National Treasury shall nominate a treasury representative to the audit committee;
+ 
+i.        Or request the National Treasury to recommend the sharing of an already existing Audit Committee as per the provisions of Regulation 174(2) of the PFM Regulations.
+9 Public Funds (within the Administration of a State Department or any other National Government Entity) Schedule V.
+1.    The guidelines under Ministries and Departments shall apply.
+10. All Public Schools
+1.    The county education boards to constitute Sub County audit committee with 3 – 5 independent members as appropriate.
+ 
+2.    The Cabinet Secretary/Education or his /her nominee shall nominate his representative in each audit committee.
+
+
+4.1.1.    Term of office of members (including Chairs)
+(a)     The initial term of appointment to the committee should be for a period of three years. The term of appointment can be extended for a further three years, giving a maximum total period of service of six years.
+(b)     The term should only be extended after the performance of the member has been reviewed.
+(c)      Members of the Audit Committee shall be appointed by individual letters of appointment by the appointing authority. The letters of appointment should clearly spell out the effective date and the term for which the appointment will run;
+(d)     The Treasury shall nominate an officer to be appointed by the respective appointing authority as the Treasury representative. The Treasury representative shall perform functions enumerated in the appointment letter;
+(i)       A person shall cease to be a member of an audit committee if—
+(a)     that person is convicted of a criminal offence and sentenced to a term of imprisonment of not less than six months; or
+(b)     that person is absent from two consecutive regular meetings of the committees without leave of absence; or
+(c)      that person resigns, in writing, from the audit committee; or
+(d)     that persons’ term of office expires; or
+(e)      that person ceases to be member by virtue of withdrawal of his or her nomination to the audit committee by the nominating institution; or
+(f)       that person becomes an employee or officer of the concerned entity; or
+(g)     that person is discovered to have a conflict of interest as prescribed as at the time of his appointment and failed to disclose it; or
+(h)     The audit committee is disbanded.
+4.1.2.   Chairman
+(a)     Effectiveness and true independence of the audit committee hinges on the chair’s effectiveness.
+(b)     In the appointment of the Chairman of the Audit Committee, careful consideration shall be given to leadership qualities because the Chairman of the Audit Committee is the person who gives rise to confidence in the overall efficiency of the Audit Committee which would be beneficial to the effective planning, and bringing the meetings to right direction.
+(c)      The characteristics of an effective audit committee chair include:
+(i)       An independent proactive leader with confidence and integrity;
+(ii)     A highly respectable and experienced person, who possesses strong interpersonal skills and time available to develop and closely monitor the committee agenda;
+(iii)    a person with excellent working knowledge of an audit committee’s functions and risk management frameworks;
+4.1.3.   Secretary
+(i)   The head of internal audit shall be the secretary to the committee.
+1.1.3.1. Role of the Secretary
+(i)       Draft the audit committee’s meeting agenda for the Chairman’s review, performing work pertaining to summoning of meetings, facilitate the distribution of the material to the audit committee members, and write up the minutes of the audit committee meetings;
+(ii)     Maintain a record for the audit committee’s meetings that detail all required activities to ascertain whether they are completed and assists the committee in reporting to the Accounting Officer/Board/Full Council what it has accomplished;
+1.2.   Meetings of the Audit Committee
+Audit committee meetings should be held on a timely and regular basis and their proceedings, recommendations and discussions formally minuted. A meeting agenda should be prepared and distributed in advance to enable adequate evaluation by committee members. A detailed agenda and strong chairing is vital in order that committee meetings remain focused.
+4.2.1.   Agenda setting
+(a)     The committee should determine its own agenda. However, it is considered beneficial for the committee Chair to liaise with the accounting officer or chief executive of the governing body, management, internal audit and external audit prior to setting the agenda so that recent developments can be included.
+(b)     In setting the agenda, the most significant risks and threats to the entity should be emphasised as well as the ongoing evaluation of what is being done to mitigate such risks.
+(c)      The agenda and documents supporting matters to be discussed in the meeting should be circulated to the audit committee members and persons who are to attend the meeting at least 14 days in advance. This is to provide time for consideration of the matters or request for additional supporting information
+4.2.2.   Frequency and Timing of Meetings
+(a)     The audit committee should meet at least quarterly; the timing of meetings will depend on individual entity processes, audit reporting and financial statement preparation timeframes. For example, the audit committee should meet to review the financial statements before they are submitted to External Auditors.
+(b)     The timing of audit committee meetings should be planned annually in advance to ensure the availability of all members. The timing should be communicated to other personnel such as internal and external audit and line management, so that their availability can also be confirmed as they may be required to attend selected meetings.
+(c)      The committee Chair may call additional meetings as necessary to address any matters referred to the committee or in respect of matters that the committee wishes to pursue.
+4.3.3.   Attendance
+Quorum
+A quorum should consist of a majority of members of the committee including the chair, one of whom should be an independent external member.
+Proxies
+As members are appointed on the basis of personal qualities and skills, proxies are not permitted if a member is unable to attend a meeting.
+4.3.4.   Voting
+(i)       The notice of meeting which will require voting must specify clearly the issues and names of persons to be deliberated on and require any member of the Audit Committee who has any interest in a matter to be considered to declare before deliberations and voting on such matter.
+(i)       Views of all dissenting members shall be taken and appropriately recorded.
+4.4.   Minutes of meetings
+(a)     Meetings should be conducted on a formal basis and be effectively minuted by the secretary to record the proceedings and any decisions made.
+(b)     The minutes should cover each agenda item and document the discussion held and the outcome or conclusion from the discussions. This would include any recommendations, action points, allocation of tasks to relevant person, allocation of time for follow up and further consultation. The minutes should contain sufficient information to provide an understanding of the activities of the audit committee and the committee’s recommendations, conclusions and outcomes.
+(c)      The minutes of meetings to be prepared and distributed to committee members within 7 working days after the conclusion of the meeting.
+(d)     The minutes should be confirmed as true record of the meeting at the next meeting. If any important details have been incorrectly recorded or omitted, they should be discussed and the minutes amended prior to confirmation at a subsequent meeting.
+(e)      After the minutes are confirmed as true record of the meeting, they should be signed by the Chair and the Secretary.
+(f)       Copies of the minutes should be distributed to all members.
+In addition, a copy of the audit committee minutes should be forwarded to stakeholders who may have an interest in the activities of the audit committee, for example external audit and management.
+4.5.   Initial Information Requirements for the Audit Committee
+When a new audit committee is constituted and when new members are appointed the secretariat shall be required to produce the following:
+(i)       The Public Finance Management Act, 2012, the Public Finance Management Act, Regulations 2015
+(ii)     The strategic plan of the entity
+(iii)    The service charter
+(iv)    Performance contract
+(v)     Budget and procurement plan
+(vi)    Risk policy framework and risk profile
+(vii)  The Internal Audit Strategic plan.
+(viii) An internal Audit charter that spells out the Internal Audit Purpose, Authority and Responsibility for approval by the committee.
+(ix)    Internal Audit Budget and risk based Annual Work Plan,
+(x)     Any other relevant legislations, guidelines or documents.
+4.6.   Progress Reports from Internal Audit Unit
+During regular meetings, the internal audit unit should provide the audit committee with a progress report summarizing;
+(a)      Work performed in comparison with the approved Annual Work Plan;
+(b)     A report on consulting engagements undertaken and other special assignments;
+(c)      Key issues emerging from Internal Audit work;
+(d)     Management response to key audit findings and recommendations;
+(e)      Risks which management has accepted to undertake which are not acceptable according to the Internal Auditor’s opinion.
+(f)       Major disagreements with management.
+(g)     Major limitations affecting the achievement of internal audit objectives.
+(h)     Key issues emerging from external audit work
+(i)       A report on cooperation between internal and external audit
+(j)       Internal and External Quality Assurance reports on the Internal Audit function if any.
+(k)      Periodic management accounts and or budget performance reports either quarterly or half yearly.
+4.7.   Key Relationships and Access to Audit Committees
+4.7.1.   Relationship with Accounting Officer or Governing Body
+(a)     A key role of the audit committee is to act as an independent source of counsel to the accounting officer or governing body and to act as a forum for the resolution of any audit/management disagreements.
+(b)     The accounting officer or governing body has a key role in supporting the effectiveness of the audit committee by;
+(i)       Providing capacity building to all public national government entity audit committees;
+(ii)     providing policies and guidelines on audit committees;
+(iii) monitor the effectiveness of audit committees; and
+(iv) Providing periodic updates of Audit committee activities through the website.
+(c)      The accounting officer of the concerned entity shall be responsible for the implementation of the recommendations made in the audit reports and shall develop response and action plan which he or she shall submit to the Chairperson of the audit committee within fourteen days.
+(d)     The Accounting Officer of a national or county government entity may by invitation attend audit committee meetings
+4.7.2.   Meetings with Accounting Officer or Governing Body
+(a)     It is considered beneficial after each audit committee meeting for the Chair to issue a brief or minutes to the accounting officer, giving the audit committee resolutions and recommendations for implementation.
+(b)     It is also considered beneficial for the Chair to meet with the accounting officer or governing body at the end of the year to review the performance and achievements of the audit committee and also to discuss the key issues and focus of the audit committee for the coming year.
+4.7.3.   Relationship with Line Management
+(a)     The role of the audit committee with respect to line management will focus mainly on management’s response to audit findings and implementation of audit recommendations.
+(b)     The audit committee should determine whether management’s response to address the audit findings is satisfactory, cost-effective and in line with the entities risk management framework. The audit committee should also ensure that the recommendations will enhance the effectiveness and efficiency with which the entity delivers its services.
+(c)      If required, line management may by invitation attend audit committee meetings but they are not eligible to vote.
+4.7.4.   Relationship with External Audit
+(a)      External audit and the audit committee should have a strong and candid relationship. Open, regular, frank and confidential dialogue should be the norm, allowing the audit committee to utilize the technical knowledge and experience of external audit in assessing, for example, the quality of the entity’s internal control systems and financial reports.
+(b)     Audit committee may be instrumental in facilitating communication and effective relationship between Internal Audit and External Audit.
+(c)      The internal audit shall, on behalf of the audit committee monitor and report on the implementation of external audit findings and recommendations.
+4.7.5.   Communications with Stakeholders (Reporting)
+4.7.5.1.  Introduction
+The common stakeholders of the public sector entities who will be interested in audit committee reports will include;
+(a)     Accounting officers
+(b)     The board/ council/ senate
+(c)      The national/ county treasury
+(d)     Top Management
+(e)      External audit
+(f)       Internal audit
+(g)     Development partners
+(h)     Citizens
+(i)       Shareholders
+(j)       Other oversight agencies
+4.7.5.2.  Audit committee reports
+The audit committee in the course of its work will issue periodic, annual and special / investigative reports. The reports of the audit committee will be accessed by the stakeholders through the management;
+The audit committee should produce periodic reports to the accounting officer/ governing body/ chief executive officer citing key issues affecting the operations of the entity. Investigative / special reports should be addressed to the requesting authority.
+The annual report of the audit committee should include;
+(i)       Introduction and background.
+(ii)     Audit committee effectiveness
+(a)     Preparation of the audit committee charter
+(b)     Calendar of activities
+(c)      Audit committee trainings
+(d)     Significant issues considered by the committee;
+(iii) The internal audit effectiveness
+(a)     Internal audit charter
+(b)     Strategic plan
+(c)      Risk based annual work plan
+(d)     Internal audit reports
+(e)      Positioning, staffing and facilitation of internal audit function;
+(iv) Effectiveness of management
+(a)     Strategic plan and delivery of mandate
+(b)     Performance contract
+(c)      Annual procurement plan
+(d)     Annual budget
+(e)      Risk management policy and profile
+(f)       Adequacy and effectiveness of internal control
+(g)     Governance structures and processes
+(h)     Tone at the top;
+4.8.   Assessment of the Audit Committee Performance
+4.8.1.   Annual Self-Assessment
+(a)     The audit committee should assess its performance and achievements against its mandate, roles, duties & responsibilities that should be captured in the calendar of activities on an annual basis. The aim of the self-assessment is to ensure that the audit committee is meeting its objectives efficiently and effectively. The self-assessment report should be presented by the Chair to the accounting officer/ governing body. The report should be ready at the same time as the final accounts of the entity.
+(i)       Areas for self-assessment should include the audit committees’ understanding, communication and oversight responsibilities in regard to the financial statements, risk management, internal controls, compliance, ethics, management, internal auditing, external auditing, resources and special assignments and investigations.
+(ii)      The committee should also assess its composition, training, meetings, charter and performance.
+(b)     Where the self-assessment highlights a need for enhancements to the role, operational processes or membership of the committee, the Chair should take action to ensure that such enhancements are implemented. The Chair may need to consult with the accounting officer or governing body to obtain appropriate support to ensure all enhancements are implemented.
+4.8.2.   Management feedback
+The audit committee should seek feedback from the senior management on their effectiveness.
+4.8.3.   Use of an External Facilitator (External Evaluation)
+The audit committee may use an external facilitator to provide assistance with the self-assessment process. The committee Chair and external facilitator should provide feedback to the audit committee members and present the findings of the evaluation to the accounting officer or governing body.
+
+
+

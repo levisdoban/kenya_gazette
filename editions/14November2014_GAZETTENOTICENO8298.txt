@@ -1,0 +1,103 @@
+
+				Page: 3104GAZETTE NOTICE NO. 8298
+THE STANDARDS ACT
+(Cap. 496)
+DECLARATION OF KENYA STANDARDS
+PURSUANT to section 9 (1) of the Standards Act, the National Standards Council declares the specifications or codes of practice appearing in the Schedule hereto to be Kenya Standards with effect from the date of publication of this notice.
+Number                            Title of Specification or Code of Practice
+Chemical 
+KS 156:2014                   Kenya Standard — Caustic soda, analytical and technical — Specification, Second Edition.
+KS 2518:2014                 Kenya Standard — Buffer solutions — Specification, First Edition.
+KS 2530:2014                 Kenya Standard — Transport of dangerous goods — Packaging and large packaging for road and rail transport, First Edition.
+Food and Agriculture 
+KS 2571:2014                 Kenya Standard — Food fortification premix — Requirements for supply in Kenya, First Edition.
+KS 1089:2014                 Kenya Standard — Reduced salt-content foods — Specification, Second Edition.
+KS 2541:2014                 Kenya Standard — Crude and semi refined crude palm oil products — Specification, First Edition.
+KS EAS 301:2013           Kenya Standard — Edible palm oil — Specification, Second Edition.
+KS 1753:2014                  Kenya Standard — Maize semolina — Specification, Second Edition.
+KS 2049:2007 Amd 1:2014    Kenya Standard — Soya drink — Specification (AMENDMENT 1), First Edition.
+KS 2456:2014                 Kenya Standard — Cold storage of shell eggs — Code of practice, First Edition.
+KS ISO 1735:2004          Kenya Standard — Cheese and processed cheese products — Determination of fat content — Gravimetric method (Reference method), First Edition.
+KS ISO 2450:2008          Kenya Standard — Cream — Determination of fat content — Gravimetric method (Reference method), First Edition.
+KS ISO 1737:2008          Kenya Standard — Evaporated milk and sweetened condensed milk — Determination of fat content — Gravimetric method (Reference method), First Edition.
+KS ISO/TS 2963:2006     Kenya Standard — Cheese and processed cheese products — Determination of citric acid content — Enzymatic method, First Edition.
+KS ISO 3432:2008          Kenya Standard — Cheese — Determination of fat content — Butyrometer for Van Gulik method, First Edition.
+KS ISO 3727-2:2001       Kenya Standard — Butter — Determination of moisture, non-fat solids and fat contents Part 2: Determination of non-fat solids content (Reference method), First Edition.
+KS ISO 3433:2008          Kenya Standard — Cheese — Determination of fat content — Van Gulik method, First Edition.
+KS ISO 5534:2004/Cor 1:2013              Kenya Standard — Cheese and processed cheese — Determination of the total solids content (Reference method), First Edition.
+KS ISO 6734:2010          Kenya Standard — Sweetened condensed milk — Determination of total solids content (Reference method), First Edition.
+KS ISO 3727-3:2003       Kenya Standard — Butter — Determination of moisture, non-fat solids and fat contents Part 3: Calculation of fat content, First Edition.
+KS ISO 7208:2008          Kenya Standard — Skimmed milk, whey and buttermilk -- Determination of fat content — Gravimetric method (Reference method), First Edition.
+KS ISO 8968-1:2014       Kenya Standard — Milk and milk products — Determination of nitrogen content Part 1: Kjeldahl principle and crude protein calculation, Second Edition.
+KS ISO 9233-1:2007/Amd 1:2012         Kenya Standard — Cheese, cheese rind and processed cheese — Determination of natamycin content Part 1: Molecular absorption spectrometric method for cheese rind, First Edition.
+KS ISO 12080-1:2009     Kenya Standard — Dried skimmed milk — Determination of vitamin A content Part 1: Colorimetric method, First Edition.
+KS ISO 14156:2001 /Amd 1:2007         Kenya Standard — Milk and milk products — Extraction methods for lipids and liposoluble compounds, AMENDMENT 1, First Edition.
+KS ISO 8070:2007          Kenya Standard — Milk and milk products — Determination of calcium, sodium, potassium and magnesium contents — Atomic absorption spectrometric method, First Edition.
+KS ISO 8262-1:2005       Kenya Standard — Milk products and milk-based foods —Determination of fat content by the Weibull-Berntrop gravimetric method (Reference method) Part 1: Infant foods, First Edition.
+Electrotechnical
+KS ISO/TR 29123:2007   Kenya Standard — Identification cards — Proximity cards — Requirements for the enhancement of interoperability, First Edition.
+KS ISO/IEC 24787:2010 Kenya Standard — Information technology — Identification cards — On-card biometric comparison, First Edition.
+KS ISO/IEC 24789-1:2012     Kenya Standard — Identification cards -- Card service life Part 1: Application profiles and requirements, First Edition.
+KS ISO/IEC 24789-2:2011     Kenya Standard — Identification cards -- Card service life Part 2: Methods of evaluation, First Edition.
+ICT 
+KS ISO/IEC 12207:2008 Kenya Standard — Systems and software engineering — Software life cycle processes, First Edition.
+KS ISO/IEC TR 24748-3:2011               Kenya Standard — Systems and software engineering — Life cycle management Part 3: Guide to the application of ISO/IEC 12207 (Software life cycle processes), First Edition.
+KS ISO/IEC 38500:2008 Kenya Standard — Corporate governance of information technology, First Edition.
+KS ISO/IEC/IEEE 29148:2011               Kenya Standard — Systems and software engineering — Life cycle processes — Requirements engineering, First Edition.
+KS ISO/IEC/IEEE 29119-1:2013           Kenya Standard — Software and systems engineering — Software testing Part 1: Concepts and definitions, First Edition.
+KS ISO/IEC/IEEE 16326:2009               Kenya Standard — Systems and software engineering — Life cycle processes — Project management, First Edition.
+KS ISO/IEC 14598-5:1998     Kenya Standard — Information technology — Software product evaluation Part 5: Process for evaluators, First Edition.
+KS ISO/IEC/IEEE 29119-2:2013           Kenya Standard — Software and systems engineering — Software testing Part 2: Test processes, First Edition.
+KS ISO/IEC/IEEE 29119-3:2013           Kenya Standard — Software and systems engineering — Software testing Part 3: Test documentation, First Edition.
+KS ISO/IEC 20000-1:2011     Kenya Standard — Information technology — Service management Part 1: Service management system requirements, First Edition.
+KS ISO/IEC 20000-2:2012     Kenya Standard — Information technology —  Service management Part 2: Guidance on the application of service management systems, First Edition.
+KS ISO/IEC 20000-3:2012     Kenya Standard — Information technology —  Service management Part 2: Guidance on Scope definition and applicability of ISO/IEC 20000 -1, First Edition.
+KS ISO/IEC TR 20000-4:2010               Kenya Standard — Information technology — Service management Part 4: Process reference model, First Edition.
+KS ISO/IEC 15288:2008 Kenya Standard — Systems and software engineering — System life cycle processes, First Edition.
+KS ISO/IEC TS 29140-1:2011               Kenya Standard — Information technology for learning, education and training — Nomadicity and mobile technologies Part 1: Nomadicity reference model, First Edition.
+KS ISO/IEC TS 29140-2:2011               Kenya Standard — Information technology for learning, education and training — Nomadicity and mobile technologies Part 2: Learner information model for mobile learning, First Edition.
+KS 2416-3:2014              Kenya Standard — Information technology — learning, education and training Part 3: Network components to support eLearning, First Edition.
+KNWA 2572-1:2014       Kenya Standard — Inspection of new and used electrical and electronic equipment — Code of practice Part 1: Information and telecommunication equipment, First Edition.
+Mechanicala
+KS ISO 4998:2011          Kenya Standard — Continuous hot-dip zinc-coated carbon steel sheet of structural quality, First Edition.
+KS ISO 3581:2003          Kenya Standard — Welding consumables — Covered electrodes for manual metal arc welding of stainless and heat-resisting steels — Classification, First Edition.
+KS ISO 3581:2003 Cor 1:2008              Kenya Standard — Welding consumables — Covered electrodes for manual metal arc welding of stainless and heat-resisting steels — Classification Technical Corrigendum 1, First Edition.
+KS ISO 18275:2011        Kenya Standard — Welding consumables — Covered electrodes for manual metal arc welding of high-strength steels — Classification, First Edition.
+KS 2506:2014                 Kenya Standard — Petroleum facilities — Retail and consumer outlets — Specification, First Edition.
+KS ISO 14531-1:2002     Kenya Standard — Plastics pipes and fittings — Crosslinked polyethylene (PE-X) pipe systems for the conveyance of gaseous fuels — Metric series — Specifications Part 1: Pipes, First Edition.
+KS ISO/TS 18226:2006   Kenya Standard — Plastics pipes and fittings — Reinforced thermoplastics pipe systems for the supply of gaseous fuels for pressures up to 4 MPa (40 bar), First Edition.
+Textile and Leather 
+KS ISO 105 E06:2006     Kenya Standard — Textiles — Tests for colour fastness Part E06: Colour fastness to spotting: Alkali, First Edition.
+Civil 
+KNWA 2569-1:2014       Kenya Standard — Hydraulic road binders Part 1: Rapid hardening hydraulic road binders — Composition, specification and conformity criteria, First Edition.
+The following standards are hereby confirmed—
+KS 28-1:2009                  Kenya Standard — Cheese — Specification Part 1: General requirements
+KS 28-2:2009                  Kenya Standard — Cheese — Specification Part 2: Cheddar cheese
+KS 28-3:2009                  Kenya Standard — Cheese — Specification Part 3: Gouda Cheese
+KS 28-4:2009                  Kenya Standard — Cheese — Specification Part 4: Tilsiter Cheese
+KS 28-5:2009                  Kenya Standard — Cheese — Specification Part 5: Cottage cheese
+KS 28-6:2009                  Kenya Standard — Specification for cheese Part 6: Cream cheese (Rahmfrisckase)
+KS 1790:2003                 Kenya Standard — Animal ghee — Specification
+KS 1756:2001                 Kenya Standard — Specification for flavoured milk
+The following Kenya Standards are hereby withdrawn forthwith:
+KS 326-7:2003                Kenya Standard — Edible fats and oils — Specification Part 7: Palm oil.
+KS EAS 301:2002           Kenya Standard — Edible palm oil — Specification
+KS1089:1993                  Kenya Standard — Nutrition and foods for special dietary use 
+KS 1753:2003                 Kenya Standard — Maize semolina — Specification 
+KS 34:2001                     Kenya Standard — Specification for yogurts 
+KS EAS 81-8:2007          Kenya Standard — Dried milk and dried milk products — Determination of insolubility index
+KS EAS 80-8                   Kenya Standard — Milk and milk products — Determination of copper content — Photometric method (Reference method)
+KS EAS 81-2:2007          Kenya Standard — Milk powders — Methods for the analysis Part 2: Determination of moisture content (Reference method)
+KS EAS 81-7:2007          Kenya Standard — Milk powders — Methods for the analysis Part 7: Determination of titratable acidity (Routine method) KS ISO 6091:2010
+KS EAS 80-9:2007          Kenya Standard — Butter — Determination of moisture, non-fat solids and fat contents Part 9: Determination of iron content
+KS EAS 81-8:2007          Kenya Standard — Milk powders — Methods for the analysis Part 8: Determination of insolubility index
+KS EAS 452-2:2007        Kenya Standard — Milk and milk products- Enumeration of presumptive Escherichia coli Part 2: Colony-count technique at 44 degrees C using membranes
+KS EAS 454:2007           Kenya Standard — Milk and milk products - Guidance on sampling
+KS ISO 8968-1:2001       Kenya Standard — Milk and milk products — Determination of nitrogen content Part 1: Kjeldahl principle and crude protein calculation
+KS ISO 9233-1:1991       Kenya Standard — Cheese, cheese rind and processed cheese — Determination of natamycin content Part 1: Molecular absorption spectrometric method for cheese rind 
+KS ISO 11866-2:1997     Kenya Standard — Milk and milk products- Enumeration of presumptive Escherichia coli Part 2: Colony-counttechnique at 44 degrees C using membranes
+KS ISO 12080-1:2000     Kenya Standard — Dried skimmed milk — Determination of vitamin A content Part 1: Colorimetric method to be replaced by KS ISO 12080-1:2009
+Dated the 3rd October, 2014.
+CHARLES ONGWAE,
+MR/6110253                   Secretary, National Standards Council.
+

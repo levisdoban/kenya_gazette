@@ -1,0 +1,163 @@
+
+				Page: 371GAZETTE NOTICE NO. 1198
+THE STANDARDS ACT
+(Cap. 496)
+DECLARATION OF KENYA STANDARDS
+PURSUANT to section 9 (1) of the Standards Act, the National Standards Council declares the specifications or codes of practice appearing in the Schedule hereto to be Kenya Standards with effect from the date of publication of this notice.
+Number                                Title of Specification or Code of Practice
+Chemical
+KS 2582-1:2014                 Kenya Standard  — Safety of chemical products — Code of practice Part 1: Safety of methanol, First Edition.
+KS 2583:2014                    Kenya Standard  — Denatonium benzoate in alcohols — Test method, First Edition.
+KS 2567:2014                    Kenya Standard  — Paper-towel rolls for centre-feed dispensing devices — Specification, First Edition.
+KS ISO 16000-29:2014      Kenya Standard  — Indoor air — Part 29: Test methods for VOC detectors, First Edition.
+KS ISO 13138:2012           Kenya Standard  — Air quality — Sampling conventions for airborne particle deposition in the human respiratory system, First Edition.
+KS ISO 2884-2:2003          Kenya Standard  — Paints and varnishes — Determination of viscosity using rotary viscometer Part 2: Disc or ball viscometer operated at specified speed, First Edition.
+KS ISO 9117-3:2010          Kenya Standard  — Paints and varnishes — Drying tests —Part 3: Surface-drying test using ballotini, First Edition.
+KS ISO 6504-3:2006          Kenya Standard  — Paints and varnishes — Determination of hiding power Part 3: Determination of contrast ratio of light coloured paints at a fixed spreading rate, First Edition.
+KS ISO 21207:2004           Kenya Standard  — Corrosion tests in artificial atmospheres — Accelerated corrosion tests involving alternate exposure to corrosion promoting gases, neutral salt-spray and drying, First Edition.
+KS ISO 3856-1:1984          Kenya Standard  — Paints and varnishes — Determination of “soluble” metal content Part 1: Determination of lead content — Flame atomic absorption spectrometric method and dithizone spectrophotometric method, First Edition.
+KS EAS 361:2004              Kenya Standard  —Carbaryl dusting powder — Specification, First Edition.
+KS 2564:2014                    Kenya Standard  — Chemicals used for treatment of water intended for human consumption — Chemicals for emergency use — Trichloroisocyanuric acid — Specification, First Edition.
+KS 2565:2014                    Kenya Standard  — Chemicals used for treatment of swimming pool water —  Trichloroisocyanuric acid — Specification, First Edition.
+KS 2568:2014                    Kenya Standard — Powder sanitizers — Specification, First Edition.
+KS 1797:2014                    Kenya Standard — Household fabric softeners — Specification, Second Edition.
+KS ISO 2834-1:2006          Kenya Standard  — Graphic technology —  Laboratory preparation of test prints  Part 1: Paste inks, First Edition.
+KS ISO 2834-3:2008          Kenya Standard  — Graphic technology —  Laboratory preparation of test prints Part 3: Screen printing inks, First Edition.
+KS ISO 2836:2004             Kenya Standard  — Graphic technology —  Prints and printing inks —  Assessment of resistance of prints to various agents, First Edition.
+KS ISO 12643-1:2009        Kenya Standard — Graphic technology —  Safety requirements for graphic technology equipment and systems Part 1: General requirements, First Edition.
+KS ISO 14298:2013           Kenya Standard  — Graphic technology —  Management of security printing processes, First Edition.
+KS ISO 2834-2:2007          Kenya Standard  — Graphic technology —  Laboratory preparation of test prints Part 2: Liquid printing inks, First Edition.
+ICT 
+KS ISO/IEC 19790:2012    Kenya Standard  —  Information technology —  Security techniques —  Security requirements for cryptographic modules, First Edition.
+KS ISO/IEC 24759:2008    Kenya Standard  —  Information technology —  Security techniques —  Test requirements for cryptographic modules, First Edition.
+KS ISO/IEC 29128:2011    Kenya Standard  —  Information technology —  Security techniques —  Verification of cryptographic protocols, First Edition.
+KS ISO/IEC 29150:2011    Kenya Standard  —  Information technology —  Security techniques —  Signcryption, First Edition.
+KS ISO/IEC 10116:2006    Kenya Standard  — Information technology —  Security techniques —  Modes of operation for an n-bit block cipher, First Edition.
+KS ISO/IEC 29100:2011    Kenya Standard  —  Information technology —  Security techniques —  Privacy framework, First Edition.
+KS ISO/IEC 18031:2011    Kenya Standard  — Information technology —  Security techniques —  Random bit generation, First Edition.
+KS ISO/IEC 18032:2005    Kenya Standard  —  Information technology — Security techniques — Prime number generation, First Edition.
+KS ISO/IEC 11770-1:2010     Kenya Standard  —  Information technology —  Security techniques —  Key management Part 1: Framework, First Edition.
+KS ISO/IEC 11770-2:2008     Kenya Standard  —  Information technology —  Security techniques —  Key management Part 2: Mechanisms using symmetric techniques, First Edition.
+KS ISO/IEC 11770-3:2008     Kenya Standard  —  Information technology —  Security techniques —  Key management Part 3: Mechanisms using asymmetric techniques, First Edition.
+KS ISO/IEC 11770-4:2006     Kenya Standard  —  Information technology —  Security techniques —  Key management Part 4: Mechanisms based on weak secrets, First Edition.
+KS ISO/IEC 11770-5:2011     Kenya Standard  —  Information technology —  Security techniques —  Key management Part 5: Group key management, First Edition.
+KS ISO/IEC 11889-1:2009     Kenya Standard  —  Information technology —  Trusted Platform Module Part 1: Overview, First Edition.
+KS ISO/IEC 11889-2:2011     Kenya Standard  —  Information technology —  Trusted Platform Module Part 2: Design principles, First Edition.
+KS  ISO/IEC 11889-3:2009    Kenya Standard  — Information technology —  Trusted Platform Module Part 3: Structures, First Edition.
+KS ISO/IEC 11889-4:2009     Kenya Standard  —  Information technology -- Trusted Platform Module -- Part 4: Commands, First Edition.
+KS ISO/IEC 18014-1:2008     Kenya Standard  —  Information technology —  Security techniques —  Time-stamping services Part 1: Framework, First Edition.
+KS ISO/IEC 18014-2:2009     Kenya Standard  —  Information technology —  Security techniques —  Time-stamping services Part 2: Mechanisms producing independent tokens, First Edition.
+KS ISO/IEC 18014-3:2009 Kenya Standard  —  Information technology —  Security techniques —  Time-stamping services Part 3: Mechanisms producing linked tokens, First Edition.
+KS ISO/IEC TR 29149:2012 Kenya Standard  —  Information technology —  Security techniques —  Best practices for the provision and use of time-stamping services, First Edition.
+KS ISO/IEC 10118-1:2000 Information technology —  Security techniques —  Hash-functions Part 1: General, First Edition.
+KS ISO/IEC 10118-2:2010     Kenya Standard  —  Information technology —  Security techniques —  Hash-functions Part 2: Hash-functions using an n-bit block cipher, First Edition.
+KS ISO/IEC 10118-3:2004     Kenya Standard  — Information technology —  Security techniques —  Hash-functions Part 3 Dedicated hash-functions, First Edition.
+KS ISO/IEC 10118-4:1998     Kenya Standard  —  Information technology —  Security techniques —  Hash-functions Part 4 Hash-functions using modular arithmetic, First Edition.
+KS ISO/IEC 29191:2012    Kenya Standard  —  Information technology —  Security techniques —  Requirements for partially anonymous, partially unlinkable authentication, First Edition.
+KS ISO/IEC 29192-1:2012     Kenya Standard  —  Information technology —  Security techniques —  Lightweight cryptography Part 1: General, First Edition.
+KS ISO/IEC 29192-2:2012     Kenya Standard  —  Information technology —  Security techniques —  Lightweight cryptography Part 2: Block ciphers, First Edition.
+KS ISO/IEC 29192-3:2012 Kenya Standard  —  Information technology —  Security techniques —  Lightweight cryptography Part 3: Stream ciphers, First Edition.
+KS ISO/IEC 19772:2009    Kenya Standard  —  Information technology —  Security techniques —  Authenticated encryption, First Edition.
+KS ISO/IEC 18033-1:2005     Kenya Standard  —  Information technology —  Security techniques —  Encryption algorithms Part 1: General, First Edition.
+KS ISO/ IEC 18033-2:2006    Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 2: Asymmetric ciphers, First Edition.
+KS ISO/ IEC 18033-3:2010 Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 3: Block ciphers, First Edition.
+KS ISO/IEC 18033-4:2011     Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 4: Stream ciphers, First Edition.
+KS ISO/ IEC 14888-1:2008    Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 1: General, First Edition.
+KS ISO/ IEC 14888-2:2008    Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 2: Integer factorization based mechanisms, First Edition.
+KS ISO/ IEC 14888-3:2008    Kenya Standard  —  Information technology —  Security techniques —  Digital signature with appendix Part 3: Discrete logarithm based mechanisms, First Edition.
+KS ISO/IEC 9796-2:2010   Kenya Standard  —  Information technology —  Security techniques —  Digital signature schemes giving message recovery Part 2: Integer factorization based mechanisms, First Edition.
+KS ISO/IEC 9796-3:2006   Kenya Standard  —  Information technology —  Security techniques —  Digital signature schemes giving message recovery Part 3: Discrete logarithm based mechanisms, First Edition.
+Textile and Leather 
+KS ISO 105 E03:2010        Kenya Standard  —  Textiles —  Tests for colour fastness Part E03: Colour fastness to chlorinated water (swimming pool –water), First Edition.
+KS ISO 105 E05:2010        Kenya Standard  —  Textiles —  Tests for colour fastness Part E05:Colour fastness to spotting: Acid, First Edition.
+KS ISO 105 E08:1994        Kenya Standard  —  Textiles —  Tests for colour fastness Part E08: Colour fastness to hot water, First Edition.
+KS ISO 105 E16:2006        Kenya Standard  —  Textiles —  Tests for color fastness Part  E16: Colour fastness to water spotting on upholstery fabrics, First Edition.
+KS ISO 15625:2014           Kenya Standard  —  Silk —  Electronic test method for defects and evenness of raw silk, First Edition.
+KS ISO 1140:2012             Kenya Standard  —  Fibre ropes —  Polyamide,-3-,4-,8- and 12-strand ropes, Second Edition.
+KS ISO 1141:2012             Kenya Standard  —  Fibre ropes —  Polyester ,-3-,4-,8- and 12-strand ropes, Second Edition.
+KS ISO 13673-3:2014        Kenya Standard  —  Textiles —  Dyestuffs Part 3: Method for determination of certain carcinogenic dyestuffs (method using triethylamine/methanol), First Edition.
+KS ISO 24362-1:2014        Kenya Standard  —  Textiles —  Methods for determination of certain aromatic amines derived from azo colorants Part 1: Detection of the use of certain azo colorants accessible with and without extracting the fibres, First Edition.
+KS ISO 24362-3:2014        Kenya Standard  —  Textiles —  Methods for determination of certain aromatic amines derived from azo colorants Part 3: Detection of the use of certain azo colorants which may release 4-aminoazobenzene, First Edition.
+KS 1600:2014                    Kenya Standard  —  Polyolefin bags for salt and minerals — Specification, First Edition.
+Electrotechnical 
+KS 2542:2014                    Kenya Standard  —  Off-grid solar photovoltaic lighting kits — Requirements, First Edition.
+KS 2520:2014                    Kenya Standard  —  Domestic biogas stoves — Specification, First Edition.
+KS 2521:2014                    Kenya Standard  —  Domestic biogas lamps — Specification, First Edition.
+Civil Engineering 
+KS 573: 2014                     Kenya Standard — High yield steel bars for the Reinforcement of concrete — Specification, Fourth Edition.
+KS 104:2014                      Kenya Standard — Specification for cold rolled steel sections, Third Edition.
+KS 574:2014                      Kenya Standard — Steel fabric for reinforcement of concrete – Specification, Fourth Edition.
+KS ISO 6934-1:1991          Kenya Standard — Steel for the pre-stressing of concrete - Part 1: General requirements, Second Edition..
+KS ISO 6934-5:1991          Kenya Standard — Steel for the pre-stressing of concrete - Part 5: Hot-rolled steel bars with or without subsequent processing, Second Edition.
+KS 22:2014                        Kenya Standard  —  Specification for hot-rolled mild steel bars for reinforcement of concrete, Second Edition.
+Food and Agriculture 
+KS EAS 772:2012              Kenya Standard  —  Dried sweet potato chips —  Specification, First Edition.
+KS ISO 9233-1:2007          Kenya Standard  —  Cheese, cheese rind and processed cheese —  Determination of natamycin content Part 1: Molecular absorption spectrometric method for cheese rind, First Edition.
+KS 227-2:2014                   Kenya Standard  —  Cashew kernels — Specification Part 2: Roasted cashew kernels, Third Edition.
+KS 868:2014                      Kenya Standard  —  Macadamia kernels —  Specification, Third  Edition.
+KS 938:2014                      Kenya Standard —  Mixed nut kernels, Third Edition.
+KS ISO/TR 12591:2013     Kenya Standard  —  White tea — Definition, First Edition.
+KS ISO 11132:2012           Kenya Standard  —  Sensory analysis methodology —  Guideline for monitoring performance of a qualitative sensory panel, First Edition.
+KS ISO 11056:1999
+Amendment 1:2013        Kenya Standard — Sensory analysis methodology —  Magnitude estimation method, First Edition.
+KS ISO 8586:2012             Kenya Standard  —  Sensory analysis —  General guidelines for the selection, training  and monitoring of selected assessors and expert  sensory assessors, First Edition.
+KS ISO 8587: 2006
+Ammd 1:2006                Kenya Standard  — Sensory analysis methodology —  Ranking, First Edition.
+KS ISO 8589: 2007
+Ammd 1:2013                Kenya Standard  —  Sensory analysis — General guidance for the design of test rooms, First Edition.
+KS ISO 5495:2005 Cor 1:2006              Kenya Standard  —  Sensory analysis  Methodology — Paired comparison, First Edition.
+KS 2543:2014                    Kenya Standard  —  The animal feed industry — Code of practice, First Edition.
+Services 
+KS 2574:2014                    Kenya Standard  —  Guidelines for emergency medical dispatch, First Edition.
+KNWA 2473:2014             Kenya Standard  —  Coco peat — Specification, First Edition.
+KS ISO 22397:2014           Kenya Standard  —  Societal security —  Guidelines for establishing partnering arrangements, First Edition.
+KS ISO 22311:2012           Kenya Standard  —  Societal security —  Guidelines for establishing partnering arrangements, First Edition.
+KS ISO 10637:1999           Kenya Standard  —   Dental equipment —  High- and medium-volume suction systems, First Edition.
+KS ISO/TS 22595-1:2006 Kenya Standard  —   Dentistry —  Plant area equipment Part 1: Suction systems, First Edition.
+KS ISO/TS 22595-2:2008 Kenya Standard  —   Dentistry —  Plant area equipment Part 2: Compressor systems, First Edition.
+KS ISO 14044:2006           Kenya Standard  —   Environmental management  —  Life cycle assessment —  Requirements and guidelines, First Edition.
+KS ISO/TS 14048:2002      Kenya Standard  —   Environmental management —  Life cycle assessments —   Data documentation format, First Edition.
+KS ISO/TR 14047:2012     Kenya Standard  —   Environmental management —   Life cycle assessment —   Illustrative examples on how to apply ISO 14044 to impact assessment situations, First Edition.
+KS ISO/TR 4049:2009       Kenya Standard  —   Environmental management —  Life cycle assessment —  Illustrative examples on how to apply ISO 14044 to goal and scope definition and inventory analysis, First Edition.
+ISO 14066:2011                 Kenya Standard  —  Greenhouse gases —  Competence requirements for greenhouse gas validation teams and verification teams, First Edition.
+KS ISO/TS 14033:2012      Kenya Standard  —   Environmental management —  Quantitative environmental information —  Guidelines and examples, First Edition.
+Mechanical Engineering 
+KS ISO 21138-1:2007        Kenya Standard  — Plastics piping systems for non-pressure underground drainage and sewerage — Structured-wall piping systems of unplasticized poly(vinyl chloride) (PVC-U), polypropylene (PP) and polyethylene (PE) Part 1: Material specifications and erformance criteria for pipes , fittings and system, First Edition.
+KS ISO 21138-2:2007        Kenya Standard  — Plastics piping systems for non-pressure underground drainage and sewerage — Structured-wall piping systems of unplasticized poly(vinyl chloride) (PVC-U), polypropylene (PP) and polyethylene (PE) Part 2: Pipes and fittings with smooth external surface, Type A, First Edition.
+KS ISO 21138-3:2007        Kenya Standard  — Plastics piping systems for non-pressure underground drainage and sewerage — Structured-wall piping systems of unplasticized poly(vinyl chloride) (PVC-U), polypropylene (PP) and polyethylene (PE) Part 3: Part 3: Pipes and fittings with non-smooth external surface, Type B, First Edition.
+KS ISO 15875-1:2003        Kenya Standard  — Plastics piping systems for hot and cold water installations —  Crosslinked polyethylene (PE-X) Part 1: General, First Edition.
+KS ISO 15875-2:2003        Kenya Standard — Plastics piping systems for hot and cold water installations —  Crosslinked polyethylene (PE-X) Part 2: Pipes, First Edition.
+KS ISO 15875-3:2003        Kenya Standard  — Plastics piping systems for hot and cold water installations —  Crosslinked polyethylene (PE-X) Part 3: Fittings, First Edition.
+KS ISO 15875-5:2003        Kenya Standard  — Plastics piping systems for hot and cold water installations —  Crosslinked polyethylene (PE-X) Part 4: Fitness for the purpose of the system, First Edition.
+KS ISO 11199-1:1999        Kenya Standard  — Walking aids manipulated by both arms — Requirements and test methods Part 1: Walking frames, First Edition.
+KS ISO 11199-3:1999        Kenya Standard  — Walking aids manipulated by both arms — Requirements and test methods Part 3: Walking tables, First Edition.
+KS ISO 11199-4:1999        Kenya Standard  — Walking aids manipulated by both arms — Requirements and test methods Part 4: Walking sticks with three or more legs, First Edition.
+KS ISO 23600:2012           Kenya Standard  — Assistive products for persons with vision impairments and persons with vision and hearing impairments — Acoustic and tactile signals for pedestrian traffic lights, First Edition.
+KS ISO 23599:2012           Kenya Standard  — Assistive products for blind and vision impaired persons — Tactile walking surface indicators, First Edition.
+Company Standards
+National Police Service Standards
+KS DF 110:2014                National Police Service Standard — Jungle boot for use by the National Police Service — Specification.
+KS DF 111:2014                National Police Service Standard — Leather footwear for use by the National Police Service — Specification.
+KS DF 112:2014                National Police Service Standard — Leather riding boot for use by the National Police Service — Specification.
+The following standards are hereby confirmed:
+Chemical 
+KS 1406-3:1997                 Kenya Standard — Specification for carbaryl water dispersible powders.
+KS 1408-1:1998                 Kenya Standard — Specification for technical grade dimethoate.
+KS 1408-2:1998                 Kenya Standard — Specification for dimethoate emulsifiable concentrate.
+KS 1407-1:1998                 Kenya Standard — Specification for chlorpyrifos Part 1: Technical grade.
+KS 1407-2:1998                 Kenya Standard — Specification for chlorpyrifos emulsifiable concentrates.
+KS 1410-1:1998                 Kenya Standard — Specification for Malathion Part 1: Technical grade.
+KS 1410-2:1998                 Kenya Standard —  Specification for malathion emulsifiable concentrates.
+KS 1410-3:1998                 Kenya Standard — Specification for malathion dusting powder.
+KS 1411-1:1998                 Kenya Standard — Specification for diazinon, technical grade.
+KS 1411-2:1998                 Kenya Standard — Specification for diazinon emulsifiable concentrates.
+KS 381:1983                      Kenya Standard — General methods of test for pesticides and their formulations.
+KS ISO 2812-1:2007          Kenya Standard — Paints and varnishes — Determination of resistance to liquids Part 1: Immersion in liquids other than water.
+KS ISO 13736:2008           Kenya Standard — Determination of flash point — Abel closed-cup method.
+KS ISO 21227-4:2008        Kenya Standard — Paints and varnishes — Evaluation of defects on coated surfaces using optical imaging Part 4: Evaluation of filiform corrosion.
+KS ISO 20340: 2009          Kenya Standard — Paints and varnishes — Performance requirements for protective paint systems for offshore and related structures.
+KS ISO 15181-1:2000        Kenya Standard — Paints and varnishes — Determination of release rate of biocides from antifouling paints Part 1: General method for extraction of biocides.
+KS ISO 15181-2:2000        Kenya Standard — Paints and varnishes — Determination of release rate of biocides from antifouling paints Part 2: Determination of copper-ion concentration in the extract and calculation of the release rate.
+KS 2162:2009                    Kenya Standard — Products used for treatment of water intended for human consumption — Inorganic supporting and filtering materials — Definitions.
+KS 2163:2009                    Kenya Standard — Products used for treatment of water intended for human consumption  
+

@@ -1,0 +1,7566 @@
+
+				Page: 2920 
+ 
+GAZETTE NOTICE NO. 9193
+KENYA REVENUE AUTHORITY
+REPORT OF THE AUDITOR-GENERAL ON THE KENYA REVENUE AUTHORITY FOR THE YEAR ENDED 30 JUNE 2014
+REPORT ON THE FINANCIAL STATEMENT
+I have audited the accompanying financial statements of Kenya Revenue Authority set out herein, which comprise the statement of financial position as at 30 June 2014, and the statement of financial performance, statement of changes in net assets, statement of cash flows, statement of comparison of budget and actual amounts and revenue collection statement for the year then ended, and a summary of significant accounting policies and other explanatory information in accordance with the provisions of Article 229 of the Constitution of Kenya and Sections 14 and 8 of the Public Audit Act, 2003.
+I have obtained all the information and explanations which, to the best of my knowledge and belief, were necessary for the purpose of the audit.
+Management’s Responsibility for the Financial Statements
+Management is responsible for preparation and fair presentation of these financial statements in accordance with International Public Sector Accounting Standards and for such internal control as management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+The Management is also responsible for the submission of the financial statement to the Auditor-General in accordance with the provisions of Section 13 of the Public Audit Act, 2003.
+Auditor-General’s Responsibility
+My responsibility is to express an opinion on these financial statements, based on the audit and report in accordance with the provisions of Section 15 (2) and (3) of the Public Audit Act, 2003 and submit the audit report in compliance with Article 229(7) of the Constitution of Kenya. The audit was conducted in accordance with International Standards of Supreme Audit Institutions. Those standards require compliance with ethical requirements and that the audit be planned and performed to obtain reasonable assurance about whether the financial statements are free from material misstatement.
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material misstatement of the financial statement, whether due to fraud or error. In making those risk assessment, the auditor considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Authority’s internal control. An audit also includes evaluating the appropriateness of accounting policies used and the reasonableness of accounting estimates made by the management, as well as evaluating the overall presentation of the financial statements.
+I believe that the audit evidence obtained is sufficient and appropriate to provide a basis for my qualified audit opinion.
+Basis for Qualified Opinion1
+1.0   FINANCIAL STATEMENTS
+ 
+Land without Title Deeds
+The financial statements of the Authority reflect land and building with a net book value of Kshs. 9,533,366,000 as at 30th June 2014, as disclosed in Note 8(i). Included in the balance of Kshs. 9,533,366,000 are seventeen (17) parcels of land without title deeds in various parts of the country valued at Kshs. 378,000,000 with buildings valued at Kshs. 829,050,000, which were transferred to the Authority by the Government at inception in 1995. The net book value of Kshs. 9,533,366,000, however excludes one (1) unvalued parcel of land in MachakosCounty without title deed and which was similarly transferred to the Authority by the Government in 1995. The balance further excludes an unvalued parcel of land in Taveta County without title deed, and another in ShimoniKwale County, which is registered in the name of East Africa Common Services Authority. In the circumstances, it has not been possible to confirm the ownership status of the 20 parcels of land, and that the property, plant and equipment balance of Kshs. 12,315,101,000 is fairly stated as at 30 June 2014.
+Qualified Opinion
+In my opinion, except for the effect of the matter disclosed in the Basis for Qualified Opinion paragraph, the financial statements present fairly, in all material respects, the financial position of the Kenya Revenue Authority as at 30 June 2014, and of its financial performance and cash flows for the year ended 30 June 2014, and of its financial performance and cash flows for the year ended, in accordance with International Public Sector Accounting Standards, and comply with Kenya Revenue Authority Act. (Cap 469) of the Laws of Kenya.
+Dated the 4th August, 2015.
+EDWARD. R. O. OUKO,
+Auditor-General, Nairobi.
+KENYA REVENUE AUTHORITY   
+ 
+STATEMENT OF FINANCIAL PERFORMANCE 
+FOR THE YEAR ENDED 30 JUNE 2014
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+NOTE
+
+
+ 
+
+
+Kshs'000
+
+
+ 
+
+
+Kshs'000
+
+
+REVENUE 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Revenue from non- exchange transactions
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Agency Income
+
+
+ 
+
+
+ 
+
+
+3
+
+
+ 
+
+
+ 13,651,582
+
+
+ 
+
+
+ 13,201,230
+
+
+Deferred grant income amortisation
+
+
+ 
+
+
+23
+
+
+ 
+
+
+ 136,611
+
+
+ 
+
+
+ 72,180
+
+
+Revenue from exchange transactions
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Commissions Income
+
+
+ 
+
+
+4(a)
+
+
+ 
+
+
+ 812,570
+
+
+ 
+
+
+ 744,978
+
+
+Interest Income
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 361,228
+
+
+ 
+
+
+ 186,484
+
+
+Sale of Number Plates
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 402,364
+
+
+ 
+
+
+ 322,862
+
+
+Other Incomes
+
+
+ 
+
+
+ 
+
+
+4(b)
+
+
+ 
+
+
+ 280,128
+
+
+ 
+
+
+ 265,104
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+TOTAL REVENUE 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 15,644,483 
+
+
+ 
+
+
+ 14,792,838 
+
+
+EXPENDITURE
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Administrative Expenses
+
+
+ 
+
+
+5
+
+
+ 
+
+
+ 13,746,965
+
+
+ 
+
+
+ 12,681,690
+
+
+Operating Expenses
+
+
+ 
+
+
+6
+
+
+ 
+
+
+ 932,003
+
+
+ 
+
+
+ 802,925
+
+
+Maintenance Expenses
+
+
+ 
+
+
+7
+
+
+ 
+
+
+ 164,902
+
+
+ 
+
+
+ 204,137
+
+
+TOTAL EXPENDITURE 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 14,843,870 
+
+
+ 
+
+
+ 13,688,752 
+
+
+Other gains/(losses)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Loss on sale of assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ (580)
+
+
+ 
+
+
+ (2,132)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+SURPLUS FOR THE YEAR
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 800,033 
+
+
+ 
+
+
+ 1,101,954 
+
+The statement of Comprehensive Income is to be read in  conjunction with the notes to and forming part of the financial statement set out below.
+
+KENYA REVENUE AUTHORITY
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+STATEMENT OF FINANCIAL POSITION
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+AS  AT 30 JUNE  2014
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+NOTE
+
+
+ 
+
+
+ Kshs '000
+
+
+ 
+
+
+ Kshs '000
+
+
+Assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Current Assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Cash and Bank Balances
+
+
+13
+
+
+ 
+
+
+7,122,465
+
+
+ 
+
+
+3,025,385
+
+
+Debtors and Receivables
+
+
+10
+
+
+ 
+
+
+467,025
+
+
+ 
+
+
+707,877
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+7,589,490 
+
+
+ 
+
+
+3,733,262
+
+
+Non-Current Assets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Property, Plant & Equipment
+
+
+8
+
+
+ 
+
+
+12,315,101
+
+
+ 
+
+
+12,154,722
+
+
+Intangible Assets
+
+
+9
+
+
+ 
+
+
+110,038
+
+
+ 
+
+
+36,158
+
+
+Amount due from Treasury
+
+
+11
+
+
+ 
+
+
+2,123,899
+
+
+ 
+
+
+3,142,677
+
+
+Security Deposits
+
+
+12
+
+
+ 
+
+
+1,991,883
+
+
+ 
+
+
+1,981,892
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+16,540,921 
+
+
+ 
+
+
+17,315,449
+
+
+Total Assets 
+
+
+ 
+
+
+ 
+
+
+24,130,411 
+
+
+ 
+
+
+21,048,711
+
+
+Liabilities 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Current  Liabilities
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Creditors and Payables
+
+
+14
+
+
+ 
+
+
+2,681,337
+
+
+ 
+
+
+1,152,229
+
+
+Leave Pay Provision
+
+
+15
+
+
+ 
+
+
+1,004,327
+
+
+ 
+
+
+763,687
+
+
+Deferred Income Amortisation
+
+
+23
+
+
+ 
+
+
+136,611
+
+
+ 
+
+
+72,180
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+3,822,275 
+
+
+ 
+
+
+1,988,096
+
+
+Non Current Liabilities
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Contribution to Govt Pension Fund
+
+
+16
+
+
+ 
+
+
+26,991
+
+
+ 
+
+
+27,034
+
+
+Designated Fund
+
+
+18
+
+
+ 
+
+
+240,980
+
+
+ 
+
+
+260,134
+
+
+Deferred Grants Income
+
+
+23
+
+
+ 
+
+
+218,696
+
+
+ 
+
+
+226,444
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+486,667 
+
+
+ 
+
+
+513,612
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Total Liabilities 
+
+
+ 
+
+
+ 
+
+
+4,308,942 
+
+
+ 
+
+
+2,501,708
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Net  Assets
+
+
+ 
+
+
+ 
+
+
+19,821,469 
+
+
+ 
+
+
+18,547,003
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Capital grants by the Treasury
+
+
+17
+
+
+ 
+
+
+12,948,236
+
+
+ 
+
+
+12,377,258
+
+
+Accumulated Fund
+
+
+ 
+
+
+ 
+
+
+2,580,549
+
+
+ 
+
+
+1,780,516
+
+
+Revaluation Reserve
+
+
+8
+
+
+ 
+
+
+4,292,684
+
+
+ 
+
+
+4,389,229
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+19,821,469 
+
+
+ 
+
+
+18,547,003
+
+ 
+
+Total net assets and liabilities 
+
+
+ 
+
+
+ 
+
+
+24,130,411 
+
+
+ 
+
+
+21,048,711
+
+ 
+The statement of Financial Position is to read in conjunction with the notes to and forming part of the financial statement set out below
+
+J. K. Njiraini, MBS
+
+
+………………………………………………………..…………………
+
+
+Commissioner General
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Date
+
+
+2 September, 2014
+
+
+ 
+
+
+ 
+
+
+Major (Rtd) Marsden Madoka, EGH
+
+
+…………………………………………………………….………….…
+
+
+Chairman
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Date
+
+
+2 September, 2014
+
+
+ 
+
+
+ 
+
+The notes set out form an integral part of the Financial Statements   
+KENYA REVENUE AUTHORITY
+ 
+STATEMENT OF CHANGES IN NET ASSETS 
+FOR THE YEAR ENDED 30 JUNE 2014
+ 
+ 
+Capital Grants by 
+Accumulated
+Revaluation 
+Total
+ 
+ 
+Treasury
+Fund
+Reserve 
+Fund
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE
+Kshs'000
+Kshs'000
+Kshs'000
+Kshs'000
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 July 2012 as previously reported
+ 
+11,914,431
+533,632
+4,485,774
+16,933,837
+ 
+ 
+ 
+ 
+ 
+ 
+Prior year adjustment
+23
+-493,839
+144,930
+ -   
+-348,909
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 July 2012 as restated
+ 
+11,420,592
+678,562
+4,485,774
+16,584,928
+ 
+ 
+ 
+ 
+ 
+ 
+Contribution for the year 
+ 
+956,666
+ -   
+ -   
+956,666
+ 
+ 
+ 
+ 
+ 
+ 
+Charge for the year
+ 
+ -   
+ -   
+-96,546
+-96,546
+ 
+ 
+ 
+ 
+ 
+ 
+Surplus for the year
+ 
+ -   
+1,101,954
+ -   
+1,101,954
+ 
+ 
+ 
+ -   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At 30 June 2013
+ 
+12,377,258
+1,780,516
+4,389,229
+18,547,003
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 July 2013 as previously reported
+ 
+12,892,992
+1,563,406
+4,389,229
+18,845,626
+ 
+ 
+ 
+ 
+ 
+ 
+Prior year adjustment
+23
+-515,733
+217,110
+ -   
+-298,623
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 July 2013 as restated
+ 
+12,377,259
+1,780,516
+4,389,229
+18,547,003
+ 
+ 
+ 
+ 
+ 
+ 
+Contribution for the year 
+17
+570,977
+ -   
+ -   
+570,977
+ 
+ 
+ 
+ 
+ 
+ 
+Charge for the year
+ 
+ -   
+ -   
+-96,545
+-96,545
+ 
+ 
+ 
+ 
+ 
+ 
+Surplus for the year
+ 
+ -   
+800,033
+ -   
+800,033
+ 
+ 
+ 
+ 
+ 
+ 
+At 30 June 2014
+ 
+12,948,236
+2,580,549
+4,292,684
+19,821,469
+The statement of Changes in Net Assets is to be read in conjunction with the notes to and forming part of the financial statement set out below
+
+KENYA REVENUE AUTHORITY
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+STATEMENT OF CASH FLOWS
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+FOR THE YEAR ENDED 30 JUNE 2014
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+NOTE
+
+
+Kshs `000
+
+
+ 
+
+
+Kshs `000
+
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Surplus for the year
+
+
+ 
+
+
+ 800,033
+
+
+ 
+
+
+ 1,101,954
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Non- cash movements
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Depreciation
+
+
+8
+
+
+ 762,407
+
+
+ 
+
+
+ 599,886
+
+
+Amortisation
+
+
+9
+
+
+ 29,645
+
+
+ 
+
+
+ 20,382
+
+
+Increase in Amortisation of Deffered Income
+
+
+23
+
+
+ (136,611)
+
+
+ 
+
+
+ (72,180)
+
+
+Loss  on disposal of Assets
+
+
+ 
+
+
+ 580
+
+
+ 
+
+
+ 2,132
+
+
+Increase in Security Deposits
+
+
+12
+
+
+ (9,991)
+
+
+ 
+
+
+ (83,597)
+
+
+Decrease/ (Increase) in Debtors and receivables
+
+
+ 
+
+
+ 1,259,630
+
+
+ 
+
+
+ (1,421,214)
+
+
+Increase in Creditors and payables
+
+
+ 
+
+
+ 1,769,707
+
+
+ 
+
+
+ 910,181
+
+
+Net cash flows from operating activities
+
+
+ 
+
+
+ 4,475,400 
+
+
+ 
+
+
+ 1,057,544 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CASH FLOWS FROM  INVESTING  ACTIVITIES
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Purchase of Property, Plant & Equipment
+
+
+8
+
+
+ (930,323)
+
+
+ 
+
+
+ (771,807)
+
+
+Proceeds from sale of Property, Plant & Equipment
+
+
+ 
+
+
+ 180
+
+
+ 
+
+
+ 2,658
+
+
+Net cash flows from investing activities
+
+
+ 
+
+
+ (930,143)
+
+
+ 
+
+
+ (769,149)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Contribution by the Treasury
+
+
+17
+
+
+ 570,977
+
+
+ 
+
+
+ 956,666
+
+
+Decrease in designated Funds
+
+
+18
+
+
+ (19,154)
+
+
+ 
+
+
+ (33,328)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Net cash flows from financing activities
+
+
+ 
+
+
+ 551,823 
+
+
+ 
+
+
+ 923,338 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+NET INCREASE IN CASH AND CASH EQUIVALENTS
+
+
+ 
+
+
+ 4,097,080 
+
+
+ 
+
+
+ 1,211,733 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Cash and cash equivalents at 1 July
+
+
+ 
+
+
+ 3,025,385
+
+
+ 
+
+
+ 1,813,652
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ CASH AND CASH EQUIVALENTS AT 30 JUNE
+
+
+13
+
+
+7,122,465 
+
+
+ 
+
+
+3,025,385 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+The statement of Cash Flows is to be read in conjunction with the notes to and forming part of the financial statement set out below
+STATEMENT OF COMPARISON OF BUDGET AND ACTUAL AMOUNTS
+ 
+ ORIGINAL   
+ 
+ FINAL 
+ ACTUAL 
+ PERFORMANCE 
+ 
+ BUDGET 
+ ADJUSTMENTS 
+ BUDGET 
+ COMPARABLE BASIS 
+ DIFFERENCE 
+ 
+ 2013/2014 
+ ADDITIONS 
+ 2013/2014 
+ 2013/2014 
+ 2013/2014 
+ 
+ KSHS '000 
+ KSHS '000 
+ KSHS '000 
+ KSHS '000 
+ KSHS '000 
+INCOME :
+ 
+ 
+ 
+ 
+ 
+Agency fees
+12,528,591
+1,000,000
+13,528,591
+13,528,591
+ -   
+Bonus Income 
+ -   
+ -   
+ -   
+122,991
+-122,991
+Road Maintenance levy      
+588,960
+ -   
+588,960
+563,255
+25,705
+Sale of Number plates 
+336,571
+ -   
+336,571
+402,364
+-65,793
+Sale of Tamper- Proof seals
+20,872
+ -   
+20,872
+21,347
+-475
+Petroleum Development levy
+41,320
+ -   
+41,320
+ -   
+41,320
+Document Processing Fees
+30,991
+ -   
+30,991
+26,217
+4,774
+Interest income
+49,516
+42,428
+91,944
+361,228
+-269,284
+Transit Toll
+10,824
+ -   
+10,824
+9,893
+931
+Rent receivable
+7,024
+ -   
+7,024
+16,745
+-9,720
+Public Overtime
+2,037
+ -   
+2,037
+2,144
+-107
+Institutional houses – rent
+98,293
+-42,428
+55,865
+71,217
+-15,352
+Aviation Revenue
+73,923
+ -   
+73,923
+69,443
+4,480
+Sugar Levy
+30,845
+ -   
+30,845
+39,328
+-8,484
+Air Passenger Service charge
+127,532
+ -   
+127,532
+136,662
+-9,130
+Miscellaneous Income
+41,762
+ -   
+41,762
+135,869
+-94,107
+Deferred Income Amortisation
+ -   
+ -   
+ -   
+136,611
+-136,611
+Total Operational Income
+14,233,401
+1,000,000
+15,233,401
+15,643,904
+-410,503
+ 
+ 
+ 
+ 
+ 
+ 
+STAFF COSTS:
+ 
+ 
+ 
+ 
+ 
+Basic pay
+6,400,244
+-106,698
+6,293,546
+10,168,511
+-3,874,965
+Other Allowances 
+4,565,089
+-122,209
+4,442,880
+ -   
+4,442,880
+ 
+ 
+ 
+ 
+ 
+ 
+Total Staff Salaries and Allowances
+10,965,333
+-228,908
+10,736,425
+10,168,511
+567,915
+OPERATIONAL Expenses:
+ 
+ 
+ 
+ 
+ 
+Staff Welfare Expenses
+23,851
+39,993
+63,844
+16,928
+46,916
+Medical Expenses
+426,806
+ -   
+426,806
+508,364
+-81,558
+Training Expenses
+155,398
+216,056
+371,454
+193,339
+178,115
+Uniform & Laundry Expenses
+1,672
+-266
+1,406
+2,206
+-800
+Travel & Accomodation
+311,753
+128,587
+440,340
+621,281
+-180,941
+Transfer Allowance
+43,900
+6,500
+50,400
+ -   
+50,400
+Utilities Expenses
+368,843
+24,364
+393,207
+386,199
+7,008
+Building Repairs & maintenance
+29,187
+77,591
+106,779
+85,651
+21,128
+Motor Running  Expenses
+143,408
+36,764
+180,172
+161,063
+19,110
+Motor boat  running Expenses
+18,603
+3,700
+22,303
+6,548
+15,755
+Scanner Expenses
+92,114
+ -   
+92,114
+72,703
+19,411
+Rents & Rates
+141,877
+-875
+141,001
+125,937
+15,065
+Computer Expenses
+200,599
+96,857
+297,455
+209,374
+88,081
+Security Expenses
+252,101
+112,686
+364,787
+349,917
+14,870
+Insurance Expenses
+64,237
+-29,995
+34,242
+81,102
+-46,861
+Public Relations Expenses
+28,982
+38,465
+67,447
+74,249
+-6,802
+Taxpayers Education
+51,692
+17,259
+68,951
+63,770
+5,181
+Consultancy
+47,308
+49,160
+96,468
+94,599
+1,869
+Secretarial Expenses
+79,307
+19,007
+98,314
+32,738
+65,576
+Bank Charges
+96,180
+50,234
+146,414
+114,089
+32,325
+Corp' strategy and review conf' exp
+51,971
+20,029
+72,001
+10,546
+61,455
+Office Running Expenses
+155,326
+88,832
+244,157
+198,707
+45,450
+Printing & Stationery Expenses
+56,278
+12,790
+69,067
+77,834
+-8,766
+Consumable Stores Expenses 
+19,217
+-732
+18,485
+16,417
+2,068
+Materials & Eupplies  Expenses
+324,891
+8,080
+332,971
+376,352
+-43,382
+Enforcement Expenses
+27,129
+8,765
+35,894
+56
+35,838
+Laboratory Expenses
+5,438
+3,600
+9,038
+3,339
+5,699
+TOTAL Operational Expenses
+3,268,068
+1,027,449
+4,335,510
+3,883,307
+452,202
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL Recurrent Expenses
+14,233,401
+798,541
+15,071,935
+14,051,818
+609,614
+Depreciation Expenses
+700,000
+ 
+700,000
+792,053
+-92,053
+ 
+ 
+ 
+ 
+ 
+ 
+SURPLUS FOR THE PERIOD 
+-700,000
+201,459
+-538,534
+800,033
+-928,064
+The statement of comparison of Budget and Actual amounts should be read in conjunction with the notes to and forming part of the financial statement set out below
+NOTES TO THE FINANCIAL STATEMENTS
+1.    Statement of compliance and basis of preparation 
+The Authority’s financial statements have been prepared in accordance with and comply with International Public Sector Accounting Standards (IPSAS). The financial statements are presented in Kenya shillings, which is the functional and reporting currency of the Authority and all values are rounded to the nearest thousand (Ksh000). The accounting policies have been consistently applied to all the years presented.
+The financial statements have been prepared on the basis of historical cost, unless stated otherwise. The cash flow statement is prepared using the indirect method. The financial statements are prepared on accrual basis.
+2.    SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+(a)    Revenue Recognition
+i)    Revenue from non-exchange transactions
+In accordance with the Kenya Revenue Authority Act CAP 469, income to the Authority is “such amounts not exceeding 2% as may be determined by the Minister each financial year” of the total estimated revenue to be collected by the Authority on behalf of the Exchequer. In addition, the Authority is entitled to a Bonus of 3% of the surplus revenue collected above the estimates and also earns income from other activities.
+ii) Revenue from exchange transactions
+Finance Revenue
+Finance revenue comprises interest receivable from fixed deposits and security deposits. Finance revenue is recognised as it accrues in profit or loss, using the effective yield method.
+Rental income
+Rental income is recognised on a straight line basis over the lease term.
+Commission revenue
+Commission incomes comprise agency fees charged on collections on behalf of regulatory bodies.
+Other operating income
+Other income is recognised when significant risks and rewards of ownership are transferred to the recipient and the amounts of revenue can be measured reliably.
+(b)    Development funding and capital grants by the Treasury
+Grants by the Treasury in form of assets or funding for acquisition of major assets or development projects are recognized as a financing reserve when received. No repayment of the financing is expected by the Authority.
+(c) Property, Plant and Equipment
+All categories of property, plant and equipment are stated at cost or valuation less accumulated depreciation and annual impairment losses. Depreciation is calculated to write off the cost or valuation of each asset to its residual value where applicable, over the expected useful life of the asset in equal instalments. A full year’s depreciation is charged in the year of purchase but no charge is made in the year of disposal.
+The estimated useful life is as follows: -
+Plant & Machinery 8 years
+Equipment/Furniture/Fittings   8 years
+Boats   8 years
+Motor Vehicles   5 years (with a 10% residual value)
+Computers    3 years
+Computer Software 3 Years
+Buildings   40 years
+Leasehold land Over the remaining lease period
+Gains or losses on property, plant and equipment are determined by reference to their carrying value and are taken into account in determining the surplus / (deficit) for the year.
+(d)    Intangible Assets
+Intangible assets consist of various computer software systems purchased for use by the Authority. The Authority recognises Intangible Assets acquired separately at cost less accumulated amortisation. Amortisation is charged on a straight-line basis over their useful lives as estimated by management from time to time.
+(e) Cash and Cash equivalents
+For purposes of the cash flow statement, cash and cash equivalents comprise cash in hand and short-term deposits held with banks.
+(f) Translation of foreign currencies
+Transactions in foreign currencies during the year are converted into Kenya Shillings at rates ruling at the transaction dates. Assets and liabilities at the balance sheet date, which are expressed in foreign currencies, are translated into Kenya Shillings at the rate ruling on that date. The resulting foreign exchange gains and losses are recognized on a net basis, differences are dealt with in the income and expenditure statement in the financial year in which they arise.
+(g)   Employee benefits costs
+(i)   Retirement benefit obligations
+The Authority operates as hybrid pension scheme with a defined contribution plan for the permanent and pensionable employees.  Payments to the scheme are recognised as an expense when employees have rendered service entitling them to the contributions. The scheme is funded by contributions from both the entity and employees.  The entity and all its employees also contribute to the National Social Security Fund, which is a defined contribution scheme.
+ii) Other entitlements
+Employees’ entitlements to annual leave are recognised when they accrue to employees. A provision is made for the estimated liability for annual leave at the reporting date.
+(a)   Inventories
+All consumable stocks held for use in operations are expensed on purchase
+(b)   Receivables
+Receivables are stated at their nominal value as reduced by appropriate allowances for estimated irrecoverable amounts. Objective evidence of impairment of the receivables is when there is significant financial difficulty of the counter party or when there is a default or delinquency in payment according to agreed terms.  When a receivable is considered uncollectible it is written off. Subsequent recoveries of amounts previously written off are credited in the Statement of Financial Performance.  Changes in the carrying amount of the allowance account are recognized in the Statement of Financial Performance.
+(c)    Payables
+Trade payables are obligations to pay for goods or services that have been acquired in the ordinary course of business from suppliers. Accounts payable are classified as current liabilities if payment is due within one year or less (or in the normal operating cycle of the business if longer). If not, they are presented as non-current liabilities.
+Trade payables are recognized initially at the transaction price and subsequently measured at amortized cost using the effective interest method.
+(d)   Provisions
+Provisions for liabilities are recognised when there is a present obligation (legal or constructive) resulting from a past event, and it is probable that an outflow of economic resources will be required to settle the obligation and a reliable estimate can be made of the monetary value of the obligation.
+(e)    Critical Accounting Estimates and Judgements in applying the Authority’ accounting policies
+In the process of applying the entity’s accounting policies, management has made estimates and assumptions that affect the reported amounts of assets and liabilities within the next financial period. Estimates and judgments are continually evaluated and are based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances. These are dealt with below:
+Critical accounting judgments in applying the Authority’s policies
+Impairment losses
+At each reporting date, the entity reviews the carrying amounts of its tangible and intangible assets to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists, the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss. Where it is not possible to estimate the recoverable amount of an individual asset, the entity estimates the recoverable amount of the cash generating unit to which the asset belongs.
+Plant and equipment
+Property and equipment is depreciated over its useful life taking into account residual values, where appropriate. The actual lives of the assets and residual values are assessed at the reporting date and may vary depending on a number of factors. In reassessing asset lives, factors such as technological innovation, product life cycles and maintenance
+programmes are taken into account. Residual value assessments consider issues such as future market conditions, the remaining life of the asset and projected disposal values.
+Contingent liabilities
+The directors evaluate the status of any exposures on a regular basis to assess the probability of the entity incurring related liabilities. However, provisions are only made in the financial statements where, based on the directors’ evaluation, a present obligation has been established.
+3. REVENUE FROM NON EXCHANGE TRANSACTIONS
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Agency Income
+
+
+ 
+
+
+ 
+
+
+ 13,528,591
+
+
+ 
+
+
+ 13,201,230
+
+
+Bonus
+
+
+ 
+
+
+ 
+
+
+ 122,991
+
+
+ 
+
+
+ -
+
+
+Amortisation of grants deferred Income
+
+
+ 
+
+
+ 
+
+
+136,611
+
+
+ 
+
+
+ 72,180
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+13,651,719
+
+
+ 
+
+
+13,273,410
+
+The Agency Income and Bonus are provided in accordance with the provisions of the Kenya Revenue Authority Act CAP 469. Deferred incomes are the inflows of economic benefits or services received/receivable from assets donated to the Authority from the World bank.
+4. REVENUE FROM EXCHANGE TRANSACTIONS 
+ 
+a. Commissions Income 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Road Maintainance Levy Commission
+
+
+ 
+
+
+ 563,255
+
+
+ 
+
+
+ 500,032
+
+
+Aviation Revenue Commission
+
+
+ 
+
+
+ 69,443
+
+
+ 
+
+
+ 71,778
+
+
+Air Passenger Service Charge Commission
+
+
+ 
+
+
+ 136,662
+
+
+ 
+
+
+ 125,611
+
+
+Sugar Development Levy Commission
+
+
+ 
+
+
+ 39
+
+
+ 
+
+
+ 43,796
+
+
+Insurance Deductions Commission
+
+
+ 
+
+
+ 3,883
+
+
+ 
+
+
+ 3,761
+
+
+ 
+
+
+ 
+
+
+ 812,570 
+
+
+ 
+
+
+ 744,978 
+
+b. Other incomes
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+IDF & PDL Income
+
+
+ 
+
+
+35,883
+
+
+ 
+
+
+ 34,030
+
+
+Sale of Tamperproof Seals
+
+
+ 
+
+
+21,347
+
+
+ 
+
+
+ 16,843
+
+
+Public Overtime
+
+
+ 
+
+
+2,144
+
+
+ 
+
+
+ 2,395
+
+
+Document Processing Fees
+
+
+ 
+
+
+26,217
+
+
+ 
+
+
+ 32,994
+
+
+Staff Housing / Rental Income
+
+
+ 
+
+
+71,217
+
+
+ 
+
+
+ 50,646
+
+
+Property Rental Income
+
+
+ 
+
+
+16,745
+
+
+ 
+
+
+ 8,075
+
+
+Miscellaneous Income **
+
+
+ 
+
+
+106,576
+
+
+ 
+
+
+ 120,121
+
+
+ 
+
+
+ 
+
+
+ 280,128 
+
+
+ 
+
+
+ 265,104 
+
+
+** Miscellaneous income consists of income from sale of tender documents, revenue stamps, staff identity cards, PSV Badges, training school activities and road transit toll collections.
+5.  ADMINISTRATIVE COSTS 
+a. Staff and Employee Costs 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Salaries & Allowances
+
+
+ 
+
+
+ 9,927,870
+
+
+ 
+
+
+ 9,485,940
+
+
+Provision for Staff Leave
+
+
+ 
+
+
+ 240,641
+
+
+ 
+
+
+ 188,681
+
+
+Medical Expenses
+
+
+ 
+
+
+ 508,364
+
+
+ 
+
+
+ 592,656
+
+
+ 
+
+
+ 
+
+
+ 10,676,875 
+
+
+ 
+
+
+ 10,267,277 
+
+b.   Other Administrative Costs
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Travelling & Accomodation
+
+
+ 
+
+
+621,281
+
+
+ 
+
+
+487,184
+
+
+Utilities
+
+
+ 
+
+
+386,199
+
+
+ 
+
+
+ 299,711
+
+
+Staff Welfare
+
+
+ 
+
+
+16,928
+
+
+ 
+
+
+ 26,405
+
+
+Printing & Stationery
+
+
+ 
+
+
+77,834
+
+
+ 
+
+
+ 74,508
+
+
+Consultancy
+
+
+ 
+
+
+94,599
+
+
+ 
+
+
+ 45,509
+
+
+Computer Expenses
+
+
+ 
+
+
+209,374
+
+
+ 
+
+
+ 212,151
+
+
+Training
+
+
+ 
+
+
+193,339
+
+
+ 
+
+
+ 112,504
+
+
+Office Running Expenses
+
+
+ 
+
+
+198,707
+
+
+ 
+
+
+ 179,438
+
+
+Insurances
+
+
+ 
+
+
+81,102
+
+
+ 
+
+
+ 55,789
+
+
+Board Expenses (sub-note b1)
+
+
+ 
+
+
+21,793
+
+
+ 
+
+
+ 26,119
+
+
+Entertainment
+
+
+ 
+
+
+10,546
+
+
+ 
+
+
+ 14,319
+
+
+Consumable Stores
+
+
+ 
+
+
+16,417
+
+
+ 
+
+
+ 22,288
+
+
+Security Expenses
+
+
+ 
+
+
+349,917
+
+
+ 
+
+
+ 238,221
+
+
+Depreciation Charge
+
+
+ 
+
+
+762,407
+
+
+ 
+
+
+ 599,886
+
+
+Amortisation of Intangible Assets
+
+
+ 
+
+
+29,645
+
+
+ 
+
+
+ 20,382
+
+
+ 
+
+
+ 
+
+
+ 3,070,090 
+
+
+ 
+
+
+ 2,414,413 
+
+
+TOTAL ADMINISTRATIVE COSTS 
+
+
+ 
+
+
+ 13,746,965 
+
+
+ 
+
+
+ 12,681,690 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+b(i) Board Expenses 
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Monthly Directors' fees
+
+
+ 
+
+
+ 
+
+
+ 8,702
+
+
+ 
+
+
+ 11,918
+
+
+Sitting Allowances & Honararia
+
+
+ 
+
+
+ 
+
+
+ 11,222
+
+
+ 
+
+
+ 12,002
+
+
+Accomodation & Travel Expenses
+
+
+ 
+
+
+ 
+
+
+ 1,869
+
+
+ 
+
+
+ 2,199
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 21,793 
+
+
+ 
+
+
+ 26,119 
+
+ 
+6. OPERATING EXPENSES 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Rent & Rates
+
+
+ 
+
+
+125,936
+
+
+ 
+
+
+122,042
+
+
+Taxpayer Education
+
+
+ 
+
+
+ 63,770
+
+
+ 
+
+
+ 59,761
+
+
+Motor Running Expenses
+
+
+ 
+
+
+ 161,063
+
+
+ 
+
+
+ 178,307
+
+
+Advertising &  Public Relations
+
+
+ 
+
+
+ 74,249
+
+
+ 
+
+
+ 32,125
+
+
+Secretarial Expenses
+
+
+ 
+
+
+ 10,945
+
+
+ 
+
+
+ 7,835
+
+
+Uniforms & laundry
+
+
+ 
+
+
+ 2,206
+
+
+ 
+
+
+ 617
+
+
+Materials and Supplies
+
+
+ 
+
+
+ 376,352
+
+
+ 
+
+
+ 387,938
+
+
+Bank Charges
+
+
+ 
+
+
+ 114,089
+
+
+ 
+
+
+ 1,229
+
+
+Containers & Sealing Expenses
+
+
+ 
+
+
+ 56
+
+
+ 
+
+
+ 7,821
+
+
+Laboratory Expenses
+
+
+ 
+
+
+ 3,338
+
+
+ 
+
+
+ 5,250
+
+
+ 
+
+
+ 
+
+
+ 932,003 
+
+
+ 
+
+
+ 802,925 
+
+ 
+7. MAINTENANCE EXPENSES 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Building Repair & Maintenance
+
+
+ 
+
+
+85,651
+
+
+ 
+
+
+26,465
+
+
+Scanner Maintenance
+
+
+ 
+
+
+72,702
+
+
+ 
+
+
+ 167,916
+
+
+Motor Boat Expenses
+
+
+ 
+
+
+6,548
+
+
+ 
+
+
+ 9,756
+
+
+ 
+
+
+ 
+
+
+ 164,901 
+
+
+ 
+
+
+ 204,137 
+
+    
+  7 (a) Scanner expenses
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Annual Maintenance Contract
+
+
+ 
+
+
+ 71,474
+
+
+ 
+
+
+ 167,916
+
+
+Routine Maintenance Expenses
+
+
+ 
+
+
+ 1,228
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 72,702 
+
+
+ 
+
+
+167,916
+
+
+ 
+8. PROPERTY, PLANT AND EQUIPMENT.
+(i) 
+ 
+ 
+ 
+ 
+OFFICE
+ 
+ 
+ 
+ 
+ 
+LAND &
+PLANT &
+MOTOR
+EQUIPMENT
+ 
+MOTOR
+ 
+ 
+ 
+BUILDINGS
+MACHINERY
+VEHICLES
+FURNITURE
+COMPUTERS
+BOATS
+WIP
+TOTAL
+ 
+Kshs '000
+Kshs '000
+Kshs '000
+Kshs '000
+Kshs '000
+Kshs '000
+Kshs '000
+Kshs '000
+2013/2014
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COST/VALUATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01-Jul-13
+9,721,703
+2,204,375
+577,976
+988,023
+1,609,826
+604,468
+1,563,432
+17,269,803
+Additions
+-
+-
+41,352
+52,593
+362,181
+-
+563,966
+1,020,091
+Disposals
+-
+-
+-7,600
+-
+-
+-
+-
+-7,600
+Transfer of WIP
+731,219
+-
+-
+-
+-
+-
+-731,279
+-
+30-Jun-14
+10,452,982
+2,204,375
+611,728
+1,040,616
+1,972,006
+604,468
+1,396,119
+18,282,293
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEPRECIATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01-Jul-13
+655,236
+1,607,628
+466,058
+614,295
+1,440,191
+331,673
+-
+5,115,081
+Charge for Year
+167,835
+193,084
+28,843
+84,919
+214,180
+73,547
+-
+762,407
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation on Revaluation
+96,545
+-
+-
+-
+-
+-
+-
+96,545
+Disposals
+-
+-
+-6,840
+-
+-
+-
+-
+-6,840
+30-Jun-14
+919,616
+1,800,712
+488,062
+699,214
+1,654,371
+405,219
+-
+5,967,193
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NETBOOK VALUE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30-Jun-14
+9,533,366
+403,663
+123,667
+341,402
+317,635
+199,248
+1,396,119
+12,315,101
+2012/2013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COST/VALUATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01-Jul-12
+7,360,800
+2,204,375
+585,424
+767,494
+1,381,275
+612,040
+1,308,430
+14,219,838
+Additions
+-
+-
+40,446
+212,291
+89,062
+-
+404,576
+746,375
+Disposals
+-
+-
+-47,894
+-
+.
+-7,572
+-
+-55,466
+Prior Period Adj.
+2,359,056
+-
+-
+-
+-
+-
+-
+2,359,056
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transfer of WIP
+1,847
+-
+-
+8,238
+139,489
+-
+-149,574
+-
+30-Jun-13
+9,721,703
+2,204,375
+577,976
+988,023
+1,609,826
+604,468
+1,563,432
+17,269,802
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEPRECIATION
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01-Jul-12
+368,034
+1,414,544
+485,243
+531,639
+1,335,398
+265,698
+-
+4,400,556
+ 
+121,886
+193,084
+23,920
+82,656
+104,793
+73,547
+-
+599,886
+Charge for Year
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dep. on Rev
+96,545
+-
+-
+-
+-
+-
+-
+96,546
+Prior Period Adj.
+68,770
+-
+-
+-
+-
+-
+-
+68,770
+Disposals
+-
+-
+-43,105
+-
+-
+-7,572
+ 
+-50,677
+30-Jun-13
+655,236
+1,607,628
+466,058
+614,295
+1,440,191
+331,673
+-
+5,115,081
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NETBOOK VALUE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30-Jun-13
+9,066,467
+596,747
+111,918
+373,728
+169,635
+272,795
+1,563,432
+12,154,722
+ 
+(ii) Land & buildings
+The Authority received several leasehold properties (land and buildings) from the government at inception in 1995. The Authority was not required to pay for the property hence did not incur any cost on the same. To recognize the property in its books, the Authority did a professional valuation of the land and building in 1996 and the values were adopted in the Authority‘s statement of financial position. This was done by recognizing land and buildings assets in the statement of Financial Position.
+The Authority is yet to receive title documents for some 18 pieces of leasehold land received Government. These properties are at various stages of registration with the Commissioner of Lands. Another title deed is in the name of East African Common Services Authority (EACSA) and the process transfer of the title is ongoing. The Authority also bought one parcel of land in Taveta in 2010 for construction of a border station and is in the process of obtaining the title.
+(iii)   Fully depreciated assets
+Included in the assets are fully depreciated assets comprising of Motor Vehicles whose original cost was Kshs 451,489,258 with a residual value of Kshs 45,148,925, Motor Boats whose cost is Kshs 16,091,088, Computers whose cost is Kshs 1,329,466,725, Office Equipment of Kshs 172,648,521, Laboratory Equipment Kshs 17,500,090, Plant and Machinery Kshs 659,703,883 and Furniture and Fittings of Kshs. 170,883,090 whose book value is nil. The total notional depreciation charge for the assets is Kshs. 645,818,353 (2013- Kshs. 632,292,988). Most of these assets are in use by the Authority.
+(iv) Capital Work In Progress
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Electronic Cargo Tracking System
+
+
+ 
+
+
+ 77,612
+
+
+ 
+
+
+ 77,612
+
+
+Intergrated Tax Management System
+
+
+ 
+
+
+ 917,274
+
+
+ 
+
+
+ 684,686
+
+
+Customs Revenue Accounting Module
+
+
+ 
+
+
+ 4,664
+
+
+ 
+
+
+ 4,664
+
+
+Support Departments ERP System
+
+
+ 
+
+
+ 5,276
+
+
+ 
+
+
+ 5,276
+
+
+Valuations Database system
+
+
+ 
+
+
+ 23,705
+
+
+ 
+
+
+ 17,791
+
+
+Renovation of JKIA Offices
+
+
+ 
+
+
+ 8,386
+
+
+ 
+
+
+ 5,212
+
+
+Simba Transformation Project
+
+
+ 
+
+
+ 6,342
+
+
+ 
+
+
+ -  
+
+
+Biometric & Times Towers Secuirty System
+
+
+ 
+
+
+ 11,625
+
+
+ 
+
+
+ -  
+
+
+Enterprise Storage System Upgrade
+
+
+ 
+
+
+ 22,626
+
+
+ 
+
+
+ -  
+
+
+Exciseable Goods Management System (EGMS)
+
+
+ 318,608
+
+
+ 
+
+
+ -  
+
+
+Common Cash Receipting System
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ 63,691
+
+
+Langata Staff Houses Renovation
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ 594,435
+
+
+Renovation of Training Institute (KESRA)
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ 110,065
+
+
+ 
+
+
+ 
+
+
+ 1,396,119 
+
+
+ 
+
+
+ 1,563,432 
+
+ 9.    INTANGIBLE ASSETS
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+COST
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+1 July
+
+
+ 
+
+
+ 230,413
+
+
+ 
+
+
+ 183,085
+
+
+Additions
+
+
+ 
+
+
+ 103,525
+
+
+ 
+
+
+ 47,328
+
+
+30 June
+
+
+ 
+
+
+ 333,938 
+
+
+ 
+
+
+ 230,413 
+
+
+AMORTISATION
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+1July
+
+
+ 
+
+
+ 194,255
+
+
+ 
+
+
+ 173,873
+
+
+ for the year
+
+
+ 
+
+
+ 29,645
+
+
+ 
+
+
+ 20,382
+
+
+30 June
+
+
+ 
+
+
+ 223,900 
+
+
+ 
+
+
+ 194,255 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+NET BOOK VALUE
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+30 June
+
+
+ 
+
+
+ 110,038 
+
+
+ 
+
+
+ 36,158 
+
+The intangible assets are made up of different computer software in use by the Authority. Included in the Intangible Assets are fully amortised assets whose original cost was Kshs. 169,267,025, (2013- Kshs. 169,267,025).
+ 10. DEBTORS AND RECEIVABLES 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Trade Debtors
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Other Agency debtors
+
+
+ 
+
+
+ 229,893
+
+
+ 
+
+
+ 230,240
+
+
+Rent Receivable
+
+
+ 
+
+
+ 646
+
+
+ 
+
+
+ -  
+
+
+Interest Receivable
+
+
+ 
+
+
+ 5,767
+
+
+ 
+
+
+ 8,033
+
+
+ 
+
+
+ 
+
+
+ 236,306 
+
+
+ 
+
+
+ 238,274 
+
+
+Other Debtors
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Staff Debtors
+
+
+ 
+
+
+ 94,329
+
+
+ 
+
+
+ 90,181
+
+
+Prepayments
+
+
+ 
+
+
+ 8,878
+
+
+ 
+
+
+ 8,256
+
+
+Other Debtors
+
+
+ 
+
+
+ 127,512
+
+
+ 
+
+
+ 371,167
+
+
+ 
+
+
+ 
+
+
+ 230,719 
+
+
+ 
+
+
+ 469,603 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Debtors Total
+
+
+ 
+
+
+ 467,025 
+
+
+ 
+
+
+ 707,877 
+
+
+Other agency debtors represent outstanding commission on collection of revenues on behalf of other organisations. Staff debtors mainly comprise of outstanding travel imprests, loans for acquisition of laptops and medical advances.
+ 11. AMOUNT DUE FROM TREASURY 
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+1 July
+
+
+ 
+
+
+ 3,142,677
+
+
+ 
+
+
+ 2,000,907
+
+
+Accrued in the year
+
+
+ 13,528,592
+
+
+ 
+
+
+ 13,201,230
+
+
+Bonus earned
+
+
+ 
+
+
+ 122,991
+
+
+ 
+
+
+ -  
+
+
+Amount received in the year
+
+
+ (14,670,361)
+
+
+ 
+
+
+ (12,059,460)
+
+
+30 June
+
+
+ 
+
+
+ 2,123,899 
+
+
+ 
+
+
+ 3,142,677 
+
+The amount represents outstanding agency commission, bonuses earned and payments made  on behalf of the Treasury.
+12.  SECURITY DEPOSITS
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Savings & Loan (k) Ltd
+
+
+ 
+
+
+ 1,462,865
+
+
+ 
+
+
+ 1,466,727
+
+
+Housing Finance
+
+
+ 
+
+
+ 375,736
+
+
+ 
+
+
+ 364,909
+
+
+National Bank of Kenya Ltd
+
+
+ 
+
+
+ 153,281
+
+
+ 
+
+
+ 150,256
+
+
+ 
+
+
+ 
+
+
+ 1,991,883 
+
+
+ 
+
+
+ 1,981,892 
+
+
+The deposits with Savings & Loans and Housing Finance are placed as security against staff mortgage advances, while the National bank deposits are placements against staff car loans.
+ 13.   CASH AND BANK BALANCES
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Cash in Hand
+
+
+ 
+
+
+ 911
+
+
+ 
+
+
+ 355
+
+
+Cash at Bank
+
+
+ 
+
+
+ 1,076,803
+
+
+ 
+
+
+ 566,974
+
+
+Fixed Deposits
+
+
+ 
+
+
+ 6,044,751
+
+
+ 
+
+
+ 2,458,056
+
+
+ 
+
+
+ 
+
+
+ 7,122,465 
+
+
+ 
+
+
+ 3,025,385 
+
+
+The fixed deposits are made up of one month deposits in commercial banks. The maturity period for the deposits is between July and August 2014. The deposits are further analysed as follows:-
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+National Bank of Kenya
+
+
+ 
+
+
+ 2,801,814
+
+
+ 
+
+
+ 1,221,914
+
+
+Cooperative Bank of Kenya
+
+
+ 
+
+
+ 3,231,075
+
+
+ 
+
+
+ 1,221,774
+
+
+World Bank project Account - NBK
+
+
+ 
+
+
+ 11,862
+
+
+ 
+
+
+ 14,368
+
+
+ 
+
+
+ 
+
+
+ 6,044,751 
+
+
+ 
+
+
+ 2,458,056 
+
+14.    CREDITORS AND OTHER PAYABLES
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Trade Creditors and Accounts Payables
+
+
+ 
+
+
+ 1,862,350
+
+
+ 
+
+
+ 813,081
+
+
+Staff Creditors
+
+
+ 
+
+
+ 685,116
+
+
+ 
+
+
+ 306,945
+
+
+Payroll Deduction Creditors
+
+
+ 
+
+
+ 108,787
+
+
+ 
+
+
+ 22,002
+
+
+Taxes
+
+
+ 
+
+
+ 25,084
+
+
+ 
+
+
+ 10,201
+
+
+ 
+
+
+ 
+
+
+ 2,681,337 
+
+
+ 
+
+
+ 1,152,229 
+
+Trade creditors and accounts payables represent the outstanding payments to suppliers and other parties, also included in accounts payables is Kshs. 364 million refundable to the National Treasury in respect of commission erroneously recovered for collection of Railway Development Levy (RDL). The amount has been subsequently remitted to the National Treasury. Payroll deductions include outstanding amounts for statutory deductions, loans SACCOS and others. Staff creditors comprise of unpaid staff bonus, outstanding payments due to staff and funds for staff welfare associations. The general provisions relate to utilities, staff medical expenses and staff bonus.
+ 15.   LEAVE PAY PROVISIONS
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Balance as at 01  July
+
+
+ 
+
+
+ 763,687
+
+
+ 
+
+
+ 575,006
+
+
+Charge for the year
+
+
+ 
+
+
+ 240,640
+
+
+ 
+
+
+ 188,681
+
+
+Balance as at 30 June
+
+
+ 
+
+
+ 1,004,327 
+
+
+ 
+
+
+ 763,687 
+
+
+   16. CONTRIBUTION TO GOVERNMENT PENSION FUND
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+1 July
+
+
+ 
+
+
+ 27,034
+
+
+ 
+
+
+ 27,079
+
+
+Payment to the Treasury in the year
+
+
+ 
+
+
+ (43)
+
+
+ 
+
+
+ (45)
+
+
+30 June
+
+
+ 
+
+
+ 26,991 
+
+
+ 
+
+
+ 27,034 
+
+This amount relates to contributions made to the Government pension during the nine-month secondment period from October 1995 to June 1996 for pensionable staff who were transferred from the Treasury to the Authority. The amount falls due for payment on retirement of an officer and is then transferred to the Treasury to facilitate processing of the pension.
+17. CAPITAL GRANTS BY THE TREASURY
+ 
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+1 July
+
+
+ 12,377,258
+
+
+ 
+
+
+ 10,961,257
+
+
+Border Stations & KESRA Rehabilitation
+
+
+ 13,000
+
+
+ 
+
+
+ 441,270
+
+
+Excise Management System
+
+
+ 82,978
+
+
+ 
+
+
+ 416,666
+
+
+Electronic Fiscal Devises Management System
+
+
+ 250,000
+
+
+ 
+
+
+ -  
+
+
+ICT Strategy
+
+
+ 25,000
+
+
+ 
+
+
+ -  
+
+
+Business Continuity Planning
+
+
+ 100,000
+
+
+ 
+
+
+ -  
+
+
+Times Tower Security
+
+
+ 100,000
+
+
+ 
+
+
+ -  
+
+
+Systems Security Software & Biometric System
+
+
+ -  
+
+
+ 
+
+
+ 53,730
+
+
+Funds for Integrated Tax Management System
+
+
+ -  
+
+
+ 
+
+
+ 45,000
+
+
+Leasehold Land (Reinstatement)
+
+
+ -  
+
+
+ 
+
+
+ 459,335
+
+
+World bank funded projects
+
+
+ -  
+
+
+ 
+
+
+ -  
+
+
+30th June
+
+
+ 12,948,236 
+
+
+ 
+
+
+ 12,377,258 
+
+ 
+The amounts represent assets and asset funds provided by the Treasury. The Treasury separately funds the major reform and modernization programmes undertaken by the Authority in all departments for revenue enhancement and efficient service delivery. The key projects include an Electronic Fiscal Devises Management system that will interconnect ETR machines to a centralized server, implementation of the Disaster Recovery & Business Continuity Planning, enhancement of security at Times Tower building and rehabilitation of the Authority’s Training Institute and border stations.
+18. DESIGNATED FUNDS
+
+ 
+
+
+ 
+
+
+LEGAL CLAIM
+
+
+ 
+
+
+WORLD BANK
+
+
+ 
+
+
+TOTAL
+
+
+ 
+
+
+ 
+
+
+FUND
+
+
+ 
+
+
+FUNDS (EATTF)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ Kshs '000 
+
+
+1 July 2013
+
+
+ 
+
+
+ 233,627 
+
+
+ 
+
+
+ 26,507 
+
+
+ 
+
+
+ 260,134 
+
+
+Funds Received
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ -  
+
+
+Interest Earned
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 100
+
+
+ 
+
+
+ 100
+
+
+Amount Spent
+
+
+ 
+
+
+ (16,647)
+
+
+ 
+
+
+ (2,606)
+
+
+ 
+
+
+ (19,253)
+
+
+Transfer to Equity Contribution
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ -  
+
+
+ 
+
+
+ -  
+
+
+30 June 2014
+
+
+ 
+
+
+ 216,980 
+
+
+ 
+
+
+ 24,000 
+
+
+ 
+
+
+ 240,980 
+
+The legal claim funds are received from the Treasury for settling legal awards against the Authority in revenue related court cases.
+The World Bank funds are disbursements to the local account for the East African Trade and Transportation Facilitation Project Fund (EATTF), provided to improve the infrastructure for monitoring movement of goods for the facilitation of trade in East Africa.
+19. RETIREMENT BENEFIT COSTS
+During the year ended 30th June 2013, Kshs 1,046.2 Million (2012 Kshs. 1,045.7 Million) was paid as contributions to the staff pensions scheme. The scheme changed from a defined benefit plan to a Hybrid scheme with a defined benefit section and a defined contribution section with effect from 1 July 2005. Under the defined benefit scheme, the employer contribution on actuarial advice was maintained at 13.2% per member while a rate of 14% was adopted for the defined contribution scheme. Employees contribute 7.5% of their salaries for both sections of the scheme. The value placed on the existing final assets per the last valuation of 30th June 2013, was Kshs. 11.476 Billion (2012, Kshs. 7.817 Billion) while the present value of past service liabilities at that date was Kshs 10.329 Billion (2012 Kshs. 7.739 Billion).
+20. CAPITAL COMMITMENTS
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Approved and  contracted
+
+
+ 825,910
+
+
+ 
+
+
+ 1,075,672
+
+
+Approved and not contracted
+
+
+ 660,126
+
+
+ 
+
+
+ 108,938
+
+
+ 
+
+
+ 1,486,036 
+
+
+ 
+
+
+ 1,184,610 
+
+21  RECURRENT COMMITMENTS
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+30 June
+
+
+ 1,063,357 
+
+
+ 
+
+
+ 128,801 
+
+
+The above represents items and activities approved and contracted but not yet delivered.
+22.   EMPLOYEES
+ 
+The number of employees at the end of the year was;
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+30 June
+
+
+ 
+
+
+ 4,729
+
+
+ 
+
+
+ 4,783
+
+
+23.  DEFERRED GRANT INCOME RECONCILIATION
+ 
+These relate to grants from the World Bank under the Government of Kenya used efficient and effective collection of taxes.
+ 
+i)    Deferred grant income reconciliation
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+At 1 July as previously reported
+
+
+ 
+
+
+ -
+
+
+ 
+
+
+ -
+
+
+Prior year adjustment
+
+
+ 
+
+
+ 298,624
+
+
+ 
+
+
+ 348,909
+
+
+At 1 July as restated
+
+
+ 
+
+
+ 298,624
+
+
+ 
+
+
+ 348,909
+
+
+Received in the year
+
+
+ 
+
+
+ 193,293
+
+
+ 
+
+
+ 21,895
+
+
+Amortisation
+
+
+ 
+
+
+ (136,611)
+
+
+ 
+
+
+ (72,180)
+
+
+At 30 June
+
+
+ 
+
+
+ 355,306 
+
+
+ 
+
+
+ 298,624 
+
+ii)    Deferred grant income amortisation 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Grant income to be amortised within one year
+
+
+ 
+
+
+ 136,611
+
+
+ 
+
+
+ 72,180
+
+
+Grant income to be amortised  after one year
+
+
+ 
+
+
+ 218,696
+
+
+ 
+
+
+ 226,444
+
+
+At the end of the period
+
+
+ 
+
+
+ 355,306 
+
+
+ 
+
+
+ 298,624 
+
+23.  RELATED PARTIES
+The Government of Kenya is the principal shareholder in Kenya Revenue Authority.
+During the year, the following transactions were carried out with related parties as analysed as follows:-
+(a)   Transaction 
+ 
+i) Government of Kenya
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+Kshs '000
+
+
+ 
+
+
+Kshs '000
+
+
+Capital Grants
+
+
+ 
+
+
+ 764,270
+
+
+ 
+
+
+ 978,561
+
+
+Agency Income
+
+
+ 
+
+
+ 13,651,582
+
+
+ 
+
+
+ 13,201,230
+
+
+ 
+
+
+ 
+
+
+ 14,415,852 
+
+
+ 
+
+
+ 14,179,791 
+
+ii) Key management compensation
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+Salaries and other short - term employment benefits
+
+
+ 
+
+
+ 90,993
+
+
+ 
+
+
+ 78,477
+
+
+ 
+
+
+ 
+
+
+ 90,993 
+
+
+ 
+
+
+ 78,477 
+
+
+iii) Directors’ remuneration
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+Fees and other Emoluments (note 5)
+
+
+ 
+
+
+ 21,793
+
+
+ 
+
+
+ 26,119
+
+
+ 
+
+
+ 
+
+
+ 21,793 
+
+
+ 
+
+
+ 26,119 
+
+(b) Balances
+Due (to)/from related parties
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Amount due from Treasury (note 11)
+
+
+ 
+
+
+ 2,123,899
+
+
+ 
+
+
+ 3,142,677
+
+
+Contribution to Government pension fund (note 16)
+
+
+ 
+
+
+ (26,991)
+
+
+ 
+
+
+ (27,034)
+
+
+ 
+
+
+ 
+
+
+ 2,096,908 
+
+
+ 
+
+
+ 3,115,643 
+
+
+FINANCIAL RISK & CAPITAL MANAGEMENT 
+   
+The Authority’s activities expose it to a variety of financial risks including credit and liquidity risks and effects of changes in foreign currency. The Authority’s overall risk management programme focuses on unpredictability of changes in the business environment and seeks to minimise the potential adverse effect of such risks on its performance by setting acceptable levels of risk.
+ 
+The Authority’s financial risk management objectives and policies are detailed below:
+ 
+(i)  Credit risk
+ 
+The Authority has exposure to credit risk, which is the risk that a counterparty will be unable to pay amounts in full when due. Credit risk arises from cash and cash equivalents, and deposits with banks, as well as agency and other receivables.
+ 
+The carrying amount of financial assets recorded in the financial statements representing the Authority’s maximum exposure to credit risk is made up as follows:
+
+ 
+
+
+Fully Performing 
+
+
+Past   Due 
+
+
+Impaired
+
+
+ 
+
+
+Kshs 000
+
+
+Kshs 000
+
+
+Kshs 000
+
+
+At 30 June 2014
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Receivables
+
+
+ 476,025
+
+
+ -  
+
+
+ -  
+
+
+Bank Balances
+
+
+ 7,122,465
+
+
+ -  
+
+
+ -  
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+At 30 June 2013
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Receivables
+
+
+ 707,877
+
+
+ -  
+
+
+ -  
+
+
+Bank Balances
+
+
+ 3,025,385
+
+
+ -  
+
+
+ -  
+
+ 
+The credit risk associated with these receivables is minimal hence no allowance for uncollectible amounts has been recognised in the financial statements.
+(ii)    Market risk
+The board has put in place an internal audit function to assist it in assessing the risk faced by the Authority on an ongoing basis, evaluate and test the design and effectiveness of its internal accounting and operational controls.
+Market risk is the risk arising from changes in market prices, such as interest rate, equity prices and foreign exchange rates which will affect the Authority’s income or the value of its holding of financial instruments. The objective of market risk management is to manage and control market risk exposures within acceptable parameters, while optimising the return. Overall responsibility for managing market risk rests with the Audit Committee.
+The Authority’s Finance Department is responsible for the development of detailed risk management policies (subject to review and approval by Finance Committee) and for the day to day implementation of those policies.
+There has been no change to the Authority’s exposure to market risks or the manner in which it manages and measures the risk.
+(a)    Foreign currency risk
+The Authority has transactional currency exposures. Such exposure arises from foreign denominated bank balances.
+The carrying amount of the Authority’s foreign currency denominated monetary assets and monetary liabilities at the end of the reporting period are as follows:
+
+ 
+
+
+Ksh
+
+
+Others
+
+
+Total
+
+
+ 
+
+
+Shs ‘000
+
+
+Shs ‘000
+
+
+Shs ‘000
+
+
+At 30 June 2014
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Financial assets (Bank balances)
+
+
+93,136
+
+
+-
+
+
+93,136
+
+
+ 
+
+
+________
+
+
+________
+
+
+________
+
+
+Payables
+
+
+-
+
+
+-
+
+
+-
+
+
+ 
+
+
+________
+
+
+________
+
+
+________
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Net foreign currency liability
+
+
+93,136
+
+
+-
+
+
+93,136
+
+
+ 
+
+
+=======
+
+
+=======
+
+
+=======
+
+
+(b)    Interest rate risk
+Interest rate risk is the risk that the Authority’s financial condition may be adversely affected as a result of changes in interest rate levels. The Authority’s interest rate risk arises from fixed and security deposits. This exposes the Authority to cash flow interest rate risk.
+Management of interest rate risk
+To manage the interest rate risk, management has endeavoured to bank with institutions that offer favourable interest rates.
+Sensitivity analysis
+The Authority analyses its interest rate exposure on a dynamic basis by conducting a sensitivity analysis. The sensitivity analysis for interest rate risk assumes that all other variables, in particular foreign exchange rates, remain constant. The analysis has been performed on the same basis as the prior year.
+Using the end of the year figures, the sensitivity analysis indicates the impact on the statement of financial performance if current floating interest rates increase/decrease by five percentage (5% as a decrease/increase of KShs. 18,061,000 (2012: Kshs.9,324,000 ).
+ (iii)  Price risk
+The Authority does not hold investments that would be subject to price risk; hence this risk not relevant.
+25. CONTINGENT LIABILITIES
+These include:-
+An amount of Kshs. 2 million included in utility deposits representing a bank guarantee to Kenya Power and Lighting for Times Tower power supply.
+An amount of Kshs 1,297,759 representing a guarantee to Telkom Kenya Limited for supply of telephone facilities in the Times Tower building.
+Pending legal cases and court awards against the Authority estimated at Kshs 4,454,051,492 at the financial year end. The Treasury is expected to meet the cost of settling the awards should they materialize.
+26. COMPARATIVES
+Where necessary, comparatives have been adjusted to conform to changes in presentation in the current year.
+
+KENYA REVENUE AUTHORITY
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+REVENUE  COLLECTION BY DEPARTMENT
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2013/2014
+
+
+ 
+
+
+2012/2013
+
+
+ 
+
+
+NOTE
+
+
+ACTUAL
+
+
+TARGETd
+
+
+ 
+
+
+ACTUAL
+
+
+TARGET
+
+
+ 
+
+
+ 
+
+
+Kshs 'million'
+
+
+Kshs 'million'
+
+
+ 
+
+
+Kshs 'million'
+
+
+Kshs 'million'
+
+
+EXCHEQUER REVENUE COLLECTION 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Customs Services Department
+
+
+ 
+
+
+ 269,968
+
+
+ 266,389
+
+
+ 
+
+
+ 220,307
+
+
+ 263,192
+
+
+Domestic Taxes Department
+
+
+ 
+
+
+ 626,335
+
+
+ 631,163
+
+
+ 
+
+
+ 536,831
+
+
+ 576,201
+
+
+Road Transport Department
+
+
+a
+
+
+ 2,935
+
+
+ 3,598
+
+
+ 
+
+
+ 2,407
+
+
+ 5,976
+
+
+SUB-TOTAL
+
+
+ 
+
+
+ 899,238 
+
+
+ 901,150 
+
+
+ 
+
+
+ 759,546 
+
+
+ 845,369 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+AGENCY TAXES COLLECTION 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Customs Services Department
+
+
+b
+
+
+ 61,863
+
+
+ 59,787
+
+
+ 
+
+
+ 38,409
+
+
+ 33,518
+
+
+Domestic Taxes Department
+
+
+c
+
+
+ 1,966
+
+
+ 2,036
+
+
+ 
+
+
+ 1,923
+
+
+ 1,799
+
+
+Road Transport Department
+
+
+d
+
+
+ 756
+
+
+ 767
+
+
+ 
+
+
+ 643
+
+
+ 552
+
+
+SUB-TOTAL
+
+
+ 
+
+
+ 64,586 
+
+
+ 62,590 
+
+
+ 
+
+
+ 40,975 
+
+
+ 35,869 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+GROSS TOTAL
+
+
+ 
+
+
+ 963,823 
+
+
+ 963,740 
+
+
+ 
+
+
+ 800,521 
+
+
+ 881,239 
+
+
+NOTES
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Agency Taxes comprises of the following:-
+a) Customs Services Department - Road Maintenance Levy, Aviation Revenue, Petroleum Development Levy, Sugar Levy, Transit Toll among  others
+b) Domestic Taxes Department - Sugar development levy, Land Rates, and Kenya Bureau of standard (Kebs) levy.
+c) Road Transport Department - Sale of number plates, TLB application fees, Driving test fees,vehicle inspection fees among others.
+d) The reported targets are the revised targets for the financial year
+REVENUE COLLECTION MOVEMENT SCHEDULE
+2013/2014
+ 
+ 
+ 
+2012/2013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CSD
+DTD
+RTD
+TOTAL
+CSD
+DTD
+RTD
+TOTAL
+ 
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+ kshs 'million'
+EXCHEQUER
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash in Transit brought forward - 1 July
+1,400
+224
+-602
+1,022
+1,088
+404
+45
+1,537
+Cash from commercial banks/adjustment
+357
+534
+ 
+891
+ 
+-138
+ 
+-138
+Add: Collections for the year
+270,032
+626,258
+3,691
+899,981
+220,307
+536,820
+2,407
+759,534
+Total amounts to be credited in CBK in the year
+271,789
+627,016
+3,089
+901,894
+221,395
+537,086
+2,452
+760,933
+Less: Transfers to CBK
+270,729
+626,957
+3,669
+901,355
+219,995
+536,862
+2,640
+759,497
+          : Transfers Banks/Principals
+ 
+ 
+ 
+ -   
+ 
+ -   
+414
+414
+Total transfers within the year
+270,729
+626,957
+3,669
+901,355
+219,995
+536,862
+3,054
+759,911
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash in Transit 30th June 
+1,060
+59
+-580
+539
+1,400
+224
+-602
+1,022
+AGENCY
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash in Transit brought forward - 1 July
+739
+29
+643
+1,411
+815
+ -   
+ -   
+815
+Cash from commercial banks/adjustment
+354
+398
+ -   
+ 
+293
+ 
+ 
+ 
+Add: Collections for the year
+61,876
+1,966
+ -   
+63,842
+38,409
+1,923
+643
+40,975
+Total amounts to be credited in CBK in the year
+62,969
+2,393
+643
+65,253
+39,517
+1,923
+643
+41,790
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Less: Transfers to CBK
+54,676
+2,080
+ -   
+56,756
+32,933
+1,894
+ -   
+34,827
+          : Transfers Banks/Principals
+7,757
+ 
+ 
+7,757
+5,845
+ -   
+ 
+5,845
+Total transfers within the year
+62,433
+2,080
+ -   
+64,513
+38,778
+1,894
+ -   
+40,672
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash in Transit 30th June 
+536
+313
+643
+740
+739
+29
+643
+1,118
+TOTAL
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash in Transit brought forward - 1 July
+2,140
+253
+41
+2,434
+1,903
+404
+45
+2,352
+Cash from commercial banks/adjustment
+711
+932
+ -   
+1,643
+293
+-138
+ -   
+155
+Add: Collections for the year
+331,909
+628,224
+3,691
+963,824
+258,717
+538,743
+3,050
+800,510
+Total amounts to be credited in CBK in the year
+334,760
+629,409
+3,732
+967,901
+260,913
+539,009
+3,095
+803,017
+Less: Transfers to CBK
+325,405
+629,037
+3,669
+958,111
+252,928
+538,756
+2,640
+794,324
+          : Transfers Banks/Principals
+7,757
+ -   
+ -   
+7,757
+5,845
+ -   
+414
+6,259
+Total transfers within the year
+333,162
+629,037
+3,669
+965,868
+258,773
+538,756
+3,054
+800,583
+Cash in Transit 30th June 
+1,598
+372
+63
+2,033
+2,140
+253
+41
+2,434
+NB: Both Exchequer and Agency Revenue for RTD are banked in the Exchequer Account.
+
+

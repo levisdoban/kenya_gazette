@@ -1,0 +1,16 @@
+
+				Page: 156Gazette Notice No.  507
+THE MINING ACT
+(Cap. 306)
+The Online Transactional Mining Cadastre
+IT IS notified for the information of the general public that—
+(a) the mining registry is transformed into an Online Transactional Mining Cadastre for the management of all mineral rights and mineral dealers operations in the country including communication, reporting and payments;
+(b) all applications including supporting documents shall be submitted through the online cadastre system accessed via the portal: www.miningcadastre.go.ke with effect from the 2nd February, 2014;
+(c)  existing mineral right holders and pending applicants are required to submit accreditation documents to the cadastre officers before being granted access to the system;
+(d) data contained in the mining cadastre for existing mineral right holders shall remain provisional and mineral right holders shall be required to authenticate the data on or before the 30th March, 2015;
+(e)  all existing licenses and applications will be migrated from the Arc 1960 datum to the WGS84 datum using a geocentric transformation with the following parameters: DX:157 metres, DY: -2 metres and DZ: 299 metres; and
+(f)   all new applications should be submitted in Degrees, Minutes and Seconds on the WGS84 datum and should conform to a cadastral grid spaced at a uniform interval of 15 seconds.
+Dated the 27th January, 2015.
+NAJIB M. BALALA,
+Cabinet Secretary for Mining.
+

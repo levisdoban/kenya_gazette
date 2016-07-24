@@ -1,0 +1,1028 @@
+
+				Page: 1862GAZETTE NOTICE NO.  2970
+THE CONSTITUTION OF KENYA
+THE JUDICIAL SERVICE ACT
+(No. 1 of 2011)
+SENTENCING GUIDELINES
+These Sentencing Guidelines are a collaborative effort of the justice sector institutions under the auspices of the National Council on the Administration of Justice (NCAJ), a multi-sectoral body established under section 34 of the Judicial Service Act, 201 1. The Guidelines have been developed pursuant to section 35(2) of the Judicial Service Act which mandates NCAJ to formulate policies relating to the administration of justice and to implement, monitor, evaluate and review strategies for the administration of justice. They are also made as part of State's duty under Article 21 of the Constitution.
+These Sentencing Guidelines are aimed at guiding judicial officers, in the application and interpretation of laws that govern sentencing. They are a response to the challenges of sentencing in the administration of justice, which include disproportionate and unjustified dis parities in respect to sentences imposed to offenders who committed same offences in more or less similar circumstances; and an undue preference of custodial sentences in spite of the existence of numerous non-custodial options which are more suitable in some cases. Whereas mandatory and minimum sentences reduce sentencing disparities, they however fetter the discretion of courts, sometimes resulting in grave injustice particularly for juvenile offenders.
+While recognizing that sentencing is one of the most intricate aspects of the administration of trial justice, the Guidelines have collated the principles of law that should guide courts in the exercise of their discretion, so that sentences for analogous circumstances are delivered as transparently and consistently as practically possible. They are now presented as a one stop reference that judicial officers and other practitioners in the justice chain can use to guide their engagements with the courts on the matter of sentencing. Accordingly, the Guidelines are not intended to substitute the provisions of the Constitution and statutory laws regulating the administration of Justice.
+In line with sections 5 and 34 of the Judicial Service Act, the Chief Justice of the Republic of Kenya and Chairperson of the National Council on the Administration of Justice, notifies the public and stakeholders of the following Sentencing  Guidelines:
+PART I
+1.     INTRODUCTION
+1.1   Sentencing is the process by which a court imposes a penal sanction once an accused person has pleaded guilty or has been convicted of an offence following a trial.
+1.2   Section 24 of the Penal Code provides a range of penal sanctions that are recognized in Kenya. It further recognizes other penal sanctions that may be provided for by other statutes. The sanctions that can be meted out for a specific offence are expressly set out in the Penal Code as well as other statutes in which offences are created. Most of these provisions are couched in terms that provide wide discretionary powers for judicial officers.
+1.3   The powers enable the court to determine the most suitable sentence for each individual offender. However, the powers, among other factors, contribute towards the disparities in the sentences imposed upon offenders who have committed similar offences under similar circumstances. This lack of uniformity and certainty in sentencing undermines public confidence in the Judiciary.
+1.4   Article 73 (1) (a) (iii & iv) of the Constitution requires State officers to exercise their authority in a manner that “brings dignity to the office” and “promotes public confidence in the integrity of the office”. The failure to enhance uniformity and certainty undermines public confidence in the Judiciary and is therefore an affront to these constitutional provisions.
+1.5           Courts are further required to act objectively and impartially[1] and remain accountable to the public for their decisions and actions.[2]Thus, even with the wide discretionary powers of sentencing, there is a requirement
+
+[1] Constitution of Kenya 2010, a. 73 (2) (b).
+
+
+[2]Constitution of Kenya 2010, a.10 (2) (c), a.73 (2) (d).
+for judicial offers to be accountable for the sentence imposed.[1]
+1.6   Further, Article 10 (2) of the Constitution sets out the rule of law, human dignity, equity, social justice, inclusiveness, equality, human rights, non-discrimination, good governance, integrity, transparency and accountability as national values and principles of governance that bind all State officers. 
+1.7   To give effect to these constitutional requirements, there is need to give guidance on the exercise of discretionary powers of sentencing. Such guidance is also necessary to promote consistency and certainty in the sentencing process hence enhancing delivery of justice and promoting confidence in the judicial process.
+1.8   The sentences imposed impact on the criminal justice system as a whole. In fact, it is the penal sanctions ordered that either give effect to or undermine the objectives of sentencing. The sentences imposed have sometimes failed to take into account overarching objectives of sentencing as well as the impact of the sentences on other institutions within the criminal justice system, such as prisons. Overutilization of custodial sentences, for instance, has been linked to high recidivism rates and overcrowding in prisons.
+1.9   It is against this background that the Judicial Taskforce on Sentencing developed these guidelines to regulate the exercise of discretion during sentencing.[2]
+1.10 These guidelines are intended to guide courts to ground all their sentencing decisions within the set out policy considerations. The guidelines are also intended to inform the development of offence-specific sentencing guidelines.
+2.     OBJECTIVES OF THE SENTENCING POLICY GUIDELINES
+2.1   These guidelines seek to provide a framework within which courts can exercise their discretion during sentencing in a manner which is objective, impartial, accountable, transparent and which would promote consistency and uniformity in the sentences imposed. In so doing, the guidelines seek to enhance the delivery of justice and public confidence in the Judiciary.
+2.2   The guidelines are in no way intended to fetter judicial discretion but seek to structure it.
+2.3   They are geared towards anchoring the exercise of discretion in sentencing upon principles as opposed to being a subjective process. They are designed to ensure that sentencing is not carried out as an isolated exercise but one that contributes towards meeting the objectives of sentencing set out in paragraph 4 of these guidelines.
+ 2.4 The guidelines specifically seek to:
+1.     Align the sentencing process to the provisions of the Constitution.
+2.     Guide the process of determining sentences.
+3.     Link the sentencing process to the overarching objectives of sentencing.
+4.     Address the disparities in sentencing by structuring the exercise of discretion.
+5.     Provide a benchmark for assessing the exercise of discretion in sentencing.
+6.     Address the overutilization of custodial sentences and promote the use of non-custodial sentences.
+ 8.    Promote restorative justice values and processes during sentencing.
+9.     Guide the sentencing of specific groups of offenders with unique needs.
+10.   Facilitate the participation and involvement of victims in the sentencing process.
+11.   Enhance coordination of the agencies involved in the sentencing process as well as in supervision of the sentences.
+3.     PRINCIPLES UNDERPINNING THE SENTENCING PROCESS
+3.1   Proportionality: The sentence meted out must be proportionate to the offending behaviour. The punishment must not be more or less than is merited in view of the gravity of the offence. Proportionality of the sentence to the offending behaviour is weighted in view of the actual, foreseeable and intended impact of the offence as well as the responsibility of the offender.[3]
+3.2   Equality/Uniformity/Parity/Consistency/Impartiality: Same sentences should be imposed for same offences committed by offenders in similar circumstances.[4]
+3.3   Accountability/Transparency: The reasons and considerations leading to the sentence should be clearly set out and in accordance to the law and the sentencing principles laid out in these guidelines.[5]
+3.4   Inclusiveness: Both the offender and the victim should participate in and inform the sentencing process.[6]
+3.5   Respect for Human Rights and Fundamental Freedoms: The sentences imposed must promote and not undermine human rights and fundamental freedoms. In particular, the sentencing process must uphold the dignity of both the offender and the victim.[7] Further, the sentencing regime should contribute to the broader enjoyment of human rights and fundamental freedoms in Kenya. Sentencing impacts on crime control and has a direct correlation to fostering an environment in which human rights and fundamental freedoms are enjoyed. Thus, these guidelines take into account the sentencing trends and the outcomes of the various modalities of sentencing in Kenya. In particular, they take into account the high rates of recidivism that have been linked to custodial sentences and require courts to opt for sentences that are likely to promote rehabilitation.
+3.6           Adherence to domestic and international law with due regard to recognized international and regional standards on sentencing: Domestic law sets out the precise sentences to be imposed for each offence that courts must adhere to. In addition, international legal instruments, which have the force of law under Article 2 (6) of the Constitution of
+
+[1] See Fatuma Hassan Salo v. Republic Criminal Appeal No. 429 of 2006 [2006] eKLR in which the court
+  emphasized that the discretion during sentencing “must however, be exercised judicially. The trial court
+  must be guided by evidence and sound legal principle”
+
+
+[2] The need for a sentencing policy cannot be gainsaid. See Republic v. Fredrick Kazungu Diwani and Others
+  Criminal Revision No. 42 of 2009 [2009] eKLR, for example, where the court reiterated the challenge
+  posed by the lack of a sentencing policy.
+
+
+[3] The principle of proportionality is grounded within the concept of just deserts and is embraced by common law. In Hoare v The Queen (1989) 167 CLR 348), it was stated that “a basic principle in sentencing law is that a sentence of imprisonment imposed by the court should never exceed that which can be justified as appropriate or proportionate to the gravity of the crime considered in light of its objective circumstances.” The United Nations Standard Minimum Rules for the Administration of Juvenile Justice (The Beijing Rules) recognize the principle of proportionality but emphasize that in respect to juveniles, the response should not only take into account the gravity of the offence but also the personal circumstance of the juvenile. Article 50 (1) of the Constitution of Kenya 2010 upholds the right to have a fair determination of a matter. Fairness demands that the sentence imposed should neither be excessive nor less than is merited. See for instance Caroline Auma Majabu v. Republic Criminal Appeal No. 65 of 2014 [2014] eKLR where a sentence of life imprisonment and a fine of Kshs.1,000,000 for having been found in possession of heroin worth Kshs.700 was found to be excessive.
+
+
+[4] Constitution of Kenya 2010, a.27; a.73 (1) (a) (iii); a.73 (2) (b).
+
+
+[5] Constitution of Kenya 2010, a. 50; a.73 (2) (d)).
+
+
+[6] Article 10 (2) (b) of the Constitution of Kenya identifies inclusiveness as one of the national values and principles of governance.
+
+
+[7]Article 21 (1) of the Constitution imposes a duty on all State organs to observe, respect, protect, fulfill and promote the rights and fundamental freedoms in the Bill of Rights. Article 10 (2) (b) identifies human rights as one of the national values and principles of governance.
+Kenya, should be applied. Reference should also be made to recognized international and regional standards and principles on sentencing, which though not binding, provide important guidance during sentencing. Relevant international and regional legal instruments and guidelines include but are not limited to:
+1.     African Charter on the Rights and Welfare of the Child (adopted in 1990, entered into force on 29th November 1999) OAU Doc. CAB/LEG/24.9/49.
+2.     African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa (proclaimed by the African Commission on Human and Peoples’ Rights) DOC/OS (XXX) 247.
+3.     Convention on the Rights of the Child (adopted and opened for signature, ratification   and accession by UNGA Resolution. 44/25 of 20th November 1989, entered into force on 2nd September 1990).
+4.     Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (adopted and opened for signature, ratification and accession by UNGA Resolution. 39/46 of 10th December 1984, entered into force on 26th June 1987).
+5.     Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power (adopted by UNGA Resolution 40/34 of 29th November 1985).
+6.     Guidelines for Action on Children in the Criminal Justice System (recommended by ECOSOC Resolution. 1997/30 of 21st July 1997).
+7.     International Covenant on Civil and Political Rights (adopted by UNGA Resolution 2200 A (XXI) of 16th December 1966, entered into force on 23rd March 1976) 999 UNTS 171 (ICCPR).
+8.     Kampala Declaration on Prison Conditions in Africa and Plan of Action (adopted by a Conference of African Countries on 21st September 1996).
+9.     Ouagadougou Plan of Action Adopted on Accelerating Prisons and Penal Reforms in Africa (adopted by the African Commission on Human and Peoples’ Rights on 20th November 2003) ACHPR /Resolution 64 (XXXIV) 03).
+10.   Standard Minimum Rules for the Treatment of Prisoners (adopted by the United Nations Congress on the Prevention of Crime and the Treatment of Offenders, and approved by ECOSOC Resolution 663 C (XXIV) of 31st July 1957 and 2076 (LXII) of 13th May 1977).
+11.   United Nations Guidelines for the Prevention of Juvenile Delinquency (The Riyadh Guidelines) (adopted and proclaimed by the UNGA Resolution 45/113 of 14th December 1990).
+12.   United Nations Rules for the Protection of Juveniles Deprived of their Liberty (adopted by UNGA Resolution 45/113 of 14th December 1990).
+13.   United Nations Rules for the Treatment of Women Prisoners and Non-custodial Measures for Women Offender (adopted by UNGA Resolution 65/229 of 21st December 2010).
+14.   United Nations Standard Minimum Rules for Non-custodial Measures (Tokyo Rules) (adopted by UNGA Resolution 45/110 of 14th December 1990).
+15.   United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules) (adopted by UNGA Resolution 40/33 of 29th November 1985).
+4.     OBJECTIVES OF SENTENCING
+4.1   Sentences are imposed to meet the following objectives:
+1.     Retribution: To punish the offender for his/her criminal conduct in a just manner.
+2.     Deterrence: To deter the offender from committing a similar offence subsequently as well as to discourage other people from committing similar offences.
+3.     Rehabilitation: To enable the offender reform from his criminal disposition and become a law abiding person.
+4.     Restorative justice: To address the needs arising from the criminal conduct such as loss and damages. Criminal conduct ordinarily occasions victims’, communities’ and offenders’ needs and justice demands that these are met. Further, to promote a sense of responsibility through the offender’s contribution towards meeting the victims’ needs.
+5.     Community protection: To protect the community by incapacitating the offender.
+6. Denunciation: To communicate the community’s condemnation of the criminal conduct.
+4.2   These objectives are not mutually exclusive, although there are instances in which they may be in conflict with each other. As much as possible, sentences imposed should be geared towards meeting the above objectives in totality.
+PART II
+5.     PENAL AND CORRECTIVE SANCTIONS RECOGNIZED UNDER KENYAN LAW
+5.1   The following penal sanctions are recognized in Kenya:
+1.     Death penalty[1]
+2.     Imprisonment[2]
+3.     Community service orders[3]
+4.     Probation orders[4]
+5.     Fines[5]
+6.     Payment of compensation[6]
+7.     Forfeiture[7]
+8.     Finding security to keep the peace and be of good behaviour[8]
+9.     Absolute and conditional discharge[9]
+10.   Suspended sentences[10]
+11.   Restitution[11]
+12.   Suspension of certificate of competency in traffic offences[12]
+13.   Police supervision[13]
+14.   Revocation/forfeiture of licenses[14]
+15.   Committal to rehabilitation centers[15]
+6.     DEATH PENALTY
+6.1   The death penalty is imposed upon offenders convicted of murder,[16] treason,[17] administration of unlawful oaths to commit capital offences,[18] capital robbery[19] or attempted capital robbery.[20] According to section 69 of the Prisons Act, the mode of administering the death penalty recognized by law is by hanging.
+
+[1] Penal Code, s.24 (a).
+
+
+[2] Penal Code, s.24 (b).
+
+
+[3] Penal Code, s.24 (c); Community Service Orders Act, s.3.
+
+
+[4] Penal Code, s. 24 (i); Probation of Offenders Act, s.4.
+
+
+[5] Penal Code, s.24 (e).
+
+
+[6] Penal Code, s.24 (g); s.31.
+
+
+[7] Penal Code, s.24 (f); s.29.
+
+
+[8] Penal Code, s.24 (h); s.33; s.43-46.
+
+
+[9] Penal Code, s.35.
+
+
+[10] Criminal Procedure Code, s.15.
+
+
+[11] Criminal Procedure Code, s.178.
+
+
+[12] Penal Code, s.39.
+
+
+[13]Security Laws (Amendment Act), s.343.
+
+
+[14] Alcoholic Drinks Control Act, s.42; Environmental Coordination and Management Act, s.146 (3).
+ 
+
+
+[15] Narcotic Drugs and Psychotropic Substances, s. 58 (1).
+
+
+[16] Penal Code, s. 204.
+
+
+[17] Penal Code, s.40 (3).
+
+
+[18] Penal Code, s.60
+
+
+[19] Penal Code, s.296 (2).
+
+
+[20]Penal Code, s 297 (2)
+6.2   Children in conflict with the law cannot be subjected to the death penalty.[1] Further, the Criminal Procedure Code prohibits the imposition of the death penalty upon offenders convicted of an offence punishable by death but which was committed when the offender was below the age of 18 years. Instead, such an offender is to be imprisoned at the President’s pleasure.[2] In such a case, the court is required to forward to the President notes of the evidence adduced during trial as well as a signed report expressing his/her observations or recommendations.[3]
+6.3   Pregnant women are also exempted from the death penalty and when convicted of offences punishable by death, they are to be sentenced to life imprisonment instead.[4]
+SITUATIONAL ANALYSIS
+6.4   Whilst the law still recognizes the death penalty as a mandatory punishment in respect to the offences aforementioned, the last execution took place in 1986.
+6.5   Following the decision in the case of Godfrey NgothoMutiso v. Republic[5] which found the mandatory death sentence to be unconstitutional, there have been divergent views with some courts imposing custodial sentences for offences attracting the death penalty[6] and others adhering to the mandatory terms of the statutes[7] Subsequently, the Court of Appeal in the case of Joseph Njuguna Mwaura and Others v. Republic[8],emphasized that courts do not have discretion in respect to offences which attract a mandatory death.
+ 6.6 Some offenders imprisoned at the President’s pleasure are held indeterminately with no recourse.
+ POLICY DIRECTIONS
+6.7   In the absence of law reform or the reversing of the decision in Joseph Njuguna Mwaura and Others v. Republic,[9] the court must impose the death sentence in respect to capital offences in accordance with the law.[10]
+6.8   To curb the indeterminate imprisonment at the President`s pleasure, the court`s recommendation to the President pursuant to section 25 (3) of the Penal Code should include the requirement for a review of the case after a fixed period.
+ 6.9 Where an accused person is convicted of several counts of capital offences, the court must pass the death sentence on each count and direct that the first one be effected as the others are held in abeyance.[11]
+ 7.    IMPRISONMENT
+7.1   Serving time in custody is the sentence provided for most offences created under various statutes.[12]  It is also the sentence meted out in many cases.
+7.2   The wording used by the Penal Code in most cases is “…liable to…imprisonment”. Section 26 (2) of the Penal Code gives the court discretion to impose a sentence shorter than prescribed by the relevant provision except where mandatory minimum sentences are prescribed. The import of this is that the Penal Code provides the maximum sentences in most cases. Similarly, in some cases it uses the words “not exceeding…”[13] There are a few exceptions in the Penal Code where minimum and maximum sentences are provided.[14]Subsequent statutes such as the Sexual Offences Act provide minimum and maximum sentences. The Security Laws (Amendment) Act provides minimum sentences in some instances.
+7.3   In the event that a person is convicted of more than one offence, the sentences imposed for each of the offences run consecutively except where the court directs that they run concurrently.[15]
+7.4   The court can order that part of the custodial sentence is served in a rehabilitation centre where the court is satisfied that an offender is addicted to narcotic drugs or psychotropic substances and that he is in possession of those substances only for his own consumption.[16]
+ SITUATIONAL ANALYSIS
+7.5   There exist notable disparities in the length of imprisonment of offenders committing same offences in more or less similar circumstances. There is lack of uniformity and certainty in the sentences likely to be imposed. This has contributed to the negative perception against the Judiciary and lends support to claims of corruption and unprofessionalism. The uncertainty of the likely sentences also poses a challenge to prosecutors when negotiating plea agreements.
+7.6   The prisons in Kenya are overcrowded and one of the major contributing factors is the overutilization of custodial sentences. There are many cases in which noncustodial sentences would be suitable but the courts opt for custodial sentences.[17] Offenders serving sentences of less than three years have in most cases been convicted of misdemeanors hence are suitable candidates for non-custodial sentences.[18]
+7.7   There have been divergent practices in respect to the impact of the time served in custody during trial on the sentence imposed. Some courts have been keen to consider the pre-conviction detention and have imposed a shorter sentence.[19] Others have not been taking this into account.
+7.8   In regard to the decision whether sentences should run concurrently or consecutively, some courts have been expressly indicating so in their directions. Section 37 of the Penal Code sets out the general rule that sentences run consecutively unless otherwise directed by the court. Whilst this is trite law, there is need for the court to expressly address this matter, thus leaving no room for doubt.
+7.9   The possibility of committing addicted offenders to drugs rehabilitation centers has not been explored fully.
+
+[1] Children Act, s.190 (2); Convention on the Rights of the Child, a.37 (a);International Covenant on Civil and Political Rights, a.6 (5); African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa, para 9 (c)., African Charter on the Rights and Welfare of the Child a. 5 (1)
+
+
+[2] Penal Code, s. 25 (2).
+
+
+[3] Penal Code, s.25 (3).
+
+
+[4] Penal Code, s.211; International Covenant on Civil and Political Rights, a.6 (5); African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa, para 9 (c)
+
+
+[5] Criminal Appeal No. 17 of 2008 [2010] eKLR.
+
+
+[6] Republic v. John KimitaMwaniki [2011] eKLR; Republic v. Stephen WekesaWasike [2014] eKLR; Sabastian OkweroMrefu vRepublic [2014] eKLR.
+
+
+[7] See for example Dickson Mwangi Munene and another v. Republic [2011] eKLR;
+
+
+[8] Criminal Appeal No. 5 of 2008 [2013] eKLR;
+
+
+[9] Ibid; the mandatory death penalty is currently being challenged before the Supreme Court.
+
+
+[10] Joseph Boit Kemei& Another v R CA Criminal Appeal No. 7 0f 1995 (unreported).
+
+
+[11] Okwaro Wanjala v Republic [1978] KLR 114, Shah v Republic [1985] KLR 674, Moses Atila Othira v Republic [2009] eKLR.
+
+
+[12] For instance under the Penal Code; Anti-Corruption and Economic Crimes Act, part V; Alcoholic Drinks Control Act, part V; Marriage Act, part XIII; Elections Act, part VI etc. Other sentences are provided in some cases either in substitution or in addition to imprisonment.
+
+
+[13] For example section 89 (2) of the Penal Code.
+
+
+[14] Section 89 of the Penal Code, which criminalizes possession of firearms and section 308 of the Penal Code, which criminalizes possession of dangerous or offensive weapons in preparation for the commission of a felony.
+
+
+[15] Penal Code, s.37; Criminal Procedure Code, s.14.
+
+
+[16] Narcotic Drugs and Psychotropic Substances (Control) Act, s. 58 (1).
+
+
+[17] See Loramatu v. Republic [1985] eKLR in which the court highlighted the failure to utilize non-custodial sentences in many cases; see also Legal Resources Foundation, Sentencing in Kenya: Practice, Trends, Perceptions and Judicial Discretion (LRF 2011) 34-36.
+
+
+[18] Statistics from the Kenya Prisons Service Headquarters reveal that out of the total 31,725 convicted offenders, 12,643 have been sentenced to three years and less as at 18th March 2015. Moreover, 7,402 have been sentenced to one year and below
+
+
+[19] See for example Republic v. Thomas Gilbert Cholmondeley [2009] eKLR; Charles Khisa Wanjala v Republic [2010] eKLR.
+POLICY DIRECTIONS
+TIME SERVED IN CUSTODY PRIOR TO CONVICTION
+7.10 The proviso to section 333 (2) of the Criminal Procedure Code obligates the court to take into account the time already served in custody if the convicted person had been in custody during the trial. Failure to do so impacts on the overall period of detention which may result in an excessive punishment that is not proportional to the offence committed.[1]
+7.11 In determining the period of imprisonment that should be served by an offender, the court must take into account the period in which the offender was held in custody during the trial.
+7.12                 An offender convicted of a misdemeanor and had been in custody throughout the trial for a period equal to or exceeding the maximum term of imprisonment provided for that offence, should be discharged absolutely under section 35 (1) of the Penal Code.
+CONCURRENT AND CONSECUTIVE SENTENCES
+7.13 Where the offences emanate from a single transaction, the sentences should run concurrently. However where the offences are committed in the course of multiple transactions and where there are multiple victims, the sentences should run consecutively.
+7.14                 The discretion to impose concurrent or consecutive sentences lies in the court.
+7.15                 In the case of imprisonment in default of payment of a fine, the sentence cannot run concurrently with a previous sentence.[2]
+7.16 In determining the most appropriate term of imprisonment, the court should follow the policy directions in paragraph 23.7 to 23.9 of these guidelines.
+MANDATORY MINIMUM SENTENCES
+7.17 Where the law provides mandatory minimum sentences,[3] then the court is bound by those provisions and must not impose a sentence lower than what is prescribed.[4] A fine shall not substitute a term of imprisonment where a minimum sentence is provided.[5]
+CUSTODIAL VERSUS NON-CUSTODIAL SENTENCES
+7.18                 Where the option of a non-custodial sentence is available, a custodial sentence should be reserved for a case in which the objectives of sentencing cannot be met through a non-custodial sentence.[6] The court should bear in mind the high rates of recidivism associated with imprisonment[7] and seek to impose a sentence which is geared towards steering the offender from crime. In particular, imprisonment of petty offenders should be avoided as the rehabilitative objective of sentencing is rarely met when offenders serve short sentences in custody. Further, short sentences are disruptive and contribute to re-offending.
+7.19                 In deciding whether to impose a custodial or a non-custodial sentence, the following factors should be taken into account:
+1.     Gravity of the offence: In the absence of aggravating circumstances or any other circumstance that render a non-custodial sentence unsuitable, a sentence of imprisonment should be avoided in respect to misdemeanors.
+2.     Criminal history of the offender: Taking into account the seriousness of the offence, first offenders should be considered for non-custodial sentences in the absence of other factors impinging on the suitability of such a sentence. Repeat offenders should be ordered to serve a non-custodial sentence only when it is evident that it is the most suitable sentence in the circumstance.
+Previous convictions should not be taken into consideration, unless they are either admitted or proved.
+3.     Children in conflict with the law: Non-custodial orders should be imposed as a matter of course in the case of children in conflict with the law except in circumstances where, in light of the seriousness of the offence coupled with other factors, the court is satisfied that a custodial order is the most appropriate and would be in the child’s best interest.[8] Custodial orders should only be meted out as a measure of last resort.[9]
+4.     Character of the offender: Non-custodial sentences are best suited for offenders who are already remorseful and receptive to rehabilitative measures.
+5.     Protection of the community: Where there is evidence that the offender is likely to pose a threat to the community; a non-custodial sentence may not be the most appropriate. The probation officer`s report should inform the court of such information.[10]
+6.     Offender’s responsibility to third parties: Where committing an offender to a custodial sentence is likely to unduly prejudice others, particularly vulnerable persons, who depend on him/her, a court should consider a noncustodial sentence if, in light of the gravity of the offence, no injustice will be occasioned. Information on the offender’s responsibility to third parties should be substantiated.
+ALTERNATIVE PLACES OF CUSTODY
+7.20         Where a court is satisfied that an offender convicted of an offence under the Narcotic and Psychotropic Substances (Control) Act is a drug addict, it should make an order requiring the offender to serve a term in a rehabilitation centre.
+8.     COMMUNITY SERVICE ORDERS
+8.1   Community service orders include any unpaid public work for the benefit of the community and for a period which does not exceed the term of imprisonment that the offender could have been sentenced to.[11]
+8.2   Section 3 of the Community Service Orders Act limits the imposition of community service orders to two scenarios; first, whether an offence is punishable with imprisonment that does not exceed three years. Second, where an offence is punishable with imprisonment exceeding three years but where the court determines that a sentence of three years or less would be imposed.
+8.3   According to the Second Schedule of the CSO Act, it is the duty of the community service officers, in this case probation officers,[12] to identify suitable work placements and to oversee the work and progress of offenders.[13]
+ SITUATIONAL ANALYSIS
+
+[1] Constitution of Kenya 2010, a.50 (1); a. 29 (f).
+
+
+[2] Penal Code, s.37.
+
+
+[3] For example, the Sexual Offences Act.
+
+
+[4] This is in spite of the undue injustice caused in light of the individual circumstances. The only recourse is law reform. See Kennedy Munga v. Republic [2011] eKLR in which an order for probation in a defilement case was held to be illegal and was revised to fifteen years.
+
+
+[5] Penal Code, s. 26 (3) (i).
+
+
+[6] Kampala Declaration on Prison Conditions in Africa and Plan of Action, para 1; Ouagadougou Declaration and Plan of Action on Accelerating Penal Reforms in Africa para 1.
+
+
+[7] See Legal Resources Foundation, Sentencing in Kenya: Practice, Trends, Perceptions and Judicial Discretion (LRF 2011) 37.
+
+
+[8] Constitution of Kenya 2010, a. 53 (2); Children Act, s. 4 (2)
+
+
+[9] Constitution of Kenya 2010, a. 53(1) (f); Convention on the Rights of the Child, a.37 (b); African Charter on the Rights and Welfare of the Child, a.4.
+
+
+[10] United Nations Standard Minimum Rules for Non-custodial Measures (Tokyo Rules), rule 8.1.
+
+
+[11] Community Service Orders Act, s. 3 (2) (a).
+
+
+[12] Community Service Orders Act, s.12.
+
+
+[13]Community Service Orders Act, Second Schedule, Part (a) and (b).
+8.4   Community service orders are underutilized[1] and the major challenge cited is the supervision of the orders. In the absence of a guarantee that the orders are not in effect a discharge, courts are reluctant to impose the orders. There is also need for the identification of a larger pool of work placements.
+POLICY DIRECTIONS
+8.5   Community service orders, in suitable cases, are effective as they promote a sense of responsibility to the offender. They also make a contribution to the community wronged by the offender. In some cases, this form of sentence is retributive, particularly for offenders who find it demeaning to publicly serve a sentence and can be very demanding for offenders with other responsibilities. If supervised properly, it achieves the objectives of sentencing and courts should impose it where in the circumstances, it is the most suitable sentence.
+8.6   Where the court intends to commit a person to serve a community service order for one month and above, it should request for a community service officer’s[2] report before pronouncing the order.[3]
+8.7   Prior to imposing a community service order, the court must engage with the community service officer to satisfy itself as to the suitability of the work placement and the adequacy of the supervision arrangements.
+8.8   To strengthen and streamline the framework for community service orders, the court should routinely engage with the Community Service Orders Case Committee and contribute towards addressing issues undermining the effectiveness of the orders.[4]
+8.9   Judicial officers who chair the Community Service Orders Case Committees bear the responsibility of ensuring that the system of community service orders is functioning effectively.
+8.10                 Community Service Orders Case Committees should consistently engage with the National Community Service Orders Committee to raise issues affecting the realization of the objectives of Community Service Orders such as funding.[5]
+9.     PROBATION ORDER
+9.1   The Probation of Offenders Act gives courts the option of placing offenders on probation.[6] An offender may be required to enter into a recognizance, with or without sureties, where a probation order is imposed.[7] If an offender commits an offence during the probation term, he/she becomes liable to be sentenced for the original offence. The court is under an obligation to explain these terms to the offender when the order is imposed.[8]
+9.2   The minimum period in which an offender can serve a probation term is six months and the maximum period is three years.[9]
+9.3   When making a decision on whether to place an offender on probation, section 4 (i) of the Probation of Offenders Act calls upon the court to have regard to the following:
+1. Youth
+2. Character
+3. Antecedents
+4. Home surroundings
+5. Health or mental condition of the offender
+6. The nature of the offence
+7. Any extenuating circumstances in which the offence was committed.
+This information is typically contained in a pre-sentence report.
+9.4   The court must be satisfied of the offender’s willingness to comply with the provisions of the probation order for it to impose the order.[10]
+SITUATIONAL ANALYSIS
+9.5   There is a gradual increase in the number of probation orders imposed. However, there are still many cases in which custodial sentences are imposed in spite of probation orders being the most suitable in the circumstances.
+9.6   Pre-sentence reports are required in cases where courts are considering imposing probation orders. There are concerns that probation officers are not adequately resourced and hence the reluctance to increase their workload by requesting for reports as a matter of course.
+9.7   Inadequate funding of the Department of Probation and Aftercare Services curtails the effective supervision of probation orders.
+POLICY DIRECTIONS
+9.8   The policy guidelines on custodial versus non-custodial sentences in paragraph 7.15 of these guidelines apply.
+9.9   Before issuing a probation order, the court must receive and consider a probation officer’s report.
+9.10                 The main aim of a probation order is to facilitate the reformation and rehabilitation of the offender. Therefore, an offender’s remorsefulness and attitude should be taken into account when determining the suitability of the sentence.[11]
+9.11                 The court should engage with the probation officer to establish conditions that are necessary to enhance the supervision of the probation order. Section 5 of the Probation of Offenders Act obligates the court to set out the conditions necessary to secure the supervision of the offender.
+9.12                 The judicial officer representing the court station in the Probation Orders Case Committee should continuously engage with the chair of the committee to ensure that the committee meets consistently and addresses issues that may undermine the effective operation of probation orders.
+9.13                 The Probation Orders Case Committee should consistently engage with the Central Probation Committee to raise issues such as funding affecting the realisation of the objectives of probation orders.[12]
+10.   COMPENSATION
+10.1                 The court is mandated to make a compensation order in addition or in substitution for any punishment.[13]However, the court cannot make a compensation order in substitution of an offence which attracts a minimum custodial sentence. An order of compensation takes effect on the expiry of the time limited for an appeal, and where an appeal is lodged, on confirmation of the conviction and order.[14]
+10.2         Where a person is convicted of corruption or an economic crime which occasioned loss to anyone, it is mandatory for
+
+[1] See Jonathan Mutinda v. Republic [2004] eKLR in which a petty traffic offender was sentenced to imprisonment. The High Court on appeal stated, “the magistrate is also reminded to take advantage of the other remedies like community service order, instead of resorting to the custodial sentence. The courts are sensitized in helping to decongest the prisons. He is doing just the opposite.’’
+
+
+[2] Section 12 of the Community Service Orders Act provides that probation officers serve as community service officers.
+
+
+[3] Community Service Orders Act, s.3 (3), s. s. 3(5) (b).
+
+
+[4] Community Service Orders (Case Committees) Regulations, 1999, s. 4 (a).
+
+
+[5] Community Service Orders (Case Committees) Regulations, 1999, s. 4 (g).
+
+
+[6] Section 4.
+
+
+[7] Probation of Offenders Act, s.4 (2).
+
+
+[8] Ibid, s.4 (3).
+
+
+[9] Probation of Offenders Act, s.5
+
+
+[10] Ibid, s.4 (3).
+
+
+[11] Elijah Munene Ndundu& Another v R [1978] KLR 163.
+
+
+[12] Probation of Offenders Act, Probation of Offenders (Central Probation Committee) Rules, Rule 4 (b); Probation of Offenders Act, Probation of Offenders (Case Committees) Rules, Rule 4 (d).
+
+
+[13] Penal Code, s.31; see also the Probation of Offenders Act, s.6.; Forests Act, s. 55;Victim Protection Act; Counter Trafficking in Persons Act
+
+
+[14]Criminal Procedure Code, s. 175 (4).
+the court to impose compensation orders, upon conviction or on subsequent application.[1]
+10.3                 The sum to be paid by the convicted person/convict to the injured party is such sum as the court considers could justly be recovered as damages in civil proceedings brought by the injured party against the convicted person in respect of the civil liability concerned.[2]
+10.4                 The court is mandated to make compensation orders in respect to costs incurred by the victim during treatment as a result of the harm caused by the convicted person.[3] It can also require the convicted person to compensate the victim for costs incurred in relation to the proceedings.[4] To ascertain the proper compensation, the court shall request for evidence of the said costs.
+10.5                 In deciding whether to make an order of compensation, the court must take into account:
+                1.     Jurisdiction—where the appropriate compensation order exceeds the pecuniary jurisdiction of that court, then it must not pronounce the order.[5]
+2.     Complexity of evidentiary matters touching on the quantum of damages – where, in the opinion of the court, evidentiary matters are complex and require a civil suit, or where the evidence available is not adequate to determine the damages, the court shall refrain from making a compensation order.[6]
+3.     Validity of action – where the claim is barred by the Limitations of Actions Act, the court shall not make a compensation order.[7]
+4.     Undue prejudice to the rights of the convicted person – where there are circumstances which, in the opinion of the court, would render compensation order unduly prejudicial to the rights of a convicted person in respect to the civil liability, then the court shall not make a compensation order.[8]
+SITUATIONAL ANALYSIS
+10.6                 In practice, courts have been reluctant to impose compensation orders mainly due to the following reasons:
+1.     First, determination of the quantum of the compensation raises issues of civil law which a criminal court is reluctant to embark on. Section 175 (3) (b) (i & ii) of the Criminal Procedure Code appreciates instances where the complexity of the evidentiary matters may require a civil suit. However, there are instances where there are no complexities and the court can determine the amount of compensation that a victim deserves. 
+2.     Second, enforcement of compensation orders is in certain instances challenging and the courts are keen to impose orders that will be met, thus maintaining the authority of the court.
+3.     Third, there has been an emphasis on retributive justice with focus being on punishing the offender with little or no attention to the victim.
+POLICY DIRECTIONS
+10.7     Compensation orders are particularly desirable as they fuse restorative and retributive justice. Payment of compensation is a punishment to the offender but it also gives him/her an opportunity to take responsibility for his/her conduct and remedy the harm caused. On the other hand, the victim’s needs are taken into account hence dispensing justice to the victims. There is, therefore, need to impose compensation orders as much as possible. To this end, courts should take into account the following directions:
+10.8     Where no complexities exist as to the quantum of the damages and where the court is of the view that compliance with the compensation order is achievable, it should make the compensation order. This promotes the realization of justice and saves the court from further proceedings.
+10.9     Where complexities exist as to the quantum of damages or where the compensation order would exceed the pecuniary jurisdiction of the court, the injured party should be advised to seek compensation in a civil suit.
+10.10   Upon convicting an offender of corruption or an economic crime, the court is obligated to order the offender to return to the rightful owner the property acquired through or as a result of the corrupt conduct. The court is also obligated to impose compensation orders where loss has been occasioned on any person as a result of the corrupt conduct.[9]
+10.11   The compensation order should clearly set out the mode of compliance. The court should engage with the offender to determine a practical and achievable schedule of payment. Where the court is satisfied that the offender is not in a position to make a single payment but can do so in installments, then it should give directions on the payment of such installments. Mention dates should then be set to correspond with the dates payments are due.
+11.   FINES
+11.1                 The law permits the imposition of fines[10] and as specified in the relevant provisions, they may be imposed in addition to or in substitution of another punishment.[11] However, a fine must not be imposed in substitution where a minimum sentence of imprisonment is provided for.[12]
+11.2                 In most cases, the relevant provisions provide the amount payable in fines but in some cases, courts are mandated to determine the fines payable.
+SITUATIONAL ANALYSIS
+11.3 There are many instances where the fines are in effect excessive and offenders end up serving imprisonment terms in default of payment. A major challenge is in regard to fines fixed by statute which, in view of the circumstances of a given case, are excessive.[13] Moreover, even where the amount is minimal, indigent offenders are usually unable to pay and are imprisoned as a result.
+11.4                 Whereas the law allows for the payment of fines in installments,[14] this option is rarely utilized. The reluctance to allow fines to be paid in installments is attributed to the challenges in enforcement.
+POLICY DIRECTIONS
+PREFERENCE FOR A FINE
+11.5 Where the option of a fine is provided, the court must first consider it before proceeding to impose a custodial sentence.[15] If, in the circumstances a fine is not a suitable sentence, then the court should expressly indicate so as it proceeds to impose the available option.[16]
+PAYMENT IN INSTALLMENTS
+11.6                 Where an offender is incapable of paying a fine at a go, but undertakes to pay within a given period, the court should make an order for payment in installments.[17] The order should specify the schedule of payments and the amount payable at each instance.
+11.7                 For an order for the payment of a fine in installments to be imposed, the offender should be required to execute a bond with or without sureties unless, in view of the individual circumstances, it appears to the court that the offender is unlikely to default and/or abscond.
+11.8                 Where payment of a fine in installments has been ordered by the court, the case shall be listed for mention on each date an installment is due.
+11.9                 Default of a single installment shall result in the whole outstanding amount being payable immediately, leading to imprisonment in default of payment.[18]
+DETERMINATION OF A FINE
+11.10   The fine fixed by the court should not be excessive as to render the offender incapable of paying thus liable to imprisonment.[19]In determining such a fine, the means of the offender as well as the nature of the offence should be taken into account. Except in petty cases and in which case the necessary information is within the court’s knowledge, a pre-sentence report should be requested from the probation officer to provide information which would assist the court in reaching a just quantum.
+IMPRISONMENT IN DEFAULT OF PAYMENT OF A FINE
+11.11   The period of imprisonment in default of payment of a fine must not exceed six months unless allowed by the law under which the conviction has been obtained.[20] The Penal Code, for instance, allows for imprisonment for twelve months where the amount exceeds Kshs. 50,000. Where the law does not expressly set the period of imprisonment in default of payment of a fine,[21] the court must be guided by the scale laid out in section 28 (2) of the Penal Code.
+11.12   Where a court imposes separate fines for individual offences, it must indicate a separate sentence in default of payment of each fine.[22]
+12. FORFEITURE
+12.1                 There is no general power for a court to order forfeiture unless it is expressly provided for.[23]
+12.2                 Section 29 of the Penal Code empowers the court to order the forfeiture of any property that is obtained as a benefit for compounding, concealing a felony or otherwise undermining the due process of law as set out in section 118 and 119 of the Penal Code. In the event that the property cannot be forfeited or found, the court is to assess the value of the property and the payment is to be effected in the same terms as a fine.
+12.3                 Section 40 of the Prevention of Terrorism Act mandates the court to order for the forfeiture of any property that has been used for, or in connection with, or has been received as a reward for the commission of an offence under the Act.[24]
+12.4                 Under section 55 of the Forests Act, the court has discretion to order any vessels, vehicles, tools or implements, which are used in the commission of an offence of damaging, injuring or removing forest produce from any forest, to be forfeited to the Kenya Forest Service.
+12.5                 A court may order the forfeiture of firearms, ammunition or other parts in respect to a person found to have committed an offence under section 4A of the Firearms Act.
+SITUATIONAL ANALYSIS
+
+[1] Anti-Corruption and Economic Crimes Act, s.51 read together with s.54 (1) (a).
+
+
+[2] Criminal Procedure Code, s.175 (2) (b).
+
+
+[3] Victim Protection Act, s. 26 (1) (b).
+
+
+[4] Victim Protection Act, s. 26 (1) (c).
+
+
+[5] Criminal Procedure Code, s.175 (3) (a).
+
+
+[6] Criminal Procedure Code, s.175 (3) (b) (i & ii); see Mukindia v. Republic [1966] EA 426.
+
+
+[7] Criminal Procedure Code, s. 175 (3) (b) (iii).
+
+
+[8] Criminal Procedure Code, s. 175 (4).
+
+
+[9] Anti-Corruption and Economic Crimes Act, s.54.
+
+
+[10] Penal Code, s.28 (1).
+
+
+[11] Penal Code, s.26 (3).
+
+
+[12] Penal Code, s.26 (3) (i).
+
+
+[13] For instance the Kshs. 50,000 fine imposed for prohibited acts in forests under section 52 (2) of the Forests Act.
+
+
+[14] 89 Criminal Procedure Code, s. 336 (3).
+
+
+[15] Anis Mihidin v Republic HCCRA No. 98 of 2001 (Unreported).
+
+
+[16] See Fatuma Hassan Salo v Republic [2006] eKLR where it was stated that, “where an option of a fine is given, the court has to give reasons as to why a fine is inappropriate”.
+
+
+[17] Criminal Procedure Code, s. 336 (3).
+
+
+[18] Ibid.
+
+
+[19] Penal Code, s.28. See R v Mureto Munyoki 20 [KLR] 64 in which it was stated, “it is a first principle in inflicting fines that the capacity of the accused to pay should be considered”
+
+
+[20] Criminal Procedure Code, s.342.
+
+
+[21] For instance s.121 (1) of the Penal Code stipulates the period of imprisonment in default of payment of a fine.
+
+
+[22] See Wakitata v Republic Vol. 1 (E & L) 52.
+
+
+[23] Munyo Muu v Republic [1957] EA 89.
+
+
+[24]Others include Anti-Narcotics and Psychotropic Substances Act, s. 20; Forests Act, s.55 (c)
+12.6                 An order of forfeiture complements the other forms of punishment. The offender is deterred from benefitting from his/her criminality. Forfeiture, for instance, under the Anti-Corruption and Economic Crimes Act, would serve as a strong general deterrent as well. Orders of forfeiture would also raise revenue which should be used to enhance the response to crime. For example, such revenue should be used to equip and revamp investigation of serious crimes such as terrorism.
+12.7                 Forfeiture of vehicles, tools or implements used in the commission of an offence as provided for in section 55 of the Forests Act causes injustices to third parties where the offenders are not the owners of the vehicles, tools or implements.
+POLICY DIRECTIONS
+12.8                 Where the court is satisfied of the link between property and the offence committed as set out in the different provisions, and where the court is mandated by the law, it should, in addition to the general punishment meted out to the offender, order for forfeiture of the property.
+12.9                 In all cases in which an order of forfeiture is applicable, the prosecutor should, at the earliest opportunity before sentencing, bring to the attention of the court any such property that is linked to the commission of the offence.
+12.10   Where the court has discretion to order forfeiture, it should be guided not to cause an injustice to a third party who is the owner of property that is linked to the commission of an offence in which he/she did not take part in and it is clear that he/she could not have reasonably been aware that the property would be so used.[1]
+13.   FINDING SECURITY TO KEEP THE PEACE AND BE OF GOOD BEHAVIOUR
+13.1                 A court can, in offences other than capital offences, require a convicted offender to enter into a recognizance, with or without sureties to keep the peace and be of good behaviour. This order can be imposed instead of or in addition to the sentence that the offender is liable to.[2] The court is mandated to order that the offender is held in custody until he/she enters into such recognizance. The period the person is held in custody must not exceed one year. Where the order is in addition to a term of imprisonment, the period in custody awaiting the recognizance, when added to the term of imprisonment must not exceed the maximum sentence for that offence.[3]
+SITUATIONAL ANALYSIS
+13.2                 There are instances where this order is suitable but has not been imposed.
+13.3                 A distinction is drawn between an order to keep the peace and be of good behaviour as a sentence when an offender has been convicted of an offence[4] and a similar order prior to conviction as envisaged by sections 43 to 61 A of the Criminal Procedure Code. The latter was declared unconstitutional.[5] 
+POLICY DIRECTIONS
+13.4         The order to keep the peace and be of good behaviour is a useful modality of dealing with petty offenders. It is particularly suitable and should be imposed, where, in the opinion of the court, the offender takes his recognizance
+
+[1] Under article 159 (2) (a), the court is under an obligation to ensure that justice is done to all.
+
+
+[2] Penal Code, section 33.
+
+
+[3] Ibid.
+
+
+[4] Referring to Section 24 of the Penal Code which provides this order as one of the punishments, Justice Mumbi Ngugi stated, “that provision of the Penal Code was not deleted or repealed, and it may be argued that as a punishment imposed after one has been tried and convicted of an offence it is constitutional.” Anthony NjengaMbuti& others v. the Attorney General & others [2015] eKLR.
+
+
+[5]Ibid, para 170.
+seriously or where the sureties are in a position to influence the offender to adhere to the order.[1]
+14.   ABSOLUTE AND CONDITIONAL DISCHARGE
+14.1         Pursuant to section 35 (1) of the Penal Code, an offender can be discharged absolutely, or on condition that he/she does not commit an offence during a term fixed by the court. This term should not exceed twelve months. In the event that an offender, who has been discharged conditionally, commits an offence during the term fixed by the court, he/she becomes liable for the punishment of the original offence. The court is under an obligation to inform the offender of this rule at the time the conditional discharge is imposed.[2]
+14.2                 Section 35 of the Penal Code provides three options. First, where an offender is discharged absolutely. Second, where an offender is discharged but with a condition that any offences committed within a fixed period will make him/ her liable to a sentence for the original offence. Third, where an offender is discharged, absolutely or conditionally, and ordered to pay compensation. This is in accordance with section 12 of the Criminal Procedure Code which allows the court to combine sentences. The payment of the compensation is not an appendage to the discharge.[3]
+SITUATIONAL ANALYSIS
+14.3                 Where a discharge is imposed, courts are keen to state the reasons so as not to appear to be absolving the offender.
+14.4 Orders discharging offenders are used sparingly which is in tandem with the wording used in section 35 of the Penal Code.
+POLICY DIRECTIONS
+14.5                 An offender should only be discharged if, in light of the nature of the offence and his/her character, the offender is a suitable candidate for a non-custodial sentence and a probation order is not appropriate.[4]
+14.6                 The decision of the court must be guided by the principles of sentencing set out in part 3 as well as the overall objectives of punishment set out in part 4 of these guidelines. The court should not discharge an offender if it amounts to an injustice and the offender is simply spared from taking responsibility for his/her actions.
+14.7                 The upshot, therefore, is that a discharge, especially an absolute one, should be sparingly imposed. However, where the court is satisfied, in light of the circumstances that justice demands a discharge, then it should exercise its powers under section 35 of the Penal Code.
+15.   SUSPENDED SENTENCES
+15.1                 Section 15 of the Criminal Procedure Code allows the court, when it passes a sentence of not more than two years imprisonment, to suspend a sentence of imprisonment for a fixed period of time. If the offender does not commit an offence during the fixed period, then the sentence does not take effect. In the event that the offender commits an offence during the fixed period, then the sentence takes effect and the sentence for the second offence runs consecutively with the original sentence.[5]
+SITUATIONAL ANALYSIS
+15.2                 The lack of digital records at police stations and courts provides loopholes and offenders on suspended sentences may get away without serving their original sentence.[6] 
+
+[1] Section 191 (1) of the Children Act, for example, allows the court to deal with a child “in any other lawful manner”. This order can, therefore, be used when dealing with a child in conflict with the law who understands the nature of a recognizance.
+
+
+[2] Penal Code, s.35 (2).
+
+
+[3] See Mutuku Mwanza v. Republic [2004] eKLR where it was held that discharging an offender subject to payment of compensation was not illegal.
+
+
+[4] Penal Code, s.35 (1).
+
+
+[5] Criminal Procedure Code, s.15 (3).
+
+
+[6]See policy directions in the inter-agency coordination section, para 27.16.
+15.3                 There are cases in which offenders are suitable candidates for suspended sentences but are sentenced to serve prison terms instead.
+POLICY DIRECTIONS
+15.4                 Orders suspending sentences are desirable in relation to petty offenders who are likely to respond to the incentive to remain law-abiding. The court should take into account the policy guidelines as to whether to impose a custodial or noncustodial sentence.[1]
+15.5                 Bearing these guidelines in mind, suspended imprisonment is desirable where it is evident that commencing the imprisonment immediately would result in undue prejudice or injustice to the offender hence making the punishment excessive.[2]
+16.   SUSPENSION OF CERTIFICATE OF COMPETENCY IN TRAFFIC OFFENCES
+16.1                 Pursuant to section 39 of the Penal Code, where a person is convicted of an offence connected to driving a motor vehicle, a court can:
+1.     Suspend a certificate of competency for a fixed period,
+2.     Cancel the certificate and disqualify the person from obtaining another certificate permanently or for a fixed period.
+16.2                 When a court makes such an order, it is required to endorse the certificate with particulars of the conviction and the order and to further forward the same to the Commissioner of Police.
+SITUATIONAL ANALYSIS
+16.3                 This order is underutilized. However, fines are the predominant sentences imposed in traffic offences.
+POLICY DIRECTION
+16.4                 Such an order is both retributive as well as rehabilitative and can impact the offender positively and contribute towards decreasing road carnage.
+16.5                 The principles underpinning sentencing in part 3 of these guidelines must guide the court when considering ordering a suspension of a certificate of competency.
+17.   RESTITUTION
+17.1                 Section 178 of the Criminal Procedure Code mandates the court to make orders for restitution in respect to stolen property.
+SITUATIONAL ANALYSIS
+17.2                 In many cases, restitution orders are not imposed.[3] This is a product of the emphasis on retributive justice and according the victim a peripheral position in the process. Whilst punishment of the offender is a form of justice to the victim, where the stolen goods are not returned to the victim, their loss remains unmitigated.
+17.3                 Due to lack of adequate storage facilities in police stations and courts, property seized is not maintained in good condition and in many cases not in a state it can be returned to the victim.
+POLICY DIRECTION
+17.4                 These orders should be imposed as a matter of course in all such cases, unless the stolen property cannot be recovered.
+17.5                 All courts and police stations should be equipped with adequate storage facilities where detained property can be maintained in good condition.
+18.   POLICE SUPERVISION
+
+[1] Paragraph 7.15 of these guidelines.
+
+
+[2] See paragraph 3.1 of these guidelines on proportionality
+
+
+[3] See, for example, Republic v Fredrick Kazungu Diwani and Others Criminal Revision No. 42 of 2009[2009] eKLR in which the High Court ordered that in addition to the sentence imposed by the trial magistrate, the offender had to return the sum of Kshs. 13,104,000/=, obtained by fraud to the complainant.
+18.1                 Section 18 of the Security Laws (Amendment) Act amends the Criminal Procedure Code[1] and gives the court powers to order for police supervision for a period not exceeding five years upon release from custody in the following instances:
+1.     When an offender, having been convicted of an offence punishable with imprisonment for a term of three years or more, is again convicted of an offence punishable with imprisonment for a similar term;
+2.     When an offender is convicted of an offence which relates to violation of conditions imposed upon offenders placed on police supervision.
+18.2                 Section 344A of the Criminal Procedure Code imposes mandatory police supervision in respect to offenders convicted of an offence under section 296 (l), 297 (l), 308 or 322 of the Penal Code, the Prevention of Terrorism Act or the Sexual Offences Act. In this case, the supervision is for a fixed term of five years.[2]
+SITUATIONAL ANALYSIS
+18.3 Police supervision was previously provided for in section 344A of the Criminal Procedure Code but was abolished by the Criminal Law (Amendment) Act of 2003.[3]  Its operation since its re-introduction in December 2014 is yet to be assessed. Policy Directions
+18.4                 To facilitate the supervision, the court should be mindful to impose necessary conditions upon the offender as provided for in section 344 (1) of the Criminal Procedure Code.
+18.5                 In respect to offenders convicted of an offence under section 296 (l), 297 (l), 308 or 322 of the Penal Code, the Prevention of Terrorism Act or the Sexual Offences Act, the court must state that the offender shall be under police supervision for five years on release from prison. The court must also reiterate the mandatory conditions for the offender to comply with during the period of supervision as set out in section 344A of the Criminal Procedure Code.
+18.6                 First offenders are not liable to police supervision except where they are convicted of offences under section 296 (l), 297 (l), 308 or 322 of the Penal Code, the Prevention of Terrorism Act or the Sexual Offences Act.[4]
+19.   REVOCATION OF LICENCES
+19.1                 Various statutes provide for the revocation/forfeiture of licences upon conviction of an offence. For instance:
+19.2                 Section 42 of the Alcoholic Drinks Control Act provides for the revocation of a licence in addition to any other penalty if the conditions set out in that section exist.          
+19.3                 Under s.146 (3) of the Environmental Coordination and Management Act, the court is mandated to order the cancellation of any licence, permit or authorization given under the Act and that relates to the offence.
+19.4                 Section 34 of the Food, Drugs and Chemical Substances Act gives the court the discretion to cancel a licence issued under the Act if a person is convicted of any offence under the Act.
+SITUATIONAL ANALYSIS
+19.5                 Orders of the court cancelling/revoking licences are not frequent.
+19.6                 Owing to its impact, cancelling/revoking of a licence serves as both specific and general deterrent.
+POLICY DIRECTIONS
+19.7                 The power to cancel or revoke a licence is in most cases discretionary. In making a decision as to whether to exercise this power, a court should be guided by the principles set out in paragraph 3 of these guidelines. In particular, the court should consider whether the revocation/cancellation of a licence would amount to an excessive punishment in view of the nature and circumstances of the offence.
+PART III
+20.   CATEGORIES OF OFFENDERS REQUIRING FURTHER CONSIDERATION
+CHILDREN
+20.1                 If considering detention or a probation order, the court is required to take into account background reports prepared by a probation officer and a children`s officer.[5] The overriding consideration when imposing orders against a child in conflict with the law is the child’s best interests.[6]
+20.2                 A death penalty or imprisonment cannot be imposed on children in conflict with the law.[7]A child in conflict with the law can, however, be committed to a rehabilitation school or a borstal institution.
+20.3                 Rehabilitation schools cater for children aged from ten to fifteen years.[8] Borstal institutions cater for children aged sixteen years and above but who have not attained the age of eighteen.[9]
+SITUATIONAL ANALYSIS
+20.4                 There are children in conflict with the law held in borstal institutions who are best suited for non-custodial measures outlined in section 191 of the Children Act.
+20.5 Orders placing children in borstal institutions are not executed on time and some children spend considerable time in police cells.
+20.6                 Most children are not represented by advocates and their parents or guardians are rarely involved in the sentencing process.
+20.7                 Owing to the inaccurate determination of age, some “boys” placed in borstal institutions appear to be adults. This is an issue of concern since the law demands that children in conflict with the law must be separated from adult offenders.[10]
+20.8                 With Shimo la Tewa Borstal, Shikusa Borstal and Kamiti Youth Corrective Centre being the only facilities catering for boys serving a custodial order, children from other stations end up being held far away from their homes.
+POLICY DIRECTIONS
+20.9     Courts must be guided by the Children Act at all times when dealing with children.
+20.10   The paramount objectives when dealing with children in conflict with the law should be reformation, social integration, rehabilitation and restorative justice. The order imposed should thus be the one best suited to realize this objective.[11]
+20.11       Custodial orders should only be imposed as a matter of last resort when dealing with children.[12]Committal of
+
+[1] Criminal Procedure Code, s. 343.
+
+
+[2] Ibid, s.344A.
+
+
+[3] Act No. 5 of 2003.
+
+
+[4] Prior to outlawing in 2003, first offenders were not liable to police supervision orders. See Rotich v Republic [1983] eKLR. Conversely, section 344A of the Criminal Procedure Code now provides for police supervision for the offenders convicted of the listed offences.
+
+
+[5] Children Act, Child Offender Rules, r.11 (1).
+
+
+[6] Children Act, s.4 (2); Convention on the Rights of the Child, a.3; Constitution of Kenya 2010, a. 53 (2); United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules), para 17.1 (d).
+
+
+[7] Children Act, s.190 (2); Convention on the Rights of the Child, a.37 (a); International Covenant on Civil and Political Rights, a.6 (5); African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa, para 9 (c); United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules), para 17.2.
+
+
+[8] Children Act, s. 191(1) (e).
+
+
+[9] Children Act, s.191 (1) (g); Borstal Institutions Act, s.2.
+
+
+[10] Constitution, a.53 (f) (2); Convention on the Rights of the Child, a. 37 (c); African Charter on the Rights and Welfare of the Child, a.2 (b); United Nations Rules for the Protection of Juveniles Deprived of their Liberty, para 1.
+
+
+[11] African Charter on the Rights and Welfare of the Child, a. 17 (3).
+
+
+[12]Constitution, a.53 (1) (f); Convention on the Rights of the Child, a. 37 (b); African Charter on the Rights and Welfare of the Child, a.4; United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules), para 17.1 (b) & (c) and para 19.1.
+juveniles to rehabilitation schools or borstal institutions should be reserved for cases in which non-custodial measures have failed. Section 191 of the Children Act offers a wide range of rehabilitative orders that the court should consider.
+20.12   Paragraph 7.15 (iii) of these guidelines in favor of non-custodial orders for children should be applied in all cases.
+20.13   The overarching consideration is the child’s best interest and thus the individual circumstances of the child should be considered.
+20.14   The court should, whenever possible, insist on the attendance and participation of the parent(s) or guardian(s) during sentencing.[1] This assists the court in identifying the most suitable sentence. However, the parent(s) or guardian(s) may be excluded from the process if it is in the child’s best interest.
+20.15   Where the court is not satisfied with the findings in respect to the age of the offender, it should be mindful to request for a further determination.
+20.16   Before placing a child in a particular borstal institution, the court must enquire the availability of space in that institution.[2] A child should only be placed in an institution if there is available accommodation.
+ 20.17 As much as possible, boys serving a custodial order should be placed in the borstal institution that is closest to their home.
+20.18   The order placing a child in a borstal institution must expressly indicate that the child is to be transferred to the institution as soon as possible but in any event not later than fourteen days from the date of the order.
+20.19   In the absence of borstal institutions catering for girls in conflict with the law, courts should consider suitable non-custodial orders.[3]
+20.20   Where a child is not represented by an advocate, the court should allow a parent or a guardian to assist the child, if the child so wishes, in accordance with article 50 (7) of the Constitution.
+OFFENDERS WITH DISABILITY
+20.21       Article 54 of the Constitution recognizes the right of persons with disability to be treated with dignity[4] and to have reasonable access to all places.[5] Further, article 29 (f) recognizes the freedom from cruel, inhuman or degrading treatment.[6]Article 14 of the UN Convention on the Rights of Persons with Disabilities requires States
+
+[1] United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules), para 15.2.
+
+
+[2] Borstal Institutions Act, s.8.
+
+
+[3] Rule 65 of the United Nations Rules for the Treatment of Women Prisoners and Non-custodial Measures for Women Offenders calls upon the court to take into account gender based vulnerability of girls in conflict with the law.
+
+
+[4] A.54 (1) (a); see also Constitution, a.28 which protects dignity for all persons.
+
+
+[5]. A.54 (1) (c); Persons with Disability Act, s.21
+
+
+[6] See also the International Convention on Civil and Political Rights (ICCPR), a. 7. Both the Constitution and ICCPR do not define “inhuman and degrading treatment”. However, para. 5 of the Human Rights Committee, General Comment 20, indicate that excessive chastisement ordered as punishment for a crime amounts to inhuman and degrading treatment. The African Commission on Human and Peoples Rights has held that “acts of inhuman and degrading treatment “not only cause serious physical or psychological suffering but also humiliate the individual…’ and ‘can be interpreted to extend to the widest possible protection against abuses, whether physical or mental (Egyptian Initiative for Personal Rights and INTERIGHTS v Egypt ; Communication 323/06). Further, the European Court of Human Rights maintains that the notion of inhuman treatment covers at least such treatment as deliberately causes severe suffering, mental or physical, which in the particular situation, is unjustifiable (The Greek Case (1969) Yearbook: Eur. Conv. on HR 12 page 186).
+to ensure that persons who are detained are accorded reasonable accommodation.
+20.22   These have a bearing on the sentences imposed upon offenders with disability. The sentence imposed must not amount to cruel, inhuman or degrading treatment in view of the disability and the facilities available in respect to custodial sentences.
+SITUATIONAL ANALYSIS
+20.23   The prisons infrastructure does not accommodate persons with disability humanely. In effect, where the extent of disability is high, the offenders suffer undue hardship and in some cases it amounts to inhuman and degrading treatment. There is need to enhance accessibility and accommodation for disabled persons in prisons
+POLICY DIRECTIONS
+20.24   When imposing sentencing orders against offenders with disability, the court should be mindful to ensure that the sentence imposed does not amount to an excessive punishment in view of the extent of disability and in light of the offence committed. In particular, the court should ensure that the sentence imposed does not amount to a cruel, inhuman or degrading treatment in view of the extent of disability of the offender.[1]
+TERMINALLY ILL AND ELDERLY OFFENDERS
+20.25   There is no special consideration for terminally ill and elderly offenders. However, as with the case of offenders with disability, the consideration is whether in view of the illness or age, the sentence is rendered excessive.[2] There are two dimensions worth considering. First, whether the illness or old age would cause the offender to experience undue and unjustifiable hardship in custody. Further, whether the conditions in custody would be termed inhuman bearing in mind the offenders’ state.[3] Second, whether the offender’s condition is one that would cause undue burden on other offenders and/or prison officers taking care of him/her.
+20.26   Article 57 of the Constitution affirms the right of older members of society to live in dignity. The sentence imposed on them must therefore not undermine this right.
+SITUATIONAL ANALYSIS
+20.27   The Kenya Prisons Service has made a good attempt at addressing the needs of HIV positive offenders. However, other offenders with terminal illnesses, such as those in need of dialysis, are not adequately catered for and face undue hardship while in custody.
+POLICY DIRECTIONS
+20.28   When imposing sentencing orders against terminally ill and elderly offenders, a court should be mindful to ensure that the sentence imposed does not amount to an excessive punishment in view of the extent of illness and age as well as in light of the offence committed. In particular, the court should ensure that the sentence imposed does not amount to cruel, inhuman or degrading treatment in view of the extent of illness and age of the offender.
+20.29   Non-custodial sentences should be considered unless, in light of the offence committed and other factors, justice would demand the imposition of a custodial sentence.
+OFFENDERS WITH MENTAL ILLNESSES
+20.30       Where the special finding of guilty but insane has been made, a court is required to order the offender to be held in custody awaiting the President’s order.[4]The court has the discretion as to the place and manner of custody during that period. Under section 166 (3) of the Criminal Procedure Code, the President may then order that the person be detained in a mental hospital, prison or other suitable place
+
+[1] Constitution, a.28; a. 29 (f).
+
+
+[2] See para 3.1.of these guidelines on proportionality.
+
+
+[3] See note 124 above.
+
+
+[4]Criminal Procedure Code, s. 166 (2).
+of safe custody. The order is to be reviewed after three years and subsequently after every two years.[1]
+20.31   Where an accused person is not insane but is unable to understand the proceedings, and the evidence submitted would justify a conviction, a court shall order the person to be detained under the President’s pleasure. If imposed by a subordinate court, the order must be confirmed by the High Court.[2] The confirming or presiding judge is required to forward to the Minister a copy of the notes of evidence taken at the trial, with a report in writing signed by him containing any recommendation or observations on the case he may find fit to make.[3]
+SITUATIONAL ANALYSIS
+20.32   Persons with mental illness often remain detained at the President’s pleasure for an inordinately long period.
+POLICY DIRECTIONS
+20.33   Section 166 and 167 of the Criminal Procedure Code are set out in mandatory terms and the court is required to report the case for the President’s order.
+20.34   The court has discretion on the place and mode of detention prior to the President’s order. Where the psychiatrist’s report and the probation officer’s report recommend detention in a mental hospital, the court should so order for the period prior to the President`s order. In such a case, the court should further make a recommendation to the President for the offender to be detained in a mental hospital.[4]
+20.35   Unlike under section 166, an order for detention under the President’s pleasure does not have a mechanism for review. However, section 167 (4) of the Criminal Procedure Code gives an opportunity for the court to make recommendations on a suitable intervention. The court should in such a case recommend a review timeline.
+FEMALE OFFENDERS
+20.36   The law protects pregnant women from receiving the death penalty.[5] The decision to the appropriate sentence for a female offender usually raises issues related to the welfare of the offender’s children. Thus, the best interest of the child becomes an important consideration.[6]
+SITUATIONAL ANALYSIS
+20.37   There are pregnant and lactating offenders who are imprisoned yet are suitable candidates for non-custodial sentences. The majority of pregnant and lactating offenders are imprisoned for terms of three years and below. For single mothers, the impact of imprisonment is grave as many children are left destitute. The mothers also lose their source of income, thus creating a vicious cycle.
+20.38   The Kenya Prisons Service seeks to offer the most reasonable services to the pregnant women and the children born in custody. However, there are financial challenges. There are huge concerns about children born and brought up in the prison environment.
+POLICY DIRECTIONS
+20.39   Where the court is satisfied that an offender is pregnant or lactating, it should consider imposing a non-custodial sentence unless the seriousness of the offence and other factors demand a custodial sentence for justice to be served.[7]
+20.40   The caretaking responsibilities, background and family ties of female offenders should be taken into account during sentencing.[8]
+20.41   The above stated factors should be considered alongside paragraph 7.3 of these guidelines and in the absence of aggravating circumstances, the court should consider imposing a non-custodial sentence.
+21.   ACCUSED PERSONS PLEADING GUILTY
+21.1                 The overall objective of the criminal justice system is to convict those who have committed offences. Thus persons pleading guilty contribute towards meeting this objective as well as enabling the victim to obtain justice without unreasonable delay. It also protects a victim from re-victimization that may occur during trial. Pleading guilty also saves the court’s time.
+SITUATIONAL ANALYSIS
+21.2             The offender pleading guilty rarely impacts upon the decision of the court. There are underlying views which discourage ‘rewarding’ of an offender merely because he pleads guilty. However, as stated above, pleas of guilty are beneficial to victims as well as to the criminal justice system.
+21.3             There are instances where accused persons are misled to plead guilty and subsequently claim that justice was not met as they did not fully understand the nature and effect of their actions.
+POLICY DIRECTIONS
+21.4             Where an accused person pleads guilty and exhibits remorsefulness, the sentence is reduced in the same terms as a single mitigating circumstance as discussed in paragraph 23.9 (ii) of these guidelines.
+21.5             The court must remain guided by the overall objective, which is the conviction of the guilty. It, therefore, has to satisfy itself that the accused person fully understands what pleading guilty means and the effect of pleading guilty.
+21.6             Since the objective of reducing the sentence is not to reward the offender, where the court is of the view that the offender is not remorseful, then it may decide not to reduce the sentence simply on account of a plea of guilty. In this case, the court shall state so against the sentence imposed.
+PART IV
+22.   THE SENTENCING PROCESS
+22.1             The sentencing process commences once a person has been convicted and the court begins to consider the sentence to be imposed.
+22.2             The following parties have a role to play in the sentencing process:
+PROSECUTION
+22.3     The prosecutor bears the duty:
+1.     To draw to the attention of the court any aggravating or mitigating circumstances including previous convictions of the offender.
+ 2.    To submit to the court on relevant provisions of the law and judicial precedents that should be taken into account when sentencing.
+
+[1] Criminal Procedure Code, s. 166 (4).
+
+
+[2] Ibid, s.167 (1) (a).
+
+
+[3] Criminal Procedure Code, s. 167 (4)
+
+
+[4] Paragraph 82 of the Standard Minimum Rules for the Treatment of Prisoners prohibits the detention of insane and mentally abnormal offenders in prison.
+
+
+[5] Penal Code, s.211; African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa, para 9 (c).
+
+
+[6] Children Act, s.4 (2); Convention on the Rights of the Child, a.3. Rule 61 of the United Nations Rules for the Treatment of Women Prisoners and Non-Custodial Measures for Women Offenders calls upon courts to take into account the care-giving responsibilities of women when sentencing them.
+
+
+[7] United Nations Rules for the Treatment of Women Prisoners and Non-Custodial Measures for Women Offenders, rule 64. See also Constitution of Kenya 2010, a. 53 (2); United Nations Standard Minimum Rules for Non-custodial Measures (Tokyo Rules), r. 8.1; African Union Principles and Guidelines on the Right to a Fair Trial and Legal Assistance in Africa, para. 9 (e) (i) which highlight the best interest of the child as a critical consideration.
+
+
+[8]United Nations Rules for the Treatment of Women Prisoners and Non-Custodial Measures for Women Offenders, rule 57, 58 and 61.
+3.     To draw to the attention of the court any other issue that would impact upon the sentence.
+SITUATIONAL ANALYSIS
+22.4                 Typically, prosecutors inform the court whether the accused person is a repeat offender and sometimes implore the court to impose a harsh sentence.
+22.5                 It emerges that, in many cases, the prosecutors do not have information on the offenders’ past convictions, hence ask the court to treat offenders as first-time offenders. Unfortunately, some of those offenders are recidivists. This is attributed to the lack of digital police records.
+POLICY GUIDELINES
+22.6                 Prosecutors should ensure that the offender’s accurate criminal record is obtained before the trial is concluded.
+22.7                 Prosecutors should adequately and objectively guide the court by effectively dispensing with the duties listed above.
+PROBATION AND CHILDREN OFFICERS
+22.8         The probation and children officers bear the duty:
+1.             To provide accurate, objective and reliable information about the offender, victim and the community which would assist the court in reaching the Sentencing Policy Guidelines 45 most appropriate sentence. The officer should gather information from all the parties involved to avoid biased information and/or conclusions. This information includes but is not limited to:
+1.     The circumstances under which the offence was committed;
+2.     The offender’s background;
+3.     The offender’s family;
+4.     The offender’s past criminal history;
+5.     The responsibilities the offender has in society and whether the offender is a primary care giver;
+6.     The offender’s health status;
+7.     The offender’s means of livelihood;
+8.     The offender’s social status;
+9.     The offender’s attitude towards the offence/remorsefulness;
+10.   The likelihood of the offender to reform;
+11.   Impact of the offence on the victim; and
+12.   Any other relevant information.
+22.9                 Typically, this information is contained in the pre-sentence reports.
+SITUATIONAL ANALYSIS
+22.10   Courts routinely request for pre-sentence reports in cases in which a non-custodial sentence is being considered. In some cases, offenders pursue a review on the basis of the court`s departure from the pre-sentence reports submitted by probation officers.
+22.11   In other cases, offenders claim that the reports do not reflect their views as the officers do not always interview the offender.
+POLICY DIRECTIONS
+22.12   To pass a just sentence, it is pertinent to receive and consider relevant information.[1] The court should, as a matter of course, request for pre-sentence reports where a person is convicted of a felony as well as in cases where the court is considering a non-custodial sentence. In respect to children in conflict with the law, social enquiry reports should be requested for as a matter of course.[2] Whilst the recommendations made in the pre-sentence reports are not binding, the court should give reasons for departing from the recommendations.
+22.13   In obtaining information, probation/children officers should ensure that they conduct balanced interviews (interview both opposing sides) to avoid bias.
+22.14   The offender should be interviewed by the probation/children officer. This is particularly important as it reveals the attitude of the offender and guides the court on an appropriate sentence.
+22.15   Probation/children officers must provide accurate information and should endeavour to uphold the principles of accountability and transparency.[3]
+22.16   The court may seek clarity on information provided either orally or through the reports.
+DEFENCE
+22.17   The offender may be represented or unrepresented.
+22.18   The defence:
+1.     Should bring to the court’s attention any mitigating and other circumstances which should be taken into account. This includes circumstances which would make a particular form of sentence inappropriate.
+2.     Should highlight any information that may have a bearing on the sentence including a commitment to restorative justice measures such as compensation, restitution of and reconciliation with the victim.
+3.     Where the offender is remorseful, he/she should express the same to the court and his/her reception towards rehabilitative efforts.
+4.     Should submit to the court on relevant provisions of the law and judicial precedents that should be taken into account when sentencing.
+SITUATIONAL ANALYSIS
+22.19   Where offenders are not represented by advocates, many of them fail to understand what is required in terms of mitigation. In many cases, they fail to provide information that impact on the sentence, opting to remain silent or giving irrelevant information.
+POLICY DIRECTIONS
+22.20   The court should upon convicting an offender invite him or her to make his/her submissions before proceeding to consider the sentence. This is especially so for the unrepresented.[4] The court should guide the offender on what is required of him/her at this stage.
+22.21   The offender’s response, including opting to remain silent should be recorded.
+22.22   The offender should be given an opportunity to challenge any issue raised by the other parties that impacts on the punishment.[5]
+VICTIM
+22.23   The victim is entitled to submit his/her views on the appropriate sentence. This includes the impact of the crime, needs arising from the crime or other sentiments such as a desire to reconcile with the offender. Where a victim wishes to submit views, the court is obligated to hear him/her.[6]
+22.24   The victim`s views can be submitted by a legal representative where they so wish.[7]
+
+[1] Criminal Procedure Code, s. 329.
+
+
+[2] United Nations Standard Minimum Rules for the Administration of Juvenile Justice (Beijing Rules), para 16.1
+
+
+[3] United Nations Standard Minimum Rules for Non-custodial Measures (Tokyo Rules), para 7.1
+
+
+[4] Criminal Procedure Code, s.323.
+
+
+[5] See R v KalunaSeguja (1935) 2 E.A.C.A 85.
+
+
+[6] Victim Protection Act s.9 (2) (a); United Nations Standard Minimum Rules for Non-custodial Measures (Tokyo Rules), Rule 8.1.; Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power, para 6 (b).
+
+
+[7]Victim Protection Act, s.9 (3).
+22.25   Victim impact statements can be filed by or on behalf of the victim, or, by or on behalf of the prosecutor.[1] These statements provide particulars of the personal harm suffered by the primary victim or, where the primary victim is deceased, particulars of the impact of the primary victim’s death.[2]
+SITUATIONAL ANALYSIS
+22.26   Typically, victims do not take part in the trial process except as witnesses. They are, on many occasions, not informed of the progress in the case.
+POLICY GUIDELINES
+22.27   The court should provide hearing notices to the victims to attend the sentencing hearing, but their reluctance to participate should be respected.[3]
+22.28   Before sentencing, a court should enquire whether victim impact statements will be submitted. Victim impact statements are not mandatory.[4] Where submitted, they, together with views submitted by the victim, should be taken into account in determining the sentence to be imposed.[5]
+22.29   At the beginning of sentencing hearing, the court should inform the victims of their right to express their views and that the court would give them an opportunity to do so after the prosecutor’s and defence’s submissions.
+22.30   Participation of the victim at this stage is voluntary and the court should keep the victims informed of this position.
+23.   THE SENTENCING HEARING
+23.1     The court should schedule a hearing in which it receives submissions that would impact on the sentence. Whilst the pertinent information is typically contained in the reports, the hearing provides the court with an opportunity to examine the information and seek clarity on all issues.
+23.2     The sentencing hearing also provides the offender with an opportunity to cross-examine on any adverse information that would be prejudicial to him/her. This is in keeping with the spirit of the Constitution which guarantees the offender the right to adduce and challenge evidence.[6]
+DETERMINATION OF THE SENTENCE
+23.3                 After the sentencing hearing, the court should:
+1.     Make a decision as to whether a custodial or a non-custodial sentence should be imposed in line with paragraph 7.15 of these guidelines.
+2.     If the most appropriate sentence is a custodial one, proceed to determine the length of the sentence.
+AGGRAVATING AND MITIGATING CIRCUMSTANCES
+23.4     To determine the most suitable sentence, the court shall take into account the aggravating and mitigating circumstances.
+23.5     In all cases, convicted persons should be expressly provided with an opportunity to present submissions in mitigation.[7]
+23.6     The list of aggravating and mitigating circumstances below is not exhaustive.
+AGGRAVATING CIRCUMSTANCES
+23.7                 Aggravating circumstances warrant a stiffer penalty than would be ordinarily imposed in their absence. They include:
+1.     Use of a weapon to frighten or injure a victim; the more dangerous the weapon, the higher the culpability.
+2.     Multiple victims.
+3.     Grave impact on national security.
+4.     Serious physical or psychological effect on the victim.
+5.     Continued assault or repeated assaults on the same victim.
+6.     Commission of the offence in a gang or group.
+7.     Targeting of vulnerable groups such as children, elderly persons and persons with disability.
+8.     Previous conviction(s), particularly where a pattern of repeat offending is disclosed.
+9.     Intricate planning of an offence.
+10.   An intention to commit a more serious offence than was actually committed.
+11.   High level of profit from the offence.
+12.   An attempt to conceal or dispose of evidence.
+13.   Flagrant use of violence or damage to person or property in the carrying out of an offence.
+14.   Abuse of a position of trust and authority.
+15.   Use of grossly inhuman and degrading means in the commission of an offence.
+16.   Targeting those working in the public sector or providing a service to the public.
+17.   Commission of offences motivated by ethnic, racial and gender bias.
+MITIGATING CIRCUMSTANCES
+23.8 Mitigating circumstances warrant a more lenient penalty than would be ordinarily imposed in their absence. They include:
+1.     A great degree of provocation.
+2.     Commitment to repairing the harm caused by the offender’s conduct as evidenced by actions such as compensation, reconciliation and restitution prior to conviction.
+3.     Negligible harm or damage caused.
+4.     Mental illness or impaired functioning of the mind.
+5.     Age, where it affects the responsibility of the individual offender.
+6.     Playing of a minor role in the offence.
+7.     Being a first offender.
+8.     Remorsefulness.
+9.     Commission of a crime in response to gender-based violence.
+10.   Pleading guilty at the earliest opportunity[8] and cooperation with the prosecution and the police.
+23.9                 In view of aggravating and mitigating circumstances, the determination of the term of the custodial sentence shall be as follows:
+1.             Starting point in determining the term of the custodial sentence: The first step is for the court to establish the custodial sentence set out in the statute for that particular offence. To enable the court to factor in mitigating and aggravating circumstances/factors, the starting point shall be fifty percent of the maximum custodial sentence provided by statute for that particular offence. Having a standard starting point is geared towards actualizing the uniformity/impartiality/consistency and accountability/transparency principles set out in paragraphs 3.2 and 3.3 of these guidelines. A starting
+
+[1] Criminal Procedure Code s.329 C (3) (a).
+
+
+[2] Criminal Procedure Code s.329 A
+
+
+[3] Victim Protection Act s.9 (2) (a), s.12; Tokyo Rules Rule 8.1.
+
+
+[4] Criminal Procedure Code s.329 D; Sexual Offences Act, s.33.
+
+
+[5] Criminal Procedure Code s.329 B; Victim Protection Act, s.12.
+
+
+[6] A. 50 (2) (k).
+
+
+[7] Criminal Procedure Code, s.323.
+
+
+[8]See para 21 above.
+point of fifty percent provides a scale for the determination of a higher or lower sentence in light of mitigating or aggravating circumstances.
+2.     Presence of mitigating circumstances[1]: The effect of mitigating circumstances/factors is to lessen the term of the custodial sentence. The court shall consider the mitigating circumstances/factors and deduct some time off the fifty percent of the custodial sentence provided by statute for that particular offence. Where the statute has set out a minimum term, the deduction of time in custody cannot go below the minimum sentence.
+3.     Presence of aggravating circumstances: The effect of aggravating circumstances/factors is to increase the term of the custodial sentence. The court shall consider the aggravating circumstances/factors and add a length of time to the fifty percent of the sentence provided by statute for that particular offence. The court cannot impose a sentence that goes beyond the custodial term provided by law.
+4.     Presence of both aggravating and mitigating circumstances: Where both exist, the court should weigh the aggravating and mitigating circumstances and where mitigating circumstances outweigh the aggravating ones, then the court should proceed as if there is a single mitigating circumstance. Where aggravating circumstances outweigh the mitigating circumstances, then the court should proceed as if there is a single aggravating circumstance.
+23.10   Since life imprisonment has not been defined by the law in Kenya, guideline 23.9 above which presumes a sentence specifying the length of time would not be applicable. However, in such cases, the court should endeavor to impose a sentence in keeping with the spirit of these guidelines as set out in part I.
+24.   PRONOUNCEMENT AND FORM OF JUDGMENT
+24.1                 The sentencing process forms part of the trial and is therefore subject to the fair hearing constitutional guarantees. The sentence must be pronounced without unreasonable delay.[2] The judgment must clearly set out the reasons that informed the sentence.[3] This includes the factual grounds and legal provisions that led to the sentence. The requirements of section 169 (1) of the Criminal Procedure Code which include pointing out the point(s) for determination and the reasons for the decision apply in respect to the sentence imposed.
+24.2                 Where a court departs from these guidelines, it must give reasons.
+24.3                 Copies of the judgment should be availed to the accused person.
+25.   GUIDELINE JUDGMENTS
+25.1                 Where there are guideline judgments, that is, decisions from the superior courts on a sentencing principle, the subordinate courts are bound by it. It is the duty of the court to keep abreast with the guideline judgments pronounced. Equally, it is the duty of the prosecutor and defence counsel to inform the court of existing guideline judgments on an issue before it.
+PART V
+26.   INTER-AGENCY CO-ORDINATION AND OVERSIGHT OF SENTENCES IMPOSED
+26.1                 The effectiveness of the sentencing regime is dependent upon all the players informing the sentencing process as well as those implementing the sentences imposed. For the court to exercise its discretion to mete out an appropriate sentence, it relies upon the other agencies who provide the relevant information. Similarly, the court’s decision is premised upon an understanding that the sentences imposed are enforced as required by law. Thus, the court relies upon all the institutions that play a role in the enforcement of sentences to carry out their responsibilities in a manner that meets the overall objectives of punishment. For instance, where a court is of the opinion that an offender needs to be rehabilitated and imposes a non-custodial probation order, the realization of this objective is dependent upon the Department of Probation and Aftercare Services. Similarly, the Kenya Prisons Service determines whether the intended objectives of custodial sentences are met.
+26.2                 In the same vein, the sentences meted out by the court impact upon the other institutions. Inter-agency coordination is therefore crucial. The National Council on the Administration of Justice which coordinates institutions involved in the administration of justice thus plays a critical role in the sentencing regime.
+SITUATIONAL ANALYSIS
+26.3                 The Court Users Committees have provided a platform for the different agencies to interact and address issues affecting the delivery of justice. The National Council on the Administration of Justice enhances inter-agency interaction at the national level. However, there are gaps in the coordination of agencies.
+26.4                 The community service orders framework is an area that requires further coordination. First, the Community Service Orders Case Committees which ought to streamline the operation of the orders have not been effective. Second, the supervision of the orders is not optimal.
+26.5                 Whereas, the conditions in prisons have remarkably improved, the conditions in some are still dire. Courts contribute to the overcrowding by failing to impose non-custodial sentences even where they are appropriate. On the other hand, the Kenya Prisons Service has not expanded its facilities in spite of the population growth.
+26.6                 The rehabilitation of offenders held in custody is dependent upon the programmes offered to the inmates. The programmes offered in some prisons have expanded and incorporate relevant and contemporary skills. However, some prisons have not developed much in terms of the rehabilitative programmes offered.
+26.7                 For the courts to impose more non-custodial sentences there are huge implications on the Department of Probation and Aftercare Services. The population to supervise will increase and if courts are to request for more reports, then the workload will increase. There would be grave repercussions if the courts’ policy change is not matched by the enhancement of the capacity of the Department of Probation and Aftercare Services. Currently, officers are unable to effectively perform their duties in some cases due to meagre resources.
+POLICY DIRECTIONS
+26.8                 The inter-agency coordination forums bringing together the different agencies should be consistent and proactive.
+26.9                 At the court station level, the judicial officers chairing the Community Service Orders Case Committee and who are members of the Probation Orders Case Committee in each station should be committed to offering leadership to the committees. Meetings should be held routinely to address the issues arising. The probation officers should in particular, be proactive in identifying placement areas and oversee the performance of the offender. The Community Service Orders Case Committee in each station should routinely engage with supervising officers. Newly appointed supervising officers should be adequately guided on their roles.
+26.10       At the national level, the Probation Orders Central Committee and the National Community Service Orders Committee should consistently engage with the local case
+
+[1] See Otieno v. Republic [1983] eKLR in which the court stated that “the general rule is that a maximum sentence should not be imposed on a first offender”.
+
+
+[2] Constitution of Kenya 2010, a.50 (2) (e).
+
+
+[3]Constitution of Kenya 2010, a. 50, a.73 (2) (d); Criminal Procedure Code, s.169 (1). See Fatuma Hassan Salo v. Republic [2006] eKLR in which the court highlighted that the “trial court seized of the matter is obliged to make detailed notes on the matters it has taken into account in arriving at the one of the options of punishment available”.
+committees to identify and address issues affecting the optimal operation of those orders. The judicial officers chairing these committees bear the duty to ensure that meetings are held consistently and that issues undermining the realization of the objectives of the sentence are addressed.
+26.11   The National Council on the Administration of Justice should consistently engage with the local committees and influence policy changes in the different institutions that are necessary for the realization of the objectives of sentencing.
+26.12   The resident magistrates should routinely exercise their oversight powers as prisons` visiting justices.[1] The visits should be consistent and should be utilized to identify issues of concern impacting upon the delivery of justice.
+26.13   The Court Users Committees should work consistently in all stations and should work together to address issues that may undermine the realization of these policy directions.
+26.14   The Department of Probation and Aftercare Services should be adequately resourced to ensure that officers are able to collect information effectively and on time as well as effectively supervise the sentences.
+26.15   In respect to children in conflict with the law, the National Police Service should provide adequate resources to ensure that children committed to borstal institutions are transferred within fourteen days.
+26.16   The rehabilitation programmes being offered in a few prisons should be rolled out in all prisons to ensure that there is uniformity in the enforcement of custodial sentences.
+26.17   The Kenya Police Service should maintain records of offenders efficiently to ensure that recidivists are not treated as first offenders and that those on suspended sentences and those discharged serve their sentence for the original offence.
+27.   PUBLIC AWARENESS
+27.1 Lack of public awareness on the sentencing process as well as on the sentences available contributes to negative perceptions on the delivery of justice.
+27.2                 The deterrence objective cannot also be met where the public is unaware of the repercussions of criminal behaviour.
+27.3                 Non-custodial sentences such as community service orders and probation orders require the support of the community to reach their optimal potential. For instance, to attract more people to act as supervising officers for offenders serving community service orders as well as volunteer probation officers, there is need for more public awareness.
+SITUATIONAL ANALYSIS
+27.4                 For many people, imprisonment is the only and obvious penal sanction imposed by the criminal justice system. There is lack of adequate information on noncustodial sentences. Thus, use of non-custodial sentences is frowned upon and is linked to corruption.
+27.5                 Many convicts fail to understand the rationale behind the sentence imposed on them. Similarly, some victims are dissatisfied with the sentences meted out on them. There is also public outrage in some cases where the sentence meted out is challenged. This is attributed to the failure to explain the reasons for the decision clearly when imposing the sentence. In respect to cases attracting public attention, the lack of clear and adequate information is compounded by the fact that media remains the main source of information thus giving room to misinformation.
+27.6                 In its public relations programmes, the Judiciary has not given much attention to informing the public on sentencing.
+POLICY DIRECTIONS
+27.7                 The Judiciary should incorporate information relating to the sentencing regime in its public awareness programmes. These public awareness programmes should be enhanced and as this is done, more information on sentencing should be disseminated.
+27.8                 As much as possible, the court should explain the sentence and the reasons for the decision to the offender in simple, clear language and in a public hearing.
+28.   MONITORING AND EVALUATION OF THE SENTENCING POLICY GUIDELINES
+28.1                 The Judiciary Training Institute shall continually provide training on the application of these Sentencing Policy Guidelines.
+28.2                 The Judiciary shall develop and maintain a monitoring system facilitating a comprehensive evaluation of these guidelines. The evaluation of the guidelines shall include but is not limited to an assessment of their impact on sentencing trends and crime rates.
+WILLY MUTUNGA,
+Chief Justice and Chair,
+National Council on the Administration of Justice.
+
+[1] Prisons Act, s.72 (2 -5); Body of Principles for the Protection of All Persons under Any Form of Detention or Imprisonment, principle 29; Standard Minimum Rules for the Treatment of Prisoners, para 55; United Nations Rules for the Protection of Juveniles Deprived of their Liberty, para 72.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1481 @@
+
+				Page: 2575GAZETTE NOTICE NO. 6809
+THE CENTRAL BANK OF KENYA  (CAP. 491)  MONETARY POLICY STATEMENT
+The Principal Objectives of the Central Bank of Kenya
+The principal objectives of the Central Bank of Kenya (CBK) as established in the CBK Act are:
+(1)       To formulate and implement monetary policy directed to achieving and maintaining stability in the general level of prices;
+(2)       To foster the liquidity, solvency and proper functioning of a stable, market-based, financial system;
+(3)       Subject to (1) and (2) above, to support the economic policy of the Government, including its objectives for growth and employment.
+Without prejudice to the generality of the above, the Bank shall:
+Formulate and implement foreign exchange policy;
+Hold and manage Government foreign-exchange reserves;
+License and supervise authorised foreign exchange dealers;
+Formulate and implement such policies as best promote the establishment, regulation and supervision of efficient and effective payment, clearing and setdement systems;
+Act as banker and adviser to, and as fiscal agent of, the Government; and
+Issue currency notes and coins.
+The CBK therefore, formulates and conducts monetary policy with the aim of keeping.overall inflation within the allowable margin (currently 2.5 percent) on either side of the target(currently 5 percent in the medium-term) prescribed by the National Treasury after the annual Budget Policy Statement. The achievement and maintenance of a low and stable inflation rate together with ensuring adequate liquidity in the market facilitates higher levels of domestic savings and private investment, and leading to improved economic growth, higher real incomes and increased employment opportunities. .
+In this regard, the Bank's monetary policy is designed to support the Government's desired growth in the production of goods and services and employment creation through achieving and maintaining a low and stable inflation. Instruments of Monetary Policy
+The CBK pursues its monetary policy objectives through use of the following instruments:
+Open Market Operations (OMO)refers to actions by the CBK through purchases and sales of eligible securities to regulate the money supply and the credit conditions in the economy. OMO can also be used to stabilise short-term interest rates. When the Central Bank buys securities on the open market, it increases the reserves of commercial banks, making it possible for them to expand their loans which increase the money supply. To achieve the desired level of money supply, OMO is conducted using:
+o Repurchase Agreements (Repos): Repos entail the sale of eligible securities by the CBK to reduce commercial banks' deposits held in CBK. Currently, Repos (often called Vertical Repos) have a fixed tenor of 7 working days. Reverse Repos are purchases of securities from commercial banks and hence an injection of liquidity by the CBK during periods of tighter than desired liquidity in the market. The late Repo, sold in the afternoon, has a 4-day tenor and is issued at an interest rate 100 basis points below the Repo on that day.
+o Term Auction Deposits (TAD):The TAD is used in exceptional market conditions when the securities held by the CBK for Repo purposes are exhausted or when CBK considers it desirable to offer longer tenor options. The CBK seeks to acquire deposits through a transfer agreement from commercial banks at anauction price but with no exchange of security. Currently, the deposits are transferred to the CBK for a 14, 21, or 28 day periods after which they revert to the respective commercial banks on maturity of the transfer agreement.
+Central Bank Rate (CBR): The CBR is the lowest rate of interest charged on loans to commercial banks by the CBK. The level of the CBR is reviewed and announced by the Monetary Policy Committee (MPC) at least every two months and its movements, both in direction and magnitude, signal the monetary policy stance. In order to enhance clarity and certainty in monetary policy implementation, the CBR is the base for all monetary policy operations. Whenever the Central Bank is injecting liquidity through a Reverse Repo, the CBR is the lowest acceptable rate by law.Likewise whenever the Bank wishes to withdraw liquidity through a Vertical Repo, the CBR is the highest rate that the CBK will pay on any bid received.Movements in the CBR are transmitted to changes in short-term interest rates. A reduction of the CBR signals an easing of monetary policy and a desire for market interest rates to move downwards. Lower interest rates encourage economic activities and thus growth. When interest rates decline, the quantity of credit demanded should increase.The efficiency of the repo and interbank markets is crucial for the transmission of monetary policy decisions. The CBK monitors the overnight interbank money market which is conducted by the banking industry and seeks to ensure that the interbank rate is confined within a reasonable range of the CBR in order to minimise volatility.Short-term international flows of capital are affected by short-term interest rates in the country. These are, in turn, affected by movements in the CBR and hence indirectly, the exchange rate could also be affected.
+Kenya Banks' Reference Rate (KBRR): The KBRR is the base rate for all commercial banks' lending. It is computed as an average of the CBR and the weighted 2-month moving average of the 91-day Treasury bill rates. Given that or.e of the components of the KBRR is the CBR, this framework will enhance the transmission of monetary policy signals through commercial Darts' lending rates.
+Standing Facilities: The CBK, as lender of last resort, provides secured loans to commercial banks on an overnight basis at a penal rate that is above the CBR. The rules governing the operation of the CBK Discount Window are reviewed from time to time by the Bank. Currendy, banks utilising the CBK Overnight Window are charged the CBR plus a penalty in order to encourage them to trade with each other. Moreover, banks making use of this facility more than twice in a week are scrutinised to establish whether prompt corrective action is required to address any weakness that is not merely temporary.
+The Cash Reserves Ratio (CRR): In accordance with the law, the CRR is the proportion of a commercial bank's deposit liabilities which must be deposited at CBK. These deposits are held in the CRR Account at no interest. The ratio is currently 5.25 percent 0f the total of bank's domestic and foreign currency deposit liabilities. To facilitate commercial banks' liquidity management, commercial banks arerequired to maintain their CRR as a monthly average for a cycle running from die 15 of the month to the 14 of the next month and not to fall below a CRR of 3 percent on a daily basis. A reduction in the CRR releases liquidity thus enhancing the capacity of commercial banks to expand credit An increase in the CRR tightens liquidity and could also dampen demand-driven inflationary pressures.
+Foreign Exchange Market Operations: The CBK can also inject or withdraw liquidity from the banking system by engaging in foreign exchange transactions. A sale of foreign exchange to banks withdraws liquidity from the system while the purchase of foreign exchange injects liquidity into the system. Participation by the CBK in the foreign exchange market is usually motivated by the needto acquire foreign exchange to service official obligations and build its foreign exchange reserves where the statutory requirement is to use the Bank's best endeavours to maintain foreign reserves equivalent to a three year average of four months' import cover. The CBK does not participate in the foreign exchange market to defend a particular value of the Kenya shilling but may intervene to stabilise excess volatility in the exchange market. The following regulatory measures have been introduced,through Prudential Guidelines of banks,to support stability of the exchange rate:
+(i) Limiting the tenor of swaps and Kenya Shilling borrowing where offshorebanks are involved to a tenor of not less than one year.
+(ii) Limiting the tenor of swaps between residents to not less than seven days.
+(iii) Reduction of the foreign exchange exposure ratio of core capital from 20 percent to 10 percent.
+(iv) Requiring that local banks obtain supporting documents for all transactions in the Nostra accounts of offshore banks.
+(v) Suspension of the use of any Electronic Brokerage System by banks.
+Horizontal Repos: Theseare transacted between commercial banks on the basis of signed agreements using government securities as collateral, and have negotiated tenors and yields. Commercial banks, short of deposits at the CBK, borrow from banks with excess deposits on die security of an appropriate asset, normally a government security. Horizontal repos help banks to overcome the problem of limits to lines of credit, thus promoting efficient management of interbank liquidity. They are not strictly monetary policy instruments but modes of improving liquidity distribution under CBK supervision.
+Licensing and Supervision of Financial Institutions: The Bank uses the licensing and supervision tools to ensure the health and efficiency of the banking system; this includes vetting potential managers for suitability both with respect to qualifications and character.
+Communication: The increasing use of the media ensures a wider dissemination of monetary policy decisions and background data thereby increasing the efficiency of information transmission. The regular interaction between the MPC and the Chief Executive Officers of commercial banks through the Kenya Bankers Association (KBA) has ensured that monetary policy decisions are transmitted to the banking sector. The CBK website is an important source of up-to-date data on all aspects of the financial market including interest rates, exchange rates and results of auctions of government securities. The CBK also participates in the Agricultural Society of Kenya Shows in order to sensitise the public on its functions.
+Legal Status of the Monetary Policy Statement
+1. Section 4B (1) of the CBK Act requires the Bank to submit to the Cabinet Secretary for The National Treasury, at intervals of not more than six months, a MonetaryPolicy Statement for die next twelve months which shall:
+(i)  Specify policies and the means by which the Bank intends toachieve its policy targets;
+(ii)  State reasons for adopting such monetary policies and means; and
+(iii)   Contain a review and assessment of the progress made in the implementation of monetary policy by die Bank during die period to which the preceding Monetary Policy Statement relates.
+2. The Cabinet Secretary shall - by law - lay every Statement submitted under subsection (1) before the appropriate committee of the National Assembly not later than the end of the subsequent session of Parliament after the Statement is so submitted.
+3a. The Bank shall - by law -publish in the Kenya Gazette:
+(i)  Its Monetary Policy Statement; and
+(ii)   Its Monthly Balance Sheet.
+3b. The Bank is further required to dissetninate key financial data and information on monetary policy to the public.
+4. In subsection (2), the expression "appropriate committee" means the committee of the National Assembly appointed to investigate and inquire into matters relating to monetary policy.
+Executive Summary
+This Monetary Policy Statement reviews the outcome of the monetary policy stance adopted in die second half of the Fiscal Year 2013/14. It also provides the monetary policy path for the Fiscal Year 2014/15 with focus on the first six months.
+Overall month-on-month inflation remained within the Government target bounds during the second half of the Fiscal Year 2013/14. This reflected the success of the monetary policy stance adopted by the Monetary Policy Committee (MPC) in the period and the supporting fiscal policy environment. However, overall inflation remained in the upper bound of the medium-term target of 5 percent during the period. Specifically, it declined from 7.15 percent in December 2013 to 6.27 percent in March 2014 but increased gradually thereafter to 7.39 percent in June 2014. The rise inoverall inflation during the period wasmainly driven by the base effect and also reflected an increase in the prices of some foodstuffs, fuel and electricity. However, the 12-month non-food-non-fuel inflation, which measures the impact of monetary policy, remained within the 5 percent inflation target during the period indicating relatively low demand pressures in the economy.
+The exchange rate remained generally stable during the second half of the Fiscal Year 2013/14 despite the short-term seasonal pressures attributed mainly to remittance of corporate dividend payments. This stability in the exchange rate was supported mainly by increased foreign exchange inflows through Diaspora remittances and increased foreign investor participation at the Nairobi Securities Exchange as well as improved investor confidence following the successful issuance of the Sovereign Bond in June 2014. The Bond was massively oversubscribed while the realised yields were comparably low relative to those on recent issues of similar bonds in the region. The stability in exchange rate during the period moderatedanythreat of imported inflation. The Central Bank of Kenya (CBK) foreign exchange reserves remained above the statutory requirement of the equivalent of 4 months of import cover thereby providing a cushion to the foreign exchange market against external shocks. This level of foreign exchange reserves will improve as the Government utilises the proceeds of the Sovereign Bond. Hie movements in short-term rates were generally aligned to the' Central Bank Rate (CBR) while Open Market Operations continued to support liquidity management during the period. The MFC retained the CBR at 8.50 percent in die second half of the Fiscal Year 2013/14. This monetary policy stance anchored inflationary expectations and maintained the desired objective of price stabilitywhile at the same time supporting economic activity through non-inflationary credit growth.
+The monetary policy stancein the Fiscal Year 2014/15 will be aimed at maintaining the overall month-on-month inflation rate within the current allowable margin of 2.5 percent on either side of the Government's medium-term target of 5 percent. The Bank will also continue building its foreign exchange reserves in line with the monetary policy objective and prudent management policies.The coordination between monetary and fiscal policies will continue to support the sustainability of the country's public debt and overall macroeconomic stability .The issuance of the Sovereign Bond in June 2014 is also expected to dampen pressure on both Government domestic borrowing and interest rates.
+During the Fiscal Year 2014/15, monetary policy will seek to constrain the annual growth in broad money supply, M3, to 25.6 percent by September 2014,20.7 percent by December 2014,18.8 percent by March 2015 and 6.8 percent by June 2015. The projected slowdown in June 2015 isattributed to the base effect following the significant growth in money supply in June 2014 following the issuance of the Sovereign Bond. The Net Domestic Assets (NDA) of the Bank is projected at Ksh -201.1 billion in September 2014, Ksh-190.9 billion in December 2014, Ksh-187.9 billion to March 2015, and Ksh-191.2 billion in June 2015. However, the annual growth in credit to the private sector is projected at 24.3 percent in September 2014, 21.7 percent in December 2014, 20.3 percent in March 2015, and 16.1 percent in June 2015. The Net International Reserves (NIR) of the CBK are projected at USD 5,753.6 million in September 2014, USD 6,252.3 million in December 2014, USD 6,705.1 million in Match 2015 and USD 6,821.8 million in June 2015. The Bank will also continue to enhance the effectiveness and efficiency of its monetary policy instruments. Hie monetary policy stance will aim at ensuring that movements in the short-term interest rates are supportive to the Bank's primary objective of price stability.
+The CBK remains vigilant to risks posed by developments in the global and domestic economies and will take appropriate actions to maintain price stability.The global economy is projected to pick-up in die remainder of 2014 although die recovery remains uneven across regions. The projected slowdown in die growth of some emerging market economies coupled with expected rise in long-term interest rates in the United Stateswith monetary policy normalisation poses risks to the financial markets. The persistent instability in the Middle East and North African (MENA) region also remains a threat to die stability of international oil prices and the overall macroeconomic outlook.
+The Bank will continue its regular interactions with stakeholders in the financial and real sectors to obtain feedback, and ensure die timely release of relevant monetary and financial data. Specifically, the Bank will work with stakeholders to monitor die implementation of die Kenya Banks' Reference Rate (KBRR) framework by banks from July 2014 in order to facilitate a transparent credit pricing framework and enhance the transmission of monetary policy signals through commercial banks' lending rates.
+Introduction
+This Monetary Policy Statement (MPS) presents die policy guidelines and broad targets for the CBK over die Fiscal Year 2014/15 focusing on die first six months. It also presents the policy outcomes in the second half of the Fiscal Year 2013/14.
+During the second half of die Fiscal Year 2013/14, overall month-on-month inflation remained within the Government target range while the exchange ratewas generally stable. Overall inflation declined between January and March 20 Hand then rose gradually in die three months to June 2014.The 12-month non-food-non-fuel inflation, which measures the impact of monetary policy stance, remaiaedstaMe below the 5 percent target.The stability of the exchange rate was supported by increased foreign exchange inflows through Diaspora remittances and increased foreign investor participation at the Nairobi Securities Exchange as well as enhanced investor confidence following die successful issuance of the Sovereign Bond by the Government in June 2014.Exchange rate stability during the period was also supported by a more moderate pressure from imports. The composition of imports continued to be dominated by capital goods such as machinery and transport equipment that are essential for enhancing future productive capacity of the economy. The sustained growth in credit to the private sector that was channeled mainly to the productive sectors of the economy during the period was attributed to the improved macroeconomic environment and enhanced investor confidence in the economy .The improvedgrowth outlook for the global economy and that of Kenya's main trading partners in 2014 is expected to boost Kenya's exports and support exchange rate stability .However, the persistent instability is the MENA region remains a threat to die stability of international oil prices and the overall macroeconomic outlook.
+Monetary policy formulation and implementation continues to beguided by price stability as the primary objective, and the economic growth objectives inthe Government's Budget Policy Statements while CBK targets for Net Domestic Assets (NDA) and Net International Reserves (NIR) are the operational parameters.The Bank also continues to monitor targets for key monetary aggregates such as broad money supply, M3, and credit to the private sector.The Bank's participation in die foreign exchange market will continue to be guided by the need to accumulate and maintain foreign exchange reserves at /or above die level of four months of import cover as well as purchasing foreign exchange to meet the Government's external obligations, and ensuring stability of the value of the Kenya shilling.
+The rest of this Policy Statements organised as follows. Section 2 reviews Ihe outcome of die monetary policy stance proposed in die December2013 MPS while Section 3 outlines the current economic environment and outlook for theFiscal Year 2014/15. Section 4 concludes by outlining die specific monetary policy stance proposed for the first six months of the Fiscal Year 2014/15.
+Actions and Outcomes of Policy Proposals in the December2013Monetary Policy Statement
+The overall aim of die Monetary Policy Statement for December 2013 (33rdMPS) was to setmonetary policy targets that would ensure low and stable inflation, encourage growth,support long-term sustainability of public debt through stable interest rates and,by enhancingfinancial access within die economy, contribute to lowering the cost of doing business in Kenya. The MPC meetings were heldon a bi-monthly basis during the second half of the Fiscal Year 2013/14. The following are the specific outcomes of the policy proposals in the 33rdMPS:
+a. Inflation
+The primary objective of monetary policy formulation and implementation during the second half of the Fiscal Year 2013/14 remained price stability. Although overall month-on-month inflation remained within the allowable margin of 2.5 percent on either side of the Government's medium-term target of 5 percent in the period, it was consistentiy in the upper bound of the prescribed range of the target (Chart l).Overall month-on-month inflation declined from 7.15 percent in December 2013 to 6.27 percent in March 2014 but increased gradually thereafter to 7.39 percent in June 2014. The rise in overall inflation during the period was mainly driven by the base effect and also reflected an increase in the prices of some foodstuffs, fuel and electricity. Nevertheless, the 12-mondi non-food-non-fuel inflation, which measures the impact of monetary policy, remained within the 5 percent inflation target during the period indicating relatively low demand pressures in the economy.
+i. Credit to Private Sector
+Private sector credit growth momentum was maintained inthe second half of the Fiscal Year 2013/14 largely reflecting the improving investment climate and sustained investor confidence in the economy .Consequently, the 12-month growth in the overall private sector credit increased from 20.08 percent in December 2013 to 25.79 percent in June 2013 which was within the acceptable margins of the projected growth path. This expansion in private sector credit was non-inflationary as the 12-month non-food-non-fuel inflation remained below the 5 percent inflation target during the period (Chart 2).In addition, the credit growth was channelled mainly towards productive sectors of the economy.
+ii. Monetary Programme
+The values of the monetary aggregates were largely within acceptable margins of the programme path during the second half of the Fiscal Year 2013/14(Table 1). This was largely consistent with the outcome on inflation. The accelerated growth in broad money supply (M3) in the year to June 2014 partly reflects the significant growth in money supply in June 2014 following the issuance of the Sovereign Bond. This increased the level of CBK Net Foreign Assets by an equivalent amount. The CBK conducted monetary policy based on the monetary aggregate targeting framework in order to achieve its price stability target. TheCBK operation parameters under the framework werebased on a ceiling for the NDA and a floor for the NIR.
+Table 1: Actual and Targeted Growth In Key Monetary Aggregates
+
+ 
+
+
+Dec-13
+
+
+Jan-14
+
+
+Feb-14
+
+
+Mar-14
+
+
+Apr-14
+
+
+May-14
+
+
+Jun-14
+
+
+Actual Broad Money,M3 (Ksh Billion)
+
+
+1,996.2
+
+
+2,026.6
+
+
+2,030.5
+
+
+2,060.3
+
+
+2,100.6
+
+
+2,129.9
+
+
+2,329.0
+
+
+Target Broad Money ,M3 (Ksh Billion)
+
+
+1,968.8
+
+
+1,975.4
+
+
+2,004.7
+
+
+2,026.8
+
+
+2,049.4
+
+
+2,071.5
+
+
+2,093.8
+
+
+Actual Reserve Money (Ksh Billion)
+
+
+320.8
+
+
+302.3
+
+
+315.5
+
+
+312.0
+
+
+316.4
+
+
+330.6
+
+
+323.7
+
+
+Target Reserve Money (Ksh Billion)
+
+
+304.3
+
+
+322.2
+
+
+311.8
+
+
+317.0
+
+
+323.0
+
+
+320.1
+
+
+322.7
+
+
+Actual Net Foreign Assets of CBK (Ksh Billion)
+
+
+432.0
+
+
+433.3
+
+
+435.6
+
+
+442.1
+
+
+451.5
+
+
+435.6
+
+
+615.5
+
+
+Targets for Net Foreign Assets of CBK (Ksh Billion)
+
+
+369.3
+
+
+412.6
+
+
+419.8
+
+
+415.7
+
+
+480.1
+
+
+476.4
+
+
+472.2
+
+
+Actual Net Domestic Assets of CBK (Ksh Billion)
+
+
+-111.2
+
+
+-131.0
+
+
+-120.1
+
+
+-130.1
+
+
+-135,2
+
+
+-105.0
+
+
+-291.8
+
+
+Target Net Domestic Assets of CBK (Ksh Billion)
+
+
+-65.0
+
+
+-90.5
+
+
+-108.1
+
+
+-98.6
+
+
+-157.1
+
+
+-156.3
+
+
+-149.5
+
+
+Actual Credit to private sector (Ksh Billion)
+
+
+1,541.7
+
+
+1,563.0
+
+
+1,587.7
+
+
+, 1,614.3
+
+
+1,643.9
+
+
+1,673.3
+
+
+1,719.8
+
+
+Target Credit to private sector (Ksh Billion)
+
+
+1.488.6
+
+
+1,499.1
+
+
+1,550.1
+
+
+1,548.9
+
+
+1,568.6
+
+
+1,584.1
+
+
+1,615.4
+
+
+Memorandum Items
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+12-month growth in actual RM (Percent)
+
+
+9.2
+
+
+10.3
+
+
+9.9
+
+
+8.5
+
+
+18.1
+
+
+17.3
+
+
+12.6
+
+
+12-month growth in Broad Money, M3 (Percent)
+
+
+15.5
+
+
+17.1
+
+
+16.2
+
+
+17.3
+
+
+16.3
+
+
+16.6
+
+
+27.9
+
+
+12-month growth in actual credit to private sector (Percent)
+
+
+20.1
+
+
+20.5
+
+
+21.5
+
+
+22.7
+
+
+23.9
+
+
+25.0
+
+
+25.8
+
+The velocity of money declined from 1.9 in December 2013 to 1.7 in June 2014.The money multiplier remained unstable and rose from 6.2to 7.2 during the periodpartly reflecting changes in excess reserve holdings and cash-in-till of banks.The predictability of money demand has continued to be affected by an unstable money multiplier and the long-term decline in the velocity of money in circulation.These outcomes on velocity of money and money multiplier are associated largely with financial innovationssuch as the mobile phone platforms which havecontinued to affect the design and conduct of monetary policy.
+The CBK continued to implement measures aimed at improving the efficiency of the banking sector as well as financial inclusion in order to enhance the monetary policy transmission mechanism. A notable development in the banking sector during the period was the introduction of the Kenya Banks' Reference Rate (KBRR) which was developed as an outcome of discussions between the stakeholders, CBK and led by The National Treasury. The KBRR was developed as part of the recommendations to enhance the supply of private sector credit and mortgage finance in Kenya by facilitating a transparent credit pricing framework. It is the base rate for all commercial banks' lending. Given that one of the components of the KBRR is the CBR, this framework is expected to enhance the transmission of monetary policy signals through commercial banks' lending rates. The KBRR will be reviewed and announced by the CBK after every six months (if conditions do not change drastically).
+The banking sector also continued to grow in the second half of 2013/14. Commercial banks' branch network increased from 1,313 in  September2013 to 1,363 in March 2014. The increase in branches was distributed across all the counties in the country. Similarly, the Agency Banking model continued to expand with a total of 15 commercial banks licensed by the CBK to undertake Agency transactions as at 30Ih June 2014. The banks had contracted 26,750 active agents facilitating over 106.1 million transactions valued at Ksh 571.5 billion by June  2014. This is a notable increase from December 2013 when the number of Agents stood at 23,477. The number of transactions by the agents stood at 80.8 million and was valued at Ksh 432.0 billion. The mobile phone has also continued to be an important platform for financial services thereby reducing transaction costs. Mobile phone money transactions were valued at an estimated average of Ksh.6.3 billion per day (4.7 percent of annual GDP) in June 2014 compared with Ksh 4.9 billion (4.2 percent of GDP) in June 2013. This growth points to the potential of technology-led delivery channels in increasing access to financial services.
+iii. Interest Rates and Liquidity
+Movements in short-term rates were generally aligned to the CBR during the second half of the Fiscal Year 2013/14 (Chart 3). The CBK liquidity management through Open Market Operations (OMO) wassuccessfiil in reversing adverse trends in the interbank rate. As already indicated, the MPC retained the CBR at 8.50 percent during the period. Liquidity conditions in the money market improved during the period supported by  normalization of Government payments and large net redemptions of Government securities. To address the threat posed by excess liquidity in the market, the CBK enhanced OMO activity to stabilise the interbank rate.However, liquidity tightness in June 2014 occasioned mainly by increased issuance of Government  securitiesfollowing a delay in receipt of proceeds of the Sovereign Bond exerted pressure on the interbank rate to rise. The CBK has continued to engage with stakeholders in the banking sector to explore strategies for  enhancing the use of Horizontal Repos in redistributing liquidity in the interbank market.
+Chart 3: Trends in Short Term Interest Rates (%)
+
+Source: Central Bank of Kenya
+The average commercial banks' lending rate declined from 16.99 percent in December 2013 to 16.36 percent in June 2014 which was consistent with the monetary policy stance adopted during the period (Chart 4). Similarly, the average deposit rate declined slightly from 6.65 percent to 6.56 percent during the period. Consequently, the average commercial banks' interest rate spread declined from 10,34 percent to 9,80 percent in the period. The CBK continues to work with stakeholders including the Kenya Bankets Association (KBA) to implement initiatives aimed at reducing the cost of doing business in the banking sector. Commercial banks have been allowed to use mobile phone financial platforms that leverage on technology development to reduce transaction costs. The cheque truncation has reduced the clearing period to T+l which has ensured that cheques are cleared within one day of delivery of the cheque to the bank, The adoption of the Agency Banking framework has increased access to banking services while the operationalisation of Credit Reference Bureaus has reduced the costs of information search and risk profiling process. The commencement of full file credit information sharing in February 2014 and the inclusion of mkrofinance banks will increase demand for credit reports. Both commercial banks and microflnance banks are expected to offer their customers with good track record credit facilities on competitive terms. In addition, the introduction of the KBRR as the base for pricing flexible loans from banks will facilitate transparent credit pricing. Lastly, the opening of Currency Centres across the country has reduced costs associated with transporting cash. The MPC has also continued to engage the Chief Executive Officers of commercial banks through the KBA on various issues through the bi-monthly fonims. This has facilitated moral suasion and provided a regular feedback mechanism based on a dialogue initiated through the MPC's Market Perception Survey.
+Chart 4: Trend* in Commercial Bank Interest Hates (%)
+
+Source: Central Bank of Kenya
+b. Exchange Rates and Foreign Exchange Reserve Developments  
+i. Exchange Rate Developments
+The foreign exchange market remained generally stable during the second half of the Fiscal Year 2013/14 (Chart 5a). The exchange rate of the Kenya Shilling against the US Dollar fluctuated within a narrow range of between Ksh 85.46 and Ksh 87.92 per US dollar over the period compared with a range of between Ksh 84.72 and Ksh 87.70 per US dollar in die first half of the Fiscal Year 2013/14. This stability was supported mainly by foreign exchange inflows through diaspora remittances that averaged above USD 115 million per month during the period, increased foreign investor participation in the Nairobi Securities Exchange, and enhanced confidence following the successful issuance of the Sovereign Bond in June 2014. However, seasonal pressures associated with corporate dividend payment to foreign investors in late-May to Mid-June 2014 exerted pressure on the local cunencyto depreciate. However, intervention by the CBK through sale of foreign exchange reserves helped sustain die stability .On the other hand, movements in the exchange rates of the Kenya Shilling against the Sterling Pound and the Euro continued to reflect the instability in Europe. Commercial banks sold foreign exchange to CBK in the second half of die Fiscal Year 2013/14 which fully compensated for the policy related foreign exchange sales in the period.
+Analysis of the regional currencies showed that die Kenya Shilling remained relatively stable against the currencies of the major East African Community countries (Chart 5b). However, the Kenya Shilling weakened generally against the South African Rand during the second half of the Fiscal Year 2013/14.The Rand was bolstered following the decision by the South African Reserve Bank to raise their policy rate from 5 to 5.5 percent during die period to tame inflationary pressure which had emanated from the depreciation of the Rand.
+ 
+Source: Central Bank of Kenya
+Hie proportion of imports of goods and services financed by exports of goods and services increased slighdy from an average of 58.9 percent in the first half of die Fiscal Year 2013/14 to an average of 60.0 percent in the second half of the Fiscal Year 2013/14 (Chart 5c). Consequently, the pressure exerted on the exchange rate from a high import bill moderated during die period. Imports of machinery and other equipment, which are essential for enhancing the future productive capacity of the economy, continued to account for a higher proportion of die import bill at about 23.1 percent during die review period.
+Chart 5c: 12-Month Cumulative Exports/12-Month Cumulative Imports of Goods and Services (%)
+
+Source: Central Bank of Kenya and Kenya National Bureau of Statistics iL Foreign Exchange Reserves
+The Central Bank of Kenya (CBK) level of usable foreign exchange reserves stood at USD 6,084.6 million (equivalent to 4.1 months of import cover) at the end of June 2014 compared with USD6,164.9 million (equivalent to 4.3months of import cover) at the end of December 2013 to (Chart 6).The level of foreign exchange reserves in June 2014 largely reflectedpayments of external obligations to the Government and was above the minimum requirement of four months of import cover. During the second half of the Fiscal Year 2013/14, the CBK purchased foreign exchange totalling USD 212.0 million against policy related sales of USD 178.5 million in the period.
+The build-up of foreign exchange reserves by the CBK willimproveas the Government utilises the proceeds of the Sovereign Bond. The debut Sovereign Bond subscriptions were USD 8.8 billion (440 percent) for an offered amount of USD 2.0 billion at yields of 5.875 percent for the 5-year and 6.875 percent for the 10-year bond, respectively. The CBK therefore has adequate foreign exchange reserves to intervene in the foreign exchange market to stem any excessive volatility in the exchange rate which might translate into inflationary pressure.
+c. Economic Growth
+Data from the Kenya National Bureau of Statistics shows that the economy registered a growth rate of 4.1 percent in the first quarter of 2014 compared with 5.2 percent in a similar period in 2013. On a 12-month basis, growth for the financial intermediation sector in the last quarter of 2013 was 7.2 percent and 6.4 percent in the first quarter of 2014 against the overall real GDP growth of 4.4 percent for the quarter (Chart 7). The financial intermediation sector continued to contribute significantly to growth in the first quarter of 2014; it grew by 8.3 percent compared with 12.1 percent in a similar period of 2013.1n addition, the manufacturing sector grew at 5.0 percent, transport and communication sector grew at 6.0 percent, and wholesale and retail grew at 8.5 percent. Agricultural sector growth slowed down to 2.7 percent.
+d.    Fiscal Developments and Debt
+The fiscal measures implemented by the Government in the second half of Fiscal Year 2013/14 were consistent with the monetary policy objectives. The Government's domestic borrowing plan ensured that Government borrowing did not crowd-out private sector credit growth through an increase in interest rates on Government securities. The borrowing plan was also consistent with the thresholds set in the Medium-Term Debt Management Strategy for domestic debt.
+ 
+e.     Stakeholder Forums, MPC Market Perception Surveys, and Communication
+ 
+During the second half of the Fiscal Year 2013/14, the MPC continued to hold bi-monthly stakeholder forums with Chief Executive Officers of commercial banks through the KBA Governing Council. The MPC continued to improve on the information gathering processes through the bi­monthly market Perception Surveys and communication with key stakeholders on the MPC decisions to obtain feedback. It also continued to improve on its Press Releases by simplifying them and making them better focused to the public, media, financial sector and other stakeholders. In particular, the MPC participated in the CBK Senior Business Editors sensitization workshop held in Naivasha on 2nd May, 2014 to sensitize senior business editors in the media on the functions of the CBK. The media was also sensitised on the CBK Monetary Policy Framework and the MPC Communications Strategy during the workshop. Consequendy, the media and public understanding of monetary policy decisions and their expected impact on the economy has continued to be enhanced. The CBK also participated in the Agricultural Society of Kenya Shows in order to sensitise the public on its functions.
+The MPC worked with CBK staff on various research activities during the period.Four technical papers commissioned by the MPC were completed and uploaded on the CBK website to solicit for comments from a wider readership. These papers are: Real Exchange Rate Misalignment and Implications for the Nominal Exchange Rate Level in Kenya in 2012; Monetary Policy Transmission Mechanism in Kenya; An Assessment of Kenya's Public Debt Dynamics and Sustainability; and, A Note on Term Structure and Inflation's Expectations in Kenya.
+As part of enhancing its capacity, MPC members participated in various conferences locally and internationally over the period covered by this Report. The conferences enable MPC members to share their experiences with other policy experts on critical challenges underlying monetary policy effectiveness in developing countries under different monetary policy frameworks and facing different macroeconomic shocks.
+The Current Economic Environment and Outlook for the Fiscal Year 2014/15
+f.     International Economic Environment
+The global economy is projected to improvefrom an estimated growth of 3.2 percent in 2013to 3.4 percent in 2014 largely on account of recovery in the advanced economies (Table 2). The Eurozone isprojected torecover from recession and grow at 1.1 percent in 2014although the growth is expected to be uneven across the region. The United States is expected to grow by 1.7 percent in 2014 as effects underlying the first quarter weakness were deemed to be temporary. The recovery in Europe and the United States is expected to boost tourism and horticultural exports in Kenya. The Sub-Saharan Africa and East African Countries (excluding Kenya) are projected to grow at 5.4 percentand 6.4 percent, respectively, in 2014. Given that over 40 percent of Kenya's exports are to the East African region, the strong growth projection for the region is expected to continue to benefit Kenya's export sector.
+Although the growth of the global economy is projected to pick-up in 2014, the recovery is expected to be modest and uneven across region. The projected slowdown in the growth of some emerging market economies,such as China,coupled with an expected rise in long-term interest rates in the United States with normalisation of monetary policy remain a risk to the financial markets.The instability in the MENA region also continues to pose risks to the macroeconomic outlook.However, global inflation is projected to decline from an estimated 3.6 percent in 2013 to 3.5 percent in 2014 as the real output is generally below potential especially in some of the advanced countries. This provides monetary policy space for the countries to support growth and employment.
+Table 2: Performance and Outlook for the Global Economy
+
+ 
+
+
+Real GDP Growth (%)
+
+
+Inflation (%)
+
+
+ 
+
+
+2012
+
+
+2013
+
+
+2014
+
+
+2012
+
+
+2013
+
+
+2014
+
+
+ 
+
+
+Act
+
+
+Act.
+
+
+Proj.
+
+
+Act.
+
+
+Act.
+
+
+Proj.
+
+
+World
+
+
+3.5
+
+
+3.2
+
+
+3.4
+
+
+3.9
+
+
+3.6
+
+
+3.5
+
+
+Advanced Economies
+
+
+1.4
+
+
+1.3
+
+
+1.8
+
+
+2.0
+
+
+1.4
+
+
+1.6
+
+
+United States
+
+
+2.8
+
+
+1.9
+
+
+1.7
+
+
+2.1
+
+
+1.5
+
+
+1.4
+
+
+Japan
+
+
+1.4
+
+
+1.5
+
+
+1.6
+
+
+0.0
+
+
+0.4
+
+
+2.8
+
+
+Euro Area
+
+
+-0.7
+
+
+-0.5
+
+
+1.1
+
+
+2.5
+
+
+1.3
+
+
+0.9
+
+
+United Kingdom
+
+
+0.3
+
+
+1.7
+
+
+3.2
+
+
+2.8
+
+
+2.6
+
+
+1.9
+
+
+Other Advanced economies
+
+
+2.0
+
+
+2.3
+
+
+3.0
+
+
+2.1
+
+
+1.7
+
+
+1.7
+
+
+Emerging and developing economies
+
+
+5.1
+
+
+4.7
+
+
+4.6
+
+
+6.1
+
+
+5.9
+
+
+5.4
+
+
+Sub-Sahara Africa
+
+
+5.1
+
+
+5.4
+
+
+5.4
+
+
+9.0
+
+
+6.3
+
+
+6.1
+
+
+East African Community (Excl.Kenya)
+
+
+5.4
+
+
+5.6
+
+
+6.4
+
+
+12.1
+
+
+6.6
+
+
+5.4
+
+
+Developing Asia
+
+
+6.7
+
+
+6.6
+
+
+6.4
+
+
+4.6
+
+
+4.5
+
+
+4.5
+
+
+China
+
+
+7.7
+
+
+7.7
+
+
+7.4
+
+
+2.6
+
+
+2.6
+
+
+3.0
+
+
+India
+
+
+4.7
+
+
+5.0
+
+
+5.4
+
+
+10.2
+
+
+9.5
+
+
+8.0
+
+
+Middle East and North Africa
+
+
+4.9
+
+
+2.5
+
+
+3.1
+
+
+10.5
+
+
+10.5
+
+
+8.4
+
+IMF World Economic Outlook (April20I4 and July 2014)
+g. Domestic Economic Environment
+(i)        Economic Growth
+The Budget Policy Statement (BPS) for the Fiscal Year 2014/15envisaged real GDP to grow by 5.8 percent in 2014 compared with 4.7 percent in 2013. This translates to an average growth of 6.1 percent for the Fiscal Year 2014/2015. The growth outlook is expected to be supported by increased production in agriculture following the interventions through agriculture reforms, irrigation and value addition; continued investment in infrastructure projects especially roads, energy, port and construction of a Standard Gauge Railway; expansion of activities in other sectors of the economy such as building and construction, manufacturing, retail and wholesale and financial intermediation among others. The growth is also expected to benefit from increased investments and domestic demand following investor confidence and the ongoing initiatives to deepen regional integration. The entry into the international capital markets through issuance of a Sovereign Bond in June 2014 has also boosted Kenya's rating and enhanced the capacity for a faster rollout of public investments. It will also help to benchmark the country's credit and facilitate access to international capital markets by corporate entities thereby enhancing investment.
+The MPC Market Perceptions Survey conducted in June 2014shows increased optimism by private sector firms (including banks) for a strong growth in 2014 attributed to: strengthening of the global economy which is expected to boost exports; the stable macroeconomic environment; expected increased foreign direct investment and Government of Kenya investment in infrastructure and energy segments of the economy; increase in private sector credit growth towards productive sectors in the economy; and, pick-up in the operations of the County governments which is expected to spur growth. However, the impact of insecurity on tourism and depressed rainfall which could affect agricultural production poses a risk to the growth outlook.
+(ii)     Foreign Exchange Market
+The exchange rate is expected to remain' stable in the Fiscal Year 2014/15 on account of the resilient Diaspora remittance inflows and increased foreign investor participation at the Nairobi Securities Exchange, expectations for increased foreign direct investment in infrastructure and sustained investor confidence in the economy .In addition, the projected robust growth of Sub-Saharan Africa economies in 2014 is expected to increase foreign exchange inflows from regional trade coupled with improvement in foreign exchange reserves following the issuance of the Sovereign Bond in June
+The MPC Market Survey for June 2014 corroborated this evidence of anexpected stability in the exchange rate.
+(iii)                 Inflation
+Overall inflation is projected to remain stablein the Fiscal Year 2014/15 supported by the monetary policy measures that have been put in place by the CBK, general stability in the exchange rate andimplementation of food security measures as proposed in the Fiscal Year 2014/15 Government Budget. This inflation outlook is corroborated by the results of the June 2014 MPC Survey. However, the main risks to the inflation outlook includethe inadequate rains in some parts of the country which could exert pressure on food and electricity prices, andvolatileinternational oil prices due to continued instability in the MENA region.
+(iv)     Interest Rates
+Interest rates are expected to remain stable in the Fiscal Year 2014/15 on account of the monetary policy measures in place, the successful issuance of the Sovereign Bond in June 2014 which is expected to ease pressure on domestic borrowing, and the expected improvements liquidity conditions in the market as challenges of redistribution of liquidity across banks and normalisation of absorption of devolved funds. In addition, the introduction of the KBRR will ensure that all banks price their loans based on the same reference rate which will enhance transparency in credit pricing. The promotion of full disclosure of bank charges through the Annual Percentage Rate (APR) for loans will also facilitate informed banking decisions by the public.
+The MPC Market Perceptions Survey for June 2014 showed that lending rates are expected to decline gradually dueto a stable macroeconomic environment characterised by relative stability in inflation, increased competition in the loans market, growth in the economy, expected decline in yields on Treasury securities after the issuance of the Sovereign Bond, and the monetary policy measures in place. The main risk to the outlook on interest rates is the international economic developments or supply side factors which could prompt additional measures by CBK to alleviate any adverse expectations with respect to inflation and /or exchange rate movements.
+(iii) Fiscal Policy
+The fiscal measures announced by the Government in the Budget Policy Statement for the Fiscal Year 2014/15 are consistent with monetary policy objectives. Specifically, the Government's domestic borrowing target of Ksh.190.8 billion for the Fiscal Year 2014/15 is significantly below the Ksh.200.1 billion for the previous Fiscal Year. This borrowing, coupled with the successful issuance of the Sovereign Bond in June 2014 should ensure that domestic borrowing does not exert pressure on interest rates of Government securities.In addition, the borrowing plan should ensure that domestic debt remains within the thresholds set in the Medium Term Debt Management Strategy.
+(iv)Confidence in the Economy
+Various indicators show that confidence in the economy remains strong (Table 3).Specifically, the latest sovereign rating by Moody's conducted in May 2014 placed Kenya at "B1 with stable outlook". In addition, the entry into the international capital markets through issuance of a Sovereign Bond has boosted Kenya's rating. It will also help to benchmark the country's credit and facilitate access to international capital markets by corporate entities thereby enhancing investment.The Sovereign Bond was massively oversubscribed while the realised yields were comparably lower relative to those on recent issues of similar bonds in the region. Similarly, purchases of equity at the Nairobi Securities Exchange by foreign investors sustained the long-term upward trend from Ksh 6.2 billion in January 2014, rising to Ksh. 11.5 billion in June 2014. Diaspora remittances also remained resilient during the period, averaging USD 115.02 million per month since January 2014. Furthermore, the MPC Market Perception Survey conducted in June 2014 showed that the private sector maintained their confidence in the economy with expectations for enhanced foreign direct investment in the country.
+Table 3: Indicators of Confidence in the Economy
+
+ 
+
+
+Dec-13
+
+
+Jan-14
+
+
+Feb-14
+
+
+Mar-14
+
+
+Apr-14
+
+
+May-14
+
+
+Jun-14
+
+
+Monthly Emigrant Remittances (USD Million)
+
+
+113.22
+
+
+110.97
+
+
+110.42
+
+
+119.58
+
+
+113.41
+
+
+119.66 ,
+
+
+116.06
+
+
+NSE Index (Jan 1966 = 100)
+
+
+4,926.97
+
+
+4,856.15
+
+
+4,933.41
+
+
+4,945.78
+
+
+4,948.97
+
+
+4,881.56
+
+
+4,885.04
+
+
+Foreign purchases of equity at the NSE (Ksh Million)
+
+
+6,225.00
+
+
+7,711.00
+
+
+7,007.00
+
+
+6,593.00
+
+
+9,815.00
+
+
+11,258.00
+
+
+11,532.11
+
+Source: Central Bank of Kenya and Nairobi Securities Exchange (NSE)
+4. Future Direction of Monetary Policy in the Fiscal Year 2014/15
+Monetary policy in the Fiscal Year 2014/15will focus on: setting monetary targets which are consistent with the objective of achieving and maintaining a low and stable inflation, encouraging growth, and supporting the long-term sustainability of public debt; and,enhancing access to banking services in order to improve the monetary policy transmission to the benefit of economic growth.
+(a) Monetary Programme and Foreign Exchange Reserves
+The monetary targets for the Fiscal Year 2014/15 are based on the indicators in the Medium-Term Government Budget Policy Statement for the Fiscal Year 2014/15 summarised in Annex 1-. The monetary targets for the period are presented in Table 4.Monetary policy will seek to constrain the annual growth in broad money supply, M3, to 25.6 percent by September 2014,20.7 percent by December 2014,18.8 percent by March 2015 and 6.8 percent by June 2015. The projected slowdown in June 2015 is attributed to the base effect following the significant growth in money supply in June 2014 following the issuance of the Sovereign Bond.
+The NDA of the Bank is projected at Ksh -201.1 billion in September 2014, Ksh -190.9 billion in December 2014, Ksh-187.9 billion in March 2015, and Ksh-191.2 billion in June 2015. The NDA targets are below a ceiling which would threaten stability. However, the annual growth in credit-to the private sector is projected at 24.3 percent in September 2014, 21.7 percent in December 2014, 20.3 percent in March 2015, and 16.1 percent in June 2015. The NIR targets of the CBK are USD 5,753.6 million in September 2014, USD 6,252.3 million in December 2014, USD 6,705.1 million in March 2015 and USD 6,821.8 million in June 2015. The NIR targets are above a floor which would threaten stability. The monetary policy stance will aim at ensuring that movements in the short-term interest rates are supportive to the Bank's primary objective of price stability .The projected path on NDA and NIR targets through June 2015 incorporates the accumulation of foreign reserves as the Government utilises the proceeds of the Sovereign Bond and the liquidity management to ensure stability of the interbank market.
+In the medium term, thesemonetary targets are expected to enable the Bank maintain overall inflation within the current allowable margin of 2.5 percent on either side of the Government's medium-term target of 5 percentin order to anchor inflation expectations.The CBK will also continue to build its foreign exchange reserves in order to enhance the country's capacity to absorb shocks that impact the foreign exchange market. The monetary policy stance will aim at ensuring that short-term interest ratesremain stablewhich will support growth and ensure the long-term sustainability of public debt. The Bank will also continue to enhance the effectiveness and efficiency of its monetary policy instruments.
+Table 4: Monetary Targets for July 2014 to June 2015
+
+ 
+
+
+Jul-14
+
+
+Aug-14
+
+
+Sep-14
+
+
+Oct-14
+
+
+Nov-14
+
+
+Dec-14
+
+
+Broad Money, M3 (Ksh Billion)
+
+
+2,342.3
+
+
+2,355.6
+
+
+2,368.9
+
+
+2,382.2
+
+
+2,395.5
+
+
+2,408.8
+
+
+Reserve Money, RM (Ksh Billion)
+
+
+339.5
+
+
+349.0
+
+
+347.6
+
+
+339.5
+
+
+364.2
+
+
+368.1
+
+
+Credit to Private Sector (Ksh Billion)
+
+
+1,742.3
+
+
+1,776.7
+
+
+1,800.8
+
+
+1,825.0
+
+
+1,849.1
+
+
+1,872.3
+
+
+NFA of CBK (Ksh Billion)
+
+
+543.6
+
+
+546.1
+
+
+548.7
+
+
+551.7
+
+
+554.8
+
+
+559.1
+
+
+NDA of CBK (Ksh Billion)
+
+
+-204.1
+
+
+-197.1
+
+
+-201.1
+
+
+-212.2
+
+
+-190.5
+
+
+-190.9
+
+
+12-month growth in RM (Percent)
+
+
+19.5
+
+
+12.7
+
+
+19.7
+
+
+10.5
+
+
+15.0
+
+
+14.8
+
+
+12-month growth in M3 (Percent)
+
+
+27.6
+
+
+27.3
+
+
+25.6
+
+
+25.4
+
+
+22.6
+
+
+20.7
+
+
+12-month growth in Credit to Private Sector (Percent)
+
+
+25.7
+
+
+24.8
+
+
+. 24.3
+
+
+23.6
+
+
+22.0
+
+
+21.7
+
+
+12-month growth in Real GDP (Percent)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+5.8
+
+
+ 
+
+
+Jul-14
+
+
+Aug-14
+
+
+Sep-14
+
+
+Oct-14
+
+
+Nov-14
+
+
+Dec-14
+
+
+Medium-Term 12-month overall Inflation (Percent) Target
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+ 
+
+
+ 
+
+
+Jan-15
+
+
+Feb-15
+
+
+Mar-15
+
+
+Apr-15
+
+
+May-15
+
+
+Jun-15
+
+
+Broad Money, M3 (Ksh Billion)
+
+
+2,422.0
+
+
+2,435.2
+
+
+2,448.4
+
+
+2,461.7
+
+
+2,474.9
+
+
+2,488.1
+
+
+Reserve Money, RM (Ksh Billion)
+
+
+353.8
+
+
+354.2
+
+
+366.7
+
+
+353.2
+
+
+354.4
+
+
+369.6
+
+
+Credit to Private Sector (Ksh Billion)
+
+
+1,901.6
+
+
+1,921.0
+
+
+1,936.8
+
+
+1,951.8
+
+
+1,966.4
+
+
+1,993.1
+
+
+NFA of CBK (Ksh BiUion)
+
+
+549.5
+
+
+547.8
+
+
+554.6
+
+
+557.6
+
+
+560.7
+
+
+560.8
+
+
+NDA of CBK (Ksh Billion)
+
+
+-195.7
+
+
+-193.6
+
+
+-187.9
+
+
+-204.4
+
+
+-206.3
+
+
+-191.2
+
+
+12-month growth in RM (Percent)
+
+
+17.0
+
+
+12.3
+
+
+17.6
+
+
+11.6
+
+
+7.2
+
+
+14.2
+
+
+12-month growth in M3 (Percent)
+
+
+19.5
+
+
+19.9
+
+
+18.8
+
+
+17.2
+
+
+16.2
+
+
+6.8
+
+
+12-month growth in Credit to Private Sector (Percent)
+
+
+22.0
+
+
+21.3
+
+
+20.3
+
+
+19.0
+
+
+17.8
+
+
+16.1
+
+
+12-month growth in Real GDP (Percent)
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+6.1
+
+
+Medium-Term 12-month overall Inflation (Percent) Target
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+
+5.0
+
+Source: Central Bank of Kenya and the Treasury
+The Bank will continue to monitor developments with respect to the Monetary Targets and make any necessary reviews. The achievement of the targets set will depend on stability in the international prices of oil, favourable weather conditions, and continuedcommitment by the Government to . operate within the domestic borrowing target for theFiscal Year 2014/15.Monetary policy implementation will be based on monthly targets for NDA, RMand broad money supply, M3,to be achieved through Open Market Operations. The Repos and Term Auction Deposits will be used to withdraw any excess liquidity in the banking system on a timely basis and where necessary Reverse Repos will be used to inject liquidity. Specifically, OMO will be used to ensure that short-term interest rates continue to be aligned to the CBR.The success of CBK's monetary policy measures to fight inflation will also depend on the effectiveness of the institutions charged with the responsibility of managing the supply side of economy that would have a direct impact on food and fuel prices.
+(b) Measures to Extend Access to Financial Services and Enhance Market Efficiency
+The CBK will continue to support development of new products and innovations towards enhancing financial access in order to encourage economic growth.In this regard it will continue to proposesuitable legislationaimed at ensuring that such innovations are regulated accordingly to enhance market confidence. The Bank will also continue to monitor any new financial derivatives and /or innovations in the market that could have adverse effects on market stability. In order to enhance the monetary policy transmission mechanism, it will continue to work with stakeholders in the banking and real sectors.Initiatives aimed at engaging stakeholders and obtaining feedback on the impact of MPC decisions will be enhanced. In addition, the CBK will work closely with the institutions and other stakeholders to facilitate a smooth and effective implementation of the KBRR that facilitates a transparent credit pricing framework, and to ensure a wide dissemination of the framework to the public.
+The CBK will continue to work with stakeholders to identify and implement measures to enhance redistribution of liquidity in the interbank market. It will continue to woric with the KBA to identify and implement measures to enhance the uptake of Horizontal Repos among banks. Forums with Chief Executive Officers will be heldboth to obtain feedback and to explain the background to MPC decisions. These initiatives will support improvements in the financial sector that contribute to the lowering of the cost of doing business.The CBK will also continue with its transparency through the timely dissemination of all the requisite data through its website
+ANNEX 2: CHRONOLOGY OF EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (JANUARY - JUNE 2014)
+
+Date
+
+
+Events
+
+
+January, 2014
+
+
+The CBK purchased USD 62 million offered by the market to build its foreign exchange reserves following stability in exchange rate market.
+
+
+February, 2014
+
+
+The CBK purchased USD 10 million offered by the market to build its foreign exchange reserves following stability in exchange rate market.
+
+
+March, 2014
+
+
+The CBK purchased USD 35 million offered by the market to build its foreign exchange reserves following stability in exchange rate market.
+
+
+April, 2014
+
+
+(a)  The CBK purchased USD 105 million offered by the market to build its foreign exchange reserves following stability in exchange rate market.
+(b)  Kenswitch Limited announced Domestic Interbank Transfer Services integrating transactions through existing infrastructure.
+
+
+May, 2014
+
+
+(a)  The CBK sold USD 165.5 million in line with the CBK's exchange rate policy.
+(b)  Introduction of a Kenya Banks' Reference Rate (KBRR) developed as an outcome of discussions between the stakeholders, CBK and led by the National Treasury. This was part of recommendations to enhance the supply of private sector credit and mortgage finance in Kenya by facilitating a transparent credit pricing framework.
+
+
+June, 2014
+
+
+(a)  The CBK sold USD 13.0 million in line with the CBK's exchange rate policy.
+(b)   Issue of the debut Sovereign Bond.
+(c)   Commencement of Over the Counter Trading in Treasury Bills Using World Wide Interbank Financial Telecommunications.
+
+GLOSSARY OF KEY TERMS
+Overall InflationOverall inflation is a measure of price change in the economy calculated as the weighted year-on-year movement of the indices of the prices paid by consumers of goods and services collected monthly by the Kenya National Bureau of Statistics. The inflation measure is affected by the commodities in the basket some of which may experience sudden price spikes such as food or energy. It may therefore present a distorted picture of the true state of the economy.
+Reserve MoneyReserve Money is computed as the CBK's monetary liabilities comprising currency in circulation (currency outside banks and cash held by commercial banks in their tills) and deposits of both commercial banks and non-bank financial institutions (NBFIs) held by the CBK. It excludes Government deposits.
+Money SupplyMoney supply is the sum of currency outside banks and deposit liabilities of commercial banks. Deposit liabilities are defined in narrower and broader senses as follows: narrow money (Ml); broad money (M2); and extended broad money (M3). These aggregates are computed as follows:
+M1    Currency outside banking system + demand depositsM2    M1 + time and savings deposits + certificates of deposits + deposit Liabilities of NBFIs M3    M2 + residents' foreign currency deposits
+Kenya Banks' Reference Rate (KBRR)
+The KBRR is the base rate for all commercial banks' lending. It is computed as an average of the CBR and the weighted 2-month moving average of the 91-day Treasury bill rates.
+NJUGUNA NDUNG'U,
+PTG No. 00286/14-15        Governor, Central Bank of Kenya.
+
